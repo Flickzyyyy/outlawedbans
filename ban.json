@@ -30,5 +30,9 @@
     "?ban sharkboy117": {
         "banneduntil": "2024/27/9",
         "BanReason": "Rdm"
+    },
+    "?ban TheSBD": {
+        "banneduntil": "2024/27/9",
+        "BanReason": "Cop targeting"
     }
 }
