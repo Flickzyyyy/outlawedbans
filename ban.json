@@ -18,5 +18,9 @@
     "Kim.jong.un51": {
         "banneduntil": "2024/10/01",
         "BanReason": "mass rdm and cop targeting"
+    },
+    "Killergames40": {
+        "banneduntil": "2024/10/04",
+        "BanReason": "Spawning Camping"
     }
 }
