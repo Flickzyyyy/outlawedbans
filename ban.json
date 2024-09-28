@@ -82,5 +82,9 @@
     "T_0ATWAY": {
         "banneduntil": "2024/09/30",
         "BanReason": "RDM"
+    },
+    "Scringy.bingy": {
+        "banneduntil": "2024/10/05",
+        "BanReason": "Mass RDM"
     }
 }
