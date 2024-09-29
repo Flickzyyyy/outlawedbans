@@ -134,5 +134,9 @@
     "PopeHomer": {
         "banneduntil": "2024/10/05",
         "BanReason": "mass RDM"
+    },
+    "twins_ar_cool": {
+        "banneduntil": "Date: 2024/10/5",
+        "BanReason": "Reason: camping bank"
     }
 }
