@@ -114,5 +114,9 @@
     "gin_rummy": {
         "banneduntil": "2025/12/30",
         "BanReason": "hard r"
+    },
+    "COSMOS.EXE": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "mass rdm"
     }
 }
