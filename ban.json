@@ -23,22 +23,6 @@
         "banneduntil": "2024/10/04",
         "BanReason": "Spawning Camping"
     },
-    "?ban kabloom119": {
-        "banneduntil": "2024/27/9",
-        "BanReason": "Cop targeting"
-    },
-    "?ban sharkboy117": {
-        "banneduntil": "2024/27/9",
-        "BanReason": "Rdm"
-    },
-    "?ban TheSBD": {
-        "banneduntil": "2024/27/9",
-        "BanReason": "Cop targeting"
-    },
-    "?ban TheSDB": {
-        "banneduntil": "2024/27/9",
-        "BanReason": "Cop targeting"
-    },
     "sharkboy117": {
         "banneduntil": "2024/27/9",
         "BanReason": "Rdm"
@@ -84,10 +68,6 @@
         "BanReason": "RDM"
     },
     "Scringy.bingy": {
-        "banneduntil": "2024/10/05",
-        "BanReason": "Mass RDM"
-    },
-    "Smught": {
         "banneduntil": "2024/10/05",
         "BanReason": "Mass RDM"
     },
