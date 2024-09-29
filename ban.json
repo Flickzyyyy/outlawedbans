@@ -98,5 +98,9 @@
     "winner5473": {
         "banneduntil": "2024/10/03",
         "BanReason": "MASS RDM"
+    },
+    "tortoise07": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "cop targeting"
     }
 }
