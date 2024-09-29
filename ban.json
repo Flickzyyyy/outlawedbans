@@ -94,5 +94,9 @@
     "Radio123": {
         "banneduntil": "2024/9/30",
         "BanReason": "RDM and cop targeting"
+    },
+    "winner5473": {
+        "banneduntil": "2024/10/03",
+        "BanReason": "MASS RDM"
     }
 }
