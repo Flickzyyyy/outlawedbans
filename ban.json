@@ -106,5 +106,9 @@
     "fallout09": {
         "banneduntil": "2024/10/03",
         "BanReason": "rdm"
+    },
+    "SlyxerOps": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "mass rdm"
     }
 }
