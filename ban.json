@@ -118,5 +118,9 @@
     "COSMOS.EXE": {
         "banneduntil": "2024/10/01",
         "BanReason": "mass rdm"
+    },
+    "sebastian.998581": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "f slur"
     }
 }
