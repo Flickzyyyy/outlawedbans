@@ -162,5 +162,9 @@
     "canyousuckit": {
         "banneduntil": "2024/10/05",
         "BanReason": "mass RDM"
+    },
+    "idk.prod": {
+        "banneduntil": "2024/10/1",
+        "BanReason": "RDM"
     }
 }
