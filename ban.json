@@ -198,5 +198,9 @@
     "CoinkKing": {
         "banneduntil": "2024/10/13",
         "BanReason": "mass RDM and camping gun store"
+    },
+    "Gamergoon": {
+        "banneduntil": "2024/10/06",
+        "BanReason": "mass rdm"
     }
 }
