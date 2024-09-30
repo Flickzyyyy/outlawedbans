@@ -166,5 +166,9 @@
     "idk.prod": {
         "banneduntil": "2024/10/1",
         "BanReason": "RDM"
+    },
+    "binggow": {
+        "banneduntil": "2024/09/30",
+        "BanReason": "rdm"
     }
 }
