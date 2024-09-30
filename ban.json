@@ -222,5 +222,9 @@
     "elchinko": {
         "banneduntil": "2024/10/01",
         "BanReason": "rdm"
+    },
+    "elchonk": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "rdm"
     }
 }
