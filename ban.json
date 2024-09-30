@@ -190,5 +190,9 @@
     "DEATHROAD": {
         "banneduntil": "2024/10/06",
         "BanReason": "mass RDM and cop targeting"
+    },
+    "puggyqueen": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "mass RDM and camping gun store"
     }
 }
