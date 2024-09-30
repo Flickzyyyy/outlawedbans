@@ -218,5 +218,9 @@
     "Crisist02": {
         "banneduntil": "2024/10/06",
         "BanReason": "mass RDM"
+    },
+    "spaghetti.boy1": {
+        "banneduntil": "2024/10/06",
+        "BanReason": "mass RDM and cop targeting"
     }
 }
