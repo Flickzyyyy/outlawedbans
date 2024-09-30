@@ -214,5 +214,9 @@
     "Dr_.Death": {
         "banneduntil": "2024/10/01",
         "BanReason": "abusing suicide"
+    },
+    "Crisist02": {
+        "banneduntil": "2024/10/06",
+        "BanReason": "mass RDM"
     }
 }
