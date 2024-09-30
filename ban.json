@@ -290,5 +290,9 @@
     "Pay979": {
         "banneduntil": "2034/10/1",
         "BanReason": "N word hard r"
+    },
+    "coltonkosty": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "RDM"
     }
 }
