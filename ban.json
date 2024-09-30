@@ -294,5 +294,9 @@
     "coltonkosty": {
         "banneduntil": "2024/10/01",
         "BanReason": "RDM"
+    },
+    "Nilinternet": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "RDM"
     }
 }
