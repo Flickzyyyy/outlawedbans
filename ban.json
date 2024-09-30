@@ -214,5 +214,9 @@
     "Provase": {
         "banneduntil": "2050/1/1",
         "BanReason": "n word"
+    },
+    "Sorrowless": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "rdm"
     }
 }
