@@ -170,5 +170,9 @@
     "binggow": {
         "banneduntil": "2024/09/30",
         "BanReason": "rdm"
+    },
+    "SadRat02": {
+        "banneduntil": "2025/12/31",
+        "BanReason": "threatening rape"
     }
 }
