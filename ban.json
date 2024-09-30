@@ -278,5 +278,9 @@
     "BangExplosions": {
         "banneduntil": "Date: 2024/10/07",
         "BanReason": "Reason: mass rdm"
+    },
+    "ImposterBrady": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "RDM"
     }
 }
