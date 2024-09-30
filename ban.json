@@ -282,5 +282,9 @@
     "ImposterBrady": {
         "banneduntil": "2024/10/01",
         "BanReason": "RDM"
+    },
+    "Cowboy_Jackman": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "Reason: RDM"
     }
 }
