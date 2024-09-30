@@ -274,5 +274,9 @@
     "Itssupersizedfri117": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r and f slur"
+    },
+    "BangExplosions": {
+        "banneduntil": "Date: 2024/10/07",
+        "BanReason": "Reason: mass rdm"
     }
 }
