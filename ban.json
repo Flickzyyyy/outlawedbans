@@ -178,5 +178,9 @@
     "huck.newman": {
         "banneduntil": "2024/10/01",
         "BanReason": "cop rdm"
+    },
+    "Milkest.of.men.": {
+        "banneduntil": "2024/10/02",
+        "BanReason": "rdm"
     }
 }
