@@ -230,5 +230,9 @@
     "Slavemster21": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r and soft a atleast 20 times"
+    },
+    "Slavemastr21": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
