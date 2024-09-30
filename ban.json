@@ -258,5 +258,9 @@
     "Jacobkiller8": {
         "banneduntil": "2024/10/13",
         "BanReason": "mass RDM and camping store"
+    },
+    "Ethan.hatfield3": {
+        "banneduntil": "2024/10/06",
+        "BanReason": "mass RDM"
     }
 }
