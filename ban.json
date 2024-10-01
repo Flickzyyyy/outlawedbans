@@ -322,5 +322,9 @@
     "GrandpaC0ckandBolls": {
         "banneduntil": "2024/10/7",
         "BanReason": "F SLUR"
+    },
+    "sheriffpink": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "Mass rdm"
     }
 }
