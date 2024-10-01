@@ -330,5 +330,9 @@
     "netgds23": {
         "banneduntil": "2024/10/04",
         "BanReason": "Cop target"
+    },
+    "ICE473": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "Mass rdm twice"
     }
 }
