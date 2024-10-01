@@ -346,5 +346,9 @@
     "Tristin.857047": {
         "banneduntil": "2024/10/05",
         "BanReason": "cop targeting and RDM"
+    },
+    "KUNG.FU.FIGHTING": {
+        "banneduntil": "2024/10/08",
+        "BanReason": "mass RDM and cop targeting"
     }
 }
