@@ -386,5 +386,9 @@
     "FatWhopper": {
         "banneduntil": "2024/10/02",
         "BanReason": "cop targeting"
+    },
+    "PoogHairKat": {
+        "banneduntil": "2024/10/03",
+        "BanReason": "cop targeting"
     }
 }
