@@ -306,5 +306,9 @@
     "devilechiken": {
         "banneduntil": "2024/10/04",
         "BanReason": "Rdm"
+    },
+    "Sonfedrooney": {
+        "banneduntil": "2024/10/07",
+        "BanReason": "Mass rdm"
     }
 }
