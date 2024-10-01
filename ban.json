@@ -350,5 +350,9 @@
     "KUNG.FU.FIGHTING": {
         "banneduntil": "2024/10/08",
         "BanReason": "mass RDM and cop targeting"
+    },
+    "Tjmartin3054": {
+        "banneduntil": "2024/10/01",
+        "BanReason": "cop targeting"
     }
 }
