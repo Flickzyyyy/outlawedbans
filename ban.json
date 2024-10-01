@@ -358,5 +358,9 @@
     "yea_im_mobile": {
         "banneduntil": "2024/10/02",
         "BanReason": "cop targeting and RDM"
+    },
+    "NickyDeez": {
+        "banneduntil": "2024/10/04",
+        "BanReason": "cop targeting and RDM"
     }
 }
