@@ -302,5 +302,9 @@
     "Grilled_Cheze": {
         "banneduntil": "2024/10/01",
         "BanReason": "RDM"
+    },
+    "devilechiken": {
+        "banneduntil": "2024/10/04",
+        "BanReason": "Rdm"
     }
 }
