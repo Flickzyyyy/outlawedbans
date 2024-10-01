@@ -378,5 +378,9 @@
     "Supermarvel9000": {
         "banneduntil": "2024/10/08",
         "BanReason": "mass RDM and cop targeting"
+    },
+    "youtubeVort3xx": {
+        "banneduntil": "2024/10/07",
+        "BanReason": "mass rdm"
     }
 }
