@@ -322,5 +322,9 @@
     "doglover256": {
         "banneduntil": "2024/10/07",
         "BanReason": "mass RDM"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "2024/10/8",
+        "BanReason": "Mass rdm"
     }
 }
