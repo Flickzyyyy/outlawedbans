@@ -326,5 +326,9 @@
     "sheriffpink": {
         "banneduntil": "2024/10/14",
         "BanReason": "Mass rdm"
+    },
+    "netgds23": {
+        "banneduntil": "2024/10/04",
+        "BanReason": "Cop target"
     }
 }
