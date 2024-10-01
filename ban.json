@@ -382,5 +382,9 @@
     "youtubeVort3xx": {
         "banneduntil": "2024/10/07",
         "BanReason": "mass rdm"
+    },
+    "FatWhopper": {
+        "banneduntil": "2024/10/02",
+        "BanReason": "cop targeting"
     }
 }
