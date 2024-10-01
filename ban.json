@@ -354,5 +354,9 @@
     "Tjmartin3054": {
         "banneduntil": "2024/10/01",
         "BanReason": "cop targeting"
+    },
+    "yea_im_mobile": {
+        "banneduntil": "2024/10/02",
+        "BanReason": "cop targeting and RDM"
     }
 }
