@@ -326,5 +326,9 @@
     "roadwarrior2.0": {
         "banneduntil": "2024/10/8",
         "BanReason": "Mass rdm"
+    },
+    "Sw_viper": {
+        "banneduntil": "2024/10/8",
+        "BanReason": "Mass rdm"
     }
 }
