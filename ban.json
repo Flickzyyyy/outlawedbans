@@ -342,5 +342,9 @@
     "Drillmankillman": {
         "banneduntil": "2024/10/9",
         "BanReason": "Mass Rdm"
+    },
+    "matthew_richards": {
+        "banneduntil": "2024/10/4",
+        "BanReason": "NVL, RDM"
     }
 }
