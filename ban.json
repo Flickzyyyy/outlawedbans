@@ -334,5 +334,9 @@
     "AlcohoIistheanswer": {
         "banneduntil": "2024/10/9",
         "BanReason": "Mass rdm"
+    },
+    "AIcohoIistheanswer": {
+        "banneduntil": "2024/10/9",
+        "BanReason": "Mass rdm"
     }
 }
