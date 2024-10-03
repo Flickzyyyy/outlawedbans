@@ -350,5 +350,9 @@
     "milkman123456789": {
         "banneduntil": "2024/10/4",
         "BanReason": "RDM"
+    },
+    "lordfattbutt": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
