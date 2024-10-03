@@ -358,5 +358,9 @@
     "lordfartbutt": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "BossBoyAidden": {
+        "banneduntil": "2024/10/4",
+        "BanReason": "rdm"
     }
 }
