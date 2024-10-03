@@ -354,5 +354,9 @@
     "Hank109TMD": {
         "banneduntil": "2024/10/7",
         "BanReason": "RDM"
+    },
+    "Hank109TWD": {
+        "banneduntil": "2024/10/7",
+        "BanReason": "RDM"
     }
 }
