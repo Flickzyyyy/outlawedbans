@@ -334,5 +334,9 @@
     "BossBoyAidden": {
         "banneduntil": "2024/10/4",
         "BanReason": "rdm"
+    },
+    "Brock009": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "Camping PD"
     }
 }
