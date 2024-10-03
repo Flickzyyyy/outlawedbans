@@ -354,5 +354,9 @@
     "lordfattbutt": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "lordfartbutt": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
