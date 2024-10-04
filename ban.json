@@ -370,5 +370,9 @@
     "FalsifiedRubberCactus": {
         "banneduntil": "2024/10/8",
         "BanReason": "Rdm"
+    },
+    "Mada200913": {
+        "banneduntil": "2024/10/8",
+        "BanReason": "Rdm and ignored warning"
     }
 }
