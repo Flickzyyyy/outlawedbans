@@ -314,5 +314,9 @@
     "tamir8673": {
         "banneduntil": "2024/10/05",
         "BanReason": "RDM"
+    },
+    "BlakeCombs556": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "n word multiple times and RDM"
     }
 }
