@@ -338,5 +338,9 @@
     "TickleTimmy1234": {
         "banneduntil": "2024/10/10",
         "BanReason": "mass RDM"
+    },
+    "CONVAIR990": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "mass RDM"
     }
 }
