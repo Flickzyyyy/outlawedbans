@@ -366,5 +366,9 @@
     "JackoFarts10": {
         "banneduntil": "2024/10/6",
         "BanReason": "Rdm"
+    },
+    "FalsifiedRubberCactus": {
+        "banneduntil": "2024/10/8",
+        "BanReason": "Rdm"
     }
 }
