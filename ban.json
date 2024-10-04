@@ -350,5 +350,9 @@
     "RIETH": {
         "banneduntil": "2024/10/7",
         "BanReason": "rdm"
+    },
+    "BlackwidowjrVR": {
+        "banneduntil": "2024/10/11",
+        "BanReason": "Mass rdm"
     }
 }
