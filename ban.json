@@ -346,5 +346,9 @@
     "Lockedjaw": {
         "banneduntil": "2024/10/6",
         "BanReason": "Rdm"
+    },
+    "RIETH": {
+        "banneduntil": "2024/10/7",
+        "BanReason": "rdm"
     }
 }
