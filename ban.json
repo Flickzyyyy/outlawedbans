@@ -378,5 +378,9 @@
     "Akaru_": {
         "banneduntil": "2024/10/5",
         "BanReason": "RDM"
+    },
+    "amarican.waffle": {
+        "banneduntil": "2050/1/5",
+        "BanReason": "Hard r"
     }
 }
