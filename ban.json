@@ -322,5 +322,9 @@
     "BlakeCombs566": {
         "banneduntil": "2050/01/01",
         "BanReason": "n word multiple times and RDM"
+    },
+    "JUL12806": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "mass RDM"
     }
 }
