@@ -366,5 +366,9 @@
     "ChaosityQbeatbox": {
         "banneduntil": "2050/10/03",
         "BanReason": "n word"
+    },
+    "mikey005": {
+        "banneduntil": "2024/10/6",
+        "BanReason": "RDM"
     }
 }
