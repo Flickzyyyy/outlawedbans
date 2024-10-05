@@ -398,5 +398,9 @@
     "primitive_pap_smear": {
         "banneduntil": "2024/10/19",
         "BanReason": "F slur"
+    },
+    "isaac.gallegos.7186": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "Mass RDM"
     }
 }
