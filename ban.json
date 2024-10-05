@@ -342,5 +342,9 @@
     "Starwarsacess319": {
         "banneduntil": "2024/10/15",
         "BanReason": "RDM + leaving during sit"
+    },
+    "hitman99": {
+        "banneduntil": "2024/10/06",
+        "BanReason": "RDM"
     }
 }
