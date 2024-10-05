@@ -366,5 +366,9 @@
     "flubromazolam": {
         "banneduntil": "2024/10/8",
         "BanReason": "Rdm"
+    },
+    "luciano": {
+        "banneduntil": "2024/10/7",
+        "BanReason": "Rdm"
     }
 }
