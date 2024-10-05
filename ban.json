@@ -346,5 +346,9 @@
     "hitman99": {
         "banneduntil": "2024/10/06",
         "BanReason": "RDM"
+    },
+    "Halvy21": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "mass RDM"
     }
 }
