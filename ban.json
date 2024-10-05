@@ -390,5 +390,9 @@
     "joshuaweru": {
         "banneduntil": "2050/5/5",
         "BanReason": "Hard r"
+    },
+    "killer.monkey8": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "Tried to ban evade after rdm"
     }
 }
