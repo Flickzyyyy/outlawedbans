@@ -390,5 +390,9 @@
     "Betastingdienst": {
         "banneduntil": "2025/01/01",
         "BanReason": "racial claims and RDM"
+    },
+    "ITS_REAL": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "Mass RDM"
     }
 }
