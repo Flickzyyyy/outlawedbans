@@ -399,8 +399,12 @@
         "banneduntil": "2024_10_8",
         "BanReason": "rdm"
     },
-    "Freakbob1": {
-        "banneduntil": "2024/10/8",
-        "BanReason": "mass rdm"
+    "GhostLH": {
+        "banneduntil": "2099_10_8",
+        "BanReason": "alt of all_in_666, evading"
+    },
+    "ghostLH": {
+        "banneduntil": "2099_10_8",
+        "BanReason": "alt of all_in_666, evading"
     }
 }
