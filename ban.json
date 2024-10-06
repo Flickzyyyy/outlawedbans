@@ -438,5 +438,9 @@
     "Adenoids2020": {
         "banneduntil": "2024/10/13",
         "BanReason": "Cop targeting/ Camping"
+    },
+    "tr7der": {
+        "banneduntil": "2024/10/07",
+        "BanReason": "RDM"
     }
 }
