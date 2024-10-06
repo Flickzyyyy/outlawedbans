@@ -446,5 +446,9 @@
     "kedru": {
         "banneduntil": "2024/10/07",
         "BanReason": "RDM"
+    },
+    "LanTheMqn1": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "Mass RDM"
     }
 }
