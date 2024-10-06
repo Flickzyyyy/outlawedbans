@@ -410,5 +410,9 @@
     "Alex_ace189": {
         "banneduntil": "2024/10/12",
         "BanReason": "Mass RDM"
+    },
+    "graveyardshift": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "Mass RDM"
     }
 }
