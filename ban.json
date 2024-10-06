@@ -394,5 +394,9 @@
     "j.226892": {
         "banneduntil": "2024/10/08",
         "BanReason": "RDM and leaving during admin sit"
+    },
+    "teevee2": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "mass RDM"
     }
 }
