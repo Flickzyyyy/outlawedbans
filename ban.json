@@ -442,5 +442,9 @@
     "tr7der": {
         "banneduntil": "2024/10/07",
         "BanReason": "RDM"
+    },
+    "kedru": {
+        "banneduntil": "2024/10/07",
+        "BanReason": "RDM"
     }
 }
