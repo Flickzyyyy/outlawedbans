@@ -430,5 +430,9 @@
     "Mitchthebeast1": {
         "banneduntil": "2024/10/10",
         "BanReason": "Targeting and RDM"
+    },
+    "Gamergoon": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "Cop targeting/ Camping"
     }
 }
