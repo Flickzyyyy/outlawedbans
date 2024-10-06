@@ -490,5 +490,9 @@
     "Lewcypher": {
         "banneduntil": "2099/10/24",
         "BanReason": "Racism"
+    },
+    "youngmcchicken": {
+        "banneduntil": "2024/10/15",
+        "BanReason": "Mass rdm + walked away during sit"
     }
 }
