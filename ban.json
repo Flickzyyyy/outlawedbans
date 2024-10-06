@@ -506,5 +506,9 @@
     "TSGriffinL": {
         "banneduntil": "2024/10/10",
         "BanReason": "cop targeting"
+    },
+    "thereaper12245": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
