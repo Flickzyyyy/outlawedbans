@@ -406,5 +406,9 @@
     "gh03tyguy": {
         "banneduntil": "2024/10/12",
         "BanReason": "mass cop targeting"
+    },
+    "Funjam42": {
+        "banneduntil": "2024/10/07",
+        "BanReason": "rdm"
     }
 }
