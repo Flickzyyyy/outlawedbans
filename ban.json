@@ -486,5 +486,9 @@
     "AkiraJoker": {
         "banneduntil": "2024/10/8",
         "BanReason": "Cop targeting and rdm"
+    },
+    "Lewcypher": {
+        "banneduntil": "2099/10/24",
+        "BanReason": "Racism"
     }
 }
