@@ -498,5 +498,9 @@
     "powersdaman": {
         "banneduntil": "2099/10/6",
         "BanReason": "hard r"
+    },
+    "uptown180": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
