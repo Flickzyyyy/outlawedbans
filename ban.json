@@ -474,5 +474,9 @@
     "yellyfish.2022": {
         "banneduntil": "2024/10/10",
         "BanReason": "RDM"
+    },
+    "smith1811": {
+        "banneduntil": "2024/10/24",
+        "BanReason": "Mass RDM"
     }
 }
