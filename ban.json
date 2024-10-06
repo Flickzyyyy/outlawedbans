@@ -470,5 +470,9 @@
     "Azzaxel": {
         "banneduntil": "2024/10/8",
         "BanReason": "cop targeting"
+    },
+    "yellyfish.2022": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "RDM"
     }
 }
