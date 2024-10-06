@@ -494,5 +494,9 @@
     "youngmcchicken": {
         "banneduntil": "2024/10/15",
         "BanReason": "Mass rdm + walked away during sit"
+    },
+    "powersdaman": {
+        "banneduntil": "2099/10/6",
+        "BanReason": "hard r"
     }
 }
