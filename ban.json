@@ -398,5 +398,9 @@
     "teevee2": {
         "banneduntil": "2024/10/12",
         "BanReason": "mass RDM"
+    },
+    "JUL1": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "mass RDM"
     }
 }
