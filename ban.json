@@ -482,5 +482,9 @@
     "SLICE_FN": {
         "banneduntil": "2024/10/24",
         "BanReason": "Mass RDM"
+    },
+    "AkiraJoker": {
+        "banneduntil": "2024/10/8",
+        "BanReason": "Cop targeting and rdm"
     }
 }
