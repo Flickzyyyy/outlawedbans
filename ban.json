@@ -566,5 +566,9 @@
     "Choom_on_deez_nuts": {
         "banneduntil": "2024/10/10",
         "BanReason": "Rdm"
+    },
+    "izaktrue": {
+        "banneduntil": "2024/10/9",
+        "BanReason": "rdm"
     }
 }
