@@ -582,5 +582,9 @@
     "Darkassassin9999": {
         "banneduntil": "2024/10/14",
         "BanReason": "mass RDM"
+    },
+    "Kylovolcano1": {
+        "banneduntil": "2024/10/17",
+        "BanReason": "f slur"
     }
 }
