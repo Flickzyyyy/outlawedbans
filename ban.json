@@ -550,5 +550,9 @@
     "TheCreeperBen": {
         "banneduntil": "2024/11/1",
         "BanReason": "Cop targeting"
+    },
+    "Guygarz": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "Mass rdm"
     }
 }
