@@ -522,5 +522,9 @@
     "nothanksnothanks": {
         "banneduntil": "2024/10/07",
         "BanReason": "RDM"
+    },
+    "fritz_123": {
+        "banneduntil": "2024/10/22",
+        "BanReason": "f slur"
     }
 }
