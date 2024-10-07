@@ -542,5 +542,9 @@
     "TDogK": {
         "banneduntil": "2024/11/1",
         "BanReason": "Mass rdm and causing a riot"
+    },
+    "TinkleBallSniffing": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "cop targeting"
     }
 }
