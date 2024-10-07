@@ -558,5 +558,9 @@
     "mell0z": {
         "banneduntil": "2024/10/10",
         "BanReason": "rdm"
+    },
+    "ReaperClan1714": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "mass RDM"
     }
 }
