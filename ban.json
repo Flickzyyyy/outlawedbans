@@ -526,5 +526,9 @@
     "fritz_123": {
         "banneduntil": "2024/10/22",
         "BanReason": "f slur"
+    },
+    "ONBjackskelting": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "Mass rdm"
     }
 }
