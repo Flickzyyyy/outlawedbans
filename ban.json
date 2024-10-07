@@ -514,5 +514,9 @@
     "Snapshot2018": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "glitch870": {
+        "banneduntil": "2024/10/11",
+        "BanReason": "mass rdm"
     }
 }
