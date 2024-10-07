@@ -570,5 +570,9 @@
     "izaktrue": {
         "banneduntil": "2024/10/9",
         "BanReason": "rdm"
+    },
+    "Clonetrooper0_113": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "mass rdm"
     }
 }
