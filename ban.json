@@ -532,7 +532,7 @@
         "BanReason": "Mass rdm"
     },
     "SKIGMA": {
-        "banneduntil": "2024/10/13",
+        "banneduntil": "2024/11/1",
         "BanReason": "Mass rdm and killing while explaing the ban"
     },
     "OPACT": {
@@ -554,5 +554,9 @@
     "Guygarz": {
         "banneduntil": "2024/10/13",
         "BanReason": "Mass rdm"
+    },
+    "DumbFluffyProtogen": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "cop targeting"
     }
 }
