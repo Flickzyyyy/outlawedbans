@@ -602,5 +602,9 @@
     "thatoneguy.911.2024": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "h44zell": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "RDM"
     }
 }
