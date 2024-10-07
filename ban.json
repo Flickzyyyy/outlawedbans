@@ -546,5 +546,9 @@
     "TinkleBallSniffing": {
         "banneduntil": "2024/10/10",
         "BanReason": "cop targeting"
+    },
+    "TheCreeperBen": {
+        "banneduntil": "2024/11/1",
+        "BanReason": "Cop targeting"
     }
 }
