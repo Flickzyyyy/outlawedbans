@@ -606,5 +606,9 @@
     "h44zell": {
         "banneduntil": "2024/10/10",
         "BanReason": "RDM"
+    },
+    "CarCar737": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "mass rdm"
     }
 }
