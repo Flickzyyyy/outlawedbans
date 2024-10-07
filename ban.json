@@ -566,5 +566,9 @@
     "B_e_e_n.SM": {
         "banneduntil": "2024/10/7",
         "BanReason": "Rdm"
+    },
+    "IDontNeedHelp": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "mass cop targeting"
     }
 }
