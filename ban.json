@@ -518,5 +518,9 @@
     "glitch870": {
         "banneduntil": "2024/10/11",
         "BanReason": "mass rdm"
+    },
+    "nothanksnothanks": {
+        "banneduntil": "2024/10/07",
+        "BanReason": "RDM"
     }
 }
