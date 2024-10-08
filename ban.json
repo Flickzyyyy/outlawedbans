@@ -590,5 +590,9 @@
     "Semper3Fidelis3": {
         "banneduntil": "2024/10/21",
         "BanReason": "mass cop targeting and camping pd"
+    },
+    "DeadShot0429": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "mass RDM"
     }
 }
