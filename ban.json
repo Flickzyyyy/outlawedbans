@@ -614,5 +614,9 @@
     "MrDontPlay20": {
         "banneduntil": "2024/10/14",
         "BanReason": "mass RDM"
+    },
+    "MrDontPlay2O": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "mass RDM"
     }
 }
