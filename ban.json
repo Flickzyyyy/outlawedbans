@@ -598,5 +598,9 @@
     "Diabolical.Dan": {
         "banneduntil": "2024/10/11",
         "BanReason": "rdm"
+    },
+    "CountryVibe": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
