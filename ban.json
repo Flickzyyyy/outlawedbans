@@ -594,5 +594,9 @@
     "Smught": {
         "banneduntil": "2024/10/10",
         "BanReason": "rdm"
+    },
+    "notvrcj": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "mass rdm"
     }
 }
