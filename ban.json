@@ -618,5 +618,9 @@
     "MrDontPlay2O": {
         "banneduntil": "2024/10/14",
         "BanReason": "mass RDM"
+    },
+    "Theevilend": {
+        "banneduntil": "2024/10/09",
+        "BanReason": "rdm"
     }
 }
