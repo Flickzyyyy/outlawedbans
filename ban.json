@@ -578,5 +578,9 @@
     "PP.brody": {
         "banneduntil": "2024/10/14",
         "BanReason": "mass RDM"
+    },
+    "Erik_420": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "mass cop targeting"
     }
 }
