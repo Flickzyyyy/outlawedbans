@@ -630,5 +630,9 @@
     "TTVcoco334": {
         "banneduntil": "2024/10/12",
         "BanReason": "RDM"
+    },
+    "chiefqueefinohio": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "Cop targeting"
     }
 }
