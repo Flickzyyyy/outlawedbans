@@ -730,5 +730,9 @@
     "deltasoulja": {
         "banneduntil": "2024/10/23",
         "BanReason": "f slur"
+    },
+    "gerard.620002": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "rdm"
     }
 }
