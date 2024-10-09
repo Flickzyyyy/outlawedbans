@@ -634,5 +634,9 @@
     "VVANDLL": {
         "banneduntil": "2024/10/14",
         "BanReason": "Mass rdm and left to evade ban"
+    },
+    "rileyhaas": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "cop targeting"
     }
 }
