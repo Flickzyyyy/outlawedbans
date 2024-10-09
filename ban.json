@@ -734,5 +734,9 @@
     "gerard.620002": {
         "banneduntil": "2024/10/13",
         "BanReason": "rdm"
+    },
+    "netgds23": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "mass RDM"
     }
 }
