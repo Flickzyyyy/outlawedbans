@@ -714,5 +714,9 @@
     "moldyonion.2022": {
         "banneduntil": "2024/10/16",
         "BanReason": "mass rdm"
+    },
+    "Vacuumperson2": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "rdm"
     }
 }
