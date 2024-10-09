@@ -694,5 +694,9 @@
     "kachow.452141": {
         "banneduntil": "2024/10/10",
         "BanReason": "rdm"
+    },
+    "manFW": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "rdm"
     }
 }
