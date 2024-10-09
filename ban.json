@@ -658,5 +658,9 @@
     "SSaquilleoatmeal": {
         "banneduntil": "2024/10/15",
         "BanReason": "Mass rdm"
+    },
+    "SShaquilleoatmeal": {
+        "banneduntil": "2024/10/15",
+        "BanReason": "Mass rdm"
     }
 }
