@@ -754,5 +754,9 @@
     "AK47goesbrmmm": {
         "banneduntil": "2024/10/12",
         "BanReason": "rdm leaving admin sif"
+    },
+    "dip7144": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "mass RDM"
     }
 }
