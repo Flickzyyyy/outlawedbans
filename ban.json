@@ -646,5 +646,9 @@
     "realmafia63": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "TwistPug": {
+        "banneduntil": "2099/4/4",
+        "BanReason": "N word"
     }
 }
