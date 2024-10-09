@@ -654,5 +654,9 @@
     "zylactshoodcouncil": {
         "banneduntil": "2024/10/10",
         "BanReason": "rdm"
+    },
+    "SSaquilleoatmeal": {
+        "banneduntil": "2024/10/15",
+        "BanReason": "Mass rdm"
     }
 }
