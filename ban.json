@@ -642,5 +642,9 @@
     "Germanpotato2": {
         "banneduntil": "2024/10/10",
         "BanReason": "Cop targeting"
+    },
+    "obamaspitisdelicious": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "Cop targeting"
     }
 }
