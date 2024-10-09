@@ -650,5 +650,9 @@
     "TwistPug": {
         "banneduntil": "2099/4/4",
         "BanReason": "N word"
+    },
+    "zylactshoodcouncil": {
+        "banneduntil": "2024/10/10",
+        "BanReason": "rdm"
     }
 }
