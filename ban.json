@@ -750,5 +750,9 @@
     "logandemetro12": {
         "banneduntil": "2024/10/11",
         "BanReason": "RDM"
+    },
+    "AK47goesbrmmm": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "rdm leaving admin sif"
     }
 }
