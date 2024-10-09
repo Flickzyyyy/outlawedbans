@@ -674,5 +674,9 @@
     "Ijshooter.64": {
         "banneduntil": "2024/10/09",
         "BanReason": "mic spamming"
+    },
+    "ljshooter.64": {
+        "banneduntil": "2024/10/09",
+        "BanReason": "mic spamming"
     }
 }
