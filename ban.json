@@ -746,5 +746,9 @@
     "Lilboot1": {
         "banneduntil": "2024/10/16",
         "BanReason": "mass RDM"
+    },
+    "logandemetro12": {
+        "banneduntil": "2024/10/11",
+        "BanReason": "RDM"
     }
 }
