@@ -758,5 +758,9 @@
     "dip7144": {
         "banneduntil": "2024/10/16",
         "BanReason": "mass RDM"
+    },
+    "monkeyman-69-420": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "mass rdm"
     }
 }
