@@ -686,5 +686,9 @@
     "markismessi1": {
         "banneduntil": "2024/10/24",
         "BanReason": "f-slur"
+    },
+    "Wolvy.stm": {
+        "banneduntil": "2060/10/12",
+        "BanReason": "Mass rdm and sexual harassment"
     }
 }
