@@ -646,5 +646,9 @@
     "obamaspitisdelicious": {
         "banneduntil": "2024/10/13",
         "BanReason": "Cop targeting"
+    },
+    "K1LL3RU": {
+        "banneduntil": "2024/10/15",
+        "BanReason": "mass RDM"
     }
 }
