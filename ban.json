@@ -572,8 +572,8 @@
         "BanReason": "mass RDM"
     },
     "Theevilend": {
-        "banneduntil": "2020/10/8",
-        "BanReason": "unban"
+        "banneduntil": "2024/10/09",
+        "BanReason": "rdm"
     },
     "PP.brody": {
         "banneduntil": "2024/10/14",
@@ -638,5 +638,9 @@
     "rileyhaas": {
         "banneduntil": "2024/10/10",
         "BanReason": "cop targeting"
+    },
+    "7634jf": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
