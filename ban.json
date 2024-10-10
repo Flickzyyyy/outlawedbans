@@ -666,5 +666,9 @@
     "Rileyhaas": {
         "banneduntil": "2050/01/01",
         "BanReason": "sexual harassment"
+    },
+    "jay12321": {
+        "banneduntil": "2250/10/10",
+        "BanReason": "n-slur"
     }
 }
