@@ -670,5 +670,9 @@
     "jay12321": {
         "banneduntil": "2250/10/10",
         "BanReason": "n-slur"
+    },
+    "foxcountry": {
+        "banneduntil": "2024/10/12",
+        "BanReason": "rdm"
     }
 }
