@@ -778,5 +778,9 @@
     "LAZYM3X679": {
         "banneduntil": "2024/10/16",
         "BanReason": "mass cop targeting"
+    },
+    "Lservice": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "RDM and camping bank"
     }
 }
