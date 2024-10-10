@@ -654,5 +654,9 @@
     "Lservice": {
         "banneduntil": "2024/10/18",
         "BanReason": "RDM and camping bank"
+    },
+    "SHOGUN_1213": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
