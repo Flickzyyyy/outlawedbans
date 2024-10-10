@@ -770,5 +770,9 @@
     "dorifto83": {
         "banneduntil": "2024/10/13",
         "BanReason": "cop targeting"
+    },
+    "Crazy_Golfer": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "mass cop targeting and camping pd"
     }
 }
