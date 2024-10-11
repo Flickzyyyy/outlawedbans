@@ -762,5 +762,9 @@
     "kachow.452141": {
         "banneduntil": "Racism",
         "BanReason": "2099/10/18"
+    },
+    "Oongiman": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "rdm"
     }
 }
