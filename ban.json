@@ -714,5 +714,9 @@
     "Ballsmcfartney": {
         "banneduntil": "2024/10/17",
         "BanReason": "mass RDM"
+    },
+    "Speedyjoker": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "RDM and leaving sit"
     }
 }
