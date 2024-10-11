@@ -690,5 +690,9 @@
     "zylactshoodcouncil": {
         "banneduntil": "2024/10/17",
         "BanReason": "Rdming nd left during admin sit"
+    },
+    "Barrowkipper": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "n word"
     }
 }
