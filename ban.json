@@ -774,5 +774,9 @@
     "boiler4332": {
         "banneduntil": "2024/10/20",
         "BanReason": "camping bank and RDM"
+    },
+    "camo.moose2009": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "Mass rdm"
     }
 }
