@@ -702,5 +702,9 @@
     "mike6.9420": {
         "banneduntil": "2024/10/12",
         "BanReason": "rdm"
+    },
+    "Sol.7": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "rdm"
     }
 }
