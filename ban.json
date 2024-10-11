@@ -734,5 +734,9 @@
     "mr.painkiller": {
         "banneduntil": "2024/10/15",
         "BanReason": "cop targeting and killing during sit"
+    },
+    "ohhellnooooo": {
+        "banneduntil": "2024/10/17",
+        "BanReason": "Mass RDM"
     }
 }
