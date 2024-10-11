@@ -718,5 +718,9 @@
     "scotland09.2022": {
         "banneduntil": "2024/10/13",
         "BanReason": "rdm"
+    },
+    "soggysoxsMP": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "rdm"
     }
 }
