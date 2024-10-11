@@ -730,5 +730,9 @@
     "Belikov_fartBread": {
         "banneduntil": "2024/10/15",
         "BanReason": "breaking RP"
+    },
+    "mr.painkiller": {
+        "banneduntil": "2024/10/15",
+        "BanReason": "cop targeting and killing during sit"
     }
 }
