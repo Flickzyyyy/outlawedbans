@@ -726,5 +726,9 @@
     "knucklebone512": {
         "banneduntil": "2024/10/18",
         "BanReason": "mass RDM and leaving sit"
+    },
+    "Belikov_fartBread": {
+        "banneduntil": "2024/10/15",
+        "BanReason": "breaking RP"
     }
 }
