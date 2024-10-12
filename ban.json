@@ -766,5 +766,9 @@
     "crackson_devious": {
         "banneduntil": "3024/10/11",
         "BanReason": "n word"
+    },
+    "ReconDoc": {
+        "banneduntil": "2024/10/15",
+        "BanReason": "cop targeting"
     }
 }
