@@ -842,5 +842,9 @@
     "fireballxls": {
         "banneduntil": "2024/10/23",
         "BanReason": "RDM and camping bank"
+    },
+    "FentSoldHere": {
+        "banneduntil": "2024/10/19",
+        "BanReason": "mass rdm"
     }
 }
