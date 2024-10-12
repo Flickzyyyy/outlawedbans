@@ -814,5 +814,9 @@
     "fisharecool": {
         "banneduntil": "2024/10/19",
         "BanReason": "Ignored rdm warning"
+    },
+    "Blurgreen": {
+        "banneduntil": "2024/10/17",
+        "BanReason": "rdm"
     }
 }
