@@ -866,5 +866,9 @@
     "Qman0917": {
         "banneduntil": "2024/10/16",
         "BanReason": "RDM"
+    },
+    "Forhonour45": {
+        "banneduntil": "2099/10/12",
+        "BanReason": "Racism"
     }
 }
