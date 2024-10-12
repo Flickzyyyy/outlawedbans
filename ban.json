@@ -786,5 +786,9 @@
     "itsVlox": {
         "banneduntil": "2024/10/14",
         "BanReason": "rdm"
+    },
+    "PFCPETTY": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "rdm"
     }
 }
