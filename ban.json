@@ -878,5 +878,9 @@
     "smollies": {
         "banneduntil": "2024/10/16",
         "BanReason": "Cop Targeting"
+    },
+    "soggybred6.7": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "Cop Targeting"
     }
 }
