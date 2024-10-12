@@ -786,5 +786,9 @@
     "nick.429378": {
         "banneduntil": "2029/10/11",
         "BanReason": "8 years old"
+    },
+    "masonmnm": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "mass rdm"
     }
 }
