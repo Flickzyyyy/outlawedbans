@@ -798,5 +798,9 @@
     "kryptix": {
         "banneduntil": "2024/10/14",
         "BanReason": "rdm"
+    },
+    "Weird_Onion_Head": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "rdm and leaving sit"
     }
 }
