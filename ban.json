@@ -818,5 +818,9 @@
     "Blurgreen": {
         "banneduntil": "2024/10/17",
         "BanReason": "rdm"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "hard r"
     }
 }
