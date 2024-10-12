@@ -806,5 +806,9 @@
     "HondaFanboy": {
         "banneduntil": "2024/10/26",
         "BanReason": "f-slur"
+    },
+    "thefriendlyhedgehog": {
+        "banneduntil": "2090/10/10",
+        "BanReason": "Hard r"
     }
 }
