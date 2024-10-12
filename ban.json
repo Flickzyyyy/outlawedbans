@@ -770,5 +770,9 @@
     "ReconDoc": {
         "banneduntil": "2024/10/15",
         "BanReason": "cop targeting"
+    },
+    "Vr_Rules77": {
+        "banneduntil": "2024/10/17",
+        "BanReason": "rdm and killing during sit"
     }
 }
