@@ -802,5 +802,9 @@
     "Weird_Onion_Head": {
         "banneduntil": "2024/10/16",
         "BanReason": "rdm and leaving sit"
+    },
+    "HondaFanboy": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "f-slur"
     }
 }
