@@ -794,5 +794,9 @@
     "CosmicSam1233": {
         "banneduntil": "2024/10/14",
         "BanReason": "rdm"
+    },
+    "kryptix": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "rdm"
     }
 }
