@@ -742,5 +742,9 @@
     "MBN0512": {
         "banneduntil": "2024/10/14",
         "BanReason": "rdm"
+    },
+    "loganator2000e": {
+        "banneduntil": "2024/10/13",
+        "BanReason": "rdm"
     }
 }
