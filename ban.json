@@ -846,5 +846,9 @@
     "FentSoldHere": {
         "banneduntil": "2024/10/19",
         "BanReason": "mass rdm"
+    },
+    "MooMooChicken": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "camping bank and RDM"
     }
 }
