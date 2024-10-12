@@ -822,5 +822,9 @@
     "roadwarrior2.0": {
         "banneduntil": "2099/9/9",
         "BanReason": "hard r"
+    },
+    "silentfool": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "rdm"
     }
 }
