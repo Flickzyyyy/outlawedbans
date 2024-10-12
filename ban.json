@@ -738,5 +738,9 @@
     "TickleTimmy1234": {
         "banneduntil": "2059/01/01",
         "BanReason": "nsfw"
+    },
+    "MBN0512": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "rdm"
     }
 }
