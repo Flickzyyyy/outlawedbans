@@ -874,5 +874,9 @@
     "mike6.9420": {
         "banneduntil": "2099/10/12",
         "BanReason": "Racism"
+    },
+    "smollies": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "Cop Targeting"
     }
 }
