@@ -782,5 +782,9 @@
     "Abuhajaar34": {
         "banneduntil": "2024/10/13",
         "BanReason": "rdm"
+    },
+    "itsVlox": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "rdm"
     }
 }
