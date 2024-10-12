@@ -782,5 +782,9 @@
     "Arthur.Morgan1234567": {
         "banneduntil": "2099/9/9",
         "BanReason": "hard r"
+    },
+    "nick.429378": {
+        "banneduntil": "2029/10/11",
+        "BanReason": "8 years old"
     }
 }
