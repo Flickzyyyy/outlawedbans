@@ -774,5 +774,9 @@
     "Vr_Rules77": {
         "banneduntil": "2024/10/17",
         "BanReason": "rdm and killing during sit"
+    },
+    "3badrashdock": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "rdm"
     }
 }
