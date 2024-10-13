@@ -810,5 +810,9 @@
     "Corvex1": {
         "banneduntil": "2024/10/18",
         "BanReason": "Mass RDM"
+    },
+    "davehunter30": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "Mass RDM"
     }
 }
