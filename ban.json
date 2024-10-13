@@ -834,5 +834,9 @@
     "Alcoholistheanswer": {
         "banneduntil": "2024/10/17",
         "BanReason": "cop targeting"
+    },
+    "Btodd23": {
+        "banneduntil": "2024/10/17",
+        "BanReason": "rdm and cop targeting"
     }
 }
