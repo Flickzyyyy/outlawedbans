@@ -786,5 +786,9 @@
     "Kim.jong.un51": {
         "banneduntil": "2024/10/18",
         "BanReason": "rdm"
+    },
+    "SammerGio": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
