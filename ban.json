@@ -922,5 +922,9 @@
     "John_E_Quest": {
         "banneduntil": "2024/11/12",
         "BanReason": "Leaving During Sit + RDM"
+    },
+    "jaykayfos": {
+        "banneduntil": "2070/10/15",
+        "BanReason": "Nword"
     }
 }
