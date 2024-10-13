@@ -918,5 +918,9 @@
     "n1ghtmare68": {
         "banneduntil": "2024/10/16",
         "BanReason": "RDM"
+    },
+    "John_E_Quest": {
+        "banneduntil": "2024/11/12",
+        "BanReason": "Leaving During Sit + RDM"
     }
 }
