@@ -790,5 +790,9 @@
     "SammerGio": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "Mitchellswag999": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "RDM"
     }
 }
