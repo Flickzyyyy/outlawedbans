@@ -782,5 +782,9 @@
     "JesusChrist0": {
         "banneduntil": "2050/10/24",
         "BanReason": "Ignored rape warning"
+    },
+    "Kim.jong.un51": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "rdm"
     }
 }
