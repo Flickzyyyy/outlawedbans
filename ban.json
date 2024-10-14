@@ -846,5 +846,9 @@
     "eViLSpAzZz": {
         "banneduntil": "2050/01/01",
         "BanReason": "n word"
+    },
+    "AussieMumma": {
+        "banneduntil": "2024/10/17",
+        "BanReason": "rdm"
     }
 }
