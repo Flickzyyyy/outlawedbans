@@ -870,5 +870,9 @@
     "asprowles": {
         "banneduntil": "2024/10/16",
         "BanReason": "rdm"
+    },
+    "TSGriffinL": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "rdm and leaving to escape ban"
     }
 }
