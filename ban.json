@@ -858,5 +858,9 @@
     "Unqualifiedzipp": {
         "banneduntil": "2666/10/10",
         "BanReason": "n-wprd"
+    },
+    "Cheesi_14": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "rdm and leaving to escape ban"
     }
 }
