@@ -830,5 +830,9 @@
     "BloodyFaralisabel": {
         "banneduntil": "2024/10/21",
         "BanReason": "mass rdm"
+    },
+    "graveyardshift": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "mass rdm"
     }
 }
