@@ -858,5 +858,9 @@
     "homeroof": {
         "banneduntil": "2099/9/9",
         "BanReason": "Hard r"
+    },
+    "CarCar737": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "n word"
     }
 }
