@@ -874,5 +874,9 @@
     "TSGriffinL": {
         "banneduntil": "2024/10/16",
         "BanReason": "rdm and leaving to escape ban"
+    },
+    "littlepeoples": {
+        "banneduntil": "2060/10/10",
+        "BanReason": "n-word"
     }
 }
