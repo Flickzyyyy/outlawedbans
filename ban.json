@@ -882,5 +882,9 @@
     "AmericanDADDY": {
         "banneduntil": "2024/10/14",
         "BanReason": "RDM"
+    },
+    "UrBoiGavin": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "Mass RDM"
     }
 }
