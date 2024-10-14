@@ -914,5 +914,9 @@
     "PXWN": {
         "banneduntil": "2070/10/10",
         "BanReason": "n-word hard r"
+    },
+    "SamRahmes": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "rdm"
     }
 }
