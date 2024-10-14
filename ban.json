@@ -850,5 +850,9 @@
     "AussieMumma": {
         "banneduntil": "2024/10/17",
         "BanReason": "rdm"
+    },
+    "Unknown_Player5411": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "Cop targeting / raid / camping lawmen"
     }
 }
