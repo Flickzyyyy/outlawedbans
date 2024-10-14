@@ -878,5 +878,9 @@
     "officialChunkyMonkey": {
         "banneduntil": "2024/10/20",
         "BanReason": "mass rdm"
+    },
+    "AmericanDADDY": {
+        "banneduntil": "2024/10/14",
+        "BanReason": "RDM"
     }
 }
