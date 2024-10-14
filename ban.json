@@ -918,5 +918,9 @@
     "SamRahmes": {
         "banneduntil": "2024/10/16",
         "BanReason": "rdm"
+    },
+    "legojeep.2023": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "Cop targeting and left during sit"
     }
 }
