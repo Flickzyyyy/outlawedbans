@@ -878,5 +878,9 @@
     "littlepeoples": {
         "banneduntil": "2060/10/10",
         "BanReason": "n-word"
+    },
+    "devilchiken": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "mass rdm"
     }
 }
