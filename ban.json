@@ -850,5 +850,9 @@
     "xKYBERNETx": {
         "banneduntil": "2024/10/16",
         "BanReason": "cop targeting and rdm"
+    },
+    "WoeMercy": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "mass rdm cop targeting"
     }
 }
