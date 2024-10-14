@@ -886,5 +886,9 @@
     "devilechiken": {
         "banneduntil": "2024/10/21",
         "BanReason": "mass rdm"
+    },
+    "MFGoof": {
+        "banneduntil": "2024/10/16",
+        "BanReason": "rdm"
     }
 }
