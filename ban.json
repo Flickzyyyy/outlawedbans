@@ -870,5 +870,9 @@
     "1_______KING______1": {
         "banneduntil": "2024/10/27",
         "BanReason": "Mass rdm"
+    },
+    "Name: officalChunkyMonkey": {
+        "banneduntil": "Date: 2024/10/20",
+        "BanReason": "Reason: mass RDM and leaving to evade warning"
     }
 }
