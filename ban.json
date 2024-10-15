@@ -930,5 +930,9 @@
     "V1nc3_cuh": {
         "banneduntil": "2024/10/17",
         "BanReason": "rdm"
+    },
+    "muckerman.2022": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "Mass rdm left during it"
     }
 }
