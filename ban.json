@@ -934,5 +934,9 @@
     "muckerman.2022": {
         "banneduntil": "2024/10/21",
         "BanReason": "Mass rdm left during it"
+    },
+    "Mustang1549": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "rdm and leaving to escape ban"
     }
 }
