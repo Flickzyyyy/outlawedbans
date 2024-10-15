@@ -942,5 +942,9 @@
     "piratingbooty": {
         "banneduntil": "2024/10/18",
         "BanReason": "cop target kill in admin sit"
+    },
+    "deatheye1249": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "RDM and mass cop targeting"
     }
 }
