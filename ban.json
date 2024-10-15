@@ -830,5 +830,9 @@
     "cjay.405719": {
         "banneduntil": "2024/10/20",
         "BanReason": "Cop target"
+    },
+    "Smught": {
+        "banneduntil": "2024/10/19",
+        "BanReason": "RDM"
     }
 }
