@@ -766,5 +766,9 @@
     "WareHouseLA": {
         "banneduntil": "2024/10/19",
         "BanReason": "RDM and leaving during admin sit"
+    },
+    "WarehouseLA": {
+        "banneduntil": "2024/10/19",
+        "BanReason": "rdm and leaving during admin sit"
     }
 }
