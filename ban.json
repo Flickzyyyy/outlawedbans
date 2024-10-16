@@ -774,5 +774,9 @@
     "minkeyman": {
         "banneduntil": "2024/10/30",
         "BanReason": "f-slur"
+    },
+    "twopeanutbutterfeet": {
+        "banneduntil": "2024/10/17",
+        "BanReason": "rdm and leaving during sit"
     }
 }
