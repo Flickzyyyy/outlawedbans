@@ -798,5 +798,9 @@
     "Toxic_Virus_87": {
         "banneduntil": "2099/10/15",
         "BanReason": "N word Hard R"
+    },
+    "cuger2.oblivion": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "rdm"
     }
 }
