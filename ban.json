@@ -862,5 +862,9 @@
     "braindamagedpickle": {
         "banneduntil": "2024/10/29",
         "BanReason": "mass RDM and camping gun store"
+    },
+    "isaa.473330": {
+        "banneduntil": "2024/10/24",
+        "BanReason": "soft a"
     }
 }
