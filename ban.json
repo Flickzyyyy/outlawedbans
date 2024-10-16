@@ -754,5 +754,9 @@
     "8I8.LA": {
         "banneduntil": "2024/10/20",
         "BanReason": "mass rdm/ruining admin sit"
+    },
+    "Mr.bobby": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "RDM"
     }
 }
