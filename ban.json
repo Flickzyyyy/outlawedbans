@@ -770,5 +770,9 @@
     "WarehouseLA": {
         "banneduntil": "2024/10/19",
         "BanReason": "rdm and leaving during admin sit"
+    },
+    "minkeyman": {
+        "banneduntil": "2024/10/30",
+        "BanReason": "f-slur"
     }
 }
