@@ -762,5 +762,9 @@
     "Mr.bobby21": {
         "banneduntil": "2024/10/18",
         "BanReason": "RDM"
+    },
+    "WareHouseLA": {
+        "banneduntil": "2024/10/19",
+        "BanReason": "RDM and leaving during admin sit"
     }
 }
