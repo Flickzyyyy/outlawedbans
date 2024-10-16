@@ -802,5 +802,9 @@
     "cuger2.oblivion": {
         "banneduntil": "2024/10/20",
         "BanReason": "rdm"
+    },
+    "DuckyonthatQUAc": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "rdm and left during sit"
     }
 }
