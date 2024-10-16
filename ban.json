@@ -750,5 +750,9 @@
     "isaa.473330": {
         "banneduntil": "2024/10/24",
         "BanReason": "soft a"
+    },
+    "8I8.LA": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "mass rdm/ruining admin sit"
     }
 }
