@@ -830,5 +830,9 @@
     "subway1": {
         "banneduntil": "2024/10/21",
         "BanReason": "leaving admin sit/Cop targeting"
+    },
+    "S4TURN5246": {
+        "banneduntil": "20204/11/19",
+        "BanReason": "RDM and gotten a prior warning"
     }
 }
