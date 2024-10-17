@@ -838,5 +838,9 @@
     "Newob.Jeff": {
         "banneduntil": "2024/10/20",
         "BanReason": "RDM in spawn, abusing dono"
+    },
+    "ALWAYSBUMPING": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "sexual harassment"
     }
 }
