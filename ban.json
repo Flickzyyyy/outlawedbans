@@ -814,5 +814,9 @@
     "ebuckner4": {
         "banneduntil": "2024/10/21",
         "BanReason": "rdm and killing during admin sit"
+    },
+    "officialgg.2024": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "rdm and evading ban"
     }
 }
