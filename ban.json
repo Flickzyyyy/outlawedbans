@@ -826,5 +826,9 @@
     "Big-Tough-E": {
         "banneduntil": "2099/11/13",
         "BanReason": "hard R perm ban"
+    },
+    "subway1": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "leaving admin sit/Cop targeting"
     }
 }
