@@ -858,5 +858,9 @@
     "64326": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "Holyjester48072": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "rdm and killing during admin sit"
     }
 }
