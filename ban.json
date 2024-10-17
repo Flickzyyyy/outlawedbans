@@ -822,5 +822,9 @@
     "Emandoge": {
         "banneduntil": "2024/10/30",
         "BanReason": "n word"
+    },
+    "Timdog100": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "mass RDM"
     }
 }
