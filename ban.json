@@ -512,8 +512,8 @@
         "BanReason": "hard r"
     },
     "Triston20100": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
+        "banneduntil": "2024/10/18",
+        "BanReason": "Mass RDM"
     },
     "J3TTL3R": {
         "banneduntil": "2024/10/18",
@@ -828,6 +828,10 @@
         "BanReason": "mass RDM"
     },
     "Ethanthebeast001": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "rdm"
+    },
+    "Ethanthebest001": {
         "banneduntil": "2024/10/20",
         "BanReason": "rdm"
     }
