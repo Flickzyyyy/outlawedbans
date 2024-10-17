@@ -842,5 +842,9 @@
     "ALWAYSBUMPING": {
         "banneduntil": "2050/01/01",
         "BanReason": "sexual harassment"
+    },
+    "CoolDude425": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "rdm"
     }
 }
