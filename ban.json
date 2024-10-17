@@ -826,5 +826,9 @@
     "Timdog100": {
         "banneduntil": "2024/10/23",
         "BanReason": "mass RDM"
+    },
+    "Ethanthebeast001": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "rdm"
     }
 }
