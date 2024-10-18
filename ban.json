@@ -746,5 +746,9 @@
     "smlock_vr": {
         "banneduntil": "2024/10/25",
         "BanReason": "mass rdm"
+    },
+    "Kafkaesque01": {
+        "banneduntil": "2024/10/22",
+        "BanReason": "Rdm cop targeting"
     }
 }
