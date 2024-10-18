@@ -766,5 +766,9 @@
     "MFGoof": {
         "banneduntil": "2024/11/2",
         "BanReason": "n-word soft a"
+    },
+    "kingthe8": {
+        "banneduntil": "2024/10/31",
+        "BanReason": "rdm"
     }
 }
