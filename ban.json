@@ -742,5 +742,9 @@
     "the.Abductor": {
         "banneduntil": "2024/10/22",
         "BanReason": "rdm and leaving to escape ban"
+    },
+    "smlock_vr": {
+        "banneduntil": "2024/10/25",
+        "BanReason": "mass rdm"
     }
 }
