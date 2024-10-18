@@ -718,5 +718,9 @@
     "The.Fungus": {
         "banneduntil": "2024/10/20",
         "BanReason": "rdm"
+    },
+    "smartschool_boy9": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "rdm killing during admin sit"
     }
 }
