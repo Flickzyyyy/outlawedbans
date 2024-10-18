@@ -834,5 +834,9 @@
     "Cocaine.daddy": {
         "banneduntil": "2099/9/9",
         "BanReason": "Hard r, racism, homophobia"
+    },
+    "Bloodyfaralisabel": {
+        "banneduntil": "2024/10/18",
+        "BanReason": "ban reduce"
     }
 }
