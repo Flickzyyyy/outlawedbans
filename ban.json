@@ -838,5 +838,9 @@
     "Bloodyfaralisabel": {
         "banneduntil": "2024/10/18",
         "BanReason": "ban reduce"
+    },
+    "The.Fungus": {
+        "banneduntil": "2024/10/20",
+        "BanReason": "rdm"
     }
 }
