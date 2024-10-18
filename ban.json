@@ -778,5 +778,9 @@
     "MilkOreo21": {
         "banneduntil": "2024/10/22",
         "BanReason": "cop targeting"
+    },
+    "SlimyAn": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "soft a"
     }
 }
