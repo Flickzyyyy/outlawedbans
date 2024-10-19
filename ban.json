@@ -746,5 +746,9 @@
     "Kafka092": {
         "banneduntil": "2024/10/22",
         "BanReason": "evading ban by using an alt"
+    },
+    "Rhino12344323222": {
+        "banneduntil": "2024/10/22",
+        "BanReason": "cop targeting"
     }
 }
