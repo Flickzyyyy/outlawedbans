@@ -786,5 +786,9 @@
     "PizzaGuy21": {
         "banneduntil": "2024/10/23",
         "BanReason": "Rdm and cop targeting"
+    },
+    "Vamp1re_168": {
+        "banneduntil": "2024/11/2",
+        "BanReason": "f-slur"
     }
 }
