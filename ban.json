@@ -790,5 +790,9 @@
     "Vamp1re_168": {
         "banneduntil": "2024/11/2",
         "BanReason": "f-slur"
+    },
+    "Preston231": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "hard r"
     }
 }
