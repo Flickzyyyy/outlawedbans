@@ -774,5 +774,9 @@
     "Reich": {
         "banneduntil": "2024/10/22",
         "BanReason": "Ignored rdm warning"
+    },
+    "waterloggedNB": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unabn"
     }
 }
