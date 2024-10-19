@@ -758,5 +758,9 @@
     "Piggypop": {
         "banneduntil": "2024/10/22",
         "BanReason": "cop targeting and rdm"
+    },
+    "Richardbaze": {
+        "banneduntil": "2024/10/22",
+        "BanReason": "rdm cop targeting and leaving to avoid ban"
     }
 }
