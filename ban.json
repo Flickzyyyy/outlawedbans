@@ -123,21 +123,9 @@
         "banneduntil": "2099/10/6",
         "BanReason": "n word"
     },
-    "Jonescj24": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "F slur"
-    },
-    "Lechungusmunch": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "F slur"
-    },
     "Betastingdienst": {
         "banneduntil": "2025/01/01",
         "BanReason": "racial claims and RDM"
-    },
-    "primitive_pap_smear": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "F slur"
     },
     "akontop47": {
         "banneduntil": "2050/10/5",
@@ -146,14 +134,6 @@
     "AkOnTop7": {
         "banneduntil": "2099/10/1",
         "BanReason": "n word and cop target"
-    },
-    "Spiritknight909": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "f slur"
-    },
-    "yrmom766": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "mass cop targeting and camping pd"
     },
     "lil_trippie556": {
         "banneduntil": "2050/01/01",
@@ -367,10 +347,6 @@
         "banneduntil": "2090/10/10",
         "BanReason": "Hard r"
     },
-    "fisharecool": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "Ignored rdm warning"
-    },
     "roadwarrior2.0": {
         "banneduntil": "2099/9/9",
         "BanReason": "hard r"
@@ -378,10 +354,6 @@
     "fireballxls": {
         "banneduntil": "2024/10/23",
         "BanReason": "RDM and camping bank"
-    },
-    "FentSoldHere": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "mass rdm"
     },
     "MooMooChicken": {
         "banneduntil": "2024/10/23",
@@ -571,17 +543,9 @@
         "banneduntil": "2024/10/20",
         "BanReason": "Cop target"
     },
-    "Smught": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "RDM"
-    },
     "Xollow.334": {
         "banneduntil": "2024/10/29",
         "BanReason": "n word"
-    },
-    "dereckcuhzz": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "rdm"
     },
     "SKELEboi1": {
         "banneduntil": "2050/01/01",
@@ -602,14 +566,6 @@
     "8I8.LA": {
         "banneduntil": "2024/10/20",
         "BanReason": "mass rdm/ruining admin sit"
-    },
-    "WareHouseLA": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "RDM and leaving during admin sit"
-    },
-    "WarehouseLA": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "rdm and leaving during admin sit"
     },
     "minkeyman": {
         "banneduntil": "2024/10/30",
@@ -723,10 +679,6 @@
         "banneduntil": "2024/10/21",
         "BanReason": "rdm killing during admin sit"
     },
-    "Jackdaddyyy": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "rdm and leaving during admin sit"
-    },
     "Basti808": {
         "banneduntil": "2099/10/10",
         "BanReason": "n word hard r"
@@ -782,9 +734,5 @@
     "SlimyAn": {
         "banneduntil": "2024/10/23",
         "BanReason": "soft a"
-    },
-    "R2D2760": {
-        "banneduntil": "2024/10/19",
-        "BanReason": "rdm and cop targeting"
     }
 }
