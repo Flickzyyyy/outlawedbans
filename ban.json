@@ -774,5 +774,9 @@
     "Reich": {
         "banneduntil": "2024/10/22",
         "BanReason": "Ignored rdm warning"
+    },
+    "Crashboy4309": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "Rdm and cop targeting"
     }
 }
