@@ -734,5 +734,9 @@
     "SlimyAn": {
         "banneduntil": "2024/10/23",
         "BanReason": "soft a"
+    },
+    "Animekid0623": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "RDM"
     }
 }
