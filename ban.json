@@ -794,5 +794,9 @@
     "Preston231": {
         "banneduntil": "2099/9/9",
         "BanReason": "hard r"
+    },
+    "Pdiddywithbabyoil": {
+        "banneduntil": "2024/10/21",
+        "BanReason": "rdm"
     }
 }
