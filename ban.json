@@ -778,5 +778,9 @@
     "dounutgod": {
         "banneduntil": "2024/10/24",
         "BanReason": "rdm"
+    },
+    "dodgey-doge": {
+        "banneduntil": "2024/10/24",
+        "BanReason": "rdm"
     }
 }
