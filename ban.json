@@ -730,5 +730,9 @@
     "72Krewe": {
         "banneduntil": "2024/10/21",
         "BanReason": "rdm"
+    },
+    "xxxSMOKExxx": {
+        "banneduntil": "2024/10/27",
+        "BanReason": "mass rdm"
     }
 }
