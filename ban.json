@@ -738,5 +738,9 @@
     "kadensterned2010": {
         "banneduntil": "2024/10/24",
         "BanReason": "rdm"
+    },
+    "BenJammin88": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "bank camping rdm"
     }
 }
