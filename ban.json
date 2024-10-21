@@ -790,5 +790,9 @@
     "Dariomolina": {
         "banneduntil": "2024/10/23",
         "BanReason": "cop targeting"
+    },
+    "Mada200913": {
+        "banneduntil": "2024/11/4",
+        "BanReason": "f-slur and leaving to escape ban"
     }
 }
