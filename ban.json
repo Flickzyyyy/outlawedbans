@@ -770,5 +770,9 @@
     "moonlight.vrfs": {
         "banneduntil": "2024/10/25",
         "BanReason": "rdm and killing during admin sit"
+    },
+    "Prodegetic": {
+        "banneduntil": "2024/10/24",
+        "BanReason": "rdm"
     }
 }
