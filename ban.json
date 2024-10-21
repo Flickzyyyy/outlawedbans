@@ -822,5 +822,9 @@
     "BattleAx8279": {
         "banneduntil": "2024/10/25",
         "BanReason": "rdm"
+    },
+    "BigJudge509": {
+        "banneduntil": "2024/10/28",
+        "BanReason": "mass rdm"
     }
 }
