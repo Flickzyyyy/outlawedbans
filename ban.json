@@ -834,5 +834,9 @@
     "BUTTER6381": {
         "banneduntil": "2024/10/25",
         "BanReason": "rdm"
+    },
+    "CreativCats": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "Mass rdm"
     }
 }
