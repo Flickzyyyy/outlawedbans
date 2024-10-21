@@ -826,5 +826,9 @@
     "Gorge_Floyld": {
         "banneduntil": "2099/10/25",
         "BanReason": "Hard R"
+    },
+    "Zentatha": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "sexual harassment"
     }
 }
