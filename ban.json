@@ -794,5 +794,9 @@
     "Mada200913": {
         "banneduntil": "2024/11/4",
         "BanReason": "f-slur and leaving to escape ban"
+    },
+    "ZHH787": {
+        "banneduntil": "2024/10/24",
+        "BanReason": "rdm"
     }
 }
