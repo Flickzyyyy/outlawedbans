@@ -830,5 +830,9 @@
     "b_rad616maulob00": {
         "banneduntil": "2024/10/28",
         "BanReason": "mass rdm"
+    },
+    "BUTTER6381": {
+        "banneduntil": "2024/10/25",
+        "BanReason": "rdm"
     }
 }
