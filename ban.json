@@ -810,5 +810,9 @@
     "Kevin Kelly.681312": {
         "banneduntil": "2024/11/2",
         "BanReason": "f-slur"
+    },
+    "Xtraboba": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "rdm"
     }
 }
