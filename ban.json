@@ -822,5 +822,9 @@
     "SamRahmes": {
         "banneduntil": "2024/10/22",
         "BanReason": "rdm"
+    },
+    "Gorge_Floyld": {
+        "banneduntil": "2099/10/25",
+        "BanReason": "Hard R"
     }
 }
