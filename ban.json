@@ -834,5 +834,9 @@
     "Zentetha": {
         "banneduntil": "2050/01/01",
         "BanReason": "sexual harassment"
+    },
+    "METAZ123": {
+        "banneduntil": "2024/10/25",
+        "BanReason": "sexual harassment"
     }
 }
