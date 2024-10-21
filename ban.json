@@ -786,5 +786,9 @@
     "TechSupport1": {
         "banneduntil": "2024/10/28",
         "BanReason": "Mass RDM"
+    },
+    "Dariomolina": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "cop targeting"
     }
 }
