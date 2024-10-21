@@ -774,5 +774,9 @@
     "Prodegetic": {
         "banneduntil": "2024/10/24",
         "BanReason": "rdm"
+    },
+    "D4DDYGH0ST": {
+        "banneduntil": "2024/10/28",
+        "BanReason": "Mass RDM"
     }
 }
