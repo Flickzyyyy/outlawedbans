@@ -818,5 +818,9 @@
     "FrankEms": {
         "banneduntil": "2024/10/24",
         "BanReason": "cop targeting"
+    },
+    "BattleAx8279": {
+        "banneduntil": "2024/10/25",
+        "BanReason": "rdm"
     }
 }
