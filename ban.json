@@ -802,5 +802,9 @@
     "BountyHunter801": {
         "banneduntil": "2024/10/28",
         "BanReason": "mass rdm"
+    },
+    "rosaventino": {
+        "banneduntil": "2024/10/23",
+        "BanReason": "rdm"
     }
 }
