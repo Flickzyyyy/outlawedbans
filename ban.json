@@ -798,5 +798,9 @@
     "jeremy.pickle": {
         "banneduntil": "2024/10/25",
         "BanReason": "coo target"
+    },
+    "3832.balls": {
+        "banneduntil": "2024/10/25",
+        "BanReason": "cop target"
     }
 }
