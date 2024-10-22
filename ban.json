@@ -786,5 +786,9 @@
     "ebuckner4": {
         "banneduntil": "2024/10/24",
         "BanReason": "rdm and killing during admin sit"
+    },
+    "teevee2": {
+        "banneduntil": "2025/05/05",
+        "BanReason": "young"
     }
 }
