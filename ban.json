@@ -858,5 +858,9 @@
     "AlphaRaubtier": {
         "banneduntil": "2024/10/23",
         "BanReason": "rdm and leaving during admin sit"
+    },
+    "Kay.011424": {
+        "banneduntil": "2024/10/25",
+        "BanReason": "Rdm cop targeting and leaving during admin sit"
     }
 }
