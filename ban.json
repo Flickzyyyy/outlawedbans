@@ -850,5 +850,9 @@
     "fadedpigeon2000": {
         "banneduntil": "2024/10/24",
         "BanReason": "rdm"
+    },
+    "BuckTheWanderer": {
+        "banneduntil": "2024/11/04",
+        "BanReason": "f slur"
     }
 }
