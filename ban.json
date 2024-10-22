@@ -790,5 +790,9 @@
     "teevee2": {
         "banneduntil": "2025/05/05",
         "BanReason": "young"
+    },
+    "A-person69420": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "cop targeting"
     }
 }
