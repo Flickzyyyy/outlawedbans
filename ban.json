@@ -838,5 +838,9 @@
     "Ted_is_cool": {
         "banneduntil": "2024/10/26",
         "BanReason": "Mass rdm"
+    },
+    "SlowRanger": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "cop targeting and leaving during admin sit"
     }
 }
