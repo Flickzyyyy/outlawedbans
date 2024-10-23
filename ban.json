@@ -822,5 +822,9 @@
     "b_e_e_n.SM": {
         "banneduntil": "2024/10/27",
         "BanReason": "rdm and left during sit"
+    },
+    "soul.vibe": {
+        "banneduntil": "2050/10/10",
+        "BanReason": "hard r"
     }
 }
