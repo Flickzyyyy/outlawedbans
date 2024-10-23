@@ -830,5 +830,9 @@
     "Sol144": {
         "banneduntil": "2024/10/29",
         "BanReason": "Mass RDM"
+    },
+    "Sol133": {
+        "banneduntil": "2024/10/29",
+        "BanReason": "Mass RDM"
     }
 }
