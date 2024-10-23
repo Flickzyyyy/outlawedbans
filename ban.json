@@ -826,5 +826,9 @@
     "soul.vibe": {
         "banneduntil": "2050/10/10",
         "BanReason": "hard r"
+    },
+    "Sol144": {
+        "banneduntil": "2024/10/29",
+        "BanReason": "Mass RDM"
     }
 }
