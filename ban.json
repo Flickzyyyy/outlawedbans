@@ -782,5 +782,9 @@
     "frog111111": {
         "banneduntil": "2024/10/31",
         "BanReason": "Cop Targeting"
+    },
+    "Richardbaze": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "rdm"
     }
 }
