@@ -726,5 +726,9 @@
     "sigma215": {
         "banneduntil": "2024/10/26",
         "BanReason": "Left during admin sit"
+    },
+    "knifeman52": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "f-slur"
     }
 }
