@@ -770,5 +770,9 @@
     "Ale_17ace189": {
         "banneduntil": "2024/10/27",
         "BanReason": "Admin evading"
+    },
+    "Cfred_customs": {
+        "banneduntil": "2024/11/1",
+        "BanReason": "Mass rdm"
     }
 }
