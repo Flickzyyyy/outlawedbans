@@ -794,5 +794,9 @@
     "PigeonHadFun": {
         "banneduntil": "Rdm",
         "BanReason": "2024/10/25"
+    },
+    "paulmfmoorhead.2024": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "rdm and ban evading"
     }
 }
