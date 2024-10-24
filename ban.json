@@ -738,5 +738,9 @@
     "Gamerforce.1": {
         "banneduntil": "2024/11/7",
         "BanReason": "Fslur"
+    },
+    "flying_gorrilla": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "Fslur/nword"
     }
 }
