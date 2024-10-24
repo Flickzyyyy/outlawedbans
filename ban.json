@@ -746,5 +746,9 @@
     "Peter140": {
         "banneduntil": "2059/5/5",
         "BanReason": "Hard r"
+    },
+    "LazyPandaPerson": {
+        "banneduntil": "2024/10/27",
+        "BanReason": "Cop target"
     }
 }
