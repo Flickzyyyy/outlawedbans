@@ -722,5 +722,9 @@
     "Landlord_Gringo": {
         "banneduntil": "2024/10/28",
         "BanReason": "Rdmed two people including a lawmen"
+    },
+    "sigma215": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "Left during admin sit"
     }
 }
