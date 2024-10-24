@@ -790,5 +790,9 @@
     "Jinx_innit": {
         "banneduntil": "2024/11/6",
         "BanReason": "f slur"
+    },
+    "PigeonHadFun": {
+        "banneduntil": "Rdm",
+        "BanReason": "2024/10/25"
     }
 }
