@@ -766,5 +766,9 @@
     "netgds23": {
         "banneduntil": "2024/10/27",
         "BanReason": "Rdm"
+    },
+    "Ale_17ace189": {
+        "banneduntil": "2024/10/27",
+        "BanReason": "Admin evading"
     }
 }
