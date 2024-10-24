@@ -762,5 +762,9 @@
     "bradybuc": {
         "banneduntil": "2024/10/31",
         "BanReason": "Mass RDM"
+    },
+    "netgds23": {
+        "banneduntil": "2024/10/27",
+        "BanReason": "Rdm"
     }
 }
