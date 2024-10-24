@@ -742,5 +742,9 @@
     "flying_gorrilla": {
         "banneduntil": "2024/11/7",
         "BanReason": "Fslur/nword"
+    },
+    "Peter140": {
+        "banneduntil": "2059/5/5",
+        "BanReason": "Hard r"
     }
 }
