@@ -750,5 +750,9 @@
     "LazyPandaPerson": {
         "banneduntil": "2024/10/27",
         "BanReason": "Cop target"
+    },
+    "Kafkaisque01": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "Rdm"
     }
 }
