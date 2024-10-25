@@ -782,5 +782,9 @@
     "Jc42116": {
         "banneduntil": "2024/10/26",
         "BanReason": "Multiple failed rdms"
+    },
+    "Mr.Breyden": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "Rdm"
     }
 }
