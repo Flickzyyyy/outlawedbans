@@ -790,5 +790,9 @@
     "olympicmnkeyswimmer": {
         "banneduntil": "2020/1/1",
         "BanReason": "unban"
+    },
+    "Snake-Oil": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
