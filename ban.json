@@ -774,5 +774,9 @@
     "Luis_Levi": {
         "banneduntil": "2055/5/5",
         "BanReason": "Hard r"
+    },
+    "littlerunner.202212": {
+        "banneduntil": "2055/1/1",
+        "BanReason": "Hard r"
     }
 }
