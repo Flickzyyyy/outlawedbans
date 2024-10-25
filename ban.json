@@ -770,5 +770,9 @@
     "RothchildDescendant": {
         "banneduntil": "2024/10/27",
         "BanReason": "Rdm"
+    },
+    "Luis_Levi": {
+        "banneduntil": "2055/5/5",
+        "BanReason": "Hard r"
     }
 }
