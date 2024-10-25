@@ -778,5 +778,9 @@
     "PanzerB0ss": {
         "banneduntil": "2024/11/1",
         "BanReason": "Mass rdm n left"
+    },
+    "Jc42116": {
+        "banneduntil": "2024/10/26",
+        "BanReason": "Multiple failed rdms"
     }
 }
