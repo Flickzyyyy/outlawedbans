@@ -584,8 +584,8 @@
         "BanReason": "Mass RDM"
     },
     "TechSupport1": {
-        "banneduntil": "2024/10/28",
-        "BanReason": "Mass RDM"
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     },
     "Mada200913": {
         "banneduntil": "2024/11/4",
@@ -786,5 +786,13 @@
     "Mr.Breyden": {
         "banneduntil": "2024/10/26",
         "BanReason": "Rdm"
+    },
+    "olympicmnkeyswimmer": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
+    },
+    "Snake-Oil": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
