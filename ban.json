@@ -794,5 +794,9 @@
     "Diddy": {
         "banneduntil": "1/1/24",
         "BanReason": "Good"
+    },
+    "LilHeall": {
+        "banneduntil": "10/27/50",
+        "BanReason": "Hard R"
     }
 }
