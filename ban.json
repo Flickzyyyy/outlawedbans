@@ -774,5 +774,9 @@
     "Baba42.27K": {
         "banneduntil": "2024/11/9",
         "BanReason": "f-slur"
+    },
+    "ghoulvanqisher": {
+        "banneduntil": "2024/11/2",
+        "BanReason": "cop targeting mass rdm leaving to escape ban"
     }
 }
