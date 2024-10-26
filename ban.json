@@ -786,5 +786,9 @@
     "LocalTweaker": {
         "banneduntil": "2024/11/18",
         "BanReason": "Soft A"
+    },
+    "WarehouseLA": {
+        "banneduntil": "10/27/24",
+        "BanReason": "Rdm after warming"
     }
 }
