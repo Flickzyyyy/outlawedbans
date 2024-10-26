@@ -790,5 +790,9 @@
     "WarehouseLA": {
         "banneduntil": "2024/10/27",
         "BanReason": "Rdm after warming"
+    },
+    "Diddy": {
+        "banneduntil": "10/27/24",
+        "BanReason": "Bad"
     }
 }
