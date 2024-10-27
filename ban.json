@@ -794,5 +794,9 @@
     "gingie.002": {
         "banneduntil": "2055/1/1",
         "BanReason": "Multiple F slur and sexual harassment"
+    },
+    "Archbebop": {
+        "banneduntil": "2024/10/29",
+        "BanReason": "RDM"
     }
 }
