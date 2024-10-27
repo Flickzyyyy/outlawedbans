@@ -766,5 +766,9 @@
     "Coferland": {
         "banneduntil": "2055/1/1",
         "BanReason": "Hard R"
+    },
+    "JUL1": {
+        "banneduntil": "2024/10/29",
+        "BanReason": "rdm leaving to escape a ban"
     }
 }
