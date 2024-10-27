@@ -786,5 +786,9 @@
     "IDK0066": {
         "banneduntil": "2024/10/29",
         "BanReason": "rdm"
+    },
+    "IDK90066": {
+        "banneduntil": "2024/10/29",
+        "BanReason": "rdm"
     }
 }
