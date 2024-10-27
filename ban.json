@@ -782,5 +782,9 @@
     "yummyisgood": {
         "banneduntil": "2999/10/10",
         "BanReason": "n-word hard r mass rdm"
+    },
+    "IDK0066": {
+        "banneduntil": "2024/10/29",
+        "BanReason": "rdm"
     }
 }
