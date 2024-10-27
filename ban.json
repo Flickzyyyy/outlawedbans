@@ -794,5 +794,9 @@
     "Bradley2021": {
         "banneduntil": "2020/1/1",
         "BanReason": "unban"
+    },
+    "SHNOGLE.EVIL": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
