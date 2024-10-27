@@ -746,5 +746,9 @@
     "arthur.morgan.10.127465": {
         "banneduntil": "2345/5/5",
         "BanReason": "Hard r"
+    },
+    "lirenheim": {
+        "banneduntil": "2024/11/2",
+        "BanReason": "Rdm"
     }
 }
