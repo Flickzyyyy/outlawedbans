@@ -798,5 +798,9 @@
     "SHNOGLE.EVIL": {
         "banneduntil": "2020/1/1",
         "BanReason": "unban"
+    },
+    "Athlmas.4c4969": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
