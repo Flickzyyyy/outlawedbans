@@ -790,5 +790,9 @@
     "yummyisgood": {
         "banneduntil": "2999/10/10",
         "BanReason": "n-word hard r mass rdm"
+    },
+    "Bradley2021": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
