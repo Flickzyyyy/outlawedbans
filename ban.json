@@ -790,5 +790,9 @@
     "carter255": {
         "banneduntil": "2025/5/1",
         "BanReason": "underagep"
+    },
+    "gingie.002": {
+        "banneduntil": "2055/1/1",
+        "BanReason": "Multiple F slur and sexual harassment"
     }
 }
