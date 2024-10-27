@@ -742,5 +742,9 @@
     "Archbebop": {
         "banneduntil": "2024/10/29",
         "BanReason": "RDM"
+    },
+    "arthur.morgan.10.127465": {
+        "banneduntil": "2345/5/5",
+        "BanReason": "Hard r"
     }
 }
