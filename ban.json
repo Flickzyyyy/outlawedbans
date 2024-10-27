@@ -762,5 +762,9 @@
     "WarehouseLA": {
         "banneduntil": "2050/01/01",
         "BanReason": "hard r"
+    },
+    "Coferland": {
+        "banneduntil": "2055/1/1",
+        "BanReason": "Hard R"
     }
 }
