@@ -786,5 +786,9 @@
     "Nilinternet": {
         "banneduntil": "2024/11/1",
         "BanReason": "Mass rdm"
+    },
+    "yummyisgood": {
+        "banneduntil": "2999/10/10",
+        "BanReason": "n-word hard r mass rdm"
     }
 }
