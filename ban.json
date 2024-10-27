@@ -758,5 +758,9 @@
     "LieutenantBear": {
         "banneduntil": "2024/11/03",
         "BanReason": "mass rdm"
+    },
+    "WarehouseLA": {
+        "banneduntil": "2050/01/01",
+        "BanReason": "hard r"
     }
 }
