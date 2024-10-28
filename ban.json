@@ -818,5 +818,9 @@
     "Faygo_4000": {
         "banneduntil": "2024/10/31",
         "BanReason": "Rdm killing during admin sit"
+    },
+    "Gninja4life": {
+        "banneduntil": "2027/01/01",
+        "BanReason": "under age"
     }
 }
