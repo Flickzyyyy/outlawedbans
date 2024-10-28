@@ -810,5 +810,9 @@
     "MrGadi": {
         "banneduntil": "2024/11/27",
         "BanReason": "Rdm and soft a"
+    },
+    "Wisk_VR": {
+        "banneduntil": "2024/10/29",
+        "BanReason": "rdm and leaving to escape ban"
     }
 }
