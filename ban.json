@@ -826,5 +826,9 @@
     "jraff2121": {
         "banneduntil": "2024/10/30",
         "BanReason": "RDM"
+    },
+    "JacobPhantom": {
+        "banneduntil": "2024/10/30",
+        "BanReason": "RDM"
     }
 }
