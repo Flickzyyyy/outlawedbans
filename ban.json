@@ -810,5 +810,9 @@
     "not_him47": {
         "banneduntil": "2099/10/10",
         "BanReason": "hard r"
+    },
+    "Aztec_83505": {
+        "banneduntil": "2024/10/30",
+        "BanReason": "rdm"
     }
 }
