@@ -832,7 +832,7 @@
         "BanReason": "RDM"
     },
     "Battle.Droid": {
-        "banneduntil": "2024/11/3",
+        "banneduntil": "2024/11/1",
         "BanReason": "Rdm :("
     }
 }
