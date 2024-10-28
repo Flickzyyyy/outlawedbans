@@ -814,5 +814,9 @@
     "Wisk_VR": {
         "banneduntil": "2024/10/29",
         "BanReason": "rdm and leaving to escape ban"
+    },
+    "Faygo_4000": {
+        "banneduntil": "2024/10/31",
+        "BanReason": "Rdm killing during admin sit"
     }
 }
