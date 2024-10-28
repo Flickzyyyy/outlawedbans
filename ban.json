@@ -806,5 +806,9 @@
     "1660ti": {
         "banneduntil": "2024/10/31",
         "BanReason": "Rdm"
+    },
+    "not_him47": {
+        "banneduntil": "2099/10/10",
+        "BanReason": "hard r"
     }
 }
