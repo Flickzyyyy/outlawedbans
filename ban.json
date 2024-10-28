@@ -834,5 +834,9 @@
     "PynnicalVR": {
         "banneduntil": "2024/11/3",
         "BanReason": "mass rdm"
+    },
+    "1660ti": {
+        "banneduntil": "2024/10/31",
+        "BanReason": "Rdm"
     }
 }
