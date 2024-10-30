@@ -806,5 +806,9 @@
     "demo5566": {
         "banneduntil": "2024/11/7",
         "BanReason": "Rdm and ban evade"
+    },
+    "Xx_potatoxX": {
+        "banneduntil": "2024/11/5",
+        "BanReason": "Rdm and admin sit evade"
     }
 }
