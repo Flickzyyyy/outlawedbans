@@ -770,5 +770,9 @@
     "skibidi": {
         "banneduntil": "2024/11/5",
         "BanReason": "Camping"
+    },
+    "AOD_TJ": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "HARD R"
     }
 }
