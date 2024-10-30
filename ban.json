@@ -774,5 +774,9 @@
     "AOD_TJ": {
         "banneduntil": "2099/9/9",
         "BanReason": "HARD R"
+    },
+    "Vrgamer213": {
+        "banneduntil": "2024/31/10",
+        "BanReason": "Rdm"
     }
 }
