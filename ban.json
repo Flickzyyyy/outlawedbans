@@ -810,5 +810,9 @@
     "Xx_potatoxX": {
         "banneduntil": "2024/11/5",
         "BanReason": "Rdm and admin sit evade"
+    },
+    "Gumfund": {
+        "banneduntil": "2025/12/1",
+        "BanReason": "Underage and kill during admin sit"
     }
 }
