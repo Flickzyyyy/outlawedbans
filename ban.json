@@ -794,5 +794,9 @@
     "netgds23": {
         "banneduntil": "2024/11/4",
         "BanReason": "Mass RDM"
+    },
+    "BasedHankHill": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
