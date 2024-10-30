@@ -818,5 +818,9 @@
     "Lesterbadass": {
         "banneduntil": "2024/11/5",
         "BanReason": "Camping"
+    },
+    "skibidi": {
+        "banneduntil": "2024/11/5",
+        "BanReason": "Camping"
     }
 }
