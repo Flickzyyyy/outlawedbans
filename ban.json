@@ -798,5 +798,9 @@
     "BasedHankHill": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "whatsupbrothersketchhere": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "Racism"
     }
 }
