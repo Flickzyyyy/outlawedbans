@@ -850,5 +850,9 @@
     "skidmarkbandit": {
         "banneduntil": "2024/11/03",
         "BanReason": "Rdm"
+    },
+    "FrostyManVR": {
+        "banneduntil": "2024/11/04",
+        "BanReason": "Rdm"
     }
 }
