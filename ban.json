@@ -814,5 +814,9 @@
     "Weed pen": {
         "banneduntil": "2099/09/08",
         "BanReason": "F slur"
+    },
+    "weedpen": {
+        "banneduntil": "2089/08/09",
+        "BanReason": "Fslur"
     }
 }
