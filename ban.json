@@ -810,5 +810,9 @@
     "Makocaine": {
         "banneduntil": "2024/11/6",
         "BanReason": "mass rdm"
+    },
+    "46251": {
+        "banneduntil": "2024/11/6",
+        "BanReason": "mass rdm"
     }
 }
