@@ -798,5 +798,9 @@
     "Metip": {
         "banneduntil": "2024/11/6",
         "BanReason": "mass rdm"
+    },
+    "mt2009mt": {
+        "banneduntil": "2024/11/2",
+        "BanReason": "rdm and leaving to escape ban"
     }
 }
