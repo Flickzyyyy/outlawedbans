@@ -806,5 +806,9 @@
     "Becalm805": {
         "banneduntil": "2024/11/6",
         "BanReason": "mass rdm"
+    },
+    "Makocaine": {
+        "banneduntil": "2024/11/6",
+        "BanReason": "mass rdm"
     }
 }
