@@ -834,5 +834,9 @@
     "Richardbaze": {
         "banneduntil": "2024/11/2",
         "BanReason": "Cop target"
+    },
+    "ghoulvanquisher": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "Mass rdm camping"
     }
 }
