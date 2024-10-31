@@ -802,5 +802,9 @@
     "mt2009mt": {
         "banneduntil": "2024/11/2",
         "BanReason": "rdm and leaving to escape ban"
+    },
+    "Alii_Althanii": {
+        "banneduntil": "2024/11/3",
+        "BanReason": "Rdm"
     }
 }
