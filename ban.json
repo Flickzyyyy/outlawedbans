@@ -826,5 +826,9 @@
     "mrdog_90": {
         "banneduntil": "2099/8/8",
         "BanReason": "Hard R multiple times"
+    },
+    "Sawman1999": {
+        "banneduntil": "2024/11/6",
+        "BanReason": "mass rdm and kill in a admin sit"
     }
 }
