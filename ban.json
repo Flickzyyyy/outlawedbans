@@ -822,5 +822,9 @@
     "Steph240sx": {
         "banneduntil": "2024/10/31",
         "BanReason": "rdm"
+    },
+    "mrdog_90": {
+        "banneduntil": "2099/8/8",
+        "BanReason": "Hard R multiple times"
     }
 }
