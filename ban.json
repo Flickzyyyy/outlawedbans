@@ -806,5 +806,9 @@
     "Alii_Althanii": {
         "banneduntil": "2024/11/3",
         "BanReason": "Rdm"
+    },
+    "Pookiez": {
+        "banneduntil": "2024/11/2",
+        "BanReason": "Rdm"
     }
 }
