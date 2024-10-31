@@ -846,5 +846,9 @@
     "Ninjakatss": {
         "banneduntil": "2024/11/03",
         "BanReason": "Rdm"
+    },
+    "skidmarkbandit": {
+        "banneduntil": "2024/11/03",
+        "BanReason": "Rdm"
     }
 }
