@@ -818,5 +818,9 @@
     "weedpen": {
         "banneduntil": "2089/08/09",
         "BanReason": "Fslur"
+    },
+    "nexter.2022": {
+        "banneduntil": "2024/11/02",
+        "BanReason": "Rdm"
     }
 }
