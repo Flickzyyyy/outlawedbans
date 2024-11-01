@@ -854,5 +854,9 @@
     "Luegy69": {
         "banneduntil": "2333/1/1",
         "BanReason": "Hard r"
+    },
+    "smokeyguy": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "mass rdm and evading"
     }
 }
