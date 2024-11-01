@@ -862,5 +862,9 @@
     "Ryan_Gosling_The_Goosemaster": {
         "banneduntil": "2024/11/12",
         "BanReason": "Cop targeting, RDM, Harassment"
+    },
+    "Ryan_Gosling_The_Goonmaster": {
+        "banneduntil": "2024/11/12",
+        "BanReason": "Cop targeting, RDM, Harassment"
     }
 }
