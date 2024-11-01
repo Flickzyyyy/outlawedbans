@@ -858,5 +858,9 @@
     "Alec_VR": {
         "banneduntil": "2024/11/4",
         "BanReason": "RDM"
+    },
+    "Ryan_Gosling_The_Goosemaster": {
+        "banneduntil": "2024/11/12",
+        "BanReason": "Cop targeting, RDM, Harassment"
     }
 }
