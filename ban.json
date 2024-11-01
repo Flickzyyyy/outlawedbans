@@ -870,5 +870,9 @@
     "CHUNGEY_VR": {
         "banneduntil": "2024/11/9",
         "BanReason": "Cop Targeting, Admin Evasion"
+    },
+    "retrodude": {
+        "banneduntil": "2055/1/1",
+        "BanReason": "Hard r"
     }
 }
