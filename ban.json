@@ -858,5 +858,9 @@
     "smokeyguy": {
         "banneduntil": "2024/11/14",
         "BanReason": "mass rdm and evading"
+    },
+    "grey1243": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "Hard R"
     }
 }
