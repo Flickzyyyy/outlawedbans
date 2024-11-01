@@ -866,5 +866,9 @@
     "Ryan_Gosling_The_Goonmaster": {
         "banneduntil": "2024/11/12",
         "BanReason": "Cop targeting, RDM, Harassment"
+    },
+    "CHUNGEY_VR": {
+        "banneduntil": "2024/11/9",
+        "BanReason": "Cop Targeting, Admin Evasion"
     }
 }
