@@ -854,5 +854,9 @@
     "capislayer1991.2022": {
         "banneduntil": "2024/11/4",
         "BanReason": "RDM"
+    },
+    "Alec_VR": {
+        "banneduntil": "2024/11/4",
+        "BanReason": "RDM"
     }
 }
