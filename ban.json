@@ -886,5 +886,9 @@
     "Littletimmy9293": {
         "banneduntil": "2024/11/11",
         "BanReason": "Cop targeting, RDM, Admin Evasion"
+    },
+    "Tacobell_OP": {
+        "banneduntil": "2024/11/11",
+        "BanReason": "RDM, Admin Evasion"
     }
 }
