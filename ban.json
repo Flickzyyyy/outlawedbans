@@ -854,5 +854,9 @@
     "King76983": {
         "banneduntil": "2024/11/5",
         "BanReason": "Cop target"
+    },
+    "JPS2525": {
+        "banneduntil": "2024/11/9",
+        "BanReason": "rdm killing in admin sit"
     }
 }
