@@ -898,5 +898,9 @@
     "Camham05": {
         "banneduntil": "2024/11/16",
         "BanReason": "Mass RDM, Admin evasion"
+    },
+    "fisharecool": {
+        "banneduntil": "2024/11/16",
+        "BanReason": "Mass RDM, Admin evasion"
     }
 }
