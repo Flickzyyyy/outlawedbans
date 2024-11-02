@@ -922,5 +922,9 @@
     "MichaelCorvette": {
         "banneduntil": "2999/8/8",
         "BanReason": "RDM, Admin Evasion"
+    },
+    "gho3tguy": {
+        "banneduntil": "2024/11/9",
+        "BanReason": "RDM"
     }
 }
