@@ -926,5 +926,9 @@
     "gho3tguy": {
         "banneduntil": "2024/11/9",
         "BanReason": "RDM"
+    },
+    "gho3tyguy": {
+        "banneduntil": "2024/11/9",
+        "BanReason": "RDM"
     }
 }
