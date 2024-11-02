@@ -846,5 +846,9 @@
     "Tacobell_OP": {
         "banneduntil": "2024/11/11",
         "BanReason": "RDM, Admin Evasion"
+    },
+    "Xenalee2179": {
+        "banneduntil": "2999/8/8",
+        "BanReason": "RDM and hard R"
     }
 }
