@@ -914,5 +914,9 @@
     "tabor.clown": {
         "banneduntil": "2024/11/10",
         "BanReason": "RDM, Admin Evasion"
+    },
+    "Ocasio2430": {
+        "banneduntil": "2024/11/5",
+        "BanReason": "RDM"
     }
 }
