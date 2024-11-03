@@ -926,5 +926,9 @@
     "Bababooey81": {
         "banneduntil": "2024/11/10",
         "BanReason": "mass rdm"
+    },
+    "JUL1": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "Mass rdm"
     }
 }
