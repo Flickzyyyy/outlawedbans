@@ -938,5 +938,9 @@
     "TeamFortress2_Gaming": {
         "banneduntil": "2024/11/8",
         "BanReason": "Rdm ban evade"
+    },
+    "smlock_vr": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "Cop target"
     }
 }
