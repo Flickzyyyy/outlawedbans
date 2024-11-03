@@ -966,5 +966,9 @@
     "Grandpa_Bread": {
         "banneduntil": "2024/11/7",
         "BanReason": "Suicide when arrested"
+    },
+    "materialxrvr": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "Suicide when arrested"
     }
 }
