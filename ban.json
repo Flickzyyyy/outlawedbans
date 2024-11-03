@@ -942,5 +942,9 @@
     "smlock_vr": {
         "banneduntil": "2024/11/7",
         "BanReason": "Cop target"
+    },
+    "iwasheree": {
+        "banneduntil": "2024/11/6",
+        "BanReason": "Cop target"
     }
 }
