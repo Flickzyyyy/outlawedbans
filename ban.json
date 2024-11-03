@@ -946,5 +946,9 @@
     "iwasheree": {
         "banneduntil": "2024/11/6",
         "BanReason": "Cop target"
+    },
+    "killer.271.2023": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "Mass rdm"
     }
 }
