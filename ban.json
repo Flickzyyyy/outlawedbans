@@ -958,5 +958,9 @@
     "Zilla26": {
         "banneduntil": "2024/11/6",
         "BanReason": "Rdm"
+    },
+    "Faygo_4000": {
+        "banneduntil": "2024/11/5",
+        "BanReason": "cop target"
     }
 }
