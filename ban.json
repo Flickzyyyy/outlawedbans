@@ -994,5 +994,9 @@
     "PrimeJake": {
         "banneduntil": "2099/11/3",
         "BanReason": "Hard R multiple times"
+    },
+    "keepkreepn2": {
+        "banneduntil": "2099/11/3",
+        "BanReason": "Hard R"
     }
 }
