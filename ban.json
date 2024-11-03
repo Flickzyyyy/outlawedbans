@@ -990,5 +990,9 @@
     "1660ti": {
         "banneduntil": "2024/11/17",
         "BanReason": "Mass RDM, Admin evasion"
+    },
+    "PrimeJake": {
+        "banneduntil": "2099/11/3",
+        "BanReason": "Hard R multiple times"
     }
 }
