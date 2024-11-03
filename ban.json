@@ -982,5 +982,9 @@
     "diddysfavoritevictim": {
         "banneduntil": "2024/11/7",
         "BanReason": "Suicide when arrested"
+    },
+    "Major_Problem": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "Suicide when arrested"
     }
 }
