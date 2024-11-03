@@ -954,5 +954,9 @@
     "lefvckyou": {
         "banneduntil": "2024/11/12",
         "BanReason": "f slur and admin evasion"
+    },
+    "Zilla26": {
+        "banneduntil": "2024/11/6",
+        "BanReason": "Rdm"
     }
 }
