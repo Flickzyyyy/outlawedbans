@@ -922,5 +922,9 @@
     "R1sktak4r": {
         "banneduntil": "2999/8/8",
         "BanReason": "Every slur in the book"
+    },
+    "Bababooey81": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "mass rdm"
     }
 }
