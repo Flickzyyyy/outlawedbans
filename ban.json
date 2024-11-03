@@ -962,5 +962,9 @@
     "OCYCOCKY": {
         "banneduntil": "2099/11/3",
         "BanReason": "Hard R multiple times"
+    },
+    "Grandpa_Bread": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "Suicide when arrested"
     }
 }
