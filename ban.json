@@ -934,5 +934,9 @@
     "scrapfarmer": {
         "banneduntil": "2024/11/17",
         "BanReason": "F-slur"
+    },
+    "TeamFortress2_Gaming": {
+        "banneduntil": "2024/11/8",
+        "BanReason": "Rdm ban evade"
     }
 }
