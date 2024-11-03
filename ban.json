@@ -910,5 +910,9 @@
     "Faygo_4000": {
         "banneduntil": "2024/11/5",
         "BanReason": "cop target"
+    },
+    "Goofyaaaah": {
+        "banneduntil": "2024/11/16",
+        "BanReason": "Mass RDM"
     }
 }
