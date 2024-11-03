@@ -958,5 +958,9 @@
     "mitchellswag999": {
         "banneduntil": "2024/11/6",
         "BanReason": "RDM"
+    },
+    "OCYCOCKY": {
+        "banneduntil": "2099/11/3",
+        "BanReason": "Hard R multiple times"
     }
 }
