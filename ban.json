@@ -1014,5 +1014,9 @@
     "palpetine": {
         "banneduntil": "2024/12/04",
         "BanReason": "Mass RDM, F Slur, Cop Target"
+    },
+    "batman21214": {
+        "banneduntil": "2024/11/08",
+        "BanReason": "Cop target"
     }
 }
