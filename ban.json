@@ -1000,8 +1000,8 @@
         "BanReason": "Hard R"
     },
     "Holosight1": {
-        "banneduntil": "2099/10/10",
-        "BanReason": "hard r"
+        "banneduntil": "2000/01/01",
+        "BanReason": "unban"
     },
     "RareRain": {
         "banneduntil": "2024/11/10",
