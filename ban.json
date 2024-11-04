@@ -1026,5 +1026,9 @@
     "milk_liker": {
         "banneduntil": "2024/11/8",
         "BanReason": "RDM"
+    },
+    "MJdagoat2323": {
+        "banneduntil": "2024/11/11",
+        "BanReason": "Mass RDM, cop target"
     }
 }
