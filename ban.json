@@ -1014,5 +1014,9 @@
     "Ranger_Edge": {
         "banneduntil": "2024/11/10",
         "BanReason": "Mass RDM"
+    },
+    "themarksman": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "RDM"
     }
 }
