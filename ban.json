@@ -998,5 +998,9 @@
     "keepkreepn2": {
         "banneduntil": "2099/11/3",
         "BanReason": "Hard R"
+    },
+    "Holosight1": {
+        "banneduntil": "2099/10/10",
+        "BanReason": "hard r"
     }
 }
