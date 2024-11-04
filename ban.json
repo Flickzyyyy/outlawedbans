@@ -1022,5 +1022,9 @@
     "PhantmXBbg": {
         "banneduntil": "2024/11/9",
         "BanReason": "Mass Rdm"
+    },
+    "milk_liker": {
+        "banneduntil": "2024/11/8",
+        "BanReason": "RDM"
     }
 }
