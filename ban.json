@@ -1022,5 +1022,9 @@
     "Gaming30000yt5.2.0": {
         "banneduntil": "2024/11/06",
         "BanReason": "Admin Evasion : RDM"
+    },
+    "pibus1208": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "ALT"
     }
 }
