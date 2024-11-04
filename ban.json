@@ -1026,5 +1026,9 @@
     "pibus1208": {
         "banneduntil": "2099/11/11",
         "BanReason": "ALT"
+    },
+    "blitz15": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "N WORD"
     }
 }
