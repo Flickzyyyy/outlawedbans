@@ -1002,5 +1002,9 @@
     "illnessofeverill": {
         "banneduntil": "2024/11/8",
         "BanReason": "RDM"
+    },
+    "Gas_69": {
+        "banneduntil": "2099/11/04",
+        "BanReason": "N WORD"
     }
 }
