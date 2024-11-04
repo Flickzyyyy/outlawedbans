@@ -1006,5 +1006,9 @@
     "Gas_69": {
         "banneduntil": "2099/11/04",
         "BanReason": "N WORD"
+    },
+    "graflucdecrew": {
+        "banneduntil": "2024/11/11",
+        "BanReason": "Cop Target"
     }
 }
