@@ -1010,5 +1010,9 @@
     "graflucdecrew": {
         "banneduntil": "2024/11/11",
         "BanReason": "Cop Target"
+    },
+    "palpetine": {
+        "banneduntil": "2024/12/04",
+        "BanReason": "Mass RDM, F Slur, Cop Target"
     }
 }
