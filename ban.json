@@ -1010,5 +1010,9 @@
     "huskyProduct691": {
         "banneduntil": "2024/11/17",
         "BanReason": "F slur"
+    },
+    "Ranger_Edge": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "Mass RDM"
     }
 }
