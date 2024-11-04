@@ -994,5 +994,9 @@
     "Verbz18": {
         "banneduntil": "2024/11/11",
         "BanReason": "Mass RDM"
+    },
+    "da.dream": {
+        "banneduntil": "2024/11/7",
+        "BanReason": "rdm"
     }
 }
