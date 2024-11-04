@@ -1018,5 +1018,9 @@
     "batman21214": {
         "banneduntil": "2024/11/08",
         "BanReason": "Cop target"
+    },
+    "Gaming30000yt5.2.0": {
+        "banneduntil": "2024/11/06",
+        "BanReason": "Admin Evasion : RDM"
     }
 }
