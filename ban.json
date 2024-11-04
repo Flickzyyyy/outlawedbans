@@ -1002,5 +1002,9 @@
     "Holosight1": {
         "banneduntil": "2099/10/10",
         "BanReason": "hard r"
+    },
+    "RareRain": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "mass rdm in admin sir"
     }
 }
