@@ -1046,5 +1046,9 @@
     "King_York": {
         "banneduntil": "2099/11/11",
         "BanReason": "N WORD"
+    },
+    "ww2sargeDEUTCHLAND": {
+        "banneduntil": "2024/11/8",
+        "BanReason": "Cop target"
     }
 }
