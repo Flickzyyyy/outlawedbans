@@ -1030,5 +1030,9 @@
     "ww2sargeDEUTCHLAND": {
         "banneduntil": "2024/11/8",
         "BanReason": "Cop target"
+    },
+    "josiah.408656": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "N WORD"
     }
 }
