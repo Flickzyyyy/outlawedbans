@@ -1050,5 +1050,9 @@
     "ww2sargeDEUTCHLAND": {
         "banneduntil": "2024/11/8",
         "BanReason": "Cop target"
+    },
+    "doc_holiday1880": {
+        "banneduntil": "2024/11/6",
+        "BanReason": "Cop target"
     }
 }
