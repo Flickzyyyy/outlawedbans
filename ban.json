@@ -1042,5 +1042,9 @@
     "jd.vance.766783": {
         "banneduntil": "2077/9/2",
         "BanReason": "hard R"
+    },
+    "Ocasio2430": {
+        "banneduntil": "2024/11/9",
+        "BanReason": "cop target/rdm"
     }
 }
