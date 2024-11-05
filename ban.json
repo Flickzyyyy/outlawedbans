@@ -1026,5 +1026,9 @@
     "WSPSTORM": {
         "banneduntil": "2099/11/11",
         "BanReason": "Racist Cunt"
+    },
+    "ww2sargeDEUTCHLAND": {
+        "banneduntil": "2024/1/1",
+        "BanReason": "Unban"
     }
 }
