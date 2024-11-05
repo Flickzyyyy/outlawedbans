@@ -1050,5 +1050,9 @@
     "wockhardt_jo": {
         "banneduntil": "2099/11/11",
         "BanReason": "N WORD"
+    },
+    "Landon.s21": {
+        "banneduntil": "2024/11/9",
+        "BanReason": "cop target/rdm"
     }
 }
