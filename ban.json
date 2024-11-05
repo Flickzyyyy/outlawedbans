@@ -1042,5 +1042,9 @@
     "SlimyAn": {
         "banneduntil": "2024/11/11",
         "BanReason": "Mass RDM"
+    },
+    "King_York": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "N WORD"
     }
 }
