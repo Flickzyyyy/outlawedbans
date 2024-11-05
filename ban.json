@@ -1058,5 +1058,9 @@
     "AIYKZ": {
         "banneduntil": "2099/1/7",
         "BanReason": "HARD R"
+    },
+    "WarTrooper2.0": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "Mass RDM, Cop Targeting"
     }
 }
