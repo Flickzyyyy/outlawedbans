@@ -1078,5 +1078,9 @@
     "p_tq": {
         "banneduntil": "RDM, rejoining after warning/kick",
         "BanReason": "2024/11/11"
+    },
+    "CrazyR505": {
+        "banneduntil": "RDM, Killing during adim sit",
+        "BanReason": "2024/11/14"
     }
 }
