@@ -1070,5 +1070,9 @@
     "Coalhat": {
         "banneduntil": "2024/11/10",
         "BanReason": "RDM"
+    },
+    "negan3464": {
+        "banneduntil": "Mass RDM",
+        "BanReason": "2024/11/15"
     }
 }
