@@ -1066,5 +1066,9 @@
     "AJMando": {
         "banneduntil": "2024/11/12",
         "BanReason": "MassRDM"
+    },
+    "Coalhat": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "RDM"
     }
 }
