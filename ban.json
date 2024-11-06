@@ -1062,5 +1062,9 @@
     "WarTrooper2.0": {
         "banneduntil": "2024/11/14",
         "BanReason": "Mass RDM, Cop Targeting"
+    },
+    "AJMando": {
+        "banneduntil": "2024/11/12",
+        "BanReason": "MassRDM"
     }
 }
