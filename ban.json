@@ -1074,5 +1074,9 @@
     "negan3464": {
         "banneduntil": "Mass RDM",
         "BanReason": "2024/11/15"
+    },
+    "p_tq": {
+        "banneduntil": "RDM, rejoining after warning/kick",
+        "BanReason": "2024/11/11"
     }
 }
