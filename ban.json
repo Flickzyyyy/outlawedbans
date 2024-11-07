@@ -994,5 +994,9 @@
     "Wildturtle357": {
         "banneduntil": "2025/1/1",
         "BanReason": "Soft a and admin evade"
+    },
+    "Netgds23": {
+        "banneduntil": "2024/11/21",
+        "BanReason": "Cop targeting and left game during sit ( evade )"
     }
 }
