@@ -998,5 +998,9 @@
     "Netgds23": {
         "banneduntil": "2024/11/21",
         "BanReason": "Cop targeting and left game during sit ( evade )"
+    },
+    "AdrianGoat15": {
+        "banneduntil": "2024/11/21",
+        "BanReason": "Cop targeting, camping in room,RDM"
     }
 }
