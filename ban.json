@@ -1010,5 +1010,9 @@
     "SpecterFix": {
         "banneduntil": "2024/11/11",
         "BanReason": "Cop targeting"
+    },
+    "ricky_vr": {
+        "banneduntil": "2024.11.10-12.00.00pm",
+        "BanReason": "Rdm"
     }
 }
