@@ -1014,5 +1014,9 @@
     "ricky_vr": {
         "banneduntil": "2024.11.10-12.00.00pm",
         "BanReason": "Rdm"
+    },
+    "TheSDB": {
+        "banneduntil": "2021.10.1",
+        "BanReason": "Unban"
     }
 }
