@@ -1034,5 +1034,9 @@
     "Waffle_Water": {
         "banneduntil": "2024/11/10",
         "BanReason": "Cop targeting"
+    },
+    "SpecterFix": {
+        "banneduntil": "2024/11/11",
+        "BanReason": "Cop targeting"
     }
 }
