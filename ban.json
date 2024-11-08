@@ -1006,5 +1006,9 @@
     "YRG_Gangsta4KT": {
         "banneduntil": "2024/11/11",
         "BanReason": "RDM"
+    },
+    "Mro0off": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "Racist"
     }
 }
