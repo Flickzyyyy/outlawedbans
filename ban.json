@@ -1014,5 +1014,9 @@
     "davidgoins.2023": {
         "banneduntil": "2099/11/11",
         "BanReason": "Racist"
+    },
+    "jstdly": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "RDM"
     }
 }
