@@ -994,5 +994,9 @@
     "TheSDB": {
         "banneduntil": "2021.10.1",
         "BanReason": "Unban"
+    },
+    "Jackish.the.wackish": {
+        "banneduntil": "2099/11/8",
+        "BanReason": "Hard R, mass RDM, camping"
     }
 }
