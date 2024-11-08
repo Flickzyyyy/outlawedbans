@@ -1018,5 +1018,9 @@
     "jstdly": {
         "banneduntil": "2024/11/10",
         "BanReason": "RDM"
+    },
+    "whywhy10111": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "Mass RDM"
     }
 }
