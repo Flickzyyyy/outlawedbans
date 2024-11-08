@@ -998,5 +998,9 @@
     "Jackish.the.wackish": {
         "banneduntil": "2099/11/8",
         "BanReason": "Hard R, mass RDM, camping"
+    },
+    "MozyMango_042": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Mass RDM,Cop targeting, camping, evasion"
     }
 }
