@@ -1006,5 +1006,9 @@
     "darknessfallen": {
         "banneduntil": "2024/11/15",
         "BanReason": "Mass RDM, Cop targeting"
+    },
+    "Igotyamister": {
+        "banneduntil": "2024/11/12",
+        "BanReason": "Cop Targeting"
     }
 }
