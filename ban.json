@@ -1025,6 +1025,6 @@
     },
     "User": {
         "banneduntil": "2024/11/30",
-        "BanReason": "testing"
+        "BanReason": "test"
     }
 }
