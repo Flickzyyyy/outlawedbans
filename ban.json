@@ -1046,5 +1046,9 @@
     "deatheye1249": {
         "banneduntil": "2024/11/14",
         "BanReason": "mass rdm"
+    },
+    "tortoise07": {
+        "banneduntil": "2024/11/10",
+        "BanReason": "rdm"
     }
 }
