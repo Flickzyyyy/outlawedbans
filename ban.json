@@ -1090,5 +1090,9 @@
     "Hank109TWD": {
         "banneduntil": "2024/11/17",
         "BanReason": "Cop targeting, mass rdm first offence"
+    },
+    "Major_Problem": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "mass rdm"
     }
 }
