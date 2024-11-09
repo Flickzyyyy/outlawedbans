@@ -1110,5 +1110,9 @@
     "BlueDragon27": {
         "banneduntil": "2024/11/23",
         "BanReason": "f slur"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2024/11/23",
+        "BanReason": "mass rdm, cop target shot me for no reason as well as many civilians"
     }
 }
