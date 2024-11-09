@@ -1026,5 +1026,9 @@
     "User": {
         "banneduntil": "2024/11/30",
         "BanReason": "test"
+    },
+    "cannonball462": {
+        "banneduntil": "2024/11/15",
+        "BanReason": "Mass rdm n left"
     }
 }
