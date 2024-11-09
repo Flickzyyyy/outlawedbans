@@ -1054,5 +1054,9 @@
     "Jack_Maston24878": {
         "banneduntil": "2099/1/9",
         "BanReason": "hard R"
+    },
+    "PickleKing": {
+        "banneduntil": "2024/11/15",
+        "BanReason": "Mass RDM"
     }
 }
