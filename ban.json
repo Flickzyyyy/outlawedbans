@@ -1038,5 +1038,9 @@
     "Chiko15": {
         "banneduntil": "2024/11/10",
         "BanReason": "RDM"
+    },
+    "Mrroxy3": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "RDM Cop targeting evade"
     }
 }
