@@ -1062,5 +1062,9 @@
     "King_Zack420": {
         "banneduntil": "2024/11/17",
         "BanReason": "RDM then evade \"oh shit my oculus is dying\""
+    },
+    "RCPTE": {
+        "banneduntil": "2024/11/13",
+        "BanReason": "rdm"
     }
 }
