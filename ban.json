@@ -1086,5 +1086,9 @@
     "UndeadAfr0": {
         "banneduntil": "2099/1/1",
         "BanReason": "Mass RDM, Camping"
+    },
+    "Monkey87.2023": {
+        "banneduntil": "2024/11/26",
+        "BanReason": "Mass rdm and evade"
     }
 }
