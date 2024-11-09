@@ -1082,5 +1082,9 @@
     "Johnjock1234": {
         "banneduntil": "2024/11/10",
         "BanReason": "Rdm after warning"
+    },
+    "UndeadAfr0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Mass RDM, Camping"
     }
 }
