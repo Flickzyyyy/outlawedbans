@@ -1042,5 +1042,9 @@
     "Mrroxy3": {
         "banneduntil": "2024/11/17",
         "BanReason": "RDM Cop targeting evade"
+    },
+    "deatheye1249": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "mass rdm"
     }
 }
