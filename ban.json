@@ -1050,5 +1050,9 @@
     "tortoise07": {
         "banneduntil": "2024/11/10",
         "BanReason": "rdm"
+    },
+    "BrazilianSex": {
+        "banneduntil": "2024/11/13",
+        "BanReason": "rdm"
     }
 }
