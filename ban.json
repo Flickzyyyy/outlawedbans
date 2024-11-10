@@ -1146,5 +1146,9 @@
     "Himsir": {
         "banneduntil": "2024/11/17",
         "BanReason": "cop target rdm"
+    },
+    "E55.567": {
+        "banneduntil": "2o24/11/10",
+        "BanReason": "cop target rdm"
     }
 }
