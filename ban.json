@@ -1122,5 +1122,9 @@
     "Hammer3309": {
         "banneduntil": "2099/11/9",
         "BanReason": "Hard R"
+    },
+    "Antilles.vr": {
+        "banneduntil": "2099/11/9",
+        "BanReason": "Hard R"
     }
 }
