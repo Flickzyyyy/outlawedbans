@@ -1166,5 +1166,9 @@
     "130054k": {
         "banneduntil": "2024/11/24",
         "BanReason": "F-Slur"
+    },
+    "Karl.Marx": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "RDM, Cop targeting, evade, refusal to act properly during an admin sit killed me multiple times during the sit"
     }
 }
