@@ -1154,5 +1154,9 @@
     "mkstermustache": {
         "banneduntil": "2020/1/1",
         "BanReason": "unban"
+    },
+    "Capt.Price141": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
