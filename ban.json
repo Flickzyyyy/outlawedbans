@@ -1222,5 +1222,9 @@
     "Darthurv": {
         "banneduntil": "2024/11/11",
         "BanReason": "Rdm"
+    },
+    "Orkedss": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "Mass rdm"
     }
 }
