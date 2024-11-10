@@ -1202,5 +1202,9 @@
     "TwistdBill": {
         "banneduntil": "2024/11/30",
         "BanReason": "rdm, cop target"
+    },
+    "Jacktgedipper16": {
+        "banneduntil": "2024/11/13",
+        "BanReason": "R slur"
     }
 }
