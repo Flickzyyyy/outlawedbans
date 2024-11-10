@@ -1214,5 +1214,9 @@
     "Teamfortress2_gaming": {
         "banneduntil": "2024/11/11",
         "BanReason": "Stop duping"
+    },
+    "Dartherv": {
+        "banneduntil": "2024/11/11",
+        "BanReason": "Rdm"
     }
 }
