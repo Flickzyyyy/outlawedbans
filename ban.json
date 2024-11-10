@@ -1146,5 +1146,13 @@
     "Fredo121212": {
         "banneduntil": "2024/11/12",
         "BanReason": "RDM, Cop target, evade"
+    },
+    "SHNOGLE.EVIL": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
+    },
+    "Ranger_Edge": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "n word"
     }
 }
