@@ -1142,5 +1142,9 @@
     "DMLSolosAgain": {
         "banneduntil": "2099/11/9",
         "BanReason": "Hard R"
+    },
+    "Himsir": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "cop target rdm"
     }
 }
