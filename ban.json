@@ -1162,5 +1162,9 @@
     "breaking_good69": {
         "banneduntil": "2024/11/17",
         "BanReason": "Cop Targeting, camping"
+    },
+    "130054k": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "F-Slur"
     }
 }
