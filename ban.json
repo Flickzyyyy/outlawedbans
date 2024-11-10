@@ -1158,5 +1158,9 @@
     "thegoofyahhchicken": {
         "banneduntil": "2024/11/14",
         "BanReason": "Cop targeting, RDM"
+    },
+    "Oaktree101": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "Mass RDM, cop targeting, evasion"
     }
 }
