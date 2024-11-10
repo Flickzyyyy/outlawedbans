@@ -1150,5 +1150,9 @@
     "Ranger_Edge": {
         "banneduntil": "2099/1/1",
         "BanReason": "n word"
+    },
+    "Focker190": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "rdm, cop targeting lots of evading"
     }
 }
