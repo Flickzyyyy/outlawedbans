@@ -1154,5 +1154,9 @@
     "Ranger_Edge": {
         "banneduntil": "2099/1/1",
         "BanReason": "n word"
+    },
+    "whitedeath0": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
