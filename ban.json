@@ -1170,5 +1170,9 @@
     "Karl.Marx": {
         "banneduntil": "2024/11/30",
         "BanReason": "RDM, Cop targeting, evade, refusal to act properly during an admin sit killed me multiple times during the sit"
+    },
+    "mike.webb.1840070": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "rdm, cop targeting"
     }
 }
