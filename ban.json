@@ -1146,5 +1146,9 @@
     "Fredo121212": {
         "banneduntil": "2024/11/12",
         "BanReason": "RDM, Cop target, evade"
+    },
+    "Bradley2021": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unabn"
     }
 }
