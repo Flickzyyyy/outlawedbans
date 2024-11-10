@@ -1130,5 +1130,9 @@
     "Riddimizee": {
         "banneduntil": "2024/12/1",
         "BanReason": "Soft a"
+    },
+    "Riddimizer": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Soft a"
     }
 }
