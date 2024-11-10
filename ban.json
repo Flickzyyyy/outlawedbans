@@ -1158,5 +1158,9 @@
     "coroncae": {
         "banneduntil": "2099/11/9",
         "BanReason": "Hard R"
+    },
+    "breaking_good69": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "Cop Targeting, camping"
     }
 }
