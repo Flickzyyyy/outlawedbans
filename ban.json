@@ -1190,5 +1190,9 @@
     "WhitepDiddy": {
         "banneduntil": "2024/11/17",
         "BanReason": "cop targeting, rdm"
+    },
+    "Vince0810": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
