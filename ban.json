@@ -1098,5 +1098,9 @@
     "fleshwave": {
         "banneduntil": "2024/11/17",
         "BanReason": "RDM, cop targeting(fixed so he isn't banned till 2924)"
+    },
+    "Diddysfavoritevictim": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "Cop target"
     }
 }
