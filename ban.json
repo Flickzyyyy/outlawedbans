@@ -1186,5 +1186,9 @@
     "Fx_shifty": {
         "banneduntil": "2024/12/1",
         "BanReason": "Coo targeting"
+    },
+    "WhitepDiddy": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "cop targeting, rdm"
     }
 }
