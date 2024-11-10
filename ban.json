@@ -1090,5 +1090,9 @@
     "JollyRanger": {
         "banneduntil": "2024/11/17",
         "BanReason": "RDM, Cop targeting"
+    },
+    "supermarvel9000": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "RDM, cop targeting"
     }
 }
