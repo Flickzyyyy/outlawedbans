@@ -1150,13 +1150,5 @@
     "Ranger_Edge": {
         "banneduntil": "2099/1/1",
         "BanReason": "n word"
-    },
-    "mkstermustache": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
-    },
-    "Capt.Price141": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
     }
 }
