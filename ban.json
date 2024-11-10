@@ -1154,5 +1154,9 @@
     "PopeHomer": {
         "banneduntil": "2024/11/24",
         "BanReason": "Mass RDM, Cop targeting, evasion"
+    },
+    "thegoofyahhchicken": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "Cop targeting, RDM"
     }
 }
