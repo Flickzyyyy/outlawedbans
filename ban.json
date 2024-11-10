@@ -1130,5 +1130,9 @@
     "Anstill.vr": {
         "banneduntil": "2099/11/9",
         "BanReason": "Hard R"
+    },
+    "dallasjordan": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "RDM, evasion"
     }
 }
