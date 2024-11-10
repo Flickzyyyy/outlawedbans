@@ -1110,5 +1110,9 @@
     "Trentonn": {
         "banneduntil": "2024/11/11",
         "BanReason": "cop target rdm one offense first time"
+    },
+    "imBeepBoopBop": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "Cop target, rdm"
     }
 }
