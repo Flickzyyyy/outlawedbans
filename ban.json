@@ -1122,5 +1122,9 @@
     "Pan_man_42": {
         "banneduntil": "2024/12/1",
         "BanReason": "Mass rdm and evade"
+    },
+    "B4tm4n.2023": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Cop targeting"
     }
 }
