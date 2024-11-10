@@ -1126,5 +1126,9 @@
     "Antilles.vr": {
         "banneduntil": "2099/11/9",
         "BanReason": "Hard R"
+    },
+    "Anstill.vr": {
+        "banneduntil": "2099/11/9",
+        "BanReason": "Hard R"
     }
 }
