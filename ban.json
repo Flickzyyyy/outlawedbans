@@ -1134,5 +1134,9 @@
     "dallasjordan": {
         "banneduntil": "2024/11/17",
         "BanReason": "RDM, evasion"
+    },
+    "karsenkyle": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "RDM, evasion, cop targeting"
     }
 }
