@@ -1182,5 +1182,9 @@
     "Soelveiversen": {
         "banneduntil": "2024/11/22",
         "BanReason": "Tdm"
+    },
+    "Fx_shifty": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Coo targeting"
     }
 }
