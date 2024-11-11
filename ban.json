@@ -1354,5 +1354,9 @@
     "Itsjs.cam": {
         "banneduntil": "2024/11/25",
         "BanReason": "Soft a"
+    },
+    "Kniger": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
