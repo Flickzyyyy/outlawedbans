@@ -1298,5 +1298,9 @@
     "fallout.boy.581979": {
         "banneduntil": "2026/11/10",
         "BanReason": "rdm, cop target, evade"
+    },
+    "melvin.958061": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "rdm, cop target, hard r"
     }
 }
