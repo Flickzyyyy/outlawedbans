@@ -1286,5 +1286,9 @@
     "ballistic_night13": {
         "banneduntil": "2024/12/30",
         "BanReason": "rdm, cop target evade"
+    },
+    "cowboybundle74": {
+        "banneduntil": "2099/7/9",
+        "BanReason": "hard R, Leaving to avoid ban."
     }
 }
