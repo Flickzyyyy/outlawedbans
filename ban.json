@@ -1302,5 +1302,9 @@
     "melvin.958061": {
         "banneduntil": "2099/1/1",
         "BanReason": "rdm, cop target, hard r"
+    },
+    "Masterofthisuser": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "soft a slur"
     }
 }
