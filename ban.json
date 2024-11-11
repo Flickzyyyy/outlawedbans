@@ -1290,5 +1290,9 @@
     "cowboybundle74": {
         "banneduntil": "2099/7/9",
         "BanReason": "hard R, Leaving to avoid ban."
+    },
+    "Chiko15": {
+        "banneduntil": "2024/11/15",
+        "BanReason": "evading admin sit"
     }
 }
