@@ -1346,5 +1346,9 @@
     "promsoyer": {
         "banneduntil": "2024/11/20",
         "BanReason": "cop target, mass RDM"
+    },
+    "ilymuggs": {
+        "banneduntil": "2024/11/25",
+        "BanReason": "F slur"
     }
 }
