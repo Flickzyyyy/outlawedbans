@@ -1330,5 +1330,9 @@
     "bestatnothing7": {
         "banneduntil": "2024/11/13",
         "BanReason": "rdm, cop target, evasion"
+    },
+    "SmilingAngel": {
+        "banneduntil": "RDM, Racism",
+        "BanReason": "2024/11/15"
     }
 }
