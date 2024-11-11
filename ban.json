@@ -1322,5 +1322,9 @@
     "radio123": {
         "banneduntil": "2024/11/18",
         "BanReason": "rdm cop targeting"
+    },
+    "NOTATROLL69": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "rdm, cop targeting, n word, evade, annoying ahh soundboard"
     }
 }
