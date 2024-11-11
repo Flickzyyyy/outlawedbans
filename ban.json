@@ -1338,5 +1338,9 @@
     "nateman10": {
         "banneduntil": "Mass RDM , evading admin sit",
         "BanReason": "2024/11/20"
+    },
+    "BrevenPotatoes": {
+        "banneduntil": "2024/11/12",
+        "BanReason": "RDM"
     }
 }
