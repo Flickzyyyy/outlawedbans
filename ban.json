@@ -1266,5 +1266,9 @@
     "Goats083": {
         "banneduntil": "2024/11/20",
         "BanReason": "cop target"
+    },
+    "Swandonethan": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "Cop targeting"
     }
 }
