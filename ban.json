@@ -1334,5 +1334,9 @@
     "SmilingAngel": {
         "banneduntil": "RDM, Racism",
         "BanReason": "2024/11/20"
+    },
+    "nateman10": {
+        "banneduntil": "Mass RDM , evading admin sit",
+        "BanReason": "2024/11/20"
     }
 }
