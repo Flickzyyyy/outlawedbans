@@ -1318,5 +1318,9 @@
     "xSaturnityx": {
         "banneduntil": "2099/1/1",
         "BanReason": "rdm, cop targeting, evade n word har r fuck this guy"
+    },
+    "radio123": {
+        "banneduntil": "2024/11/18",
+        "BanReason": "rdm cop targeting"
     }
 }
