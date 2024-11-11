@@ -1314,5 +1314,9 @@
     "Agentdouble00": {
         "banneduntil": "2024/11/18",
         "BanReason": "rdm and evading"
+    },
+    "ShadyShiner": {
+        "banneduntil": "2024/11/25",
+        "BanReason": "F Slur"
     }
 }
