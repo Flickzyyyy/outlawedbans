@@ -1246,5 +1246,9 @@
     "Straight guy": {
         "banneduntil": "2024/12/1",
         "BanReason": "Soft a"
+    },
+    "Straightguy": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Soft a"
     }
 }
