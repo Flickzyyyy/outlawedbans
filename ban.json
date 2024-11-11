@@ -1370,5 +1370,9 @@
     "Dvddytime23": {
         "banneduntil": "20299/1/1",
         "BanReason": "Hard r after warming  (hrs black)"
+    },
+    "Cfred_customs": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "F slur"
     }
 }
