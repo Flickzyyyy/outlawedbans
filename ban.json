@@ -1290,5 +1290,9 @@
     "BoomBapGod": {
         "banneduntil": "2024/12/1",
         "BanReason": "rdm, cop targeting, evade"
+    },
+    "Agent_Zay": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "rdm, cop target"
     }
 }
