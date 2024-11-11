@@ -1331,8 +1331,8 @@
         "banneduntil": "2024/11/17",
         "BanReason": "rdm, cop target"
     },
-    "Mustang.1549": {
+    "Mustang1549": {
         "banneduntil": "2024/11/17",
-        "BanReason": "rdm, cop target"
+        "BanReason": "rdm, coptarget"
     }
 }
