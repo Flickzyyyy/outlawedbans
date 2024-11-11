@@ -1342,5 +1342,9 @@
     "PFCPETTY": {
         "banneduntil": "2024/11/15",
         "BanReason": "cop target, RDM"
+    },
+    "promsoyer": {
+        "banneduntil": "2024/11/15",
+        "BanReason": "cop target, RDM"
     }
 }
