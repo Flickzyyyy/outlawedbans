@@ -1374,5 +1374,9 @@
     "Cfred_customs": {
         "banneduntil": "2024/11/17",
         "BanReason": "F slur"
+    },
+    "Tristanhart992": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
