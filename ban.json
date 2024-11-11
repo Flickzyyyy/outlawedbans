@@ -1274,5 +1274,9 @@
     "Swansonethan": {
         "banneduntil": "2024/11/20",
         "BanReason": "Cop targeting"
+    },
+    "Thesdb": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Mass rdm"
     }
 }
