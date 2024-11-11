@@ -1338,5 +1338,9 @@
     "nateman10": {
         "banneduntil": "Mass RDM , evading admin sit",
         "BanReason": "2024/11/20"
+    },
+    "PFCPETTY": {
+        "banneduntil": "2024/11/15",
+        "BanReason": "cop target, RDM"
     }
 }
