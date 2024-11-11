@@ -1310,5 +1310,9 @@
     "yoyokid": {
         "banneduntil": "2024/11/24",
         "BanReason": "rdm, cop targeting"
+    },
+    "SuNzET": {
+        "banneduntil": "2024/11/25",
+        "BanReason": "mass rdm, cop targetomg"
     }
 }
