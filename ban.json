@@ -1278,5 +1278,9 @@
     "Thesdb": {
         "banneduntil": "2024/12/1",
         "BanReason": "Mass rdm"
+    },
+    "yaelthenoob": {
+        "banneduntil": "2099/11/9",
+        "BanReason": "Hard R"
     }
 }
