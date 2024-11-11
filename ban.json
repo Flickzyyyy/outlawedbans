@@ -1294,5 +1294,9 @@
     "Agent_Zay": {
         "banneduntil": "2024/11/24",
         "BanReason": "rdm, cop target"
+    },
+    "fallout.boy.581979": {
+        "banneduntil": "2026/11/10",
+        "BanReason": "rdm, cop target, evade"
     }
 }
