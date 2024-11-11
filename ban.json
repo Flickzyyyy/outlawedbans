@@ -1254,5 +1254,9 @@
     "Strightguy": {
         "banneduntil": "2024/12/1",
         "BanReason": "Soft a"
+    },
+    "Cdrop": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Soft a"
     }
 }
