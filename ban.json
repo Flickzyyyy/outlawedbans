@@ -1386,5 +1386,9 @@
     "b_rad616maulob00": {
         "banneduntil": "2024/11/13",
         "BanReason": "rdm, cop target"
+    },
+    "Hotequation": {
+        "banneduntil": "2024/11/13",
+        "BanReason": "rdm, cop target"
     }
 }
