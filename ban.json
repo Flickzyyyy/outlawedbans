@@ -1370,5 +1370,9 @@
     "WafflezLovesThisGiantMeat": {
         "banneduntil": "2024/11/19",
         "BanReason": "Rdm, evade"
+    },
+    "sniffers81710": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "Rdm, evade, cop target"
     }
 }
