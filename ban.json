@@ -1374,5 +1374,9 @@
     "sniffers81710": {
         "banneduntil": "2024/11/14",
         "BanReason": "Rdm, evade, cop target"
+    },
+    "07torgtuga": {
+        "banneduntil": "2024/11/19",
+        "BanReason": "rdm, killing during admin sit"
     }
 }
