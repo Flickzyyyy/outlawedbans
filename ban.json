@@ -1406,5 +1406,9 @@
     "TomNook250": {
         "banneduntil": "2024/11/19",
         "BanReason": "Mass rdm and evade"
+    },
+    "Fiddlefat": {
+        "banneduntil": "2024/11/23",
+        "BanReason": "Mass rdm and evade"
     }
 }
