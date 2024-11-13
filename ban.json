@@ -1394,5 +1394,9 @@
     "PidgeonHadNOFun": {
         "banneduntil": "2024/11/19",
         "BanReason": "rdm, cop target, kill during sit"
+    },
+    "PigeonHadNOfun": {
+        "banneduntil": "2024/11/19",
+        "BanReason": "RDM, Cop Target, Kill in Admin Sit"
     }
 }
