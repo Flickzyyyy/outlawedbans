@@ -1426,5 +1426,9 @@
     "canyon_2986": {
         "banneduntil": "2024/11/14",
         "BanReason": "rdm, cop target multiple times"
+    },
+    "canyon_2896": {
+        "banneduntil": "2024/11/14",
+        "BanReason": "rdm, cop target multiple times"
     }
 }
