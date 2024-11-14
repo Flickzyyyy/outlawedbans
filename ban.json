@@ -1426,5 +1426,9 @@
     "Thepregnantone": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Dylan_black_23": {
+        "banneduntil": "2024/11/28",
+        "BanReason": "Mass rdm and evade"
     }
 }
