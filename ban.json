@@ -1474,5 +1474,9 @@
     "Snakee8417": {
         "banneduntil": "2024/11/15",
         "BanReason": "RDM, Cop target, warned in previous session, evade"
+    },
+    "yousuckchip": {
+        "banneduntil": "2024/11/15",
+        "BanReason": "Suicide in prison"
     }
 }
