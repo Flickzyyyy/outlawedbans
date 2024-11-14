@@ -1406,5 +1406,9 @@
     "yousuckchip": {
         "banneduntil": "2024/11/15",
         "BanReason": "Suicide in prison"
+    },
+    "iambeepboop": {
+        "banneduntil": "2024/11/29",
+        "BanReason": "Mass RDM, evade"
     }
 }
