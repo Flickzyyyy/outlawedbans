@@ -1450,5 +1450,9 @@
     "tomdv2": {
         "banneduntil": "2024/11/15",
         "BanReason": "rdm, cop targeting after refusing to follow warnings, evade(left the second we teleported him over_"
+    },
+    "Easyclaps224": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "rdm, cop target, evade, killing during sit"
     }
 }
