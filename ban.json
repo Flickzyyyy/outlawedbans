@@ -1418,5 +1418,9 @@
     "Mouse404": {
         "banneduntil": "2024/11/16",
         "BanReason": "RDM, Cop Target(sent a video by Xverse)"
+    },
+    "BabinecD1": {
+        "banneduntil": "2024/11/16",
+        "BanReason": "RDM, Cop Target(also reported by xverse)"
     }
 }
