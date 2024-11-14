@@ -1414,5 +1414,9 @@
     "iamBeepBoopBop": {
         "banneduntil": "2024/11/29",
         "BanReason": "Mass RDM, evade"
+    },
+    "Mouse404": {
+        "banneduntil": "2024/11/16",
+        "BanReason": "RDM, Cop Target(sent a video by Xverse)"
     }
 }
