@@ -1394,5 +1394,9 @@
     "limmitz": {
         "banneduntil": "2024/11/16",
         "BanReason": "rdm after warning"
+    },
+    "Griffstanker": {
+        "banneduntil": "2024/11/29",
+        "BanReason": "Fslur"
     }
 }
