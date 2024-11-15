@@ -1426,5 +1426,9 @@
     "Br0wniesss": {
         "banneduntil": "2024/11/29",
         "BanReason": "Coptargeting"
+    },
+    "Landon_the_great": {
+        "banneduntil": "2024/11/22",
+        "BanReason": "Coptargeting"
     }
 }
