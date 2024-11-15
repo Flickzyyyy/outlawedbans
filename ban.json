@@ -1454,5 +1454,9 @@
     "Bluzombi": {
         "banneduntil": "2024/11/28",
         "BanReason": "Fslur"
+    },
+    "Meowdypardner": {
+        "banneduntil": "2099/4/4",
+        "BanReason": "Hard r"
     }
 }
