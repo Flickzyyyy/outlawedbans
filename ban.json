@@ -1434,5 +1434,9 @@
     "Jmac19830723": {
         "banneduntil": "2027/11/28",
         "BanReason": "Under age"
+    },
+    "Slimyan": {
+        "banneduntil": "2024/11/16",
+        "BanReason": "Rdm"
     }
 }
