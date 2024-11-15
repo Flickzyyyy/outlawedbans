@@ -1398,5 +1398,9 @@
     "Griffstanker": {
         "banneduntil": "2024/11/29",
         "BanReason": "Fslur"
+    },
+    "gunfights.2024": {
+        "banneduntil": "2024/11/19",
+        "BanReason": "RDM"
     }
 }
