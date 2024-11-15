@@ -1410,5 +1410,9 @@
     "wamsent": {
         "banneduntil": "2099/11/11",
         "BanReason": "Yeah no"
+    },
+    "UGWAYVR": {
+        "banneduntil": "2024/11/17",
+        "BanReason": "suicide in prison multiple times"
     }
 }
