@@ -1458,5 +1458,9 @@
     "Meowdypardner": {
         "banneduntil": "2099/4/4",
         "BanReason": "Hard r"
+    },
+    "mineisbiger": {
+        "banneduntil": "2024/11/22",
+        "BanReason": "Mass rdm"
     }
 }
