@@ -1438,5 +1438,9 @@
     "Taoe": {
         "banneduntil": "2025/11/29",
         "BanReason": "Coptargeting"
+    },
+    "Soul.vibe": {
+        "banneduntil": "2024/11/29",
+        "BanReason": "Mass rdm"
     }
 }
