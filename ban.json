@@ -1462,5 +1462,9 @@
     "Coolcokes.2022": {
         "banneduntil": "2024/11/29",
         "BanReason": "Coptargeting"
+    },
+    "Harrymilne14": {
+        "banneduntil": "2024/11/26",
+        "BanReason": "Mass rdm and evade"
     }
 }
