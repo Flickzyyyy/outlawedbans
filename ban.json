@@ -1430,5 +1430,9 @@
     "boi154": {
         "banneduntil": "2024/11/26",
         "BanReason": "Rdm and evasion"
+    },
+    "satu123": {
+        "banneduntil": "2024/11/19",
+        "BanReason": "Cop target"
     }
 }
