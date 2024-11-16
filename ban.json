@@ -1450,5 +1450,9 @@
     "pearsestaker": {
         "banneduntil": "2024/11/20",
         "BanReason": "Cop target"
+    },
+    "YourCarpetFloor": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "Cop target n evade"
     }
 }
