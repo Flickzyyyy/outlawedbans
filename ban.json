@@ -1454,5 +1454,9 @@
     "YourCarpetFloor": {
         "banneduntil": "2024/11/20",
         "BanReason": "Cop target n evade"
+    },
+    "LordWolf43": {
+        "banneduntil": "2024/11/23",
+        "BanReason": "Mass"
     }
 }
