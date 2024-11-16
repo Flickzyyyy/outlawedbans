@@ -1458,5 +1458,9 @@
     "LordWolf43": {
         "banneduntil": "2024/11/23",
         "BanReason": "Mass"
+    },
+    "gradyrules100": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "Cop target"
     }
 }
