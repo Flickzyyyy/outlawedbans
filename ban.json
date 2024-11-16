@@ -1458,5 +1458,9 @@
     "Gamerforce.1": {
         "banneduntil": "2024/11/18",
         "BanReason": "RDM + Cop Target"
+    },
+    "Coolcokes.2022": {
+        "banneduntil": "2024/11/29",
+        "BanReason": "Coptargeting"
     }
 }
