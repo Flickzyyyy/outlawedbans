@@ -1474,5 +1474,9 @@
     "facil.670233": {
         "banneduntil": "2024/11/20",
         "BanReason": "Cop target"
+    },
+    "devel_eater7869": {
+        "banneduntil": "2099/5/5",
+        "BanReason": "Hard t"
     }
 }
