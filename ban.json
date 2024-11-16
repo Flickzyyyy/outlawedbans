@@ -1466,5 +1466,9 @@
     "Mayhoods12": {
         "banneduntil": "2024/11/17",
         "BanReason": "Rdm"
+    },
+    "BOT_536": {
+        "banneduntil": "2024/11/23",
+        "BanReason": "MASS"
     }
 }
