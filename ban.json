@@ -1426,5 +1426,9 @@
     "BigCheeze0": {
         "banneduntil": "2024/11/26",
         "BanReason": "maas rdm and cop targeting"
+    },
+    "boi154": {
+        "banneduntil": "2024/11/26",
+        "BanReason": "Rdm and evasion"
     }
 }
