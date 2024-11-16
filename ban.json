@@ -1446,5 +1446,9 @@
     "USEagleMarine51357": {
         "banneduntil": "2024/11/23",
         "BanReason": "Mass rdm"
+    },
+    "pearsestaker": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "Cop target"
     }
 }
