@@ -1510,5 +1510,9 @@
     "Arsenal_24": {
         "banneduntil": "2024/11/23",
         "BanReason": "Soft a"
+    },
+    "KierjiraGaming": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "RDM"
     }
 }
