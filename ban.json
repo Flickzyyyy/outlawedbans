@@ -1526,5 +1526,9 @@
     "Insidious1337": {
         "banneduntil": "2024/11/24",
         "BanReason": "RDM, Evasion"
+    },
+    "FKG_STUD": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Mass RDM, cop targeting, evasion"
     }
 }
