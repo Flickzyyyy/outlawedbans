@@ -1486,5 +1486,9 @@
     "CosmosCash": {
         "banneduntil": "2024/11/23",
         "BanReason": "rdm, cop target, evade, killing during sit"
+    },
+    "lilboss21pig2": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "rdm, cop target"
     }
 }
