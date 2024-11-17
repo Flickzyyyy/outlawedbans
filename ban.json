@@ -1506,5 +1506,9 @@
     "tom.481993": {
         "banneduntil": "2024/12/1",
         "BanReason": "rdm, cop target, evade, killing during sit I was told december 1st by <@718331944500199474>"
+    },
+    "Arsenal_24": {
+        "banneduntil": "2024/11/23",
+        "BanReason": "Soft a"
     }
 }
