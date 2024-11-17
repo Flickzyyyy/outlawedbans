@@ -1550,5 +1550,9 @@
     "Bramhollestelle2": {
         "banneduntil": "2024/12/15",
         "BanReason": "rdm, cop target, f slur"
+    },
+    "ForeverGallo": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "rdm, cop target"
     }
 }
