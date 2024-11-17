@@ -1522,5 +1522,9 @@
     "RatEnthusiast100": {
         "banneduntil": "2024/12/1",
         "BanReason": "Mass RDM, Evasion, cop targeting"
+    },
+    "Insidious1337": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "RDM, Evasion"
     }
 }
