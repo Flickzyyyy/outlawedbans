@@ -1458,5 +1458,9 @@
     "hugoelpro.2023": {
         "banneduntil": "2024/12/1",
         "BanReason": "Mass rdm and evade"
+    },
+    "phoenixabg": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "underage rdm cop target killed me during sit"
     }
 }
