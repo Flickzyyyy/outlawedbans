@@ -1566,5 +1566,9 @@
     "touristxcloser": {
         "banneduntil": "2024/12/1",
         "BanReason": "Nword"
+    },
+    "Triston20100": {
+        "banneduntil": "2024/11/19",
+        "BanReason": "rdm cop target(clipped by unlike)"
     }
 }
