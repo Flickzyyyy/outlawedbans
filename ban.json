@@ -1490,5 +1490,9 @@
     "BananaMan0831": {
         "banneduntil": "2024/11/24",
         "BanReason": "cop target, rdm, evade suicide during sit"
+    },
+    "MusicMann11": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "cop target, rdm multiple times"
     }
 }
