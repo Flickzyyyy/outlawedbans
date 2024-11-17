@@ -1518,5 +1518,9 @@
     "Firedragon479": {
         "banneduntil": "2024/11/20",
         "BanReason": "RDM"
+    },
+    "RatEnthusiast100": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Mass RDM, Evasion, cop targeting"
     }
 }
