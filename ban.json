@@ -1494,5 +1494,9 @@
     "MusicMann11": {
         "banneduntil": "2024/11/24",
         "BanReason": "cop target, rdm multiple times"
+    },
+    "Peterfulford8787": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "rdm, cop target, evade"
     }
 }
