@@ -1534,5 +1534,9 @@
     "higuyssilkecats": {
         "banneduntil": "2024/11/20",
         "BanReason": "Keeps joining after multiple kicks and warnings"
+    },
+    "higuysilkecats": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "Keeps joining after kicks"
     }
 }
