@@ -1538,5 +1538,9 @@
     "higuysilkecats": {
         "banneduntil": "2024/11/20",
         "BanReason": "Keeps joining after kicks"
+    },
+    "smokyhim123": {
+        "banneduntil": "2099/11/16",
+        "BanReason": "Hard R"
     }
 }
