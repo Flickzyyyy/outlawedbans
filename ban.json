@@ -1494,5 +1494,9 @@
     "SsssaF": {
         "banneduntil": "2024/11/30",
         "BanReason": "rdm, cop target, killing during sit"
+    },
+    "Giancarlos44": {
+        "banneduntil": "2024/11/23",
+        "BanReason": "rdm, cop target <@718331944500199474> signed this off"
     }
 }
