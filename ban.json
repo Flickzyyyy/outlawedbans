@@ -1474,5 +1474,9 @@
     "PatricksigmaBateman": {
         "banneduntil": "2024/12/1",
         "BanReason": "rdm, cop target, camping, evade, killing multiple times during sit"
+    },
+    "twins_ar_cool": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "rdm, cop target a few times"
     }
 }
