@@ -1446,5 +1446,9 @@
     "Perc30_4u": {
         "banneduntil": "2024/12/1",
         "BanReason": "Mass RDM, evasion"
+    },
+    "BigCheezeO": {
+        "banneduntil": "2024/11/26",
+        "BanReason": "maas rdm and cop targeting"
     }
 }
