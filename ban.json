@@ -1486,5 +1486,9 @@
     "SpiderVR5": {
         "banneduntil": "2024/11/19",
         "BanReason": "Cop target, rdm(send to me by unlikelyflame9)"
+    },
+    "BananaMan0831": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "cop target, rdm, evade suicide during sit"
     }
 }
