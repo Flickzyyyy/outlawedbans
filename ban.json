@@ -1562,5 +1562,9 @@
     "Touristxcloser": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "touristxcloser": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Nword"
     }
 }
