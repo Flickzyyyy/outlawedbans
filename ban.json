@@ -1514,5 +1514,9 @@
     "Gun.slinger": {
         "banneduntil": "2024/11/19",
         "BanReason": "Rdm"
+    },
+    "Traviskill1": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "Nword"
     }
 }
