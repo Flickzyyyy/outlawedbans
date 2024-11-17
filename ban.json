@@ -1482,5 +1482,9 @@
     "acidghost122": {
         "banneduntil": "2099/1/1",
         "BanReason": "rdm, killing during sit, n word"
+    },
+    "SpiderVR5": {
+        "banneduntil": "2024/11/19",
+        "BanReason": "Cop target, rdm(send to me by unlikelyflame9)"
     }
 }
