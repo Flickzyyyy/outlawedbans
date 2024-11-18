@@ -1598,5 +1598,9 @@
     "franismic": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Lucie2406": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "rdm cop target"
     }
 }
