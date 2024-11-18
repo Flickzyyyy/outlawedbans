@@ -1618,5 +1618,9 @@
     "Fireblaze1224": {
         "banneduntil": "2024/12/1",
         "BanReason": "Coptargeting"
+    },
+    "Lennon19872012": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "He's 12"
     }
 }
