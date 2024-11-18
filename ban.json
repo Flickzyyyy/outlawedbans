@@ -1574,5 +1574,9 @@
     "Carlos.35987": {
         "banneduntil": "2024/11/30",
         "BanReason": "Coptargeting"
+    },
+    "2585": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "Coptargeting"
     }
 }
