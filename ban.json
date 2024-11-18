@@ -1626,5 +1626,9 @@
     "Lucia.michalova.5": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "YourHotUncle": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
