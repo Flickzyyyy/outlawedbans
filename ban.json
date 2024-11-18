@@ -1614,5 +1614,9 @@
     "Dinoraptor1541": {
         "banneduntil": "2024/12/1",
         "BanReason": "Coptargeting"
+    },
+    "Fireblaze1224": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Coptargeting"
     }
 }
