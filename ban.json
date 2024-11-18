@@ -1634,5 +1634,9 @@
     "Namewithnumbers": {
         "banneduntil": "2024/11/20",
         "BanReason": "rdm"
+    },
+    "Bubba4355": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "n word hard r"
     }
 }
