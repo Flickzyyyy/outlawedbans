@@ -1594,5 +1594,9 @@
     "GOTHAM001": {
         "banneduntil": "2024/11/30",
         "BanReason": "Coptargeting"
+    },
+    "localfemb0y": {
+        "banneduntil": "2024/11/24",
+        "BanReason": "Mass RDM"
     }
 }
