@@ -1622,5 +1622,9 @@
     "Lennon19872012": {
         "banneduntil": "2025/4/1",
         "BanReason": "He's 12"
+    },
+    "Lucia.michalova.5": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
