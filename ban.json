@@ -1602,5 +1602,9 @@
     "JackTheDripper16": {
         "banneduntil": "2024/11/30",
         "BanReason": "F Slur"
+    },
+    "giddyshomp": {
+        "banneduntil": "2024/11/19",
+        "BanReason": "Cop target"
     }
 }
