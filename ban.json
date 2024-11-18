@@ -1578,5 +1578,9 @@
     "Chubaca1807": {
         "banneduntil": "2024/11/30",
         "BanReason": "Coptargeting"
+    },
+    "General_Rorza": {
+        "banneduntil": "2024/11/25",
+        "BanReason": "RDM/Camping gun store"
     }
 }
