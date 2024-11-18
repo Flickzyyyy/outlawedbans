@@ -1598,5 +1598,9 @@
     "localfemb0y": {
         "banneduntil": "2024/11/24",
         "BanReason": "Mass RDM"
+    },
+    "JackTheDripper16": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "F Slur"
     }
 }
