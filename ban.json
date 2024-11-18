@@ -1578,5 +1578,9 @@
     "2585": {
         "banneduntil": "2024/11/30",
         "BanReason": "Coptargeting"
+    },
+    "Mrjoe345": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "Coptargeting and evade"
     }
 }
