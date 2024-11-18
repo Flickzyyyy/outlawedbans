@@ -1566,5 +1566,9 @@
     "Derf1227": {
         "banneduntil": "2024/11/24",
         "BanReason": "F slur"
+    },
+    "A_tank112": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "Mass rdm"
     }
 }
