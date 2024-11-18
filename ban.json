@@ -1630,5 +1630,9 @@
     "YourHotUncle": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Namewithnumbers": {
+        "banneduntil": "2024/11/20",
+        "BanReason": "rdm"
     }
 }
