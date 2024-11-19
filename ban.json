@@ -1662,5 +1662,9 @@
     "migg": {
         "banneduntil": "2024/11/28",
         "BanReason": "Mass RDM, Admin Evasion"
+    },
+    "AnthonyBoi": {
+        "banneduntil": "2024/11/25",
+        "BanReason": "Mass RDM"
     }
 }
