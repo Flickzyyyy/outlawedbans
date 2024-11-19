@@ -1606,5 +1606,9 @@
     "Ayyjay_vr": {
         "banneduntil": "2024/11/20",
         "BanReason": "Suicide"
+    },
+    "TSGriffinL": {
+        "banneduntil": "2024/11/22",
+        "BanReason": "Cop target"
     }
 }
