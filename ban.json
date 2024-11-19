@@ -1650,5 +1650,9 @@
     "fadedpigeon2000": {
         "banneduntil": "2099/1/1",
         "BanReason": "n word hard r"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2024/11/25",
+        "BanReason": "rdm cop targeting"
     }
 }
