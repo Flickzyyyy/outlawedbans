@@ -1610,5 +1610,9 @@
     "TSGriffinL": {
         "banneduntil": "2024/11/22",
         "BanReason": "Cop target"
+    },
+    "monkeywinter545": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "N word hard r reported by dabo"
     }
 }
