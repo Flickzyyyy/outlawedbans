@@ -1534,5 +1534,9 @@
     "HowardLogic": {
         "banneduntil": "2024/12/13",
         "BanReason": "rdm, evasion"
+    },
+    "PizzaSubs": {
+        "banneduntil": "2024/12/13",
+        "BanReason": "rdm, evasion"
     }
 }
