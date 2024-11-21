@@ -1534,5 +1534,9 @@
     "brayden1976": {
         "banneduntil": "2024/11/29",
         "BanReason": "SPAWN RDM/COP TARGET"
+    },
+    "Side.showbob.420": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
