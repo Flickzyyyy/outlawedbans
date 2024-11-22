@@ -1582,5 +1582,9 @@
     "meh22823": {
         "banneduntil": "2024/11/25",
         "BanReason": "RDM"
+    },
+    "ExplosiveTofu": {
+        "banneduntil": "2024/11/25",
+        "BanReason": "Camping bank"
     }
 }
