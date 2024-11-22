@@ -1546,5 +1546,9 @@
     "Bipsterbro": {
         "banneduntil": "2024/11/28",
         "BanReason": "Cop targeting."
+    },
+    "Urplemonke": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Coptargeting and evade"
     }
 }
