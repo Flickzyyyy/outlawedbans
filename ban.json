@@ -1530,5 +1530,9 @@
     "Treesyippee": {
         "banneduntil": "2024/11/28",
         "BanReason": "Rdm and evade"
+    },
+    "BroCaSi": {
+        "banneduntil": "2024/12/4",
+        "BanReason": "RDM, Cop Targeting, Admin Evasion"
     }
 }
