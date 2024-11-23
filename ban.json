@@ -1526,5 +1526,9 @@
     "Trees yippee": {
         "banneduntil": "2024/11/28",
         "BanReason": "Rdm and evade"
+    },
+    "Treesyippee": {
+        "banneduntil": "2024/11/28",
+        "BanReason": "Rdm and evade"
     }
 }
