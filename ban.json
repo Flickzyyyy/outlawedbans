@@ -1486,5 +1486,9 @@
     "ExplosiveTofu": {
         "banneduntil": "2024/11/25",
         "BanReason": "Camping bank"
+    },
+    "tortoise07": {
+        "banneduntil": "2024/11/26",
+        "BanReason": "rdm, warned and reported"
     }
 }
