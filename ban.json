@@ -1502,5 +1502,9 @@
     "Walter.white2001": {
         "banneduntil": "2024/11/27",
         "BanReason": "Coptargeting"
+    },
+    "tomatosquid2": {
+        "banneduntil": "2024/11/28",
+        "BanReason": "RDM"
     }
 }
