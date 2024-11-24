@@ -1522,5 +1522,9 @@
     "clueperky": {
         "banneduntil": "2024/11/28",
         "BanReason": "Cop Targeting"
+    },
+    "blok_bud": {
+        "banneduntil": "2024/11/29",
+        "BanReason": "RDM"
     }
 }
