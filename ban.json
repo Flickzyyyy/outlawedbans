@@ -1526,5 +1526,9 @@
     "blok_bud": {
         "banneduntil": "2024/11/29",
         "BanReason": "RDM"
+    },
+    "blokk_bud": {
+        "banneduntil": "2024/12/4",
+        "BanReason": "Mass RDM. Killing in Admin Sit"
     }
 }
