@@ -1550,5 +1550,9 @@
     "Paunity.bank": {
         "banneduntil": "2024/12/11",
         "BanReason": "RDM, Cop Targeting, Alt Accounting."
+    },
+    "Name: Pavunity.bank": {
+        "banneduntil": "Date: 2024/12/11",
+        "BanReason": "Reason: RDM, Cop Targeting, Alt Accounting."
     }
 }
