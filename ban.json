@@ -1562,5 +1562,9 @@
     "Crab2723": {
         "banneduntil": "2024/11/30",
         "BanReason": "Mass RDM"
+    },
+    "Cerwy": {
+        "banneduntil": "2024/11/27",
+        "BanReason": "Rdm after warning"
     }
 }
