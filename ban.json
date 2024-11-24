@@ -1530,5 +1530,9 @@
     "blokk_bud": {
         "banneduntil": "2024/12/4",
         "BanReason": "Mass RDM. Killing in Admin Sit"
+    },
+    "bryanmills": {
+        "banneduntil": "2024/12/2",
+        "BanReason": "RDM, Admin Evasion"
     }
 }
