@@ -1538,5 +1538,9 @@
     "payourbills84": {
         "banneduntil": "2024/12/07",
         "BanReason": "F slur and evade"
+    },
+    "Paucity.bank": {
+        "banneduntil": "2024/12/11",
+        "BanReason": "RDM, Cop Targeting, Alt Accounting."
     }
 }
