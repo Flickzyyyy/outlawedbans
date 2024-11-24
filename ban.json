@@ -1506,5 +1506,9 @@
     "tomatosquid2": {
         "banneduntil": "2024/11/28",
         "BanReason": "RDM"
+    },
+    "Brick112e": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
