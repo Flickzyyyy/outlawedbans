@@ -1550,5 +1550,9 @@
     "notzowman": {
         "banneduntil": "2024/12/05",
         "BanReason": "Camping and RDM"
+    },
+    "netgds23": {
+        "banneduntil": "2024/12/01",
+        "BanReason": "Mass RDM"
     }
 }
