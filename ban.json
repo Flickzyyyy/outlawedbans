@@ -1542,5 +1542,9 @@
     "wetballsag": {
         "banneduntil": "2024/12/05",
         "BanReason": "Mass RDM and Camping"
+    },
+    "Sevzark7": {
+        "banneduntil": "2024/11/27",
+        "BanReason": "RDM"
     }
 }
