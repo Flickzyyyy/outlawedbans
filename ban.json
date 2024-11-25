@@ -1490,5 +1490,9 @@
     "netgds23": {
         "banneduntil": "2024/12/01",
         "BanReason": "Mass RDM"
+    },
+    "Chiko15": {
+        "banneduntil": "2024/11/29",
+        "BanReason": "cop target"
     }
 }
