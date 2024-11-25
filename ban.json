@@ -1534,5 +1534,9 @@
     "KarI.Marx": {
         "banneduntil": "2024/11/26",
         "BanReason": "Cop target"
+    },
+    "nigboycheese": {
+        "banneduntil": "2024/12/05",
+        "BanReason": "Mass RDM and Camping"
     }
 }
