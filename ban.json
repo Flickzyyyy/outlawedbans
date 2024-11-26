@@ -1470,5 +1470,9 @@
     "kanyewestlover91111111": {
         "banneduntil": "2024/11/28",
         "BanReason": "Cop Targeting"
+    },
+    "RCA201": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "RDM, Admin Evasion"
     }
 }
