@@ -1510,5 +1510,9 @@
     "Amf_jace": {
         "banneduntil": "2024/12/2",
         "BanReason": "Cop targeting and killing during admin sit"
+    },
+    "Themarksman": {
+        "banneduntil": "2024/12/2",
+        "BanReason": "Cop targeting after warning"
     }
 }
