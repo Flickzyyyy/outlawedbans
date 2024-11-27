@@ -1490,5 +1490,9 @@
     "gingybread.2022": {
         "banneduntil": "2024/12/7",
         "BanReason": "Cop targeting, evasion"
+    },
+    "Im_a_goldfish69": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
