@@ -1474,5 +1474,9 @@
     "Happy2hurt": {
         "banneduntil": "2024/12/10",
         "BanReason": "N word A"
+    },
+    "Stanch361": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "RDM"
     }
 }
