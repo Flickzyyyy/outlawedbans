@@ -1462,5 +1462,9 @@
     "MoonyWoony": {
         "banneduntil": "2024/12/1",
         "BanReason": "Rdm"
+    },
+    "DragonToro": {
+        "banneduntil": "2024/12/2",
+        "BanReason": "Cop target"
     }
 }
