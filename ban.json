@@ -1486,5 +1486,9 @@
     "King_Zach420": {
         "banneduntil": "2024/12/14",
         "BanReason": "Evasion,mass RDM, Cop targeting"
+    },
+    "gingybread.2022": {
+        "banneduntil": "2024/12/7",
+        "BanReason": "Cop targeting, evasion"
     }
 }
