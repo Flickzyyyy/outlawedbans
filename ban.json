@@ -1494,5 +1494,9 @@
     "Im_a_goldfish69": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Opiumgng5": {
+        "banneduntil": "2024/11/30",
+        "BanReason": "Cop target"
     }
 }
