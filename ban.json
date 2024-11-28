@@ -1438,5 +1438,9 @@
     "xrptclip": {
         "banneduntil": "2024/12/1",
         "BanReason": "RDM"
+    },
+    "Agent_Zay": {
+        "banneduntil": "2099/11/28",
+        "BanReason": "Hard R"
     }
 }
