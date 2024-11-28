@@ -1434,5 +1434,9 @@
     "USEagleMarine51357": {
         "banneduntil": "2024/12/16",
         "BanReason": "Mass RDM, evasion, cop targeting"
+    },
+    "xrptclip": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "RDM"
     }
 }
