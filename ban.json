@@ -1430,5 +1430,9 @@
     "ezz.hami081": {
         "banneduntil": "2024/12/09",
         "BanReason": "Mass RDM, cop targeting"
+    },
+    "USEagleMarine51357": {
+        "banneduntil": "2024/12/16",
+        "BanReason": "Mass RDM, evasion, cop targeting"
     }
 }
