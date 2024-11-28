@@ -1474,5 +1474,9 @@
     "Stanch361": {
         "banneduntil": "2024/11/30",
         "BanReason": "RDM"
+    },
+    "soul.vibe": {
+        "banneduntil": "2024/12/2",
+        "BanReason": "Rdm as cop"
     }
 }
