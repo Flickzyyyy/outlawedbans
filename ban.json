@@ -1450,5 +1450,9 @@
     "JOHND03": {
         "banneduntil": "2024/12/13",
         "BanReason": "Mass"
+    },
+    "HarryHZ7": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "Hard R"
     }
 }
