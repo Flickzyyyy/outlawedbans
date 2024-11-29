@@ -1418,5 +1418,9 @@
     "Texas.Red. 1008": {
         "banneduntil": "2024/12/6",
         "BanReason": "F slur"
+    },
+    "Texas.Red.1008": {
+        "banneduntil": "2024/12/12",
+        "BanReason": "F Slur"
     }
 }
