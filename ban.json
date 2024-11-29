@@ -1486,5 +1486,9 @@
     "Mike.webb.1840070": {
         "banneduntil": "2024/12/6",
         "BanReason": "Mass rdm"
+    },
+    "1660ti": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Mass rdm"
     }
 }
