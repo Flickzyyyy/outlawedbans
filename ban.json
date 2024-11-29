@@ -1438,5 +1438,9 @@
     "memesisues": {
         "banneduntil": "2024/12/2",
         "BanReason": "Cop target"
+    },
+    "tortoise07": {
+        "banneduntil": "2024/12/3",
+        "BanReason": "RDM"
     }
 }
