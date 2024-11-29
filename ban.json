@@ -1462,5 +1462,9 @@
     "mrman1231": {
         "banneduntil": "2024/12/1",
         "BanReason": "Scuicide Exploit"
+    },
+    ".the_mr_nobody.": {
+        "banneduntil": "2024/12/02",
+        "BanReason": "cop targeting"
     }
 }
