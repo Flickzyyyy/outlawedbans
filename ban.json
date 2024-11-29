@@ -1470,5 +1470,9 @@
     "Cpt.Trip": {
         "banneduntil": "2024/12/13",
         "BanReason": "F Slur"
+    },
+    "Idktoga": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Mass rdm"
     }
 }
