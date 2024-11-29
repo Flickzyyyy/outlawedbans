@@ -1458,5 +1458,9 @@
     "Notgummychicken": {
         "banneduntil": "2024/12/1",
         "BanReason": "Cop target"
+    },
+    "mrman1231": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "Scuicide Exploit"
     }
 }
