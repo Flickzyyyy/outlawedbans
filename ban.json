@@ -1474,5 +1474,9 @@
     "Idktoga": {
         "banneduntil": "2024/12/6",
         "BanReason": "Mass rdm"
+    },
+    "Red40consumer": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
