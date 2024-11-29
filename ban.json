@@ -1466,5 +1466,9 @@
     ".the_mr_nobody.": {
         "banneduntil": "2024/12/02",
         "BanReason": "cop targeting"
+    },
+    "Cpt.Trip": {
+        "banneduntil": "2024/12/13",
+        "BanReason": "F Slur"
     }
 }
