@@ -1426,5 +1426,9 @@
     "AngrywaffleXZ": {
         "banneduntil": "2024/12/2",
         "BanReason": "RDM"
+    },
+    "walter.white2001": {
+        "banneduntil": "2024/12/7",
+        "BanReason": "Mass RDM"
     }
 }
