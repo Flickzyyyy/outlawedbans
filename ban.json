@@ -1486,5 +1486,9 @@
     "TheArmyBrat": {
         "banneduntil": "2024/12/8",
         "BanReason": "RDM X2 for ban evading"
+    },
+    "Aztec_83505": {
+        "banneduntil": "2024/12/7",
+        "BanReason": "Mass"
     }
 }
