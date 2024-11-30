@@ -1450,5 +1450,9 @@
     "Leviathan_meat67": {
         "banneduntil": "2024/12/1",
         "BanReason": "RDM"
+    },
+    "DodgeyBoris": {
+        "banneduntil": "2024/12/14",
+        "BanReason": "Nword"
     }
 }
