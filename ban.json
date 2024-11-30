@@ -1466,5 +1466,9 @@
     "fentanylbandit": {
         "banneduntil": "2024/12/7",
         "BanReason": "Mass rdm"
+    },
+    "TheTaborLootSnatcher": {
+        "banneduntil": "2024/12/7",
+        "BanReason": "Mass rdm"
     }
 }
