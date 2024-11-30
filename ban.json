@@ -1478,5 +1478,9 @@
     "0.WARGO.0": {
         "banneduntil": "2024/12/7",
         "BanReason": "Mass RDM"
+    },
+    "Zsivany": {
+        "banneduntil": "2024/12/5",
+        "BanReason": "Rdm/admin evade"
     }
 }
