@@ -1534,5 +1534,9 @@
     "chance.the.capper_": {
         "banneduntil": "2024/12/6",
         "BanReason": "Mass RDM"
+    },
+    "Leviathan_meat67": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "RDM"
     }
 }
