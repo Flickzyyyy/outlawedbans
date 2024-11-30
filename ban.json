@@ -1526,5 +1526,9 @@
     "Pvt.Potato": {
         "banneduntil": "2024/12/15",
         "BanReason": "Nword soft an and ban evade- approved by 440"
+    },
+    "chance.the.capper": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Mass RDM"
     }
 }
