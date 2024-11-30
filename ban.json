@@ -1482,5 +1482,9 @@
     "Zsivany": {
         "banneduntil": "2024/12/5",
         "BanReason": "Rdm/admin evade"
+    },
+    "TheArmyBrat": {
+        "banneduntil": "2024/12/8",
+        "BanReason": "RDM X2 for ban evading"
     }
 }
