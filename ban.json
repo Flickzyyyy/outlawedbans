@@ -1530,5 +1530,9 @@
     "chance.the.capper": {
         "banneduntil": "2024/12/6",
         "BanReason": "Mass RDM"
+    },
+    "chance.the.capper_": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Mass RDM"
     }
 }
