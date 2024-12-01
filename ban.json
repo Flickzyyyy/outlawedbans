@@ -1486,5 +1486,9 @@
     "Aztec_83505": {
         "banneduntil": "2024/12/7",
         "BanReason": "Mass"
+    },
+    "KendrickLamar188": {
+        "banneduntil": "2024/12/05",
+        "BanReason": "mass RDM"
     }
 }
