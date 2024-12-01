@@ -1386,5 +1386,9 @@
     "mango1325466": {
         "banneduntil": "2024/12/3",
         "BanReason": "rdm"
+    },
+    "Zoliver20": {
+        "banneduntil": "2024/12/9",
+        "BanReason": "RDM and ban evading"
     }
 }
