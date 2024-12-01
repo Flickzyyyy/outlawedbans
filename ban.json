@@ -1462,5 +1462,9 @@
     "doc_holiday1880": {
         "banneduntil": "2024/12/10",
         "BanReason": "Coptargeting and evade"
+    },
+    "beclotus": {
+        "banneduntil": "2024/12/8",
+        "BanReason": "Cop targeting rdm and evading"
     }
 }
