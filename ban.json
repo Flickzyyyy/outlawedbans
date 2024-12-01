@@ -1454,5 +1454,9 @@
     "MR_BABYDELETER": {
         "banneduntil": "2024/12/10",
         "BanReason": "Coptargeting and evade"
+    },
+    "Noahnoyama2023": {
+        "banneduntil": "2024/12/15",
+        "BanReason": "F slur"
     }
 }
