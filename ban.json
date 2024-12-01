@@ -1355,10 +1355,6 @@
         "banneduntil": "2024/12/2",
         "BanReason": "Cop target"
     },
-    "tortoise07": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
-    },
     "MrNobody188": {
         "banneduntil": "2024/12/7",
         "BanReason": "Mass rdm"
@@ -1490,13 +1486,5 @@
     "Aztec_83505": {
         "banneduntil": "2024/12/7",
         "BanReason": "Mass"
-    },
-    "ALOE555": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
-    },
-    "Calumrickgrimes": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
     }
 }
