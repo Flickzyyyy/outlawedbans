@@ -1422,5 +1422,9 @@
     "ANTHONYISLINK": {
         "banneduntil": "2024/12/15",
         "BanReason": "Soft a"
+    },
+    "Skigma": {
+        "banneduntil": "2024/12/5",
+        "BanReason": "Mass rdm"
     }
 }
