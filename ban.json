@@ -1370,5 +1370,9 @@
     "44plays": {
         "banneduntil": "2024/12/15",
         "BanReason": "F slur"
+    },
+    "Gnxbuick": {
+        "banneduntil": "2024/12/4",
+        "BanReason": "Rdm"
     }
 }
