@@ -1458,5 +1458,9 @@
     "Noahnoyama2023": {
         "banneduntil": "2024/12/15",
         "BanReason": "F slur"
+    },
+    "doc_holiday1880": {
+        "banneduntil": "2024/12/10",
+        "BanReason": "Coptargeting and evade"
     }
 }
