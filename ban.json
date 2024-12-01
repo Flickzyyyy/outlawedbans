@@ -1442,5 +1442,9 @@
     "Al.bryant.75": {
         "banneduntil": "2027/12/7",
         "BanReason": "Cop targeting and he's 10"
+    },
+    "DrGoonToon": {
+        "banneduntil": "2024/12/10",
+        "BanReason": "Cop targeting and evading"
     }
 }
