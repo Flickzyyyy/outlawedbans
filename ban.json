@@ -1506,5 +1506,9 @@
     "Chiko15": {
         "banneduntil": "2024/12/22",
         "BanReason": "Soft A, RDM, ban evading"
+    },
+    "CheapMexican": {
+        "banneduntil": "2024/12/9",
+        "BanReason": "Madd rdm and evade"
     }
 }
