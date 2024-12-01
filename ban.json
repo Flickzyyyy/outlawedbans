@@ -1398,5 +1398,9 @@
     "ipopnarcotics": {
         "banneduntil": "2099/11/11",
         "BanReason": "Hard R"
+    },
+    "Kafkaisque01": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "RDM, cop targeting, evading"
     }
 }
