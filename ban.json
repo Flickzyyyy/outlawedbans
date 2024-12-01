@@ -1366,5 +1366,9 @@
     "Hobosandwich6": {
         "banneduntil": "2024/12/15",
         "BanReason": "Soft a"
+    },
+    "44plays": {
+        "banneduntil": "2024/12/15",
+        "BanReason": "F slur"
     }
 }
