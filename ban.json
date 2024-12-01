@@ -1490,5 +1490,9 @@
     "Aztec_83505": {
         "banneduntil": "2024/12/7",
         "BanReason": "Mass"
+    },
+    "ALOE555": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
