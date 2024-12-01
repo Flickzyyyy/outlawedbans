@@ -1502,5 +1502,9 @@
     "IDKbabybunz": {
         "banneduntil": "2024/12/6",
         "BanReason": "Evasion"
+    },
+    "Chiko15": {
+        "banneduntil": "2024/12/22",
+        "BanReason": "Soft A, RDM, ban evading"
     }
 }
