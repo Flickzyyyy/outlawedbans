@@ -1426,5 +1426,9 @@
     "Skigma": {
         "banneduntil": "2024/12/5",
         "BanReason": "Mass rdm"
+    },
+    "Yellowish": {
+        "banneduntil": "2024/12/10",
+        "BanReason": "Cop targeting and evading"
     }
 }
