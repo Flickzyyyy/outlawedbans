@@ -1446,5 +1446,9 @@
     "DrGoonToon": {
         "banneduntil": "2024/12/10",
         "BanReason": "Cop targeting and evading"
+    },
+    "Wizarddoge32": {
+        "banneduntil": "2024/12/7",
+        "BanReason": "Coptargeting"
     }
 }
