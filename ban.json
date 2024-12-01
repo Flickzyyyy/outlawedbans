@@ -1358,5 +1358,9 @@
     "CheapMexican": {
         "banneduntil": "2024/12/9",
         "BanReason": "Madd rdm and evade"
+    },
+    "Boombapgod": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
