@@ -1474,5 +1474,9 @@
     "Ayyjay_vr": {
         "banneduntil": "2098/11/11",
         "BanReason": "Hard R"
+    },
+    "isaac_but": {
+        "banneduntil": "2024/12/4",
+        "BanReason": "rdm"
     }
 }
