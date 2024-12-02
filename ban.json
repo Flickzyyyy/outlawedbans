@@ -1498,5 +1498,9 @@
     "kingvonfrmda0": {
         "banneduntil": "2024/12/4",
         "BanReason": "Cop targeting"
+    },
+    "fisharecool": {
+        "banneduntil": "2024/12/8",
+        "BanReason": "Mass RDM"
     }
 }
