@@ -1478,5 +1478,9 @@
     "soul.vibe": {
         "banneduntil": "2024/12/7",
         "BanReason": "Cop targeting and mass rdm"
+    },
+    "B1UEZ": {
+        "banneduntil": "2024/12/7",
+        "BanReason": "maas rdm"
     }
 }
