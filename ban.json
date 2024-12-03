@@ -1474,5 +1474,9 @@
     "Super-chill": {
         "banneduntil": "2024/12/9",
         "BanReason": "Coptargeting"
+    },
+    "soul.vibe": {
+        "banneduntil": "2024/12/7",
+        "BanReason": "Cop targeting and mass rdm"
     }
 }
