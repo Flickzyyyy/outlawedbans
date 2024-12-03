@@ -1470,5 +1470,9 @@
     "Ja1den2": {
         "banneduntil": "2024/12/6",
         "BanReason": "Rdm"
+    },
+    "Super-chill": {
+        "banneduntil": "2024/12/9",
+        "BanReason": "Coptargeting"
     }
 }
