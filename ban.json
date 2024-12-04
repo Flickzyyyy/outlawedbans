@@ -1490,5 +1490,9 @@
     "lightbringer.234294": {
         "banneduntil": "2026/12/31",
         "BanReason": "Under age"
+    },
+    "Choccorocco": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "MASS RDM"
     }
 }
