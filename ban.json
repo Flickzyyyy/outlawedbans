@@ -1490,5 +1490,9 @@
     "ben658798": {
         "banneduntil": "2020/1/1",
         "BanReason": "unban"
+    },
+    "Super-Chill": {
+        "banneduntil": "2020/2/2",
+        "BanReason": "unban"
     }
 }
