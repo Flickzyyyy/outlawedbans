@@ -1498,5 +1498,9 @@
     "Shyopsonme": {
         "banneduntil": "2027/12/31",
         "BanReason": "Underage"
+    },
+    "raptoVR": {
+        "banneduntil": "2024/12/8",
+        "BanReason": "RDM"
     }
 }
