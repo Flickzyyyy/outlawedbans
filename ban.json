@@ -1494,5 +1494,9 @@
     "Choccorocco": {
         "banneduntil": "2024/12/6",
         "BanReason": "MASS RDM"
+    },
+    "Shyopsonme": {
+        "banneduntil": "2027/12/31",
+        "BanReason": "Underage"
     }
 }
