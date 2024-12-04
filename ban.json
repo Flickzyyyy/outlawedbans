@@ -1502,5 +1502,9 @@
     "OT.kys.hayden": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "MrYatzu": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Mass RDM"
     }
 }
