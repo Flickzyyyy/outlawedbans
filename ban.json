@@ -1502,5 +1502,9 @@
     "raptoVR": {
         "banneduntil": "2024/12/8",
         "BanReason": "RDM"
+    },
+    "patrick.229341": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "RDM"
     }
 }
