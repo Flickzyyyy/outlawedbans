@@ -1478,5 +1478,9 @@
     "femboy.fruitbat": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Dr.Arachy": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Mass RDM"
     }
 }
