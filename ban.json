@@ -1486,5 +1486,9 @@
     "I.SNORTWIZZFIZZ1": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "lightbringer.234294": {
+        "banneduntil": "2026/12/31",
+        "BanReason": "Under age"
     }
 }
