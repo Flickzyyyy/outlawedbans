@@ -1478,5 +1478,9 @@
     "femboy.fruitbar": {
         "banneduntil": "2045/12/10",
         "BanReason": "hard r"
+    },
+    "ww2sargeDEUTCHLAND": {
+        "banneduntil": "2024/12/10",
+        "BanReason": "rdm"
     }
 }
