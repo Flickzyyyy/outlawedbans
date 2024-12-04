@@ -1494,5 +1494,9 @@
     "Joe_mama122112211221": {
         "banneduntil": "2024/12/5",
         "BanReason": "Rdm"
+    },
+    "Karl.Marx": {
+        "banneduntil": "2024/12/10",
+        "BanReason": "Mass RDM"
     }
 }
