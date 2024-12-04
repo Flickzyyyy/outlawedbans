@@ -1486,5 +1486,9 @@
     "not_that_guy87": {
         "banneduntil": "2024/12/5",
         "BanReason": "Cop targeting"
+    },
+    "PlayGameYeah": {
+        "banneduntil": "2024/12/6",
+        "BanReason": "Rdm"
     }
 }
