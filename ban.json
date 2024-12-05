@@ -1538,5 +1538,9 @@
     "OPPENHIGHMER": {
         "banneduntil": "2024/12/5",
         "BanReason": "time out"
+    },
+    "Hamper123": {
+        "banneduntil": "2027/12/31",
+        "BanReason": "Underage"
     }
 }
