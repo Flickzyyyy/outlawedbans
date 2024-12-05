@@ -1542,5 +1542,9 @@
     "Hamper123": {
         "banneduntil": "2027/12/31",
         "BanReason": "Underage"
+    },
+    "TalkingReds": {
+        "banneduntil": "2024/12/11",
+        "BanReason": "Cop Targeting, Admin Evasion"
     }
 }
