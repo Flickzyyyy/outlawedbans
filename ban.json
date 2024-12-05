@@ -1522,5 +1522,9 @@
     "the_dragon_of_the_west": {
         "banneduntil": "2099/12/12",
         "BanReason": "hard r"
+    },
+    "Bluebull83": {
+        "banneduntil": "2024/12/8",
+        "BanReason": "Cop target"
     }
 }
