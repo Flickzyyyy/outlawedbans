@@ -1534,5 +1534,9 @@
     "butteramazing": {
         "banneduntil": "2024/12/25",
         "BanReason": "F slur"
+    },
+    "OPPENHIGHMER": {
+        "banneduntil": "2024/12/5",
+        "BanReason": "time out"
     }
 }
