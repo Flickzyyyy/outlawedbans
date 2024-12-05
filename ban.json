@@ -1546,5 +1546,9 @@
     "TalkingReds": {
         "banneduntil": "2024/12/11",
         "BanReason": "Cop Targeting, Admin Evasion"
+    },
+    "MrNobodyLovesMen": {
+        "banneduntil": "2024/12/11",
+        "BanReason": "Mass RDM"
     }
 }
