@@ -1530,5 +1530,9 @@
     "Cowboy_Jackman": {
         "banneduntil": "2024/12/8",
         "BanReason": "Cop target"
+    },
+    "butteramazing": {
+        "banneduntil": "2024/12/25",
+        "BanReason": "F slur"
     }
 }
