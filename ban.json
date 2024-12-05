@@ -1550,5 +1550,9 @@
     "MrNobodyLovesMen": {
         "banneduntil": "2024/12/11",
         "BanReason": "Mass RDM"
+    },
+    "0tPickleVr": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
