@@ -1534,5 +1534,9 @@
     "femgoy": {
         "banneduntil": "2024/12/12",
         "BanReason": "RDM, Admin Evasion"
+    },
+    "landen15.2023": {
+        "banneduntil": "2024/12/12",
+        "BanReason": "rdm, cop targeting"
     }
 }
