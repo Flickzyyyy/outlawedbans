@@ -1494,5 +1494,9 @@
     "DetectiveX": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "clueperky": {
+        "banneduntil": "2024/12/20",
+        "BanReason": "N word soft A"
     }
 }
