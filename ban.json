@@ -1550,5 +1550,9 @@
     "ingrownchip4018": {
         "banneduntil": "2024/12/12",
         "BanReason": "RDM, Admin Evasion"
+    },
+    "OPPENHIGHMER": {
+        "banneduntil": "2024/12/12",
+        "BanReason": "MASS RDM"
     }
 }
