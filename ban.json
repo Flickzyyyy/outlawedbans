@@ -1486,5 +1486,9 @@
     "OrdinaryTalen21": {
         "banneduntil": "2024/12/21",
         "BanReason": "F Slur"
+    },
+    "ethan.286613": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
