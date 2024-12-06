@@ -1536,7 +1536,7 @@
         "BanReason": "RDM, Admin Evasion"
     },
     "landen15.2023": {
-        "banneduntil": "2024/12/12",
-        "BanReason": "rdm, cop targeting"
+        "banneduntil": "2024/12/14",
+        "BanReason": "rdm, cop targeting, killing at an admin sit"
     }
 }
