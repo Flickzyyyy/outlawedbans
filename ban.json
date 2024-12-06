@@ -1530,5 +1530,9 @@
     "Monkeee.Mannn": {
         "banneduntil": "2024/12/14",
         "BanReason": "Camping Bank, Admin Evasion"
+    },
+    "femgoy": {
+        "banneduntil": "2024/12/12",
+        "BanReason": "RDM, Admin Evasion"
     }
 }
