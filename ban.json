@@ -1542,5 +1542,9 @@
     "bonlon.2024": {
         "banneduntil": "2024/12/10",
         "BanReason": "RDM"
+    },
+    "bonlon.2022": {
+        "banneduntil": "2024/12/10",
+        "BanReason": "RDM"
     }
 }
