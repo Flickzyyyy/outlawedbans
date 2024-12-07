@@ -1522,5 +1522,9 @@
     "Easyclaps224": {
         "banneduntil": "2024/12/10",
         "BanReason": "RDM"
+    },
+    "ballmaster532": {
+        "banneduntil": "2024/12/8",
+        "BanReason": "RDM"
     }
 }
