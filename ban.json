@@ -1534,5 +1534,9 @@
     "Zen_FL": {
         "banneduntil": "2024/12/8",
         "BanReason": "RDM"
+    },
+    "Gdrizy": {
+        "banneduntil": "2024/12/20",
+        "BanReason": "MassRDM,evasion"
     }
 }
