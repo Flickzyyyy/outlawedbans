@@ -1530,5 +1530,9 @@
     "007ant": {
         "banneduntil": "2024/12/14",
         "BanReason": "RDM,Evasion"
+    },
+    "Zen_FL": {
+        "banneduntil": "2024/12/8",
+        "BanReason": "RDM"
     }
 }
