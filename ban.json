@@ -1514,5 +1514,9 @@
     "Ghost5115.2023": {
         "banneduntil": "11/12/24",
         "BanReason": "Police Targeting"
+    },
+    "TiredInfatryman": {
+        "banneduntil": "25/12/24",
+        "BanReason": "F-slur and RDM"
     }
 }
