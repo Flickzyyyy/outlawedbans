@@ -1530,5 +1530,9 @@
     "Ayan10": {
         "banneduntil": "2024/12/13",
         "BanReason": "Mass RDM"
+    },
+    "007ant": {
+        "banneduntil": "2024/12/14",
+        "BanReason": "RDM,Evasion"
     }
 }
