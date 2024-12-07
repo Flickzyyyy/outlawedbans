@@ -1546,5 +1546,9 @@
     "bonlon.2022": {
         "banneduntil": "2024/12/10",
         "BanReason": "RDM"
+    },
+    "mastercheifson18976": {
+        "banneduntil": "2024/12/20",
+        "BanReason": "Mass n killing in spawn"
     }
 }
