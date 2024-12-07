@@ -1510,5 +1510,9 @@
     "TomoJack": {
         "banneduntil": "2024/12/14",
         "BanReason": "mass rdm"
+    },
+    "Ghost5115.2023": {
+        "banneduntil": "11/12/24",
+        "BanReason": "Police Targeting"
     }
 }
