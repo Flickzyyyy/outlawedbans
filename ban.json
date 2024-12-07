@@ -1506,5 +1506,9 @@
     "ghostLH": {
         "banneduntil": "2024/12/09",
         "BanReason": "You've been banned for cop targeting"
+    },
+    "TomoJack": {
+        "banneduntil": "2024/12/14",
+        "BanReason": "mass rdm"
     }
 }
