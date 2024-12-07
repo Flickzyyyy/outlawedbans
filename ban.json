@@ -1558,5 +1558,9 @@
     "easy.work.37546": {
         "banneduntil": "2024/12/09",
         "BanReason": "all you gotta do was not target lawmen"
+    },
+    "ghostLH": {
+        "banneduntil": "2024/12/09",
+        "BanReason": "You've been banned for cop targeting"
     }
 }
