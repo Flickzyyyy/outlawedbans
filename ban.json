@@ -1506,5 +1506,9 @@
     "ShawnBananaBoyThe3rd": {
         "banneduntil": "2024/12/13",
         "BanReason": "RDM and abusing suicide"
+    },
+    "littleman3": {
+        "banneduntil": "2024/12/22",
+        "BanReason": "Mass RDM and Evading"
     }
 }
