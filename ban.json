@@ -1524,11 +1524,7 @@
         "BanReason": "RDM"
     },
     "ok47": {
-        "banneduntil": "12/21/24",
-        "BanReason": "F Slur"
-    },
-    "Spooky1218": {
-        "banneduntil": "12/21/24",
+        "banneduntil": "2024/12/24",
         "BanReason": "F Slur"
     }
 }
