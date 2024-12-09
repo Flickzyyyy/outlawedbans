@@ -1490,5 +1490,9 @@
     "Manry10roque": {
         "banneduntil": "2024/12/25",
         "BanReason": "F Slur"
+    },
+    "Spag.VR": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
