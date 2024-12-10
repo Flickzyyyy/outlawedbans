@@ -1494,5 +1494,9 @@
     "Spag.VR": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Whitedeath1780": {
+        "banneduntil": "2099/4/5",
+        "BanReason": "Hard r"
     }
 }
