@@ -1498,5 +1498,9 @@
     "Whitedeath1780": {
         "banneduntil": "2099/4/5",
         "BanReason": "Hard r"
+    },
+    "Dontdiddyme": {
+        "banneduntil": "2024/12/30",
+        "BanReason": "Soft a"
     }
 }
