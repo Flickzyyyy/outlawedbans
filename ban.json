@@ -1422,5 +1422,9 @@
     "D33PFKE": {
         "banneduntil": "2099/01/01",
         "BanReason": "hard r"
+    },
+    "KamalasFeet": {
+        "banneduntil": "2024/12/14",
+        "BanReason": "Rdm"
     }
 }
