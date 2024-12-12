@@ -1394,5 +1394,9 @@
     "aidencottrell05": {
         "banneduntil": "2024/12/31",
         "BanReason": "Rdm and f slur"
+    },
+    "AugustVR1945": {
+        "banneduntil": "2024/12/25",
+        "BanReason": "mass rdm"
     }
 }
