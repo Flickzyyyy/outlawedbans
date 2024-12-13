@@ -1398,5 +1398,9 @@
     "AugustVR1945": {
         "banneduntil": "2024/12/25",
         "BanReason": "mass rdm"
+    },
+    "BRO_BLAZER": {
+        "banneduntil": "2024/12/26",
+        "BanReason": "Mass Rdm, killing during sit, ban evasion"
     }
 }
