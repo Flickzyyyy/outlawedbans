@@ -1374,5 +1374,9 @@
     "AdrianGoat15": {
         "banneduntil": "2024/12/16",
         "BanReason": "RDM"
+    },
+    "shaquille.oatmeal100": {
+        "banneduntil": "2099/12/23",
+        "BanReason": "Hard R"
     }
 }
