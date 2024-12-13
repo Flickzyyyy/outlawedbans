@@ -1402,5 +1402,9 @@
     "BRO_BLAZER": {
         "banneduntil": "2024/12/26",
         "BanReason": "Mass Rdm, killing during sit, ban evasion"
+    },
+    "SKIGMA": {
+        "banneduntil": "2024/12/26",
+        "BanReason": "Mass Rdm, ban evasion"
     }
 }
