@@ -1418,5 +1418,9 @@
     "giddyshomp": {
         "banneduntil": "2024/12/15",
         "BanReason": "Cop targeting"
+    },
+    "enma411": {
+        "banneduntil": "2024/12/15",
+        "BanReason": "Cop targeting"
     }
 }
