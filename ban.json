@@ -1402,5 +1402,9 @@
     "Wolf111812": {
         "banneduntil": "2025/11/23",
         "BanReason": "Underaged"
+    },
+    "BananaBreadBurger": {
+        "banneduntil": "2024/12/15",
+        "BanReason": "Cop Targeting"
     }
 }
