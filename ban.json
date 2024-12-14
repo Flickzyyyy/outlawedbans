@@ -1378,5 +1378,9 @@
     "shaquille.oatmeal100": {
         "banneduntil": "2099/12/23",
         "BanReason": "Hard R"
+    },
+    "goblin_kid23": {
+        "banneduntil": "2024/12/15",
+        "BanReason": "RDM"
     }
 }
