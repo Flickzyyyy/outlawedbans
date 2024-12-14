@@ -1426,5 +1426,9 @@
     "LeonConv06": {
         "banneduntil": "2024/12/27",
         "BanReason": "Mass Rdm, admin evasion, killing during sit"
+    },
+    "Jamie2022": {
+        "banneduntil": "2024/12/20",
+        "BanReason": "Mass Rdm"
     }
 }
