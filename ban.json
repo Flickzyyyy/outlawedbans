@@ -1422,5 +1422,9 @@
     "enma411": {
         "banneduntil": "2024/12/15",
         "BanReason": "Cop targeting"
+    },
+    "LeonConv06": {
+        "banneduntil": "2024/12/27",
+        "BanReason": "Mass Rdm, admin evasion, killing during sit"
     }
 }
