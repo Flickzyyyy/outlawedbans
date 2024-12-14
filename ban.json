@@ -1410,5 +1410,9 @@
     "gustavofringctit": {
         "banneduntil": "2024/12/21",
         "BanReason": "Cop Targeting, evasion"
+    },
+    "thc.ghost.2004": {
+        "banneduntil": "2024/12/21",
+        "BanReason": "Cop targeting evasion"
     }
 }
