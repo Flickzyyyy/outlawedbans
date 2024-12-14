@@ -1414,5 +1414,9 @@
     "thc.ghost.2004": {
         "banneduntil": "2024/12/21",
         "BanReason": "Cop targeting evasion"
+    },
+    "giddyshomp": {
+        "banneduntil": "2024/12/15",
+        "BanReason": "Cop targeting"
     }
 }
