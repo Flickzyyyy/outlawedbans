@@ -1354,5 +1354,9 @@
     "lucky_25": {
         "banneduntil": "2024/12/22",
         "BanReason": "F Slur"
+    },
+    "giddyshomp": {
+        "banneduntil": "2024/12/22",
+        "BanReason": "Camping Spawn"
     }
 }
