@@ -1342,5 +1342,9 @@
     "Jamie2022": {
         "banneduntil": "2024/12/20",
         "BanReason": "Mass Rdm"
+    },
+    "blokk_bud": {
+        "banneduntil": "2024/12/22",
+        "BanReason": "Mass RDM"
     }
 }
