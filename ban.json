@@ -1346,5 +1346,9 @@
     "blokk_bud": {
         "banneduntil": "2024/12/22",
         "BanReason": "Mass RDM"
+    },
+    "Everythingwas": {
+        "banneduntil": "2024/12/24",
+        "BanReason": "RDM, evasion"
     }
 }
