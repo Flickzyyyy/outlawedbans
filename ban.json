@@ -1350,5 +1350,9 @@
     "Everythingwas": {
         "banneduntil": "2024/12/24",
         "BanReason": "RDM, evasion"
+    },
+    "lucky_25": {
+        "banneduntil": "2024/12/22",
+        "BanReason": "F Slur"
     }
 }
