@@ -1338,5 +1338,9 @@
     "MJdagoat2323": {
         "banneduntil": "2024/12/18",
         "BanReason": "admin evasion"
+    },
+    "Coast18": {
+        "banneduntil": "2024/12/30",
+        "BanReason": "RDM"
     }
 }
