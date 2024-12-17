@@ -1334,5 +1334,9 @@
     "Nico_201": {
         "banneduntil": "2024/12/21",
         "BanReason": "RDM and threats of alting"
+    },
+    "mk21.88": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "soft a/ evasion"
     }
 }
