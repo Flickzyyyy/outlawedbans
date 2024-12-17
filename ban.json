@@ -1338,5 +1338,9 @@
     "mk21.88": {
         "banneduntil": "2025/1/9",
         "BanReason": "soft a/ evasion"
+    },
+    "MJdagoat2323": {
+        "banneduntil": "2024/12/18",
+        "BanReason": "admin evasion"
     }
 }
