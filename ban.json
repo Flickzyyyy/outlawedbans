@@ -1350,5 +1350,9 @@
     "C0nbictDeath": {
         "banneduntil": "2024/12/24",
         "BanReason": "mass rdm"
+    },
+    "KD.basket": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
