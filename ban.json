@@ -1358,5 +1358,9 @@
     "dnviper": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "sharker.just122": {
+        "banneduntil": "2024/12/25",
+        "BanReason": "cop targeting, ban evasion"
     }
 }
