@@ -1350,5 +1350,9 @@
     "XwadeX": {
         "banneduntil": "2025/12/25",
         "BanReason": "underage"
+    },
+    "Coroncae2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
