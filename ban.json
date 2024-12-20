@@ -1354,5 +1354,9 @@
     "Coroncae2": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Peenur_Weenur": {
+        "banneduntil": "2025/1/2",
+        "BanReason": "soft a"
     }
 }
