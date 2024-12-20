@@ -1358,5 +1358,9 @@
     "Peenur_Weenur": {
         "banneduntil": "2025/1/2",
         "BanReason": "soft a"
+    },
+    "Rareillcams": {
+        "banneduntil": "2025/1/2",
+        "BanReason": "f slur"
     }
 }
