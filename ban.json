@@ -1370,5 +1370,9 @@
     "1660ti": {
         "banneduntil": "2024/12/29",
         "BanReason": "RDM Leaving"
+    },
+    "Asura4": {
+        "banneduntil": "2024/12/31",
+        "BanReason": "fuck you bruh"
     }
 }
