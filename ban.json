@@ -1366,5 +1366,9 @@
     "D3ATH_GHOST": {
         "banneduntil": "2025/1/2",
         "BanReason": "f slur"
+    },
+    "1660ti": {
+        "banneduntil": "2024/12/29",
+        "BanReason": "RDM Leaving"
     }
 }
