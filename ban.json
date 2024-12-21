@@ -1346,5 +1346,9 @@
     "murphy.408260": {
         "banneduntil": "2025/1/1",
         "BanReason": "Soft A, Rdm"
+    },
+    "Sponge_Gyatt": {
+        "banneduntil": "2025/1/2",
+        "BanReason": "f slur"
     }
 }
