@@ -1350,5 +1350,9 @@
     "Sponge_Gyatt": {
         "banneduntil": "2025/1/2",
         "BanReason": "f slur"
+    },
+    "Griffstanker": {
+        "banneduntil": "2025/1/3",
+        "BanReason": "F slur"
     }
 }
