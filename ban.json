@@ -1346,5 +1346,9 @@
     "Captain_P": {
         "banneduntil": "2024/12/25",
         "BanReason": "RDMx4"
+    },
+    "JUL1286": {
+        "banneduntil": "2024/12/26",
+        "BanReason": "rdm"
     }
 }
