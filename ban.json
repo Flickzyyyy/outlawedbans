@@ -1318,5 +1318,9 @@
     "JUL1283": {
         "banneduntil": "2024/12/26",
         "BanReason": "RDM"
+    },
+    "AlextheHomie": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
