@@ -1314,5 +1314,9 @@
     "cloope": {
         "banneduntil": "2025/1/5",
         "BanReason": "cop targeting, Rdm, killing during sit"
+    },
+    "JUL1283": {
+        "banneduntil": "2024/12/26",
+        "BanReason": "RDM"
     }
 }
