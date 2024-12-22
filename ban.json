@@ -1346,5 +1346,9 @@
     "StrightGuy": {
         "banneduntil": "2025/1/4",
         "BanReason": "soft a"
+    },
+    "AuriFerrari": {
+        "banneduntil": "2024/12/25",
+        "BanReason": "Cop targeting, admin evasion"
     }
 }
