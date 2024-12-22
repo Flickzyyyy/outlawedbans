@@ -1310,5 +1310,9 @@
     "AuriFerrari": {
         "banneduntil": "2024/12/25",
         "BanReason": "Cop targeting, admin evasion"
+    },
+    "cloope": {
+        "banneduntil": "2025/1/5",
+        "BanReason": "cop targeting, Rdm, killing during sit"
     }
 }
