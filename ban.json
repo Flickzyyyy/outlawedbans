@@ -1342,5 +1342,9 @@
     "JUL1285": {
         "banneduntil": "2025/1/7",
         "BanReason": "RDM/BANEVADE"
+    },
+    "Captain_P": {
+        "banneduntil": "2024/12/25",
+        "BanReason": "RDMx4"
     }
 }
