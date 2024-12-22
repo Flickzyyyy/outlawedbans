@@ -1334,5 +1334,9 @@
     "5x.Isaac.5": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "easy.work.37546": {
+        "banneduntil": "2024/12/24",
+        "BanReason": "RDM"
     }
 }
