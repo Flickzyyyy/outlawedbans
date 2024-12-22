@@ -1342,5 +1342,9 @@
     "Kurt_Cobainn": {
         "banneduntil": "2100/10/5",
         "BanReason": "hard r"
+    },
+    "StrightGuy": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "soft a"
     }
 }
