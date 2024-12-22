@@ -1338,5 +1338,9 @@
     "JUL1284": {
         "banneduntil": "2024/12/25",
         "BanReason": "RDM"
+    },
+    "JUL1285": {
+        "banneduntil": "2025/1/7",
+        "BanReason": "RDM/BANEVADE"
     }
 }
