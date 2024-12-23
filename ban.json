@@ -1358,5 +1358,9 @@
     "Assainakm7": {
         "banneduntil": "2025/1/5",
         "BanReason": "soft a"
+    },
+    "Zen_FL": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
