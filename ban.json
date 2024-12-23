@@ -1350,5 +1350,9 @@
     "JUL1286": {
         "banneduntil": "2024/12/26",
         "BanReason": "rdm"
+    },
+    "GEORGE_DROYD": {
+        "banneduntil": "2025/1/12",
+        "BanReason": "soft a/ban evasion"
     }
 }
