@@ -1354,5 +1354,9 @@
     "GEORGE_DROYD": {
         "banneduntil": "2025/1/12",
         "BanReason": "soft a/ban evasion"
+    },
+    "Assainakm7": {
+        "banneduntil": "2025/1/5",
+        "BanReason": "soft a"
     }
 }
