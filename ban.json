@@ -1386,5 +1386,9 @@
     "Turtle_07": {
         "banneduntil": "2024/12/29",
         "BanReason": "cop target/spawn RDM"
+    },
+    "obamaspitisdelicious": {
+        "banneduntil": "2024/12/29",
+        "BanReason": "cop target/spawn RDM"
     }
 }
