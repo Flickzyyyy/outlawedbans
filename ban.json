@@ -1382,5 +1382,9 @@
     "JL12": {
         "banneduntil": "2099/01/01",
         "BanReason": "Fuck you"
+    },
+    "Turtle_07": {
+        "banneduntil": "2024/12/29",
+        "BanReason": "cop target/spawn RDM"
     }
 }
