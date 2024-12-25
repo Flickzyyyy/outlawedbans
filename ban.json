@@ -1390,9 +1390,5 @@
     "obamaspitisdelicious": {
         "banneduntil": "2024/12/29",
         "BanReason": "cop target/spawn RDM"
-    },
-    "PigeonHadFun": {
-        "banneduntil": "2024/10/1",
-        "BanReason": "Unban (unlogged)"
     }
 }
