@@ -1322,5 +1322,9 @@
     "obamaspitisdelicious": {
         "banneduntil": "2024/12/29",
         "BanReason": "cop target/spawn RDM"
+    },
+    "DaddWithAFatty": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
