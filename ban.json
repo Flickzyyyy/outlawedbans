@@ -1334,5 +1334,9 @@
     "Palomino": {
         "banneduntil": "2025/1/3",
         "BanReason": "RDM evading"
+    },
+    "Winston.mayhew": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "Mass RDM, evasion"
     }
 }
