@@ -1330,5 +1330,9 @@
     "ApollolnVR": {
         "banneduntil": "2025/1/12",
         "BanReason": "F slur evading"
+    },
+    "Palomino": {
+        "banneduntil": "2025/1/3",
+        "BanReason": "RDM evading"
     }
 }
