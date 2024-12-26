@@ -1326,5 +1326,9 @@
     "DaddWithAFatty": {
         "banneduntil": "2025/1/10",
         "BanReason": "Mass RDM, Evasion"
+    },
+    "ApollolnVR": {
+        "banneduntil": "2025/1/12",
+        "BanReason": "F slur evading"
     }
 }
