@@ -1354,5 +1354,9 @@
     "cannon.492123": {
         "banneduntil": "2025/1/10",
         "BanReason": "Mass RDM evading"
+    },
+    "milk_liker": {
+        "banneduntil": "2025/1/2",
+        "BanReason": "Rdm/admin evade"
     }
 }
