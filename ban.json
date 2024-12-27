@@ -1370,5 +1370,9 @@
     "kevbro1868": {
         "banneduntil": "2025/1/10",
         "BanReason": "Mass RDM, evasion"
+    },
+    "DenoFrog": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
