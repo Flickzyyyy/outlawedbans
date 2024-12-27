@@ -1366,5 +1366,9 @@
     "Nico_The_Bro": {
         "banneduntil": "205/01/16",
         "BanReason": "soft a + evading"
+    },
+    "kevoevo": {
+        "banneduntil": "2025/1/2",
+        "BanReason": "Racial slur:/soft a"
     }
 }
