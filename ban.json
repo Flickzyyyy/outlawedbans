@@ -1390,5 +1390,9 @@
     "blokk_bud": {
         "banneduntil": "2025/01/03",
         "BanReason": "Mass RDM,"
+    },
+    "Marshmalone12": {
+        "banneduntil": "2024/12/30",
+        "BanReason": "RDM"
     }
 }
