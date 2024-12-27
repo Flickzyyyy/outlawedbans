@@ -1350,5 +1350,9 @@
     "Insignia717": {
         "banneduntil": "2025/12/29",
         "BanReason": "RDM"
+    },
+    "cannon.492123": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "Mass RDM evading"
     }
 }
