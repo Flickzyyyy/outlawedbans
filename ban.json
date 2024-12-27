@@ -1358,5 +1358,9 @@
     "milk_liker": {
         "banneduntil": "2025/1/2",
         "BanReason": "Rdm/admin evade"
+    },
+    "ODCRASHOUTV": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "soft a"
     }
 }
