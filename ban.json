@@ -1374,5 +1374,9 @@
     "DenoFrog": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "DemoFrog": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
