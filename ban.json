@@ -1398,5 +1398,9 @@
     "Littledaddymac": {
         "banneduntil": "2025/1/4",
         "BanReason": "Rdm killing during sit admin evasion"
+    },
+    "Statincult1": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "rdm admin evasion"
     }
 }
