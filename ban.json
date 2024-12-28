@@ -1394,5 +1394,9 @@
     "Marshmalone12": {
         "banneduntil": "2024/12/30",
         "BanReason": "RDM"
+    },
+    "Littledaddymac": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "Rdm killing during sit admin evasion"
     }
 }
