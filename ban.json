@@ -1398,5 +1398,9 @@
     "Statincult1": {
         "banneduntil": "2025/1/4",
         "BanReason": "rdm admin evasion"
+    },
+    "Butshniffer": {
+        "banneduntil": "2025/1/1",
+        "BanReason": "rdm"
     }
 }
