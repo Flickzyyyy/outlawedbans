@@ -1402,5 +1402,9 @@
     "Butshniffer": {
         "banneduntil": "2025/1/1",
         "BanReason": "rdm"
+    },
+    "lucas_c_897": {
+        "banneduntil": "2025/1/5",
+        "BanReason": "Rdm admin evasion"
     }
 }
