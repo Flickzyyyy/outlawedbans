@@ -1414,5 +1414,9 @@
     "Rukkarukkaamuk": {
         "banneduntil": "2027/12/28",
         "BanReason": "Underage 11 years old"
+    },
+    "Rukkarukkamuk": {
+        "banneduntil": "2027/12/28",
+        "BanReason": "Underage 11 years old"
     }
 }
