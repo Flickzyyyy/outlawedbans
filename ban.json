@@ -1402,9 +1402,5 @@
     "Butshniffer": {
         "banneduntil": "2025/1/1",
         "BanReason": "rdm"
-    },
-    "lucad-c-897": {
-        "banneduntil": "2024/1/5",
-        "BanReason": "Unban"
     }
 }
