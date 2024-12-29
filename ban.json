@@ -1406,5 +1406,9 @@
     "lucas_c_897": {
         "banneduntil": "2025/1/5",
         "BanReason": "Rdm admin evasion"
+    },
+    "6kAcez": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "MassRDM,"
     }
 }
