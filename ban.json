@@ -1394,5 +1394,9 @@
     "BigCoop11": {
         "banneduntil": "2025/1/12",
         "BanReason": "cop targeting, Rdm, admin evasion"
+    },
+    "CFAM2007": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "sexual harassment"
     }
 }
