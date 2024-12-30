@@ -1386,5 +1386,9 @@
     "notzowman": {
         "banneduntil": "2025/1/7",
         "BanReason": "Cop Targeting,Mass rdm"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2025/1/7",
+        "BanReason": "MASSRDM"
     }
 }
