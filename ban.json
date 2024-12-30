@@ -1390,5 +1390,9 @@
     "Texas_kid": {
         "banneduntil": "2025/1/13",
         "BanReason": "n word soft a"
+    },
+    "BigCoop11": {
+        "banneduntil": "2025/1/12",
+        "BanReason": "cop targeting, Rdm, admin evasion"
     }
 }
