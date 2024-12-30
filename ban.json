@@ -1394,5 +1394,9 @@
     "BurgerRichInVR": {
         "banneduntil": "2025/1/13",
         "BanReason": "maas Rdm, admin evasion"
+    },
+    "arthur.morgan2.2024": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "mass Rdm/ admin evasion"
     }
 }
