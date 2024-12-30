@@ -1398,5 +1398,9 @@
     "arthur.morgan2.2024": {
         "banneduntil": "2025/1/13",
         "BanReason": "mass Rdm/ admin evasion"
+    },
+    "ApolloInVR": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "RDM Report"
     }
 }
