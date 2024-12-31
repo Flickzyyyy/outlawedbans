@@ -1422,5 +1422,9 @@
     "eli.987654": {
         "banneduntil": "2025/1/2",
         "BanReason": "Abuse suicide"
+    },
+    "Emtan": {
+        "banneduntil": "2025/1/8",
+        "BanReason": "rdm/ admin evasion, killing during sit"
     }
 }
