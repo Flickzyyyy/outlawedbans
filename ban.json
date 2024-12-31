@@ -1426,5 +1426,9 @@
     "Emtan": {
         "banneduntil": "2025/1/8",
         "BanReason": "rdm/ admin evasion, killing during sit"
+    },
+    "Stoopidst": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "rdm"
     }
 }
