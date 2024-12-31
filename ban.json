@@ -1406,5 +1406,9 @@
     "Marshmalone12": {
         "banneduntil": "2025/1/21",
         "BanReason": "f slur, cop targeting, Rdm, admin evasion"
+    },
+    "eviljojo": {
+        "banneduntil": "2025/1/7",
+        "BanReason": "Cop targeting, admin evasion"
     }
 }
