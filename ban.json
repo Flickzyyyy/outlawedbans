@@ -1414,5 +1414,9 @@
     "BigZ1120": {
         "banneduntil": "2050/10/10",
         "BanReason": "hard r and f slur"
+    },
+    "NameWithNumbers": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "cop targeting"
     }
 }
