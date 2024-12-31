@@ -1390,5 +1390,9 @@
     "ApolloInVR": {
         "banneduntil": "2025/1/4",
         "BanReason": "RDM Report"
+    },
+    "thebluedog92": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "rdm/ cop targeting/ admin evasion/ killing during sit"
     }
 }
