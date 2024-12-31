@@ -1410,5 +1410,9 @@
     "eviljojo": {
         "banneduntil": "2025/1/7",
         "BanReason": "Cop targeting, admin evasion"
+    },
+    "BigZ1120": {
+        "banneduntil": "2050/10/10",
+        "BanReason": "hard r and f slur"
     }
 }
