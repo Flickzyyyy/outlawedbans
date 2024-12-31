@@ -1418,5 +1418,9 @@
     "NameWithNumbers": {
         "banneduntil": "2025/1/4",
         "BanReason": "cop targeting"
+    },
+    "eli.987654": {
+        "banneduntil": "2025/1/2",
+        "BanReason": "Abuse suicide"
     }
 }
