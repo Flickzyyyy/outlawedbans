@@ -1518,5 +1518,9 @@
     "Zayline420": {
         "banneduntil": "2025/1/8",
         "BanReason": "RDM, Admin Evasion"
+    },
+    "theZephyr": {
+        "banneduntil": "2025/1/11",
+        "BanReason": "RDM + Evasion"
     }
 }
