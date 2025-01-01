@@ -1488,7 +1488,7 @@
         "BanReason": "RDM, Camping, Killing in admin sit."
     },
     "outlaweddaffyduck": {
-        "banneduntil": "2025/1/8",
-        "BanReason": "mass Rdm report"
+        "banneduntil": "2000/1/1",
+        "BanReason": "unban, incorrect name"
     }
 }
