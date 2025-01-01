@@ -1474,5 +1474,9 @@
     "ahamedking": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "1660ti": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "rdm, camping spawn"
     }
 }
