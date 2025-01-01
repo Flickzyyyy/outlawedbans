@@ -1522,5 +1522,9 @@
     "theZephyr": {
         "banneduntil": "2025/1/11",
         "BanReason": "RDM + Evasion"
+    },
+    "tdogbigfrog4": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "RDMEVASION"
     }
 }
