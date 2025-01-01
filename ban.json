@@ -1442,5 +1442,9 @@
     "Itsdominicbro2010": {
         "banneduntil": "2025/1/8",
         "BanReason": "rdm, admin evasion"
+    },
+    "soggy_testicles": {
+        "banneduntil": "2025/1/5",
+        "BanReason": "RDM"
     }
 }
