@@ -1494,5 +1494,9 @@
     "Nate2sleeepy": {
         "banneduntil": "2025/1/8",
         "BanReason": "RDM, Admin Evasion"
+    },
+    "METAZ123": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "Mass RDM, Admin Evasion"
     }
 }
