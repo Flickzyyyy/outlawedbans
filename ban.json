@@ -1502,5 +1502,9 @@
     "IV_Skully": {
         "banneduntil": "2077/1/13",
         "BanReason": "Hard R"
+    },
+    "lV_Skully": {
+        "banneduntil": "2077/1/13",
+        "BanReason": "Hard R"
     }
 }
