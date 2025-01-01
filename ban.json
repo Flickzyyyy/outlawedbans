@@ -1482,5 +1482,9 @@
     "markismessi1": {
         "banneduntil": "2025/1/8",
         "BanReason": "Mass RDM"
+    },
+    "Keaton-": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "RDM, Camping, Killing in admin sit."
     }
 }
