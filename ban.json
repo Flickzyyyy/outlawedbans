@@ -1498,5 +1498,9 @@
     "METAZ123": {
         "banneduntil": "2025/1/13",
         "BanReason": "Mass RDM, Admin Evasion"
+    },
+    "IV_Skully": {
+        "banneduntil": "2077/1/13",
+        "BanReason": "Hard R"
     }
 }
