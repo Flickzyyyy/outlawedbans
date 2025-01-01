@@ -1466,5 +1466,9 @@
     "banditgamer08": {
         "banneduntil": "2025/1/4",
         "BanReason": "rdm"
+    },
+    "AmericanDADDY": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "f slur"
     }
 }
