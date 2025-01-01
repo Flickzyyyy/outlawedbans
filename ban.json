@@ -1474,5 +1474,9 @@
     "mirm6434": {
         "banneduntil": "2025/1/15",
         "BanReason": "mass Rdm, evasion"
+    },
+    "MonkeyMan.1": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "F Slur"
     }
 }
