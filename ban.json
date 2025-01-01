@@ -1450,5 +1450,9 @@
     "pk_spooky": {
         "banneduntil": "2025/1/7",
         "BanReason": "Rdm, Evasion"
+    },
+    "easy_ammo": {
+        "banneduntil": "2025/1/3",
+        "BanReason": "Rdn"
     }
 }
