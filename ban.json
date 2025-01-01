@@ -1470,5 +1470,9 @@
     "AmericanDADDY": {
         "banneduntil": "2025/1/14",
         "BanReason": "f slur"
+    },
+    "ahamedking": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
