@@ -1454,5 +1454,9 @@
     "easy_ammo": {
         "banneduntil": "2025/1/3",
         "BanReason": "Rdn"
+    },
+    "robster.513376": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
