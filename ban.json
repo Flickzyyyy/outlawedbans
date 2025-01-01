@@ -1470,5 +1470,9 @@
     "SlimyAn": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "mirm6434": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "mass Rdm, evasion"
     }
 }
