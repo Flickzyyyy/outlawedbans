@@ -1446,5 +1446,9 @@
     "soggy_testicles": {
         "banneduntil": "2025/1/5",
         "BanReason": "RDM"
+    },
+    "pk_spooky": {
+        "banneduntil": "2025/1/7",
+        "BanReason": "Rdm, Evasion"
     }
 }
