@@ -1558,5 +1558,9 @@
     "nb.Tardo": {
         "banneduntil": "2025/1/15",
         "BanReason": "Racist Remark Towards Jews"
+    },
+    "goober.shananagins69": {
+        "banneduntil": "2025/1/8",
+        "BanReason": "RDM, Admin Evasion"
     }
 }
