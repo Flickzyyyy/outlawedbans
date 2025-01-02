@@ -1534,5 +1534,9 @@
     "GHOSTFACEARKK": {
         "banneduntil": "2025/1/5",
         "BanReason": "RDM"
+    },
+    "Eggman46": {
+        "banneduntil": "2025/1/11",
+        "BanReason": "RDM + Evasion"
     }
 }
