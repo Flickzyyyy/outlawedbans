@@ -1574,5 +1574,9 @@
     "BigBoysamdosa2012": {
         "banneduntil": "2025/1/6",
         "BanReason": "rdm, camping bank report"
+    },
+    "DocKnock": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "rdm through report"
     }
 }
