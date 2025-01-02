@@ -1578,5 +1578,9 @@
     "DocKnock": {
         "banneduntil": "2025/1/4",
         "BanReason": "rdm through report"
+    },
+    "Concat": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "rdm through report"
     }
 }
