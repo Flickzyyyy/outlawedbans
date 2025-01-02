@@ -1582,5 +1582,9 @@
     "Concat": {
         "banneduntil": "2025/1/4",
         "BanReason": "rdm through report"
+    },
+    "Mr.Breydan": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "RDM/USER EVASION"
     }
 }
