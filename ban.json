@@ -1546,5 +1546,9 @@
     "trxpin.haze": {
         "banneduntil": "2025/1/6",
         "BanReason": "evasion rdm"
+    },
+    "elgato1146": {
+        "banneduntil": "2027/2/10",
+        "BanReason": "11yr old"
     }
 }
