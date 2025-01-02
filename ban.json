@@ -1590,5 +1590,9 @@
     "mrdremp": {
         "banneduntil": "2025/1/12",
         "BanReason": "rdm, evasion"
+    },
+    "OutlawRpKindaMid": {
+        "banneduntil": "2029/1/5",
+        "BanReason": "Alt Account"
     }
 }
