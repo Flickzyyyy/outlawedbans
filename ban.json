@@ -1678,5 +1678,9 @@
     "pandaballs": {
         "banneduntil": "2025/1/11",
         "BanReason": "Rdm, evasion"
+    },
+    "jaziel.452406": {
+        "banneduntil": "2028/6/1",
+        "BanReason": "under age"
     }
 }
