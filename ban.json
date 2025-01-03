@@ -1650,5 +1650,9 @@
     "sladeisgooder": {
         "banneduntil": "2025/2/15",
         "BanReason": "Soft a, alt account, mass rdm,"
+    },
+    "FleterTet2011": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "rdm"
     }
 }
