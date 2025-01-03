@@ -1610,5 +1610,9 @@
     "Waffle_Water": {
         "banneduntil": "2025/1/5",
         "BanReason": "Cop Targeting"
+    },
+    "Lantry": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r."
     }
 }
