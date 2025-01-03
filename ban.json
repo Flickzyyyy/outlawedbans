@@ -1630,5 +1630,9 @@
     "USEagleMarine51357": {
         "banneduntil": "2025/1/5",
         "BanReason": "Cop Targeting"
+    },
+    "El_courier": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "homophobia"
     }
 }
