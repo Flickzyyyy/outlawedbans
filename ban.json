@@ -1634,5 +1634,9 @@
     "Chiko15": {
         "banneduntil": "2025/1/9",
         "BanReason": "MassRDM"
+    },
+    "Mr.MaverickBean": {
+        "banneduntil": "2025/1/12",
+        "BanReason": "rdm, evasion"
     }
 }
