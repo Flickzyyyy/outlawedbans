@@ -1682,5 +1682,9 @@
     "jaziel.452406": {
         "banneduntil": "2028/6/1",
         "BanReason": "under age"
+    },
+    "imshot0": {
+        "banneduntil": "2025/1/5",
+        "BanReason": "RDM and evaded admin sit"
     }
 }
