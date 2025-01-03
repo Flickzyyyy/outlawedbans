@@ -1646,5 +1646,9 @@
     "nexusvr1013": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard"
+    },
+    "sladeisgooder": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "Soft a, alt account, mass rdm,"
     }
 }
