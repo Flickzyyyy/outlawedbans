@@ -1642,5 +1642,9 @@
     "FatcatX3": {
         "banneduntil": "2025/1/12",
         "BanReason": "rdm, evasion"
+    },
+    "Lilgreg420": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "soft a, Rdm, killing during sit, admin evasion."
     }
 }
