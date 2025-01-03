@@ -1686,5 +1686,9 @@
     "imshot0": {
         "banneduntil": "2025/1/5",
         "BanReason": "RDM and evaded admin sit"
+    },
+    "Lordcheetoh907": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "RDM + Evasion"
     }
 }
