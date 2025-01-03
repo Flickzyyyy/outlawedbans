@@ -1666,5 +1666,9 @@
     "xXneighborXx": {
         "banneduntil": "2025/1/6",
         "BanReason": "rdm"
+    },
+    "goodbear178507": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "Admin evasion and killing during sit"
     }
 }
