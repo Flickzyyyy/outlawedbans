@@ -1670,5 +1670,9 @@
     "goodbear178507": {
         "banneduntil": "2025/1/10",
         "BanReason": "Admin evasion and killing during sit"
+    },
+    "emilingig": {
+        "banneduntil": "2025/1/11",
+        "BanReason": "rdm after warning, killing during sit"
     }
 }
