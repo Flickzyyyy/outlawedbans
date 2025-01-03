@@ -1694,5 +1694,9 @@
     "BohiLennon": {
         "banneduntil": "2025/1/11",
         "BanReason": "RDM again after receiving a warning and evaded the sit"
+    },
+    "frog88y": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "Mass RDM"
     }
 }
