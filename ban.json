@@ -1602,5 +1602,9 @@
     "Germanman2869": {
         "banneduntil": "2025/1/5",
         "BanReason": "Cop Targeting"
+    },
+    "Mr.Breyden": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "RDM/USER EVASION"
     }
 }
