@@ -1634,5 +1634,9 @@
     "El_courier": {
         "banneduntil": "2025/1/16",
         "BanReason": "homophobia"
+    },
+    "michaeldaddy": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "Racist Remarks"
     }
 }
