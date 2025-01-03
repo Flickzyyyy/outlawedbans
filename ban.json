@@ -1642,5 +1642,9 @@
     "DJdude222666": {
         "banneduntil": "2025/01/05",
         "BanReason": "rdm"
+    },
+    "nexusvr1013": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard"
     }
 }
