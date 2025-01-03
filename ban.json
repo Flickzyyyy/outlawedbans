@@ -1658,5 +1658,9 @@
     "Jason.bernhard.146": {
         "banneduntil": "2028/1/3",
         "BanReason": "under age"
+    },
+    "enma411": {
+        "banneduntil": "2025/1/6",
+        "BanReason": "cop targeting"
     }
 }
