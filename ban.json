@@ -1702,5 +1702,9 @@
     "saab2511": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "da_bird835": {
+        "banneduntil": "2025/1/17",
+        "BanReason": "racist remarks"
     }
 }
