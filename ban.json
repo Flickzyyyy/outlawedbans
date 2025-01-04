@@ -1698,5 +1698,9 @@
     "TauntPower09": {
         "banneduntil": "2025/1/11",
         "BanReason": "mass RDM and leaving during admin sit"
+    },
+    "AF_vette": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "Mass RDM and killing admins during sit"
     }
 }
