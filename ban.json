@@ -1718,5 +1718,9 @@
     "Qman0917": {
         "banneduntil": "2025/1/10",
         "BanReason": "mass rdm"
+    },
+    "karter_michael": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
