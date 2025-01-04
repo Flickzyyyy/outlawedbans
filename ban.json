@@ -1678,5 +1678,9 @@
     "RobotAura": {
         "banneduntil": "2025/1/18",
         "BanReason": "mass rdm, evasion"
+    },
+    "lagostaq": {
+        "banneduntil": "2025/1/6",
+        "BanReason": "RDM"
     }
 }
