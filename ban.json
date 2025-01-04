@@ -1730,5 +1730,9 @@
     "Junker13": {
         "banneduntil": "2025/1/12",
         "BanReason": "Rdm ,evasion"
+    },
+    "PLAYA2REALL": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "Mass RDM"
     }
 }
