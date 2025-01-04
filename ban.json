@@ -1702,5 +1702,9 @@
     "AF_vette": {
         "banneduntil": "2025/1/18",
         "BanReason": "Mass RDM and killing admins during sit"
+    },
+    "rashahits": {
+        "banneduntil": "2025/1/11",
+        "BanReason": "Mass RDM and left during admin sit"
     }
 }
