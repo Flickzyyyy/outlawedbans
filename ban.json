@@ -1706,5 +1706,9 @@
     "rashahits": {
         "banneduntil": "2025/1/11",
         "BanReason": "Mass RDM and left during admin sit"
+    },
+    "merziitohigh": {
+        "banneduntil": "2025/1/8",
+        "BanReason": "RDM and left during admin sit"
     }
 }
