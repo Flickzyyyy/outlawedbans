@@ -1734,5 +1734,9 @@
     "PLAYA2REALL": {
         "banneduntil": "2025/1/10",
         "BanReason": "Mass RDM"
+    },
+    "WICKMAN_21": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
