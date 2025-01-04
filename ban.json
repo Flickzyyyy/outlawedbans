@@ -1674,5 +1674,9 @@
     "WICKMAN_21": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "RobotAura": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "mass rdm, evasion"
     }
 }
