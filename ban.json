@@ -1682,5 +1682,9 @@
     "lagostaq": {
         "banneduntil": "2025/1/6",
         "BanReason": "RDM"
+    },
+    "lobsterfish07": {
+        "banneduntil": "3025/1/6",
+        "BanReason": "RDM"
     }
 }
