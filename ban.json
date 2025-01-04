@@ -1710,5 +1710,9 @@
     "merziitohigh": {
         "banneduntil": "2025/1/8",
         "BanReason": "RDM and left during admin sit"
+    },
+    "billy_bob.123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
