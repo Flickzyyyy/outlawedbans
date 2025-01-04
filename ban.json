@@ -1710,5 +1710,9 @@
     "Kman321123": {
         "banneduntil": "2025/1/11",
         "BanReason": "RDM and killing during admin sit"
+    },
+    "PuertoRican_Spiderman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
