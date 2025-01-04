@@ -1714,5 +1714,9 @@
     "PuertoRican_Spiderman": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Qman0917": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "mass rdm"
     }
 }
