@@ -1694,5 +1694,9 @@
     "RunningOrca1748": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "TauntPower09": {
+        "banneduntil": "2025/1/11",
+        "BanReason": "mass RDM and leaving during admin sit"
     }
 }
