@@ -1694,5 +1694,9 @@
     "fisharcol": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "giddyshomp": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "Mass RDM+Cop targeting+camping+killing during  admin sit"
     }
 }
