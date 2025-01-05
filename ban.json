@@ -1714,5 +1714,9 @@
     "billy_bob.123": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "homeless.hobo": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
