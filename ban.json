@@ -1670,5 +1670,9 @@
     "SlanginFades": {
         "banneduntil": "2025/1/08",
         "BanReason": "Cop Targeting"
+    },
+    "thathorrorgoon2": {
+        "banneduntil": "2025/1/08",
+        "BanReason": "Cop Targeting"
     }
 }
