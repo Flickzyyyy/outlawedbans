@@ -1658,5 +1658,9 @@
     "BootyLickerMan4949": {
         "banneduntil": "2025/1/15",
         "BanReason": "Mass RDM + Cop Target"
+    },
+    "Dextuah": {
+        "banneduntil": "2025/1/08",
+        "BanReason": "cop targeting"
     }
 }
