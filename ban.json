@@ -1686,5 +1686,9 @@
     "ApolloInVR": {
         "banneduntil": "2025/1/13",
         "BanReason": "rdm, evasion"
+    },
+    "PancakePirateV2": {
+        "banneduntil": "2025/1/6",
+        "BanReason": "NVL"
     }
 }
