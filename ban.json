@@ -1726,5 +1726,9 @@
     "Kaito_07": {
         "banneduntil": "2025/1/10",
         "BanReason": "cop targeting"
+    },
+    "Wafflescripter": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "Cop targeting"
     }
 }
