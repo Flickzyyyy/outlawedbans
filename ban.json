@@ -1662,5 +1662,9 @@
     "Dextuah": {
         "banneduntil": "2025/1/08",
         "BanReason": "cop targeting"
+    },
+    "BDRColorado": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "Mass RDM + Cop Targeting"
     }
 }
