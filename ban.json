@@ -1654,5 +1654,9 @@
     "homeless.hobo": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "BootyLickerMan4949": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "Mass RDM + Cop Target"
     }
 }
