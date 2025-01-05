@@ -1710,5 +1710,9 @@
     "lirenheim": {
         "banneduntil": "2099/1/1",
         "BanReason": "homophobia+Hard r in sit"
+    },
+    "smegma_vr": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Sexual remarks after being warned"
     }
 }
