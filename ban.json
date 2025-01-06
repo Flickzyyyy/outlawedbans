@@ -1766,5 +1766,9 @@
     "pankmeat": {
         "banneduntil": "2025/1/14",
         "BanReason": "rdm/evasionkillduringsit"
+    },
+    "turmeric23": {
+        "banneduntil": "2025/1/7",
+        "BanReason": "cop targeting"
     }
 }
