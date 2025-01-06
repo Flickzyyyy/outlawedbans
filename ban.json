@@ -1754,5 +1754,9 @@
     "Jim_milton2": {
         "banneduntil": "2025/1/13",
         "BanReason": "rdm, evasion"
+    },
+    "greasytoenailclippings": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "rdn admid evasion"
     }
 }
