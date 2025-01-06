@@ -1734,5 +1734,9 @@
     "Mexanoboi": {
         "banneduntil": "2025/1/7",
         "BanReason": "Rdm"
+    },
+    "DeathScopeVR": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "reason: RDM"
     }
 }
