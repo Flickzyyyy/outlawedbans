@@ -1786,5 +1786,9 @@
     "PizzaGuy21": {
         "banneduntil": "2025/1/13",
         "BanReason": "Mass RDM"
+    },
+    "riddimizer": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "RDM again after warning and killing in admin sit"
     }
 }
