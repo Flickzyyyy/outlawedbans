@@ -1730,5 +1730,9 @@
     "Wafflescripter": {
         "banneduntil": "2025/1/9",
         "BanReason": "Cop targeting"
+    },
+    "Mexanoboi": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "admin evasion"
     }
 }
