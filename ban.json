@@ -1782,5 +1782,9 @@
     "grim_kid": {
         "banneduntil": "2025/1/20",
         "BanReason": "f slur"
+    },
+    "PizzaGuy21": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "Mass RDM"
     }
 }
