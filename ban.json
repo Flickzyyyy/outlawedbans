@@ -1750,5 +1750,9 @@
     "rumbum0": {
         "banneduntil": "2025/1/13",
         "BanReason": "RDM and Admin evasion"
+    },
+    "seamus111232": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "rdm, evasion"
     }
 }
