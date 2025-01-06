@@ -1806,5 +1806,9 @@
     "martinkosv": {
         "banneduntil": "2025/1/9",
         "BanReason": "Cop Targeting"
+    },
+    "Cerealbox0612": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "RDM (\"Robbing\" people)"
     }
 }
