@@ -1770,9 +1770,5 @@
     "Joerogain": {
         "banneduntil": "9999/1/2",
         "BanReason": "rdm saying f slur"
-    },
-    "joerogain": {
-        "banneduntil": "2025/1/5",
-        "BanReason": "rebanning"
     }
 }
