@@ -1802,5 +1802,9 @@
     "ICE473": {
         "banneduntil": "2025/1/20",
         "BanReason": "F Slur"
+    },
+    "martinkosv": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "Cop Targeting"
     }
 }
