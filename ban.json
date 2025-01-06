@@ -1798,5 +1798,9 @@
     "C.1901": {
         "banneduntil": "2025/1/20",
         "BanReason": "N Word soft A"
+    },
+    "The_Toothpaste_Man": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "Mass RDM"
     }
 }
