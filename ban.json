@@ -1778,5 +1778,9 @@
     "zyzz2k": {
         "banneduntil": "2025/1/14",
         "BanReason": "RDM and killing in admin sit"
+    },
+    "grim_kid": {
+        "banneduntil": "2025/1/20",
+        "BanReason": "f slur"
     }
 }
