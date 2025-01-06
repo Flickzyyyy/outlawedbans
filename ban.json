@@ -1786,5 +1786,9 @@
     "Syphoin": {
         "banneduntil": "2025/1/13",
         "BanReason": "rdm cop targeting"
+    },
+    "beclotus": {
+        "banneduntil": "2025/1/23",
+        "BanReason": "homophobia"
     }
 }
