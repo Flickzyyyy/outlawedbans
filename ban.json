@@ -1758,5 +1758,9 @@
     "greasytoenailclippings": {
         "banneduntil": "2025/1/13",
         "BanReason": "rdn admid evasion"
+    },
+    "Multipleshoe224": {
+        "banneduntil": "2025/1/12",
+        "BanReason": "Mass RDM and killing in admin sit"
     }
 }
