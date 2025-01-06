@@ -1746,5 +1746,9 @@
     "rumbum0": {
         "banneduntil": "2025/1/13",
         "BanReason": "RDM and Admin evasion"
+    },
+    "Foxlover101": {
+        "banneduntil": "2025/1/12",
+        "BanReason": "RDM and evasion"
     }
 }
