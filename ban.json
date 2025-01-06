@@ -1762,5 +1762,9 @@
     "Multipleshoe224": {
         "banneduntil": "2025/1/12",
         "BanReason": "Mass RDM and killing in admin sit"
+    },
+    "childeater224": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
