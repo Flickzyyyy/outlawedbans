@@ -1774,5 +1774,9 @@
     "DeadGoblin": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt account"
+    },
+    "Riversnake57134": {
+        "banneduntil": "2025/1/8",
+        "BanReason": "rdm"
     }
 }
