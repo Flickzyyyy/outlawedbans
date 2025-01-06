@@ -1770,5 +1770,9 @@
     "turmeric23": {
         "banneduntil": "2025/1/7",
         "BanReason": "cop targeting"
+    },
+    "CaptinColonCancr": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "mass rdm cop targeting"
     }
 }
