@@ -1774,5 +1774,9 @@
     "CaptinColonCancr": {
         "banneduntil": "2025/1/13",
         "BanReason": "mass rdm cop targeting"
+    },
+    "zyzz2k": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "RDM and killing in admin sit"
     }
 }
