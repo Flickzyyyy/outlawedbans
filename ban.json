@@ -1790,5 +1790,9 @@
     "riddimizer": {
         "banneduntil": "2025/1/14",
         "BanReason": "RDM again after warning and killing in admin sit"
+    },
+    "Evanknight": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "Camping"
     }
 }
