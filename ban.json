@@ -1766,5 +1766,9 @@
     "childeater224": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "Joerogain": {
+        "banneduntil": "9999/1/2",
+        "BanReason": "rdm saying f slur"
     }
 }
