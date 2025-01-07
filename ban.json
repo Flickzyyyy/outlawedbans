@@ -1810,5 +1810,9 @@
     "Pizza6990": {
         "banneduntil": "2025/2/3",
         "BanReason": "Soft a nword admin evasion"
+    },
+    "UsEagleMarine51357": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "cop targeting"
     }
 }
