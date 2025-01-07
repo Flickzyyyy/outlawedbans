@@ -1830,5 +1830,9 @@
     "NameWithNumbers": {
         "banneduntil": "2025/1/10",
         "BanReason": "rdm"
+    },
+    "walterlemon": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "Admin evading and RDM"
     }
 }
