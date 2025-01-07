@@ -1814,5 +1814,9 @@
     "Emanon1st": {
         "banneduntil": "2025/1/9",
         "BanReason": "Rdm report"
+    },
+    "mrpotaters": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "rdm and admin evasion"
     }
 }
