@@ -1810,5 +1810,9 @@
     "Cerealbox0612": {
         "banneduntil": "2025/1/9",
         "BanReason": "RDM (\"Robbing\" people)"
+    },
+    "Emanon1st": {
+        "banneduntil": "2025/1/9",
+        "BanReason": "Rdm report"
     }
 }
