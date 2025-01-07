@@ -1822,5 +1822,9 @@
     "blokk_bud": {
         "banneduntil": "2025/1/14",
         "BanReason": "cop targeting"
+    },
+    "b_e_e_n.sm": {
+        "banneduntil": "2025/1/11",
+        "BanReason": "rdm"
     }
 }
