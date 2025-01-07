@@ -1834,9 +1834,5 @@
     "walterlemon": {
         "banneduntil": "2025/1/14",
         "BanReason": "Admin evading and RDM"
-    },
-    "20percs": {
-        "banneduntil": "2023/1/27",
-        "BanReason": "soft a, evasion"
     }
 }
