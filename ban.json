@@ -1818,5 +1818,9 @@
     "mrpotaters": {
         "banneduntil": "2025/1/14",
         "BanReason": "rdm and admin evasion"
+    },
+    "blokk_bud": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "cop targeting"
     }
 }
