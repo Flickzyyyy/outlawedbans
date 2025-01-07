@@ -1826,5 +1826,9 @@
     "b_e_e_n.sm": {
         "banneduntil": "2025/1/11",
         "BanReason": "rdm"
+    },
+    "NameWithNumbers": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "rdm"
     }
 }
