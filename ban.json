@@ -1830,5 +1830,9 @@
     "Tdk_322": {
         "banneduntil": "2025/1/22",
         "BanReason": "Mass RDM + Camping"
+    },
+    "Zulu9273": {
+        "banneduntil": "2025/1/11",
+        "BanReason": "RDM"
     }
 }
