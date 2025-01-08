@@ -1814,5 +1814,9 @@
     "RCPTE": {
         "banneduntil": "2025/1/22",
         "BanReason": "F Slur"
+    },
+    "1banana": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "RDM"
     }
 }
