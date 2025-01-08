@@ -1830,5 +1830,9 @@
     "Hurricane2424": {
         "banneduntil": "2025/1/10",
         "BanReason": "RDM, but didn\u2019t have microphone to talk"
+    },
+    "Super-Chill": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "Cop Targeting"
     }
 }
