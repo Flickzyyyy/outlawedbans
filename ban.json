@@ -1818,5 +1818,9 @@
     "1banana": {
         "banneduntil": "2025/1/10",
         "BanReason": "RDM"
+    },
+    "drunken_rambo": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "Mass RDM"
     }
 }
