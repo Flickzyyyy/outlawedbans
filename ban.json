@@ -1782,5 +1782,9 @@
     "PoogHairKat": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Psycho_13": {
+        "banneduntil": "2025/1/21",
+        "BanReason": "N Word soft A"
     }
 }
