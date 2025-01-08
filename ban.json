@@ -1810,5 +1810,9 @@
     "Griffstanker": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "RCPTE": {
+        "banneduntil": "2025/1/22",
+        "BanReason": "F Slur"
     }
 }
