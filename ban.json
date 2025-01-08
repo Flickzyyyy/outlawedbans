@@ -1786,5 +1786,9 @@
     "Psycho_13": {
         "banneduntil": "2025/1/21",
         "BanReason": "N Word soft A"
+    },
+    "busterstrugs1": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "cop targeting"
     }
 }
