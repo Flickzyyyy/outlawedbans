@@ -1806,5 +1806,9 @@
     "StankyLegDestroyer": {
         "banneduntil": "2025/1/22",
         "BanReason": "N Word soft A"
+    },
+    "Griffstanker": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
