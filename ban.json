@@ -1822,5 +1822,9 @@
     "The-deal": {
         "banneduntil": "2025/1/15",
         "BanReason": "Police targeting, evasion"
+    },
+    "gabe.200": {
+        "banneduntil": "2025/1/10",
+        "BanReason": "RDM"
     }
 }
