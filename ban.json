@@ -1854,5 +1854,9 @@
     "camo.moose2009": {
         "banneduntil": "2025/1/15",
         "BanReason": "MASS RDM COP TARGETING"
+    },
+    "Jdroutlaw": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "rdm,evasion"
     }
 }
