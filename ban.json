@@ -1746,5 +1746,9 @@
     "RothchildDescendant": {
         "banneduntil": "2025/1/17",
         "BanReason": "rdm, evasion"
+    },
+    "rayray1028": {
+        "banneduntil": "2028/1/17",
+        "BanReason": "underage"
     }
 }
