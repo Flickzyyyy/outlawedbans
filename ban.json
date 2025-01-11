@@ -1762,5 +1762,9 @@
     "Dirtbikesburapp": {
         "banneduntil": "2025/1/31",
         "BanReason": "f slur, evasion"
+    },
+    "PigeonHadFun": {
+        "banneduntil": "2025/1/13",
+        "BanReason": "RDM"
     }
 }
