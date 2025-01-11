@@ -1758,5 +1758,9 @@
     "Dublts": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Dirtbikesburapp": {
+        "banneduntil": "2025/1/31",
+        "BanReason": "f slur, evasion"
     }
 }
