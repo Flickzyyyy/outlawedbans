@@ -1862,5 +1862,9 @@
     "SoulLovesRevolverss": {
         "banneduntil": "2025/1/17",
         "BanReason": "RDM"
+    },
+    "Evanknight": {
+        "banneduntil": "2025/1/17",
+        "BanReason": "cop targeting"
     }
 }
