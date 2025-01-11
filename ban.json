@@ -1870,5 +1870,9 @@
     "bigol_balls": {
         "banneduntil": "2099/1/4",
         "BanReason": "HARD r"
+    },
+    "heueubeveyeuehv": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "EVASION"
     }
 }
