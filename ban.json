@@ -1798,5 +1798,9 @@
     "Jamodalamo": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM after multiple warnings"
+    },
+    "GingRDeadMan": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "Cop targeting/ RDM after multiple warnings"
     }
 }
