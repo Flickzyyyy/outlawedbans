@@ -1778,5 +1778,9 @@
     "Tutffs": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "oldchinesecat21": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM ADMIN EVASION"
     }
 }
