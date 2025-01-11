@@ -1770,5 +1770,9 @@
     "Waterfowl_Shooter": {
         "banneduntil": "2025/1/17",
         "BanReason": "mass rdm"
+    },
+    "Dalxrith": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "rdm killing in admin sit"
     }
 }
