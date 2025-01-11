@@ -1798,5 +1798,9 @@
     "toeo": {
         "banneduntil": "2099/2/1",
         "BanReason": "hard r"
+    },
+    "Kat.fish": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "COP TARGETING KILL DURING SIt"
     }
 }
