@@ -1774,5 +1774,9 @@
     "EcuaAndres": {
         "banneduntil": "2025/1/15",
         "BanReason": "Cop Targeting"
+    },
+    "Cubster808": {
+        "banneduntil": "2025/1/20",
+        "BanReason": "Mass RDM, Admin Evasion"
     }
 }
