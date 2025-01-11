@@ -1794,5 +1794,9 @@
     "scoresay_z": {
         "banneduntil": "2025/1/17",
         "BanReason": "RDM"
+    },
+    "Jamodalamo": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM after multiple warnings"
     }
 }
