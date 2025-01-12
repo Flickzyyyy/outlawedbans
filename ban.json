@@ -1934,5 +1934,9 @@
     "sirchuckington3": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM"
+    },
+    "ur.localdummy": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "rdm after multiple warnings"
     }
 }
