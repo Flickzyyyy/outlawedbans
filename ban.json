@@ -1894,5 +1894,9 @@
     "frog88y": {
         "banneduntil": "2025/1/16",
         "BanReason": "camping store rdm"
+    },
+    "NameWithNumbers": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "RDM/FORCED RP"
     }
 }
