@@ -1894,5 +1894,9 @@
     "rabihkaram": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM (off report)"
+    },
+    "ZodiacLovesRevolvers": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "alt account (SoulLovesRevolverss)"
     }
 }
