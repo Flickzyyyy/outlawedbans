@@ -1906,5 +1906,9 @@
     "shadow196": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM"
+    },
+    "jaden.s": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "MASS RDM"
     }
 }
