@@ -1842,5 +1842,9 @@
     "IraqiTaxiDriver": {
         "banneduntil": "2025/2/4",
         "BanReason": "homophobia"
+    },
+    "applesauce666": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "mass Rdm"
     }
 }
