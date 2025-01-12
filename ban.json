@@ -1862,5 +1862,9 @@
     "TwizzyWick": {
         "banneduntil": "2025/1/17",
         "BanReason": "Derogatory remark"
+    },
+    "Emanon1st": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM"
     }
 }
