@@ -1962,5 +1962,9 @@
     "JJHas69Twinkies": {
         "banneduntil": "2025/1/18",
         "BanReason": "RDM in Spawn, Evasion"
+    },
+    "ChicenFatBoii": {
+        "banneduntil": "2025/1/17",
+        "BanReason": "Cop Targeting"
     }
 }
