@@ -1890,5 +1890,9 @@
     "coldkilla": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM (off report)"
+    },
+    "rabihkaram": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM (off report)"
     }
 }
