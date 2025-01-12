@@ -1898,5 +1898,9 @@
     "NameWithNumbers": {
         "banneduntil": "2025/1/14",
         "BanReason": "RDM/FORCED RP"
+    },
+    "IraqiTaxiDriver": {
+        "banneduntil": "2025/2/4",
+        "BanReason": "homophobia"
     }
 }
