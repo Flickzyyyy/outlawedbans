@@ -1886,5 +1886,9 @@
     "PLAYA2REALL": {
         "banneduntil": "2099/1/1",
         "BanReason": "RACISM"
+    },
+    "Livoved": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "mass Rdm"
     }
 }
