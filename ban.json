@@ -1930,5 +1930,9 @@
     "Nxptune0o0": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "sirchuckington3": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM"
     }
 }
