@@ -1950,5 +1950,9 @@
     "STAYTRUETOGODFR": {
         "banneduntil": "2025/1/12",
         "BanReason": "unban"
+    },
+    "STAYTRUE2GODFR": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "harrasment / rdm"
     }
 }
