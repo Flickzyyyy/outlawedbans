@@ -1878,5 +1878,9 @@
     "BlixsIsAMeme": {
         "banneduntil": "2025/1/15",
         "BanReason": "RDM"
+    },
+    "PLAY2REALL": {
+        "banneduntil": "2099/1/15",
+        "BanReason": "HARD R"
     }
 }
