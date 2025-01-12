@@ -1878,5 +1878,9 @@
     "Virtual-Jace": {
         "banneduntil": "2025/2/1",
         "BanReason": "N WORD"
+    },
+    "some_ooonne": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM"
     }
 }
