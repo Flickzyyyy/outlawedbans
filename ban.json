@@ -1874,5 +1874,9 @@
     "kiorey": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM"
+    },
+    "Virtual-Jace": {
+        "banneduntil": "2025/2/1",
+        "BanReason": "N WORD"
     }
 }
