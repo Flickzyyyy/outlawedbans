@@ -1950,5 +1950,9 @@
     "STAYTRUE2GODFR": {
         "banneduntil": "2025/1/16",
         "BanReason": "harrasment / rdm"
+    },
+    "kingvonfrmda0": {
+        "banneduntil": "2025/1/14",
+        "BanReason": "RDM"
     }
 }
