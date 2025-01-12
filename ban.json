@@ -1886,5 +1886,9 @@
     "mitchellswag999": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM"
+    },
+    "coldkilla": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM (off report)"
     }
 }
