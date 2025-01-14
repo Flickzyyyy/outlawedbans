@@ -1922,5 +1922,9 @@
     "skeleton_bones": {
         "banneduntil": "2025/2/3",
         "BanReason": "derogatory homophobic comments, evasion"
+    },
+    "DutchVanDerLinde129": {
+        "banneduntil": "2025/1/21",
+        "BanReason": "rdm, evasion"
     }
 }
