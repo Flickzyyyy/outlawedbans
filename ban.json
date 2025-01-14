@@ -1890,5 +1890,9 @@
     "Bramhollestelle12": {
         "banneduntil": "2024/1/1",
         "BanReason": "unban"
+    },
+    "Bramhollestelle2": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "derog remarks / rdm"
     }
 }
