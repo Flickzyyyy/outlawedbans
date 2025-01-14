@@ -1918,5 +1918,9 @@
     "lilboss21pig2": {
         "banneduntil": "2025/1/17",
         "BanReason": "RDM"
+    },
+    "skeleton_bones": {
+        "banneduntil": "2025/2/3",
+        "BanReason": "derogatory homophobic comments, evasion"
     }
 }
