@@ -1946,5 +1946,9 @@
     "idiotman202": {
         "banneduntil": "2025/1/20",
         "BanReason": "mass rdm"
+    },
+    "2010SupremeLeader": {
+        "banneduntil": "2025/1/21",
+        "BanReason": "rdm, evasion"
     }
 }
