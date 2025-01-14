@@ -1886,5 +1886,9 @@
     "Jabs121": {
         "banneduntil": "2025/1/16",
         "BanReason": "RDM, based off video report"
+    },
+    "Bramhollestelle12": {
+        "banneduntil": "2025/1/15",
+        "BanReason": "derog comments / rdm"
     }
 }
