@@ -1906,5 +1906,9 @@
     "J1ZW1Z": {
         "banneduntil": "2025/2/2",
         "BanReason": "soft a"
+    },
+    "ApolloInVR": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "DEROG REMARKS"
     }
 }
