@@ -1974,5 +1974,9 @@
     "bbbking.2022": {
         "banneduntil": "2025/2/2",
         "BanReason": "f slur"
+    },
+    "Barry_Wheatly_Williams_III": {
+        "banneduntil": "2025/1/16",
+        "BanReason": "RDM"
     }
 }
