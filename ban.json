@@ -1890,5 +1890,9 @@
     "Agility_Games": {
         "banneduntil": "2025/1/22",
         "BanReason": "RDM/Evasion"
+    },
+    "Sl1pg8r": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "RDM/EVASION"
     }
 }
