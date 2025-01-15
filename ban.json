@@ -1986,5 +1986,9 @@
     "SoulLovesRevolerss": {
         "banneduntil": "2025/2/2",
         "BanReason": "SOFT A"
+    },
+    "Agility_Games": {
+        "banneduntil": "2025/1/22",
+        "BanReason": "RDM/Evasion"
     }
 }
