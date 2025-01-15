@@ -1958,5 +1958,9 @@
     "Dextuah": {
         "banneduntil": "2025/1/17",
         "BanReason": "f slur"
+    },
+    "fartfacial": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "RDM"
     }
 }
