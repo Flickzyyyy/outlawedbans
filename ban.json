@@ -1938,5 +1938,9 @@
     "jtw142": {
         "banneduntil": "2025/1/17",
         "BanReason": "cop targeting"
+    },
+    "igevr": {
+        "banneduntil": "2025/1/17",
+        "BanReason": "cop targeting / kill during sit"
     }
 }
