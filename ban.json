@@ -1910,5 +1910,9 @@
     "ApolloInVR": {
         "banneduntil": "2025/2/2",
         "BanReason": "DEROG REMARKS"
+    },
+    "Thuggkell": {
+        "banneduntil": "2025/1/17",
+        "BanReason": "RDM"
     }
 }
