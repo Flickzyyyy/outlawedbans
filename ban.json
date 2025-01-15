@@ -1894,5 +1894,9 @@
     "Sl1pg8r": {
         "banneduntil": "2025/1/18",
         "BanReason": "RDM/EVASION"
+    },
+    "BonquishaisKING": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
