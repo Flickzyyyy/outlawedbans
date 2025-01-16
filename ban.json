@@ -1838,5 +1838,9 @@
     "Wattle": {
         "banneduntil": "2025/1/23",
         "BanReason": "Mass RDM"
+    },
+    "Wattie": {
+        "banneduntil": "2025/1/23",
+        "BanReason": "Mass RDM"
     }
 }
