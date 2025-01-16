@@ -1938,5 +1938,9 @@
     "Ihatekevindurant": {
         "banneduntil": "2025/1/22",
         "BanReason": "RDM EVASION"
+    },
+    "Cerealbox0612": {
+        "banneduntil": "2025/1/17",
+        "BanReason": "RDM"
     }
 }
