@@ -1910,5 +1910,9 @@
     "Thuggkell": {
         "banneduntil": "2025/1/17",
         "BanReason": "RDM"
+    },
+    "MrNobody188": {
+        "banneduntil": "2025/1/17",
+        "BanReason": "RDM"
     }
 }
