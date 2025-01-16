@@ -1842,5 +1842,9 @@
     "Dylanrt22": {
         "banneduntil": "2099/1/16",
         "BanReason": "Hard R"
+    },
+    "Soviet.Onion1": {
+        "banneduntil": "2025/1/23",
+        "BanReason": "Mass RDM"
     }
 }
