@@ -1862,5 +1862,9 @@
     "MrNobodyLovesMen": {
         "banneduntil": "2025/1/19",
         "BanReason": "RDM"
+    },
+    "MrSlickYT": {
+        "banneduntil": "2024/01/20",
+        "BanReason": "rdm"
     }
 }
