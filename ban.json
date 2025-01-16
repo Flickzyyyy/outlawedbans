@@ -1930,5 +1930,9 @@
     "Jacob_Ice": {
         "banneduntil": "2025/1/22",
         "BanReason": "RDM EVASION"
+    },
+    "Noodle_Martin": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
