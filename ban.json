@@ -1834,5 +1834,9 @@
     "Monkz213": {
         "banneduntil": "2025/1/20",
         "BanReason": "RDM"
+    },
+    "Wattle": {
+        "banneduntil": "2025/1/23",
+        "BanReason": "Mass RDM"
     }
 }
