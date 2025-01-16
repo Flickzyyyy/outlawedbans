@@ -1826,5 +1826,9 @@
     "John_Skibidi": {
         "banneduntil": "2025/1/18",
         "BanReason": "RDMx9"
+    },
+    "dmv_plugz": {
+        "banneduntil": "2025/2/11",
+        "BanReason": "SOFT A"
     }
 }
