@@ -1830,5 +1830,9 @@
     "dmv_plugz": {
         "banneduntil": "2025/2/11",
         "BanReason": "SOFT A"
+    },
+    "Monkz213": {
+        "banneduntil": "2025/1/20",
+        "BanReason": "RDM"
     }
 }
