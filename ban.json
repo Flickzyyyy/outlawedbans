@@ -1918,5 +1918,9 @@
     "SpaceKillerXx": {
         "banneduntil": "2025/2/10",
         "BanReason": "SOFT A"
+    },
+    "treyson.foral": {
+        "banneduntil": "2025/1/18",
+        "BanReason": "RDM"
     }
 }
