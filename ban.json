@@ -1846,5 +1846,9 @@
     "Soviet.Onion1": {
         "banneduntil": "2025/1/23",
         "BanReason": "Mass RDM"
+    },
+    "kingvonfrmda0": {
+        "banneduntil": "2025/1/21",
+        "BanReason": "Cop Target, RDM"
     }
 }
