@@ -1922,5 +1922,9 @@
     "treyson.foral": {
         "banneduntil": "2025/1/18",
         "BanReason": "RDM"
+    },
+    "ilikewaffels": {
+        "banneduntil": "2025/1/22",
+        "BanReason": "evasion/ RDM"
     }
 }
