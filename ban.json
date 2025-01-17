@@ -1870,5 +1870,9 @@
     "Robosaurus1320": {
         "banneduntil": "2025/1/25",
         "BanReason": "RDM, Cop Targeting,  Admin Evasion"
+    },
+    "Animus.Rex": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "RDM AFTER WARNING MULTIPLE"
     }
 }
