@@ -1850,5 +1850,9 @@
     "erin.hall.16940": {
         "banneduntil": "2025/1/19",
         "BanReason": "RDM"
+    },
+    "bean.man.102.2024": {
+        "banneduntil": "2027/1/22",
+        "BanReason": "underage"
     }
 }
