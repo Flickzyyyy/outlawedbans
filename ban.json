@@ -1834,5 +1834,9 @@
     "Mexanoboi": {
         "banneduntil": "2099/1/1",
         "BanReason": "N WORD"
+    },
+    "FiveDollarYo": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "RDM"
     }
 }
