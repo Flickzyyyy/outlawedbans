@@ -1866,5 +1866,9 @@
     "ok47": {
         "banneduntil": "2025/2/2",
         "BanReason": "cop targeting / rdmx3 during sit"
+    },
+    "Kat.fish": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "evasion"
     }
 }
