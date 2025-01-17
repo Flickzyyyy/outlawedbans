@@ -1882,5 +1882,9 @@
     "NameWithNumbers": {
         "banneduntil": "2025/2/5",
         "BanReason": "anti-semetic comment, Rdm"
+    },
+    "LTancor": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "SOFT A"
     }
 }
