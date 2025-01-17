@@ -1886,5 +1886,9 @@
     "LTancor": {
         "banneduntil": "2025/2/2",
         "BanReason": "SOFT A"
+    },
+    "DonavinK": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "RDM"
     }
 }
