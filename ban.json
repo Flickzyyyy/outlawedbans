@@ -1818,5 +1818,9 @@
     "Thrush_2006": {
         "banneduntil": "2025/01/23",
         "BanReason": "rdm and killing during sit"
+    },
+    "Poor_man_OT": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "HARD R"
     }
 }
