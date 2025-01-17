@@ -1822,5 +1822,9 @@
     "Poor_man_OT": {
         "banneduntil": "2099/2/2",
         "BanReason": "HARD R"
+    },
+    "VictoriaAndMunch": {
+        "banneduntil": "2025/1/20",
+        "BanReason": "RDM"
     }
 }
