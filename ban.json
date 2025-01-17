@@ -1858,5 +1858,9 @@
     "SRkungfu": {
         "banneduntil": "2025/1/22",
         "BanReason": "RDM ADMIN EVASION"
+    },
+    "pandaballs": {
+        "banneduntil": "2025/1/22",
+        "BanReason": "RDM ADMIN EVASION"
     }
 }
