@@ -1810,5 +1810,9 @@
     "BALSamicCoCoNUT": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "the_realiest_el_barto": {
+        "banneduntil": "2025/2/1",
+        "BanReason": "F slur"
     }
 }
