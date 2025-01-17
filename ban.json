@@ -1862,5 +1862,9 @@
     "pandaballs": {
         "banneduntil": "2025/1/22",
         "BanReason": "RDM ADMIN EVASION"
+    },
+    "ok47": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "cop targeting / rdmx3 during sit"
     }
 }
