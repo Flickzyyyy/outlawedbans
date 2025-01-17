@@ -1838,5 +1838,9 @@
     "FiveDollarYo": {
         "banneduntil": "2025/1/19",
         "BanReason": "RDM"
+    },
+    "Drain_You_Empty": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "RDM"
     }
 }
