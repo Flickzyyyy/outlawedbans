@@ -1902,5 +1902,9 @@
     "ValorRush": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "vicsocky": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "RDM EVASION"
     }
 }
