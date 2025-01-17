@@ -1814,5 +1814,9 @@
     "the_realiest_el_barto": {
         "banneduntil": "2025/2/1",
         "BanReason": "F slur"
+    },
+    "Thrush_2006": {
+        "banneduntil": "2025/01/23",
+        "BanReason": "rdm and killing during sit"
     }
 }
