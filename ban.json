@@ -1902,5 +1902,9 @@
     "Incoherent333": {
         "banneduntil": "2025/1/20",
         "BanReason": "RDM"
+    },
+    "kckreiser": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
