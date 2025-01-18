@@ -1854,5 +1854,9 @@
     "californication6969": {
         "banneduntil": "2025/1/25",
         "BanReason": "MASS RDM"
+    },
+    "FX_Shifty": {
+        "banneduntil": "2025/1/21",
+        "BanReason": "RDM KILL DURING SIT"
     }
 }
