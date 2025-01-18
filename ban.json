@@ -1858,5 +1858,9 @@
     "FX_Shifty": {
         "banneduntil": "2025/1/21",
         "BanReason": "RDM KILL DURING SIT"
+    },
+    "ABoogieSZN05": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "derog comments RDM"
     }
 }
