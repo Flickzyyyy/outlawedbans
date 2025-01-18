@@ -1838,5 +1838,9 @@
     "IsmellpineapplesV2": {
         "banneduntil": "2099/2/2",
         "BanReason": "HARD R MULTIPLE TIMES"
+    },
+    "leoisgood23": {
+        "banneduntil": "2025/1/19",
+        "BanReason": "RDM"
     }
 }
