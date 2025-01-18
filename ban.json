@@ -1862,5 +1862,9 @@
     "ABoogieSZN05": {
         "banneduntil": "2025/2/2",
         "BanReason": "derog comments RDM"
+    },
+    "07jay01": {
+        "banneduntil": "2025/2/20",
+        "BanReason": "Evasion, broke rull 6"
     }
 }
