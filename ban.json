@@ -1894,5 +1894,9 @@
     "<@&1271968811423371365>": {
         "banneduntil": "",
         "BanReason": "The bans were broken cuz the server provider changed the Server Details without notifying anyone so if you see anyone who was banned today ingame, please reban them."
+    },
+    "bantercreak": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
