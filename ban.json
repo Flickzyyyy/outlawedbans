@@ -1882,5 +1882,9 @@
     "Ancorben207": {
         "banneduntil": "2025/1/23",
         "BanReason": "RDM ADMINS DOING SIT"
+    },
+    "PoisonDart23": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "Mass RDM, evasion"
     }
 }
