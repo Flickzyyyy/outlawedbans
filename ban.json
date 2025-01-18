@@ -1866,5 +1866,9 @@
     "07jay01": {
         "banneduntil": "2025/2/20",
         "BanReason": "Evasion, broke rull 6"
+    },
+    "Glaive.dominus.69": {
+        "banneduntil": "2025/1/27",
+        "BanReason": "RDM, evasion"
     }
 }
