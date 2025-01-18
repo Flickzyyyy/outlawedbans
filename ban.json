@@ -1842,5 +1842,9 @@
     "leoisgood23": {
         "banneduntil": "2025/1/19",
         "BanReason": "RDM"
+    },
+    "Wadzzi": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "HARD R"
     }
 }
