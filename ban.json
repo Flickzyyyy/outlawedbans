@@ -1878,5 +1878,9 @@
     "blokk_bud": {
         "banneduntil": "2025/2/2",
         "BanReason": "N Word Soft A"
+    },
+    "immortalphantom": {
+        "banneduntil": "2025/1/25",
+        "BanReason": "RDM"
     }
 }
