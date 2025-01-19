@@ -1902,5 +1902,9 @@
     "hynism": {
         "banneduntil": "2025/2/2",
         "BanReason": "N-word soft a"
+    },
+    "YogiV24": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
