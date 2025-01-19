@@ -1894,5 +1894,9 @@
     "coolcokes.2022": {
         "banneduntil": "2025/1/20",
         "BanReason": "Joined after a kick"
+    },
+    "TacticalLegs": {
+        "banneduntil": "2025/2/9",
+        "BanReason": "derogatory comments towards race, evasion"
     }
 }
