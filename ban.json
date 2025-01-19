@@ -1898,5 +1898,9 @@
     "bantercreak": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "24k.RT": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "RDM, evasion"
     }
 }
