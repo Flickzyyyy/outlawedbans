@@ -1910,5 +1910,9 @@
     "bigboy.884346": {
         "banneduntil": "2025/2/2",
         "BanReason": "Broke rule 6"
+    },
+    "Bumpthis": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
