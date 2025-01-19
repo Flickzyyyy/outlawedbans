@@ -1902,5 +1902,9 @@
     "24k.RT": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM, evasion"
+    },
+    "Rylynn6913": {
+        "banneduntil": "2026/1/18",
+        "BanReason": "Underage"
     }
 }
