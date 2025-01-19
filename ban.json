@@ -1882,5 +1882,9 @@
     "immortalphantom": {
         "banneduntil": "2025/1/25",
         "BanReason": "RDM"
+    },
+    "tuckerisg3e": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "F Slur + RDM"
     }
 }
