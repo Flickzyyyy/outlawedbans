@@ -1870,5 +1870,9 @@
     "pooperbeswax": {
         "banneduntil": "2025/1/25",
         "BanReason": "Mass RDM"
+    },
+    "Whatintheeverlovingshit": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
