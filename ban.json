@@ -1898,5 +1898,9 @@
     "TacticalLegs": {
         "banneduntil": "2025/2/9",
         "BanReason": "derogatory comments towards race, evasion"
+    },
+    "hynism": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "N-word soft a"
     }
 }
