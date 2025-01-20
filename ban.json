@@ -1906,5 +1906,9 @@
     "UGWAY17": {
         "banneduntil": "2025/1/24",
         "BanReason": "RDM KILL DURING SIT"
+    },
+    "ContourSaucer17": {
+        "banneduntil": "2025/1/22",
+        "BanReason": "RDM"
     }
 }
