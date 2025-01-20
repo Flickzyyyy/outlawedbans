@@ -1902,5 +1902,9 @@
     "lemmykilmister": {
         "banneduntil": "2025/2/5",
         "BanReason": "soft A"
+    },
+    "lemmykilmister411": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "soft A"
     }
 }
