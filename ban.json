@@ -1946,5 +1946,9 @@
     "Miami9009": {
         "banneduntil": "2025/2/3",
         "BanReason": "Mass RDM + Evading"
+    },
+    "Frosty_Man17": {
+        "banneduntil": "2025/1/25",
+        "BanReason": "RDM"
     }
 }
