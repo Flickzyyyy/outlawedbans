@@ -1918,5 +1918,9 @@
     "kermit_OnTop": {
         "banneduntil": "2025/1/28",
         "BanReason": "Rdm, evasion"
+    },
+    "Thunderbomb": {
+        "banneduntil": "2025/1/22",
+        "BanReason": "RDM"
     }
 }
