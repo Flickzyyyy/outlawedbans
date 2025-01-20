@@ -1898,5 +1898,9 @@
     "META.Z123": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM, Evasion"
+    },
+    "lemmykilmister": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "soft A"
     }
 }
