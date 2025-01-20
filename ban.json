@@ -1910,5 +1910,9 @@
     "ContourSaucer17": {
         "banneduntil": "2025/1/22",
         "BanReason": "RDM"
+    },
+    "real.batman": {
+        "banneduntil": "2025/1/21",
+        "BanReason": "RDM"
     }
 }
