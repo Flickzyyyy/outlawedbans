@@ -1938,5 +1938,9 @@
     "Aaron_is_cool": {
         "banneduntil": "2025/1/24",
         "BanReason": "RDM"
+    },
+    "Fretnolonger": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "Cop Targeting"
     }
 }
