@@ -1914,5 +1914,9 @@
     "real.batman": {
         "banneduntil": "2025/1/21",
         "BanReason": "RDM"
+    },
+    "kermit_OnTop": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "Rdm, evasion"
     }
 }
