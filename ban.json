@@ -1870,5 +1870,9 @@
     "someguy335": {
         "banneduntil": "2025/1/24",
         "BanReason": "RDM"
+    },
+    "HTK_LAXIQT": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "RDM"
     }
 }
