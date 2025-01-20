@@ -1922,5 +1922,9 @@
     "Thunderbomb": {
         "banneduntil": "2025/1/22",
         "BanReason": "RDM"
+    },
+    "Jordan_yes": {
+        "banneduntil": "2025/1/22",
+        "BanReason": "Cop targeting"
     }
 }
