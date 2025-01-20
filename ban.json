@@ -1894,5 +1894,9 @@
     "Jim_milton2": {
         "banneduntil": "2025/1/24",
         "BanReason": "RDM"
+    },
+    "META.Z123": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "RDM, Evasion"
     }
 }
