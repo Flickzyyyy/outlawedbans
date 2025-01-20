@@ -1890,5 +1890,9 @@
     "bladvr1234": {
         "banneduntil": "2025/1/24",
         "BanReason": "Rdm"
+    },
+    "Jim_milton2": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "RDM"
     }
 }
