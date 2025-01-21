@@ -1982,5 +1982,9 @@
     "emlo.has.a.gun": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "GingRDeadMan": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "rdm"
     }
 }
