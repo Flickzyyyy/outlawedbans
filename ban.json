@@ -2014,5 +2014,9 @@
     "killerclownz": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM , evasion"
+    },
+    "HillDaLizard": {
+        "banneduntil": "2025/1/21",
+        "BanReason": "RDM"
     }
 }
