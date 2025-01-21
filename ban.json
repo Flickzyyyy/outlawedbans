@@ -1958,5 +1958,9 @@
     "skunkystunk": {
         "banneduntil": "2025/1/24",
         "BanReason": "cop targeting report"
+    },
+    "grim_530": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "RDM"
     }
 }
