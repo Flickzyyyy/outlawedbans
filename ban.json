@@ -1974,5 +1974,9 @@
     "killerclownz": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM , evasion"
+    },
+    "Monkeyeatbananna": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "mass rdm"
     }
 }
