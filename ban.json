@@ -1950,5 +1950,9 @@
     "Frosty_Man17": {
         "banneduntil": "2025/1/25",
         "BanReason": "RDM"
+    },
+    "RothchildDescendant": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "cop targeting and rdm"
     }
 }
