@@ -1978,5 +1978,9 @@
     "USEagleMarine51357": {
         "banneduntil": "2025/1/24",
         "BanReason": "RDM EVASION"
+    },
+    "emlo.has.a.gun": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
