@@ -1215,10 +1215,6 @@
         "banneduntil": "2050/10/10",
         "BanReason": "hard r"
     },
-    "Marshmalone12": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "f slur, cop targeting, Rdm, admin evasion"
-    },
     "BigZ1120": {
         "banneduntil": "2050/10/10",
         "BanReason": "hard r and f slur"
@@ -1363,21 +1359,9 @@
         "banneduntil": "2025/2/3",
         "BanReason": "Soft a nword admin evasion"
     },
-    "BootyBeater420": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "F slur"
-    },
-    "dresdenlovesrevolvers": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "F Slur"
-    },
     "PoogHairKat": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
-    },
-    "Psycho_13": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "N Word soft A"
     },
     "StankyLegDestroyer": {
         "banneduntil": "2025/1/22",
@@ -1503,21 +1487,9 @@
         "banneduntil": "2025/2/3",
         "BanReason": "derogatory homophobic comments, evasion"
     },
-    "DutchVanDerLinde129": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "rdm, evasion"
-    },
-    "Tyl3r303": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "rdm, evasion"
-    },
     "Kobyjackchee": {
         "banneduntil": "2025/2/3",
         "BanReason": "derogatory homophobic comments, mass Rdm"
-    },
-    "2010SupremeLeader": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "rdm, evasion"
     },
     "shanks998shi": {
         "banneduntil": "2025/1/27",
@@ -1610,10 +1582,6 @@
     "Soviet.Onion1": {
         "banneduntil": "2025/1/23",
         "BanReason": "Mass RDM"
-    },
-    "kingvonfrmda0": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "Cop Target, RDM"
     },
     "Bababooey81": {
         "banneduntil": "2025/1/23",
@@ -1734,10 +1702,6 @@
     "californication6969": {
         "banneduntil": "2025/1/25",
         "BanReason": "MASS RDM"
-    },
-    "FX_Shifty": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "RDM KILL DURING SIT"
     },
     "ABoogieSZN05": {
         "banneduntil": "2025/2/2",
@@ -1911,10 +1875,6 @@
         "banneduntil": "2025/1/22",
         "BanReason": "RDM"
     },
-    "real.batman": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "RDM"
-    },
     "kermit_OnTop": {
         "banneduntil": "2025/1/28",
         "BanReason": "Rdm, evasion"
@@ -2014,9 +1974,5 @@
     "killerclownz": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM , evasion"
-    },
-    "HillDaLizard": {
-        "banneduntil": "2025/1/21",
-        "BanReason": "RDM"
     }
 }
