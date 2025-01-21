@@ -1998,5 +1998,9 @@
     "HorociousCuzzler": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "treyson.foral": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "rdm"
     }
 }
