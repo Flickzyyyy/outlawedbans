@@ -2018,5 +2018,9 @@
     "HauntedTurkey": {
         "banneduntil": "2025/1/29",
         "BanReason": "rdm, evasion"
+    },
+    "i_have_chlamida": {
+        "banneduntil": "2025/1/25",
+        "BanReason": "rdm"
     }
 }
