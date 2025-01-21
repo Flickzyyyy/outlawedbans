@@ -1954,5 +1954,9 @@
     "RothchildDescendant": {
         "banneduntil": "2025/1/30",
         "BanReason": "cop targeting and rdm"
+    },
+    "skunkystunk": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "cop targeting report"
     }
 }
