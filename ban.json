@@ -1970,5 +1970,9 @@
     "OPPENHIGHMER": {
         "banneduntil": "2099/2/2",
         "BanReason": "HARD R"
+    },
+    "elburn24": {
+        "banneduntil": "2025/1/23",
+        "BanReason": "RDM"
     }
 }
