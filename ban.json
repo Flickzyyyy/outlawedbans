@@ -1962,5 +1962,9 @@
     "grim_530": {
         "banneduntil": "2025/1/24",
         "BanReason": "RDM"
+    },
+    "finedine": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "RDM"
     }
 }
