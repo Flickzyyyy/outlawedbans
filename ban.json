@@ -2006,5 +2006,9 @@
     "BJW12": {
         "banneduntil": "2025/1/25",
         "BanReason": "cop targeting report"
+    },
+    "Brodes83": {
+        "banneduntil": "2025/1/29",
+        "BanReason": "cop targeting, evasion"
     }
 }
