@@ -1974,5 +1974,9 @@
     "Monkeyeatbananna": {
         "banneduntil": "2025/1/28",
         "BanReason": "mass rdm"
+    },
+    "Lucky_Mutt": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Weirdo"
     }
 }
