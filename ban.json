@@ -1966,5 +1966,9 @@
     "finedine": {
         "banneduntil": "2025/1/24",
         "BanReason": "RDM"
+    },
+    "OPPENHIGHMER": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "HARD R"
     }
 }
