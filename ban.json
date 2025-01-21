@@ -2014,5 +2014,9 @@
     "MGS_BigBoss": {
         "banneduntil": "2025/1/29",
         "BanReason": "cop targeting,evasion"
+    },
+    "HauntedTurkey": {
+        "banneduntil": "2025/1/29",
+        "BanReason": "rdm, evasion"
     }
 }
