@@ -2002,5 +2002,9 @@
     "treyson.foral": {
         "banneduntil": "2025/1/24",
         "BanReason": "rdm"
+    },
+    "jtw412": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "rdm"
     }
 }
