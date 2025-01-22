@@ -2030,5 +2030,9 @@
     "donniedarko2864212": {
         "banneduntil": "2025/1/25",
         "BanReason": "rdm through a ticket"
+    },
+    "zu_tw": {
+        "banneduntil": "2025/1/29",
+        "BanReason": "rdm, evasion"
     }
 }
