@@ -2046,5 +2046,9 @@
     "oculuso_wen": {
         "banneduntil": "2025/1/29",
         "BanReason": "cop targeting, Rdm"
+    },
+    "Doomofhulkvr": {
+        "banneduntil": "2025/1/25",
+        "BanReason": "rdm"
     }
 }
