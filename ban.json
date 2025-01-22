@@ -2042,5 +2042,9 @@
     "rateatingcat": {
         "banneduntil": "2025/1/29",
         "BanReason": "cop targeting, Rdm"
+    },
+    "oculuso_wen": {
+        "banneduntil": "2025/1/29",
+        "BanReason": "cop targeting, Rdm"
     }
 }
