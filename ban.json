@@ -2002,5 +2002,9 @@
     "mentalists": {
         "banneduntil": "2025/02/04",
         "BanReason": "f slur"
+    },
+    "LeNutJames": {
+        "banneduntil": "2025/1/26",
+        "BanReason": "Rdm report"
     }
 }
