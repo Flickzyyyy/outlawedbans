@@ -2022,5 +2022,9 @@
     "issac.gallegos.7186": {
         "banneduntil": "2025/1/30",
         "BanReason": "rdm, evasion"
+    },
+    "cheese1290": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
