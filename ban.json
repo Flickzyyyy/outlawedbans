@@ -1998,5 +1998,9 @@
     "Scotlando": {
         "banneduntil": "2025/2/5",
         "BanReason": "Mass RDM"
+    },
+    "mentalists": {
+        "banneduntil": "2025/02/04",
+        "BanReason": "f slur"
     }
 }
