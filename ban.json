@@ -2034,5 +2034,9 @@
     "Evanknight1222": {
         "banneduntil": "2099/1/1",
         "BanReason": "EVASION"
+    },
+    "STAYTRUE2GODFR": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "racial comment"
     }
 }
