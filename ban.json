@@ -2054,5 +2054,9 @@
     "Pvt.jelly": {
         "banneduntil": "2025/1/30",
         "BanReason": "cop targeting, Rdm, evasion, killing during sit"
+    },
+    "Dawson98": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "soft a, evasion"
     }
 }
