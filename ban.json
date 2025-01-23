@@ -2038,5 +2038,9 @@
     "STAYTRUE2GODFR": {
         "banneduntil": "2025/2/5",
         "BanReason": "racial comment"
+    },
+    "harviemoon": {
+        "banneduntil": "2025/01/28",
+        "BanReason": "cop targeting"
     }
 }
