@@ -2042,5 +2042,9 @@
     "harviemoon": {
         "banneduntil": "2025/01/28",
         "BanReason": "cop targeting"
+    },
+    "b_e_e_n.SM": {
+        "banneduntil": "2024/01/28",
+        "BanReason": "cop targeting"
     }
 }
