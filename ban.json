@@ -2034,5 +2034,9 @@
     "davp05": {
         "banneduntil": "2025/1/25",
         "BanReason": "RDM EVASION"
+    },
+    "codekiller295": {
+        "banneduntil": "2025/01/27",
+        "BanReason": "rdm"
     }
 }
