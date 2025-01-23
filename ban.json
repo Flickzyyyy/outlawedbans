@@ -2078,5 +2078,9 @@
     "Chory1029": {
         "banneduntil": "2029/1/1",
         "BanReason": "underage"
+    },
+    "XYACBP": {
+        "banneduntil": "2099/1/23",
+        "BanReason": "Hard R"
     }
 }
