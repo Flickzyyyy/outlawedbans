@@ -2050,5 +2050,9 @@
     "thebigbuck": {
         "banneduntil": "2025/1/26",
         "BanReason": "cop targeting"
+    },
+    "Pvt.jelly": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "cop targeting, Rdm, evasion, killing during sit"
     }
 }
