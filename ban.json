@@ -2066,5 +2066,9 @@
     "shadeguy21": {
         "banneduntil": "2025/2/5",
         "BanReason": "soft a"
+    },
+    "Fullestsend": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "Offense comment"
     }
 }
