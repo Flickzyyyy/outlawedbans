@@ -2062,5 +2062,9 @@
     "EmperorDumdum": {
         "banneduntil": "2025/1/25",
         "BanReason": "Cop Targeting"
+    },
+    "pops1368": {
+        "banneduntil": "2025/01/28",
+        "BanReason": "cop rdm."
     }
 }
