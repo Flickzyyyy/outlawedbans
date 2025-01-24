@@ -2034,5 +2034,9 @@
     "comkid": {
         "banneduntil": "2025/2/7",
         "BanReason": "Said n***a while I was around. Please read the rules next time"
+    },
+    "aquatic.vrxt": {
+        "banneduntil": "2025/1/26",
+        "BanReason": "RDM"
     }
 }
