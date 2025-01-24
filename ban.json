@@ -2090,5 +2090,9 @@
     "a.s_t.r.a": {
         "banneduntil": "2025/1/25",
         "BanReason": "RDM"
+    },
+    "Evanknight34": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "EVASION USER 3x"
     }
 }
