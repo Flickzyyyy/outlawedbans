@@ -2046,5 +2046,9 @@
     "jerry.atrick": {
         "banneduntil": "2025/1/26",
         "BanReason": "RDM"
+    },
+    "bbbking": {
+        "banneduntil": "2024/12/1",
+        "BanReason": "freedom"
     }
 }
