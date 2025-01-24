@@ -2026,5 +2026,9 @@
     "bennybruh111": {
         "banneduntil": "2025/2/1",
         "BanReason": "rdm, evasion"
+    },
+    "DogRobber": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "Rdm, evasion"
     }
 }
