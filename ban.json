@@ -2098,5 +2098,9 @@
     "AceShadow09": {
         "banneduntil": "2025/1/26",
         "BanReason": "RDM EVASION"
+    },
+    "walkerman16": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "RDM EVASION KILL DURING SIT"
     }
 }
