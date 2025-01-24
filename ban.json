@@ -2086,5 +2086,9 @@
     "murphy..408260": {
         "banneduntil": "2025/1/26",
         "BanReason": "RDM EVASION"
+    },
+    "a.s_t.r.a": {
+        "banneduntil": "2025/1/25",
+        "BanReason": "RDM"
     }
 }
