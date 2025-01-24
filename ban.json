@@ -2042,5 +2042,9 @@
     "Niekmolenkamp": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM KILL DURING SIT"
+    },
+    "jerry.atrick": {
+        "banneduntil": "2025/1/26",
+        "BanReason": "RDM"
     }
 }
