@@ -2114,5 +2114,9 @@
     "The6Martins": {
         "banneduntil": "2025/2/2",
         "BanReason": "Rdm, evasion"
+    },
+    "sheriffpink": {
+        "banneduntil": "2025/1/31",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
