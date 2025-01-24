@@ -2038,5 +2038,9 @@
     "aquatic.vrxt": {
         "banneduntil": "2025/1/26",
         "BanReason": "RDM"
+    },
+    "Niekmolenkamp": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "RDM KILL DURING SIT"
     }
 }
