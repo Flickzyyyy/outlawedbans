@@ -2102,5 +2102,9 @@
     "walkerman16": {
         "banneduntil": "2025/1/30",
         "BanReason": "RDM EVASION KILL DURING SIT"
+    },
+    "Andru_Vr": {
+        "banneduntil": "2025/1/24",
+        "BanReason": "RDM"
     }
 }
