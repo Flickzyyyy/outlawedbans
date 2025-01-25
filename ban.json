@@ -2030,5 +2030,9 @@
     "Miami9009": {
         "banneduntil": "2025/2/1",
         "BanReason": "mass rdm, evasion"
+    },
+    "champ001": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "RDM Report"
     }
 }
