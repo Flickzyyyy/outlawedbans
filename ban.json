@@ -2046,5 +2046,9 @@
     "gongo1990": {
         "banneduntil": "2025/1/28",
         "BanReason": "Rdm report"
+    },
+    "western_willy": {
+        "banneduntil": "2025/1/27",
+        "BanReason": "cop targeting"
     }
 }
