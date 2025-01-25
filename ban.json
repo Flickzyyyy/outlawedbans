@@ -2082,5 +2082,9 @@
     "dougiedude.2023": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM"
+    },
+    "pilgrim1800": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
