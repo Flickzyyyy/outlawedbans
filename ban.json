@@ -2070,5 +2070,9 @@
     "Ev_dog09": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM EVASION"
+    },
+    "StxrDrowsy": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "F slur"
     }
 }
