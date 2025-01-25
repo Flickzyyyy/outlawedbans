@@ -2050,5 +2050,9 @@
     "western_willy": {
         "banneduntil": "2025/1/27",
         "BanReason": "cop targeting"
+    },
+    "Viper567": {
+        "banneduntil": "2025/6/7",
+        "BanReason": "underage"
     }
 }
