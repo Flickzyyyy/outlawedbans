@@ -2026,5 +2026,9 @@
     "GingRDeadMan": {
         "banneduntil": "2099/2/8",
         "BanReason": "Soft A, sexual remarks"
+    },
+    "Miami9009": {
+        "banneduntil": "2025/2/1",
+        "BanReason": "mass rdm, evasion"
     }
 }
