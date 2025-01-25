@@ -2058,5 +2058,9 @@
     "TonsilTeaser": {
         "banneduntil": "2025/1/28",
         "BanReason": "cop targeting off report"
+    },
+    "Fcogomar": {
+        "banneduntil": "2025/2/1",
+        "BanReason": "RDM EVASION"
     }
 }
