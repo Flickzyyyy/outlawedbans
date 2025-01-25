@@ -2086,5 +2086,9 @@
     "pilgrim1800": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "MR.LEMOON": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "racial remarks"
     }
 }
