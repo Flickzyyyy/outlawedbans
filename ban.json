@@ -2054,5 +2054,9 @@
     "murphy.408260": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM KILL DURING SIT"
+    },
+    "TonsilTeaser": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "cop targeting off report"
     }
 }
