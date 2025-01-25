@@ -2062,5 +2062,9 @@
     "Fcogomar": {
         "banneduntil": "2025/2/1",
         "BanReason": "RDM EVASION"
+    },
+    "lilboss21pig3": {
+        "banneduntil": "2025/2/1",
+        "BanReason": "RDM COP TARGETING"
     }
 }
