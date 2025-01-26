@@ -2142,5 +2142,9 @@
     "WyDog": {
         "banneduntil": "2025/2/8",
         "BanReason": "f-slur"
+    },
+    "propblocker1865": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "cop targeting, killing during sit, evasion"
     }
 }
