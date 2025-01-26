@@ -2138,5 +2138,9 @@
     "BBHVINCE": {
         "banneduntil": "2099/1/1",
         "BanReason": "N Word Hard R"
+    },
+    "LocalElf": {
+        "banneduntil": "2025/2/6",
+        "BanReason": "f slur"
     }
 }
