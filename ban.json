@@ -2162,5 +2162,9 @@
     "L0wPolyPenguin": {
         "banneduntil": "2025/1/28",
         "BanReason": "KILL DURING WARNING"
+    },
+    "bryanmills": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "spawn killing, Rdm"
     }
 }
