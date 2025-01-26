@@ -2154,5 +2154,9 @@
     "Radioactive_Philip": {
         "banneduntil": "2025/2/2",
         "BanReason": "cop targeting, evasion"
+    },
+    "Bentley101313": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "underage"
     }
 }
