@@ -2170,5 +2170,9 @@
     "Nomorethtsit": {
         "banneduntil": "2025/1/30",
         "BanReason": "rdm, camping bank"
+    },
+    "AdolfTitler1": {
+        "banneduntil": "2025/2/9",
+        "BanReason": "racist profile picture"
     }
 }
