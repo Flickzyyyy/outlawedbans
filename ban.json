@@ -2154,5 +2154,9 @@
     "throatGOAT143": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM"
+    },
+    "toohigh2playbro": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "RDM THEN LEFT"
     }
 }
