@@ -2158,5 +2158,9 @@
     "toohigh2playbro": {
         "banneduntil": "2025/1/28",
         "BanReason": "RDM THEN LEFT"
+    },
+    "L0wPolyPenguin": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "KILL DURING WARNING"
     }
 }
