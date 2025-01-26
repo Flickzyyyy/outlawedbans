@@ -2122,5 +2122,9 @@
     "Bear2345": {
         "banneduntil": "2025/1/28",
         "BanReason": "cop targeting report"
+    },
+    "ww2sargeDEUTCHLAND": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "cop targeting report"
     }
 }
