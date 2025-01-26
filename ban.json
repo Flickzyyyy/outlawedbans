@@ -2090,5 +2090,9 @@
     "yaeltacoman": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Jamodalamo": {
+        "banneduntil": "2025/1/27",
+        "BanReason": "RDM"
     }
 }
