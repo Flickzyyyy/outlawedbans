@@ -2178,5 +2178,9 @@
     "traveloblivion12345": {
         "banneduntil": "2025/2/8",
         "BanReason": "Rdm,evasion"
+    },
+    "MonkeyMan.1": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "Soft a , evasion"
     }
 }
