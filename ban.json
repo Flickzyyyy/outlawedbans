@@ -2150,5 +2150,9 @@
     "t.j.2002": {
         "banneduntil": "2025/1/29",
         "BanReason": "RDM"
+    },
+    "Radioactive_Philip": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "cop targeting, evasion"
     }
 }
