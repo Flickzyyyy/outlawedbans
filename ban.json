@@ -2134,5 +2134,9 @@
     "SGM.Bishop": {
         "banneduntil": "2025/2/1",
         "BanReason": "RDM, Racist Remarks, Evasion"
+    },
+    "BBHVINCE": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "N Word Hard R"
     }
 }
