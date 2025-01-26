@@ -2142,5 +2142,9 @@
     "LocalElf": {
         "banneduntil": "2025/2/6",
         "BanReason": "f slur"
+    },
+    "yellowbobbers": {
+        "banneduntil": "2025/1/28",
+        "BanReason": "RDM"
     }
 }
