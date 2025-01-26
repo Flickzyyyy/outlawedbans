@@ -2146,5 +2146,9 @@
     "propblocker1865": {
         "banneduntil": "2025/2/2",
         "BanReason": "cop targeting, killing during sit, evasion"
+    },
+    "t.j.2002": {
+        "banneduntil": "2025/1/29",
+        "BanReason": "RDM"
     }
 }
