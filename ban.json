@@ -2166,5 +2166,9 @@
     "bryanmills": {
         "banneduntil": "2025/1/30",
         "BanReason": "spawn killing, Rdm"
+    },
+    "Nomorethtsit": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "rdm, camping bank"
     }
 }
