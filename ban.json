@@ -2130,5 +2130,9 @@
     "DADDYK3": {
         "banneduntil": "2025/1/29",
         "BanReason": "RDM and Evasion"
+    },
+    "SGM.Bishop": {
+        "banneduntil": "2025/2/1",
+        "BanReason": "RDM, Racist Remarks, Evasion"
     }
 }
