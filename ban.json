@@ -2170,5 +2170,9 @@
     "themonsterzay": {
         "banneduntil": "2025/2/12",
         "BanReason": "MASS RDM"
+    },
+    "koolaaidman": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "Rdm"
     }
 }
