@@ -2174,5 +2174,9 @@
     "koolaaidman": {
         "banneduntil": "2025/1/30",
         "BanReason": "Rdm"
+    },
+    "Flickzycangetdismeat": {
+        "banneduntil": "2025/2/3",
+        "BanReason": "mass rdm"
     }
 }
