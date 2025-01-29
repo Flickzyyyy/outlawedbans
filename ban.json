@@ -2090,5 +2090,9 @@
     "its_themob209": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r evasion"
+    },
+    "Weezer1994": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "RDM"
     }
 }
