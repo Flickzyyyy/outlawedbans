@@ -2078,5 +2078,9 @@
     "fentmaxxer209": {
         "banneduntil": "2099/2/2",
         "BanReason": "HARD R RDM"
+    },
+    "its _themob209": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ban evade hard r"
     }
 }
