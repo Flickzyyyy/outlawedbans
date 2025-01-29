@@ -2030,5 +2030,9 @@
     "rman202": {
         "banneduntil": "2025/2/1",
         "BanReason": "RDM"
+    },
+    "kye2012": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
