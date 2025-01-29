@@ -2046,5 +2046,9 @@
     "TauntPower09": {
         "banneduntil": "2025/2/4",
         "BanReason": "RDM/LEFT DURING WARNING"
+    },
+    "Idk.prod": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "RDM AFTER WARNING/ SHOT THROUGH MAP(abusing glitches)"
     }
 }
