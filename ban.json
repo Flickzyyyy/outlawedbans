@@ -2042,5 +2042,9 @@
     "blurzz_w": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "TauntPower09": {
+        "banneduntil": "2025/2/4",
+        "BanReason": "RDM/LEFT DURING WARNING"
     }
 }
