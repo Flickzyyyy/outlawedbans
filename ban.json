@@ -2086,5 +2086,9 @@
     "its_thethemob209": {
         "banneduntil": "2099/1/1",
         "BanReason": "ban evade hard r"
+    },
+    "its_themob209": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r evasion"
     }
 }
