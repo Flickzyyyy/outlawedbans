@@ -2038,5 +2038,9 @@
     "yo.demon.ry": {
         "banneduntil": "2027/6/27",
         "BanReason": "underage"
+    },
+    "blurzz_w": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
