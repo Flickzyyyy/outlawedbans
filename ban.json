@@ -2034,5 +2034,9 @@
     "kye2012": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "yo.demon.ry": {
+        "banneduntil": "2027/6/27",
+        "BanReason": "underage"
     }
 }
