@@ -2070,5 +2070,9 @@
     "A.O.D.Crescendo": {
         "banneduntil": "2025/2/11",
         "BanReason": "soft a"
+    },
+    "fear_da.strap": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "Soft A"
     }
 }
