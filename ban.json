@@ -2026,5 +2026,9 @@
     "Weezer1994": {
         "banneduntil": "2025/1/30",
         "BanReason": "RDM"
+    },
+    "rman202": {
+        "banneduntil": "2025/2/1",
+        "BanReason": "RDM"
     }
 }
