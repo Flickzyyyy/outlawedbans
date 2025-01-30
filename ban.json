@@ -2054,5 +2054,9 @@
     "Jim_milton2": {
         "banneduntil": "2025/1/31",
         "BanReason": "RDM"
+    },
+    "Ev_dog09": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
