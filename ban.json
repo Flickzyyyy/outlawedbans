@@ -2018,5 +2018,9 @@
     "SirPancake21": {
         "banneduntil": "2025/2/2",
         "BanReason": "RDM"
+    },
+    "Zcarsons": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
