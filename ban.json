@@ -2034,5 +2034,9 @@
     "bonlon.2022": {
         "banneduntil": "2025/2/3",
         "BanReason": "RDM X5"
+    },
+    "Kpoe": {
+        "banneduntil": "2025/2/6",
+        "BanReason": "Evasion and RDM"
     }
 }
