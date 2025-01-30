@@ -2030,5 +2030,9 @@
     "JamesPower": {
         "banneduntil": "2025/2/2",
         "BanReason": "RDM"
+    },
+    "bonlon.2022": {
+        "banneduntil": "2025/2/3",
+        "BanReason": "RDM X5"
     }
 }
