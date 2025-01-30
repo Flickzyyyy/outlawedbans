@@ -2066,5 +2066,9 @@
     "YungSkooter": {
         "banneduntil": "2025/2/6",
         "BanReason": "MASS RDM"
+    },
+    "fear_da.strap": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "Mass RDM and evasion"
     }
 }
