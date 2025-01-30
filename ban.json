@@ -2050,5 +2050,9 @@
     "Ratstarvr": {
         "banneduntil": "2025/2/2",
         "BanReason": "RDM"
+    },
+    "Jim_milton2": {
+        "banneduntil": "2025/1/31",
+        "BanReason": "RDM"
     }
 }
