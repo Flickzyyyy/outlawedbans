@@ -2070,5 +2070,9 @@
     "fear_da.strap": {
         "banneduntil": "2025/2/12",
         "BanReason": "Mass RDM and evasion"
+    },
+    "SirPancake21": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "RDM"
     }
 }
