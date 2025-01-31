@@ -2096,8 +2096,8 @@
         "BanReason": "Mass RDM"
     },
     "Krue.sanchez.9": {
-        "banneduntil": "2025/2/14",
-        "BanReason": "Mass RDM"
+        "banneduntil": "2025/1/1",
+        "BanReason": "Accident"
     },
     "krue.sanchez.96": {
         "banneduntil": "2025/2/14",
@@ -2106,9 +2106,5 @@
     "paebert": {
         "banneduntil": "2025/2/4",
         "BanReason": "RDM"
-    },
-    "krue.sanchez.9": {
-        "banneduntil": "2025/1/1",
-        "BanReason": "Accident"
     }
 }
