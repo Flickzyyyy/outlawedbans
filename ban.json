@@ -2082,5 +2082,9 @@
     "natethekiddo": {
         "banneduntil": "2026/1/30",
         "BanReason": "underage"
+    },
+    "Metakid64": {
+        "banneduntil": "2025/1/7",
+        "BanReason": "mass rdm"
     }
 }
