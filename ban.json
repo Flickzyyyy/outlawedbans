@@ -2082,5 +2082,9 @@
     "natethekiddo": {
         "banneduntil": "2026/1/30",
         "BanReason": "underage"
+    },
+    "Kid15": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
