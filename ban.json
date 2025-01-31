@@ -2094,5 +2094,9 @@
     "R1ck6rmes": {
         "banneduntil": "2025/2/7",
         "BanReason": "Mass RDM"
+    },
+    "mespudpotato": {
+        "banneduntil": "2025/1/4",
+        "BanReason": "RDM in spawn"
     }
 }
