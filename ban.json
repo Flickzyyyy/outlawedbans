@@ -2106,5 +2106,9 @@
     "paebert": {
         "banneduntil": "2025/2/4",
         "BanReason": "RDM"
+    },
+    "krue.sanchez.9": {
+        "banneduntil": "2025/1/1",
+        "BanReason": "Accident"
     }
 }
