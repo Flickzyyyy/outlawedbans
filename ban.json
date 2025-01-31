@@ -2086,5 +2086,9 @@
     "Kid15": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "Bramhollestelle2": {
+        "banneduntil": "2025/2/3",
+        "BanReason": "Rdm report"
     }
 }
