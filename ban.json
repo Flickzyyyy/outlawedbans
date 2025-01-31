@@ -2070,5 +2070,9 @@
     "Brent.Peterson.11": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Questedfuture": {
+        "banneduntil": "2027/1/30",
+        "BanReason": "underage"
     }
 }
