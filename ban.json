@@ -2046,5 +2046,9 @@
     "Pericuh": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "duckfun2609": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "RDM"
     }
 }
