@@ -2078,5 +2078,9 @@
     "bean.man.102.2024": {
         "banneduntil": "2026/1/30",
         "BanReason": "underage"
+    },
+    "natethekiddo": {
+        "banneduntil": "2026/1/30",
+        "BanReason": "underage"
     }
 }
