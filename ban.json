@@ -2074,5 +2074,9 @@
     "Questedfuture": {
         "banneduntil": "2027/1/30",
         "BanReason": "underage"
+    },
+    "bean.man.102.2024": {
+        "banneduntil": "2026/1/30",
+        "BanReason": "underage"
     }
 }
