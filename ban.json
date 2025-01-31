@@ -2050,5 +2050,9 @@
     "joe_mama122112211221": {
         "banneduntil": "2025/2/13",
         "BanReason": "F Slur"
+    },
+    "CEO.RICH": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "Cop targeting and mass ram"
     }
 }
