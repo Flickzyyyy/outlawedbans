@@ -2102,5 +2102,9 @@
     "krue.sanchez.96": {
         "banneduntil": "2025/2/14",
         "BanReason": "Mass RDM"
+    },
+    "paebert": {
+        "banneduntil": "2025/2/4",
+        "BanReason": "RDM"
     }
 }
