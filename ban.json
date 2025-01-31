@@ -2066,5 +2066,9 @@
     "Cpt.Tront01": {
         "banneduntil": "2025/2/7",
         "BanReason": "evasion/N-word soft a"
+    },
+    "Brent.Peterson.11": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
