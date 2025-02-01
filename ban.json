@@ -2154,5 +2154,9 @@
     "Kafkaisque01": {
         "banneduntil": "2025/2/5",
         "BanReason": "RDM"
+    },
+    "c8816c": {
+        "banneduntil": "2025/2/4",
+        "BanReason": "RDM/evasion"
     }
 }
