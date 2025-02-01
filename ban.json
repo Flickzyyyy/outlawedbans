@@ -2110,5 +2110,9 @@
     "Markeltoro": {
         "banneduntil": "2025/2/2",
         "BanReason": "RDM"
+    },
+    "bigchungusthefirst": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "RDM and Evasion"
     }
 }
