@@ -2122,5 +2122,9 @@
     "The_God_of_Pandas": {
         "banneduntil": "2025/2/7",
         "BanReason": "RDM and Evasion"
+    },
+    "moosmilk.love": {
+        "banneduntil": "2025/2/4",
+        "BanReason": "RDM"
     }
 }
