@@ -2094,5 +2094,9 @@
     "PAYMEBREAK": {
         "banneduntil": "2099/1/1",
         "BanReason": "N word hard R"
+    },
+    "WoodHercules753": {
+        "banneduntil": "2099/8/8",
+        "BanReason": "hard R"
     }
 }
