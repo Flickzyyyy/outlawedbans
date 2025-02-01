@@ -2130,5 +2130,9 @@
     "sweet_tea_is_good": {
         "banneduntil": "2025/2/5",
         "BanReason": "rdm/evasion"
+    },
+    "LockedPackz": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "Rdm after warning"
     }
 }
