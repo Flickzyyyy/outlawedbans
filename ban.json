@@ -2126,5 +2126,9 @@
     "Milky_123": {
         "banneduntil": "2025/2/5",
         "BanReason": "Rdm in spawn and evasion"
+    },
+    "sweet_tea_is_good": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "rdm/evasion"
     }
 }
