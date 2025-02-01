@@ -2094,9 +2094,5 @@
     "PAYMEBREAK": {
         "banneduntil": "2099/1/1",
         "BanReason": "N word hard R"
-    },
-    "fisharcol": {
-        "banneduntil": "2025/2/1",
-        "BanReason": "Rdm"
     }
 }
