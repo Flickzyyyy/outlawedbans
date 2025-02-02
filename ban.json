@@ -2102,5 +2102,9 @@
     "Porfure": {
         "banneduntil": "2025/2/16",
         "BanReason": "f slur"
+    },
+    "DeathPro": {
+        "banneduntil": "2099/12/12",
+        "BanReason": "Hard R"
     }
 }
