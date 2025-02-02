@@ -2088,7 +2088,7 @@
         "BanReason": "death threats"
     },
     "GTDeathStroke": {
-        "banneduntil": "2026/2/15",
-        "BanReason": "F-slur"
+        "banneduntil": "2025/1/1",
+        "BanReason": "made a typo. Fixing ban time"
     }
 }
