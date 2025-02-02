@@ -2130,5 +2130,9 @@
     "makesurehedead.2023": {
         "banneduntil": "2025/2/9",
         "BanReason": "Mass RDM, Cop Targeting, Mine Camping"
+    },
+    "RothchildDescendant": {
+        "banneduntil": "2025/2/9",
+        "BanReason": "RDM/Evasion"
     }
 }
