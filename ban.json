@@ -2146,5 +2146,9 @@
     "mc_daddy69": {
         "banneduntil": "2025/2/16",
         "BanReason": "F slur"
+    },
+    "poliday": {
+        "banneduntil": "2025/2/3",
+        "BanReason": "Interfering with an admin sit"
     }
 }
