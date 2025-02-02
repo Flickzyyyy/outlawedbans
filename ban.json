@@ -2190,5 +2190,9 @@
     "tressa.hadfield": {
         "banneduntil": "2025/2/2",
         "BanReason": "sit evade and rdm"
+    },
+    "MystOnce": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "RDM"
     }
 }
