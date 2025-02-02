@@ -2090,5 +2090,9 @@
     "GTDeathStroke": {
         "banneduntil": "2025/2/15",
         "BanReason": "F-slur"
+    },
+    "homunculus7790orgn": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "rdm and evasion"
     }
 }
