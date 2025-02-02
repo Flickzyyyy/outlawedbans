@@ -2174,5 +2174,9 @@
     "Nexto_bot": {
         "banneduntil": "2099/6/26",
         "BanReason": "Sit evading, mass RDM, Hard R, shall I go on?"
+    },
+    "CHROMAKOPIA": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
