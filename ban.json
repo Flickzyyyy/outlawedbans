@@ -2182,5 +2182,9 @@
     "Goldengun446": {
         "banneduntil": "2025/2/15",
         "BanReason": "RDM, Evasion, Racist Remarks"
+    },
+    "shep.morgan": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
