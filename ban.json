@@ -2194,5 +2194,9 @@
     "MystOnce": {
         "banneduntil": "2025/2/5",
         "BanReason": "RDM"
+    },
+    "Negan8210": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "death threats"
     }
 }
