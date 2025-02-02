@@ -2186,5 +2186,9 @@
     "shep.morgan": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "tressa.hadfield": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "sit evade and rdm"
     }
 }
