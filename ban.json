@@ -2106,5 +2106,9 @@
     "DeathPro": {
         "banneduntil": "2099/12/12",
         "BanReason": "Hard R"
+    },
+    "DogNingen": {
+        "banneduntil": "2025/2/6",
+        "BanReason": "Sit evade and rdmx2"
     }
 }
