@@ -2166,5 +2166,9 @@
     "SGT.Skull310": {
         "banneduntil": "2025/2/5",
         "BanReason": "rdm and evading"
+    },
+    "RothchildDecendant": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "cop targeting, evasion."
     }
 }
