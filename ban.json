@@ -2170,5 +2170,9 @@
     "RothchildDecendant": {
         "banneduntil": "2025/2/15",
         "BanReason": "cop targeting, evasion."
+    },
+    "Nexto_bot": {
+        "banneduntil": "2099/6/26",
+        "BanReason": "Sit evading, mass RDM, Hard R, shall I go on?"
     }
 }
