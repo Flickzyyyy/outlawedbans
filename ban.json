@@ -2126,5 +2126,9 @@
     "billybolts2": {
         "banneduntil": "2025/2/5",
         "BanReason": "Rdm report"
+    },
+    "makesurehedead.2023": {
+        "banneduntil": "2025/2/9",
+        "BanReason": "Mass RDM, Cop Targeting, Mine Camping"
     }
 }
