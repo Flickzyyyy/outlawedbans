@@ -2150,5 +2150,9 @@
     "poliday": {
         "banneduntil": "2025/2/3",
         "BanReason": "Interfering with an admin sit"
+    },
+    "sniffers81710": {
+        "banneduntil": "2025/2/6",
+        "BanReason": "Rdm report"
     }
 }
