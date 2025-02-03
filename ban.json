@@ -2190,5 +2190,9 @@
     "BLACK.LIGHTS.MATTER": {
         "banneduntil": "2025/2/16",
         "BanReason": "F SLUR"
+    },
+    "BongHitTransplant": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "f slur MASS RDM"
     }
 }
