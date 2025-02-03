@@ -2167,8 +2167,8 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
     },
-    "Sewer.b": {
-        "banneduntil": "2025/2/7",
-        "BanReason": "RDM/evasion"
+    "b_e_e_n.SM": {
+        "banneduntil": "2025/2/9",
+        "BanReason": "Camping"
     }
 }
