@@ -2158,5 +2158,9 @@
     "KuchyTroop": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "issac.346033": {
+        "banneduntil": "2025/2/10",
+        "BanReason": "mass rdm and evasion"
     }
 }
