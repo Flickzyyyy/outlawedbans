@@ -2174,5 +2174,9 @@
     "mike.webb.1840070": {
         "banneduntil": "2025/2/6",
         "BanReason": "rdm report"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2025/2/10",
+        "BanReason": "Spawn Camping"
     }
 }
