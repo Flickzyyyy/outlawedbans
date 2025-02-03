@@ -2186,5 +2186,9 @@
     "1660ti": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "BLACK.LIGHTS.MATTER": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "F SLUR"
     }
 }
