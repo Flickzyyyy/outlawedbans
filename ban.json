@@ -2176,7 +2176,7 @@
         "BanReason": "rdm report"
     },
     "Battle.Droid": {
-        "banneduntil": "2025/2/10",
-        "BanReason": "Spawn Camping"
+        "banneduntil": "2025/2/5",
+        "BanReason": "ban decrease"
     }
 }
