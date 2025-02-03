@@ -2167,7 +2167,11 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
     },
-    "b_e_e_n.SM": {
+    "Sewer.b": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "RDM/evasion"
+    },
+    "fisharcol": {
         "banneduntil": "2025/2/9",
         "BanReason": "Camping"
     }
