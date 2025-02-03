@@ -2142,5 +2142,9 @@
     "BongHitTransplant": {
         "banneduntil": "2025/2/18",
         "BanReason": "f slur MASS RDM"
+    },
+    "Mr.quack1990": {
+        "banneduntil": "2025/2/4",
+        "BanReason": "RDM"
     }
 }
