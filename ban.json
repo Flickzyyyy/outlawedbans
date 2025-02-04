@@ -2222,5 +2222,9 @@
     "Bramhollestelle2": {
         "banneduntil": "2099/2/7",
         "BanReason": "Hard R"
+    },
+    "somed.2023": {
+        "banneduntil": "2025/2/13",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
