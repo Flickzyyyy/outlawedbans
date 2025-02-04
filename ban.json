@@ -2210,5 +2210,9 @@
     "TonsilTeaser": {
         "banneduntil": "2025/2/5",
         "BanReason": "RDM"
+    },
+    "Jim_milton2": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "Spawn Camping"
     }
 }
