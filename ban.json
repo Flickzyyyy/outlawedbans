@@ -2206,5 +2206,9 @@
     "Wizzbang20": {
         "banneduntil": "2025/2/4",
         "BanReason": "killed admin during sit"
+    },
+    "TonsilTeaser": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "RDM"
     }
 }
