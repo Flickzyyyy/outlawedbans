@@ -2238,5 +2238,9 @@
     "CrustiK": {
         "banneduntil": "2025/2/18",
         "BanReason": "Racism"
+    },
+    "mern.2022": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "Mass RDM in Spawn"
     }
 }
