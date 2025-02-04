@@ -2226,5 +2226,9 @@
     "somed.2023": {
         "banneduntil": "2025/2/13",
         "BanReason": "Mass RDM, Evasion"
+    },
+    "more2do": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "RDM, Evasion"
     }
 }
