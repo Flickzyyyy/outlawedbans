@@ -2210,5 +2210,9 @@
     "Dorian_20": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r report"
+    },
+    "Victor0319": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "rdm report"
     }
 }
