@@ -2230,5 +2230,9 @@
     "more2do": {
         "banneduntil": "2025/2/7",
         "BanReason": "RDM, Evasion"
+    },
+    "Pedro_vr1977": {
+        "banneduntil": "2025/2/5",
+        "BanReason": "RDM 5 times"
     }
 }
