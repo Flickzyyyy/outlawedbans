@@ -2218,5 +2218,9 @@
     "MadMadsen": {
         "banneduntil": "2025/2/7",
         "BanReason": "Rdm report"
+    },
+    "Bramhollestelle2": {
+        "banneduntil": "2099/2/7",
+        "BanReason": "Hard R"
     }
 }
