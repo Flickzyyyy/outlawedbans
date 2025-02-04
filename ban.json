@@ -2222,5 +2222,9 @@
     "DebooLogix": {
         "banneduntil": "2025/2/17",
         "BanReason": "F slur"
+    },
+    "juan.baron.324.2024": {
+        "banneduntil": "2025/2/7",
+        "BanReason": "RDM multiple times"
     }
 }
