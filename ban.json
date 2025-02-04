@@ -2202,5 +2202,9 @@
     "Aysde": {
         "banneduntil": "2099/2/2",
         "BanReason": "HARD R"
+    },
+    "Wizzbang20": {
+        "banneduntil": "2025/2/4",
+        "BanReason": "killed admin during sit"
     }
 }
