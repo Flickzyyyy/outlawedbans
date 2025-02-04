@@ -2226,5 +2226,9 @@
     "juan.baron.334.2024": {
         "banneduntil": "2025/2/7",
         "BanReason": "RDM multiple times"
+    },
+    "Soviet1union": {
+        "banneduntil": "2025/2/11",
+        "BanReason": "Mass RDM"
     }
 }
