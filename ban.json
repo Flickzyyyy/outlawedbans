@@ -2254,5 +2254,9 @@
     "ImWhite1": {
         "banneduntil": "2025/2/31",
         "BanReason": "Repetitive R slur"
+    },
+    "D1Cashout": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "Soft A"
     }
 }
