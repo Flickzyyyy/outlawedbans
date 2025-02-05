@@ -2250,5 +2250,9 @@
     "Skidmark1070": {
         "banneduntil": "2025/2/11",
         "BanReason": "RDM, Spawn Camping, Evasion"
+    },
+    "UncleSpacey": {
+        "banneduntil": "2025/2/11",
+        "BanReason": "RDM and Evasion"
     }
 }
