@@ -2170,5 +2170,9 @@
     "newton1456": {
         "banneduntil": "2025/2/9",
         "BanReason": "RDMx4 kill admin during sit"
+    },
+    "popcat911": {
+        "banneduntil": "2025/2/8",
+        "BanReason": "RDM"
     }
 }
