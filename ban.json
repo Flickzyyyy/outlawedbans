@@ -2246,5 +2246,9 @@
     "bigballer01": {
         "banneduntil": "2025/2/8",
         "BanReason": "RDM and Evasion"
+    },
+    "Skidmark1070": {
+        "banneduntil": "2025/2/11",
+        "BanReason": "RDM, Spawn Camping, Evasion"
     }
 }
