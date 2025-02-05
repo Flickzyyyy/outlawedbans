@@ -2242,5 +2242,9 @@
     "mern.2022": {
         "banneduntil": "2025/2/15",
         "BanReason": "Mass RDM in Spawn"
+    },
+    "bigballer01": {
+        "banneduntil": "2025/2/8",
+        "BanReason": "RDM and Evasion"
     }
 }
