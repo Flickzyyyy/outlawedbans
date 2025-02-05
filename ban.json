@@ -2254,5 +2254,9 @@
     "UncleSpacey": {
         "banneduntil": "2025/2/11",
         "BanReason": "RDM and Evasion"
+    },
+    "ImWhite1": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "F Slur"
     }
 }
