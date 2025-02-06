@@ -2178,5 +2178,9 @@
     "tressa.hadfield": {
         "banneduntil": "2025/2/9",
         "BanReason": "RDM/Evasion"
+    },
+    "picopups": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "Mass RDM"
     }
 }
