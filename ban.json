@@ -2146,5 +2146,9 @@
     "Trentonn": {
         "banneduntil": "2025/2/10",
         "BanReason": "Rdm report"
+    },
+    "Adrian_shepherd": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
