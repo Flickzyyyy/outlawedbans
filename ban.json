@@ -2134,5 +2134,9 @@
     "picopups": {
         "banneduntil": "2025/2/12",
         "BanReason": "Mass RDM"
+    },
+    "7_z": {
+        "banneduntil": "2099/2/12",
+        "BanReason": "Hard R"
     }
 }
