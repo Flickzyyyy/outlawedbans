@@ -2150,5 +2150,9 @@
     "wheelarmor": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "gongo1990": {
+        "banneduntil": "2025/2/11",
+        "BanReason": "RDM/Evasion"
     }
 }
