@@ -2174,5 +2174,9 @@
     "popcat911": {
         "banneduntil": "2025/2/8",
         "BanReason": "RDM"
+    },
+    "Hitoshima": {
+        "banneduntil": "2025/2/19",
+        "BanReason": "Soft A"
     }
 }
