@@ -2138,5 +2138,9 @@
     "7_z": {
         "banneduntil": "2099/2/12",
         "BanReason": "Hard R"
+    },
+    "JacobHappyman": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
