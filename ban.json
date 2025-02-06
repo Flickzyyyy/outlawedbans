@@ -2146,5 +2146,9 @@
     "Trentonn": {
         "banneduntil": "2025/2/10",
         "BanReason": "Rdm report"
+    },
+    "wheelarmor": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
