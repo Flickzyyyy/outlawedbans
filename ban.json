@@ -2106,5 +2106,9 @@
     "glitched_viper0": {
         "banneduntil": "2025/2/10",
         "BanReason": "RDM"
+    },
+    "Quixgta": {
+        "banneduntil": "2025/2/10",
+        "BanReason": "RDM"
     }
 }
