@@ -2098,5 +2098,9 @@
     "mineisbigger6421": {
         "banneduntil": "2025/2/10",
         "BanReason": "Rdm report"
+    },
+    "zars2.0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R Report"
     }
 }
