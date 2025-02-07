@@ -2114,9 +2114,5 @@
     "Name: realtwizzyfr": {
         "banneduntil": "Date: 2025/2/13",
         "BanReason": "Reason: RDM, Evasion"
-    },
-    "test": {
-        "banneduntil": "2025/2/1",
-        "BanReason": "Test"
     }
 }
