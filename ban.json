@@ -2126,5 +2126,9 @@
     "Name mrchill11": {
         "banneduntil": "Date 2025/2/18",
         "BanReason": "Reason RDM and Evasion"
+    },
+    "mrchill11": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "RDM, Evasion"
     }
 }
