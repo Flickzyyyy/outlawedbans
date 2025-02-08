@@ -2142,5 +2142,9 @@
     "Ultraver": {
         "banneduntil": "2025/2/10",
         "BanReason": "RDM/ ROB WITHOUT DIALOGUE"
+    },
+    "IhumanIthink": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "evasion and mass rdm"
     }
 }
