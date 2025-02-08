@@ -2182,5 +2182,9 @@
     "Sagejaguer": {
         "banneduntil": "2025/2/18",
         "BanReason": "RDM + Evasion"
+    },
+    "ok47": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "F Slur"
     }
 }
