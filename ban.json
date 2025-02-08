@@ -2178,5 +2178,9 @@
     "RFCPapi": {
         "banneduntil": "2025/2/15",
         "BanReason": "Rdm and evasion"
+    },
+    "Sagejaguer": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "RDM + Evasion"
     }
 }
