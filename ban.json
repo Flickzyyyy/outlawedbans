@@ -2154,5 +2154,9 @@
     "Jim_milton2": {
         "banneduntil": "2025/2/9",
         "BanReason": "rdm, after warning"
+    },
+    "hurricanehuddy25": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
