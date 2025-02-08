@@ -2194,5 +2194,9 @@
     "Gunslingerr": {
         "banneduntil": "2026/2/14",
         "BanReason": "underage+evadeing"
+    },
+    "Uvulatickler": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "mass rdm"
     }
 }
