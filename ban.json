@@ -2158,5 +2158,9 @@
     "Snekysnekysneky": {
         "banneduntil": "2025/2/13",
         "BanReason": "RDM/Evasion"
+    },
+    "BbyAxzul": {
+        "banneduntil": "2025/2/11",
+        "BanReason": "RDM after warning"
     }
 }
