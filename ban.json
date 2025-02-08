@@ -2134,5 +2134,9 @@
     "km0z": {
         "banneduntil": "2025/2/10",
         "BanReason": "RDM"
+    },
+    "Infected.Pecker": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "F-Slur"
     }
 }
