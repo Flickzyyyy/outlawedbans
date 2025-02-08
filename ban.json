@@ -2154,5 +2154,9 @@
     "MJTheAssAssin": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r multiple times"
+    },
+    "Snekysnekysneky": {
+        "banneduntil": "2025/2/13",
+        "BanReason": "RDM/Evasion"
     }
 }
