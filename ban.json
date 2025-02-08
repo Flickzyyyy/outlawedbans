@@ -2138,5 +2138,9 @@
     "Infected.Pecker": {
         "banneduntil": "2025/2/21",
         "BanReason": "F-Slur"
+    },
+    "bebrave563": {
+        "banneduntil": "2025/9/16",
+        "BanReason": "UnderAge"
     }
 }
