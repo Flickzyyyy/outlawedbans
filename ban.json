@@ -2166,5 +2166,9 @@
     "Fire_King_Christian": {
         "banneduntil": "2025/2/11",
         "BanReason": "RDM/ COP TARGETING"
+    },
+    "John_Skibidi": {
+        "banneduntil": "2025/2/10",
+        "BanReason": "RDM/ has been warned multiple days in a row"
     }
 }
