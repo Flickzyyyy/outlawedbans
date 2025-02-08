@@ -2178,5 +2178,9 @@
     "vectorgooder": {
         "banneduntil": "2025/2/11",
         "BanReason": "Rdm report"
+    },
+    "Ultraver": {
+        "banneduntil": "2025/2/10",
+        "BanReason": "RDM/ ROB WITHOUT DIALOGUE"
     }
 }
