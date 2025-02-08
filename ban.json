@@ -2150,5 +2150,9 @@
     "Rat324": {
         "banneduntil": "2025/2/12",
         "BanReason": "rdm then left the game"
+    },
+    "MJTheAssAssin": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r multiple times"
     }
 }
