@@ -2142,5 +2142,9 @@
     "bebrave563": {
         "banneduntil": "2025/9/16",
         "BanReason": "UnderAge"
+    },
+    "44KToro": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "Soft-A"
     }
 }
