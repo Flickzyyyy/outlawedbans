@@ -2170,5 +2170,9 @@
     "Ben_pla1nn": {
         "banneduntil": "2027/2/8",
         "BanReason": "Underage"
+    },
+    "T_0ATWAY": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "rdm, evasion"
     }
 }
