@@ -2174,5 +2174,9 @@
     "T_0ATWAY": {
         "banneduntil": "2025/2/12",
         "BanReason": "rdm, evasion"
+    },
+    "RFCPapi": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "Rdm and evasion"
     }
 }
