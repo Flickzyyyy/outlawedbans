@@ -2262,5 +2262,9 @@
     "PoopMerchant": {
         "banneduntil": "2025/3/16",
         "BanReason": "Also killing during an admin sit"
+    },
+    "JeffyCar": {
+        "banneduntil": "2025/2/13",
+        "BanReason": "RDM"
     }
 }
