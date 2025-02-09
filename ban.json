@@ -2206,5 +2206,9 @@
     "Bean_can101": {
         "banneduntil": "2025/2/12",
         "BanReason": "rdm"
+    },
+    "Kqm556x": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
