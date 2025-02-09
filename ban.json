@@ -2210,5 +2210,9 @@
     "Fullestsend": {
         "banneduntil": "2025/2/22",
         "BanReason": "soft a"
+    },
+    "LIama_troy": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "Rdm+Evasion"
     }
 }
