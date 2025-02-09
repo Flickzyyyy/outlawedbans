@@ -2270,5 +2270,9 @@
     "SLIPKNOT_1995": {
         "banneduntil": "2025/6/28",
         "BanReason": "Under age"
+    },
+    "Miami9009": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "Mass RDM/ Evasion"
     }
 }
