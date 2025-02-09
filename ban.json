@@ -2254,5 +2254,9 @@
     "Ace35266": {
         "banneduntil": "2025/2/16",
         "BanReason": "mass RDM"
+    },
+    "cookies.items.bob": {
+        "banneduntil": "2025/2/13",
+        "BanReason": "RDM"
     }
 }
