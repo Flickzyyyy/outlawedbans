@@ -2298,5 +2298,9 @@
     "Atom_Bomb": {
         "banneduntil": "2025/2/15",
         "BanReason": "rdm and evasion"
+    },
+    "Flickzycangetdismeat": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "Mass RDM + Previous Bans"
     }
 }
