@@ -2294,5 +2294,9 @@
     "Dogecoin365": {
         "banneduntil": "2025/2/13",
         "BanReason": "RDM, very reluctant to hear anything about it, argued"
+    },
+    "Atom_Bomb": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "rdm and evasion"
     }
 }
