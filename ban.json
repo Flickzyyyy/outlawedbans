@@ -2206,5 +2206,9 @@
     "Milky_123": {
         "banneduntil": "2025/2/12",
         "BanReason": "Rdm report."
+    },
+    "Fullestsend": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "soft a"
     }
 }
