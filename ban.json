@@ -2226,5 +2226,9 @@
     "bazzab0y": {
         "banneduntil": "2025/2/12",
         "BanReason": "RDM"
+    },
+    "funniyguy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
