@@ -2222,5 +2222,9 @@
     "mmofe": {
         "banneduntil": "2025/2/11",
         "BanReason": "RDM REPORT"
+    },
+    "bazzab0y": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "RDM"
     }
 }
