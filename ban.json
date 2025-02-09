@@ -2282,5 +2282,9 @@
     "Courier6.2008": {
         "banneduntil": "2025/2/24",
         "BanReason": "Mass RDM, Evasion"
+    },
+    "kilIerclownz": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
