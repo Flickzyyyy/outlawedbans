@@ -2226,5 +2226,9 @@
     "Deth3850": {
         "banneduntil": "2099/2/5",
         "BanReason": "hard r"
+    },
+    "Jigabboo": {
+        "banneduntil": "2025/2/ 23",
+        "BanReason": "Slur in user"
     }
 }
