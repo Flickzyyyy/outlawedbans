@@ -2214,5 +2214,9 @@
     "LIama_troy": {
         "banneduntil": "2025/2/15",
         "BanReason": "Rdm+Evasion"
+    },
+    "Llama_troy": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "RDM+Evasion"
     }
 }
