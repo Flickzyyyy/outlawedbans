@@ -2274,5 +2274,9 @@
     "Miami9009": {
         "banneduntil": "2025/2/24",
         "BanReason": "Mass RDM/ Evasion"
+    },
+    "Jamaljones": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitting to alt accounts after giving a warning."
     }
 }
