@@ -2242,5 +2242,9 @@
     "BBB_starr6wild24": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "JasonGoldstrikerFT": {
+        "banneduntil": "2025/2/11",
+        "BanReason": "Sit Interference"
     }
 }
