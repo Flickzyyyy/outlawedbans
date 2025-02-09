@@ -2222,5 +2222,9 @@
     "Sm.beany_weenivr": {
         "banneduntil": "2025/2/16",
         "BanReason": "mass RDM"
+    },
+    "Deth3850": {
+        "banneduntil": "2099/2/5",
+        "BanReason": "hard r"
     }
 }
