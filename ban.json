@@ -2218,5 +2218,9 @@
     "BrooksMak": {
         "banneduntil": "2099/2/4",
         "BanReason": "hard r and RDM and evasion left and rejoined"
+    },
+    "Sm.beany_weenivr": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "mass RDM"
     }
 }
