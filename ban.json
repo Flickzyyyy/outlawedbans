@@ -2258,5 +2258,9 @@
     "cookies.items.bob": {
         "banneduntil": "2025/2/13",
         "BanReason": "RDM"
+    },
+    "PoopMerchant": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "Harassment, Sexual Remarks, Mass RDM"
     }
 }
