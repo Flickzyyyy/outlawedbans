@@ -2266,5 +2266,9 @@
     "JeffyCar": {
         "banneduntil": "2025/3/13",
         "BanReason": "sexual remarks, Mass RDM, Racist remarks"
+    },
+    "SLIPKNOT_1995": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "Under age"
     }
 }
