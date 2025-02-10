@@ -2310,5 +2310,9 @@
     "best_strayed_pvpr": {
         "banneduntil": "2025/2/14",
         "BanReason": "rdm/ cop targeting"
+    },
+    "fynn.david.7": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "f slur"
     }
 }
