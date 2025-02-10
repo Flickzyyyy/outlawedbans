@@ -2316,7 +2316,7 @@
         "BanReason": "RDM/ Evasion"
     },
     "squall": {
-        "banneduntil": "2025/2/12",
-        "BanReason": "Evasion"
+        "banneduntil": "2025/1/1",
+        "BanReason": "wrong name"
     }
 }
