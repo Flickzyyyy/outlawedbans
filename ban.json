@@ -2334,5 +2334,9 @@
     "Alamery_VR": {
         "banneduntil": "2025/2/21",
         "BanReason": "Mass Rdm Plus evasion"
+    },
+    "Trex_taylors": {
+        "banneduntil": "2099/2/10",
+        "BanReason": "Hard R plus evasion"
     }
 }
