@@ -2354,5 +2354,9 @@
     "frogtoesmilk": {
         "banneduntil": "2025/2/27",
         "BanReason": "Mass RDM, Cop targeting/camping, attempted to evade"
+    },
+    "Lumbagofier": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "RDM and Evasion"
     }
 }
