@@ -2314,5 +2314,9 @@
     "SGT.Skull310": {
         "banneduntil": "2025/2/14",
         "BanReason": "RDM/ Evasion"
+    },
+    "squall": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "Evasion"
     }
 }
