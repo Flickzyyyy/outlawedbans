@@ -2326,5 +2326,9 @@
     "Jacob1605": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "GlowingFlamingo385": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "f slur equivalent"
     }
 }
