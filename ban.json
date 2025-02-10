@@ -2318,5 +2318,9 @@
     "tnsquall": {
         "banneduntil": "2025/2/13",
         "BanReason": "Evasion"
+    },
+    "the_approved_nephew": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "Spawn camping with evidence."
     }
 }
