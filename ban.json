@@ -2342,5 +2342,9 @@
     "ArmyBrat42": {
         "banneduntil": "2025/2/13",
         "BanReason": "RDM x2, lying in sit"
+    },
+    "NeverGettingRidOfMe": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "RDM, Evasion, and Homophobic Remarks"
     }
 }
