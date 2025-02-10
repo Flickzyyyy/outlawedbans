@@ -2322,5 +2322,9 @@
     "Jacob160510": {
         "banneduntil": "2025/2/18",
         "BanReason": "cop targeting, Rdm, evasion"
+    },
+    "Jacob1605": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
