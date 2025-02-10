@@ -2302,5 +2302,9 @@
     "nutterbutterman432": {
         "banneduntil": "2025/2/15",
         "BanReason": "mass RDM, forcefulRP, evading sit, lying in sit"
+    },
+    "2021sexoffender": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
