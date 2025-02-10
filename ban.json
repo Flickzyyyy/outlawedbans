@@ -2338,5 +2338,9 @@
     "Trex_taylors": {
         "banneduntil": "2099/2/10",
         "BanReason": "Hard R plus evasion"
+    },
+    "Just098Heyz.alt": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "Slur"
     }
 }
