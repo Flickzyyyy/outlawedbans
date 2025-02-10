@@ -2306,5 +2306,9 @@
     "2021sexoffender": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "best_strayed_pvpr": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "rdm/ cop targeting"
     }
 }
