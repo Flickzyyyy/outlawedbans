@@ -2362,5 +2362,9 @@
     "kotten142": {
         "banneduntil": "2025/2/25",
         "BanReason": "Homophobic remarks"
+    },
+    "Blackmarket_abdi": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Mass RDM, Hard R"
     }
 }
