@@ -2382,5 +2382,9 @@
     "gageprice02": {
         "banneduntil": "2025/2/13",
         "BanReason": "RDM AND LEFT"
+    },
+    "BlackMesa12": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "soft a"
     }
 }
