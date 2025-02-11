@@ -2366,5 +2366,9 @@
     "Blackmarket_abdi": {
         "banneduntil": "2099/1/1",
         "BanReason": "Mass RDM, Hard R"
+    },
+    "Anonumous_not": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "MSS RDM,  evasion"
     }
 }
