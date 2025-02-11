@@ -2402,5 +2402,9 @@
     "GuessWhosBack.BackAgain": {
         "banneduntil": "2025/2/24",
         "BanReason": "Sexual Remarks/RDM"
+    },
+    "Thatrandomwhiteguy": {
+        "banneduntil": "2025/2/12",
+        "BanReason": "Coptargeting and evading"
     }
 }
