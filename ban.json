@@ -2378,5 +2378,9 @@
     "rfhunting": {
         "banneduntil": "2025/2/12",
         "BanReason": "Suicide abusing"
+    },
+    "gageprice02": {
+        "banneduntil": "2025/2/13",
+        "BanReason": "RDM AND LEFT"
     }
 }
