@@ -2378,5 +2378,9 @@
     "paebert": {
         "banneduntil": "2025/2/13",
         "BanReason": "RDM"
+    },
+    "YMGshrek": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "spawn camping"
     }
 }
