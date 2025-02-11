@@ -2390,5 +2390,9 @@
     "Tompkins999": {
         "banneduntil": "2025/2/25",
         "BanReason": "F-slur"
+    },
+    "MasterChief1128": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
