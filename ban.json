@@ -2334,5 +2334,9 @@
     "Nova423": {
         "banneduntil": "2025/2/15",
         "BanReason": "Cop targeting"
+    },
+    "Titan78DC": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "cop targeting"
     }
 }
