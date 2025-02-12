@@ -2410,5 +2410,9 @@
     "CeeDubVee": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "justice.14": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard R"
     }
 }
