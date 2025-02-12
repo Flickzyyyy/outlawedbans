@@ -2406,5 +2406,9 @@
     "Phagg": {
         "banneduntil": "2099/1/1",
         "BanReason": "f slur user"
+    },
+    "Rzkix": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "RDM/evasion"
     }
 }
