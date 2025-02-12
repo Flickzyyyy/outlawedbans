@@ -2378,5 +2378,9 @@
     "enclave69lol": {
         "banneduntil": "2025/2/26",
         "BanReason": "F slur report"
+    },
+    "ItsLaser": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "RDM"
     }
 }
