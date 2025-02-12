@@ -2426,5 +2426,9 @@
     "Kafkaisque01": {
         "banneduntil": "2025/2/15",
         "BanReason": "RDM"
+    },
+    "wetbalsag": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "Mass RDM"
     }
 }
