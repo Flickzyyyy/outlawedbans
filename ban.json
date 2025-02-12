@@ -2414,5 +2414,9 @@
     "DirtbagLiberal": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT Account"
+    },
+    "goodsamaritan3812 0": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "F slur + RDM"
     }
 }
