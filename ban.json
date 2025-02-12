@@ -2430,5 +2430,9 @@
     "wetballsag": {
         "banneduntil": "2025/2/16",
         "BanReason": "Mass RDM/ previous one was wrong name"
+    },
+    "juanminion200.2023": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "RDM/evasion"
     }
 }
