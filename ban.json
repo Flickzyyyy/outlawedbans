@@ -2446,5 +2446,9 @@
     "Dracomr3.0": {
         "banneduntil": "2025/2/18",
         "BanReason": "RDM /Evasion"
+    },
+    "timmyjunior": {
+        "banneduntil": "2025/2/13",
+        "BanReason": "RDM"
     }
 }
