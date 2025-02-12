@@ -2414,5 +2414,9 @@
     "justice.14": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard R"
+    },
+    "xxxxssw": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "sexual remarks during a sit"
     }
 }
