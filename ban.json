@@ -2434,5 +2434,9 @@
     "juanminion200.2023": {
         "banneduntil": "2025/2/14",
         "BanReason": "RDM/evasion"
+    },
+    "shark6956": {
+        "banneduntil": "2031/1/1/",
+        "BanReason": "Underage, Evasion"
     }
 }
