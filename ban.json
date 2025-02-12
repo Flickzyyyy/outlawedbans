@@ -2442,5 +2442,9 @@
     "HeathensofGore": {
         "banneduntil": "2025/2/14",
         "BanReason": "RDM"
+    },
+    "Dracomr3.0": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "RDM /Evasion"
     }
 }
