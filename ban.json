@@ -2402,5 +2402,9 @@
     "Dezzy_Helps": {
         "banneduntil": "2025/2/13",
         "BanReason": "cop targeting"
+    },
+    "Phagg": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "f slur user"
     }
 }
