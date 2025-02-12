@@ -2382,5 +2382,9 @@
     "ItsLaser": {
         "banneduntil": "2025/2/16",
         "BanReason": "RDM"
+    },
+    "auptismb": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "Rdm report"
     }
 }
