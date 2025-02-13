@@ -2438,5 +2438,9 @@
     "UrbanWheel": {
         "banneduntil": "2025/2/19",
         "BanReason": "MASS RDM"
+    },
+    "BoggyStein": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "f slur"
     }
 }
