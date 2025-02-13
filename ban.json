@@ -2482,5 +2482,9 @@
     "BarFam4": {
         "banneduntil": "2025/2/21",
         "BanReason": "Mass RDM"
+    },
+    "dickie_the_dealer": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
