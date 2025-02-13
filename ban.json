@@ -2466,5 +2466,9 @@
     "Sam.Wright": {
         "banneduntil": "2025/3/1",
         "BanReason": "E-RP, serious sexual remarks"
+    },
+    "TheHauntingBird": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
