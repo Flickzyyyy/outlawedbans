@@ -2414,5 +2414,9 @@
     "kxkid2011.2023": {
         "banneduntil": "2025/2/15",
         "BanReason": "spawn camping"
+    },
+    "Georgefentdroyd": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "derog user, asked to change it and he left"
     }
 }
