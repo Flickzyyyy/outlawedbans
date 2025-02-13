@@ -2434,5 +2434,9 @@
     "Brenden_2009": {
         "banneduntil": "2025/2/19",
         "BanReason": "MASS RDM"
+    },
+    "UrbanWheel": {
+        "banneduntil": "2025/2/19",
+        "BanReason": "MASS RDM"
     }
 }
