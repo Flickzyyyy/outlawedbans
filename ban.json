@@ -2442,5 +2442,9 @@
     "OscarSellers": {
         "banneduntil": "2025/2/21",
         "BanReason": "RDM, evasion"
+    },
+    "Fukm3daddy": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "RDM"
     }
 }
