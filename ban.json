@@ -2466,5 +2466,9 @@
     "xXRJHXx": {
         "banneduntil": "2025/2/19",
         "BanReason": "RDM and Evasion"
+    },
+    "Chriscantdrive": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "RDM and left"
     }
 }
