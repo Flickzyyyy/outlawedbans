@@ -2458,5 +2458,9 @@
     "WalmartLooter2010": {
         "banneduntil": "2025/2/27",
         "BanReason": "Soft A"
+    },
+    "dent.snatcher.556": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r many times"
     }
 }
