@@ -2454,5 +2454,9 @@
     "Soviet.Onion1": {
         "banneduntil": "2025/2/20",
         "BanReason": "Mass RDM despite numerous warnings"
+    },
+    "WalmartLooter2010": {
+        "banneduntil": "2025/2/27",
+        "BanReason": "Soft A"
     }
 }
