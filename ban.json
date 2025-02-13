@@ -2422,5 +2422,9 @@
     "John_Skibidi": {
         "banneduntil": "2025/2/16",
         "BanReason": "RDM during sit"
+    },
+    "takluvsfent": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "RDM after warning, then left"
     }
 }
