@@ -2438,5 +2438,9 @@
     "BoggyStein": {
         "banneduntil": "2025/3/1",
         "BanReason": "f slur"
+    },
+    "OscarSellers": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "RDM, evasion"
     }
 }
