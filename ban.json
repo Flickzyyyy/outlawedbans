@@ -2470,5 +2470,9 @@
     "Chriscantdrive": {
         "banneduntil": "2025/2/14",
         "BanReason": "RDM and left"
+    },
+    "Old_Sodacan": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "spawn camping"
     }
 }
