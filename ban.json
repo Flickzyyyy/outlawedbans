@@ -2474,5 +2474,9 @@
     "lobsterfish07": {
         "banneduntil": "2025/2/27",
         "BanReason": "F Slur"
+    },
+    "CheapMexican": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "RDM/Evasion"
     }
 }
