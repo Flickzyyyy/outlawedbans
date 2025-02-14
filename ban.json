@@ -2546,5 +2546,9 @@
     "soul.vibe": {
         "banneduntil": "2025/2/17",
         "BanReason": "RDM for an admin taxi service"
+    },
+    "WhatsADih": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "Mass RDM, Killing in sit"
     }
 }
