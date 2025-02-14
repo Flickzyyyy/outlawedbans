@@ -2618,5 +2618,9 @@
     "BlizsIsAMeme": {
         "banneduntil": "2025/2/28",
         "BanReason": "Rdm and sexual remarks"
+    },
+    "BlixsIsAMeme": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "RDM/ sexual remarks"
     }
 }
