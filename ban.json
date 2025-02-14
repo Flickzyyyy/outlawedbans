@@ -2626,5 +2626,9 @@
     "potterfamily68": {
         "banneduntil": "2025/2/21",
         "BanReason": "Admin Sit RDMing, RDM and Evasion"
+    },
+    "3NBN": {
+        "banneduntil": "2031/1/1",
+        "BanReason": "underage but doesn\u2019t say actual birthday just says he is 7"
     }
 }
