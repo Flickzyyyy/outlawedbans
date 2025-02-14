@@ -2622,5 +2622,9 @@
     "ZombieKyson": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage and no age given"
+    },
+    "potterfamily68": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "Admin Sit RDMing, RDM and Evasion"
     }
 }
