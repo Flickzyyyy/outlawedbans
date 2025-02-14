@@ -2602,5 +2602,9 @@
     "mr.Poleg": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Dexter.69": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "rdm"
     }
 }
