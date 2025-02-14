@@ -2558,5 +2558,9 @@
     "Personal.Boy.Slave": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Ntr0Beast1": {
+        "banneduntil": "2025/2/27",
+        "BanReason": "Sexual remarks"
     }
 }
