@@ -2610,5 +2610,9 @@
     "MONKYSEEMONKEDO": {
         "banneduntil": "2025/7/26",
         "BanReason": "Underage"
+    },
+    "PermaDBoss": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "admitting to having alts and using them"
     }
 }
