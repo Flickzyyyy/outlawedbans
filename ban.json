@@ -2506,5 +2506,9 @@
     "LEDNoodles": {
         "banneduntil": "2025/2/17",
         "BanReason": "RDM Evasion"
+    },
+    "protater11": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "RDM"
     }
 }
