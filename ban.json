@@ -2510,5 +2510,9 @@
     "protater11": {
         "banneduntil": "2025/2/17",
         "BanReason": "RDM"
+    },
+    "rAstra": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "Cop Targeting"
     }
 }
