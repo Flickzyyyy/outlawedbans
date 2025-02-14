@@ -2578,5 +2578,9 @@
     "NightlyTundra65": {
         "banneduntil": "2025/2/15",
         "BanReason": "RDM"
+    },
+    "Muskies73": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
