@@ -2582,5 +2582,9 @@
     "Muskies73": {
         "banneduntil": "2025/2/22",
         "BanReason": "Mass RDM, Evasion"
+    },
+    "rfhunting": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "RDM, has been previously warned and banned for the same thing,evasion"
     }
 }
