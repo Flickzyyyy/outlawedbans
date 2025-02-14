@@ -2558,5 +2558,9 @@
     "kaicenatsaveus": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "BeefAstrami": {
+        "banneduntil": "2025/2/15",
+        "BanReason": "RDM"
     }
 }
