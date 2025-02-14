@@ -2562,5 +2562,9 @@
     "BeefAstrami": {
         "banneduntil": "2025/2/15",
         "BanReason": "RDM"
+    },
+    "Fire_King_Christian": {
+        "banneduntil": "2025/2",
+        "BanReason": "mass RDM/evasion"
     }
 }
