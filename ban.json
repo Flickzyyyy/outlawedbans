@@ -2550,5 +2550,9 @@
     "sstreetyy": {
         "banneduntil": "2025/2/20",
         "BanReason": "RDM and Evasion"
+    },
+    "AccusedandAbused": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "F Slur"
     }
 }
