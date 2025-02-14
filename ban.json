@@ -2618,5 +2618,9 @@
     "BlixsIsAMeme": {
         "banneduntil": "2025/2/28",
         "BanReason": "RDM/ sexual remarks"
+    },
+    "ZombieKyson": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage and no age given"
     }
 }
