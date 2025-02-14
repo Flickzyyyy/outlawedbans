@@ -2502,5 +2502,9 @@
     "RothchildDescendant": {
         "banneduntil": "2025/2/16",
         "BanReason": "Cop Targeting after multiple warnings"
+    },
+    "LEDNoodles": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "RDM Evasion"
     }
 }
