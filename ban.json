@@ -2490,5 +2490,9 @@
     "Rehhhh": {
         "banneduntil": "2025/2/19",
         "BanReason": "RDM/Evasion"
+    },
+    "hyper.freak": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "Mass RDM. Evasion"
     }
 }
