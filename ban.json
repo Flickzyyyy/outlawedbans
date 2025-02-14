@@ -2586,5 +2586,9 @@
     "rfhunting": {
         "banneduntil": "2025/2/22",
         "BanReason": "RDM, has been previously warned and banned for the same thing,evasion"
+    },
+    "Conair6975": {
+        "banneduntil": "2025/2/26",
+        "BanReason": "Camping, Attempted Mass RDM, Evasion"
     }
 }
