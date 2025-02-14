@@ -2522,5 +2522,9 @@
     "WhatsAFather.0": {
         "banneduntil": "2025/2/27",
         "BanReason": "F Slur"
+    },
+    "NationalSocialist33": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "RDM"
     }
 }
