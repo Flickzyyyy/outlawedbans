@@ -2526,5 +2526,9 @@
     "NationalSocialist33": {
         "banneduntil": "2025/2/17",
         "BanReason": "RDM"
+    },
+    "toe_eater12345": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "Cop Target"
     }
 }
