@@ -2515,8 +2515,8 @@
         "banneduntil": "2025/2/17",
         "BanReason": "Cop Targeting"
     },
-    "cash.carti.on.crack": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "Weird Sexual Shit"
+    "NeedFentNow": {
+        "banneduntil": "2025/2/20",
+        "BanReason": "Mass RDM"
     }
 }
