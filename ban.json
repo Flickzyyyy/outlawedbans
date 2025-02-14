@@ -2550,5 +2550,9 @@
     "WhatsADih": {
         "banneduntil": "2025/2/23",
         "BanReason": "Mass RDM, Killing in sit"
+    },
+    "OwnerOfOutlawed": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "rdm/camping"
     }
 }
