@@ -2494,5 +2494,9 @@
     "hyper.freak": {
         "banneduntil": "2025/2/22",
         "BanReason": "Mass RDM. Evasion"
+    },
+    "RothschildDescendant": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "Cop Targeting after multiple warnings"
     }
 }
