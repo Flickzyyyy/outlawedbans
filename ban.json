@@ -2574,5 +2574,9 @@
     "Mainky": {
         "banneduntil": "2025/2/20",
         "BanReason": "Sexual Remarks"
+    },
+    "WarmPretzel": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
