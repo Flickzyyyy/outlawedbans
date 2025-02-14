@@ -2554,5 +2554,9 @@
     "OwnerOfOutlawed": {
         "banneduntil": "2025/2/18",
         "BanReason": "rdm/camping"
+    },
+    "Personal.Boy.Slave": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
