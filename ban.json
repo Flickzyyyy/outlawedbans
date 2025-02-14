@@ -1679,6 +1679,10 @@
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
     },
+    "krue.sanchez.96": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "Mass RDM"
+    },
     "Johnnyboy3457": {
         "banneduntil": "2025/10/11",
         "BanReason": "Underage"
@@ -1698,6 +1702,10 @@
     "BootyLickerMan4949": {
         "banneduntil": "2025/2/15",
         "BanReason": "soft a"
+    },
+    "cezzriptimtim": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "N-word: Soft a"
     },
     "Alien_gutzzzzz": {
         "banneduntil": "Date 2099/4/16",
@@ -1862,6 +1870,10 @@
     "7_z": {
         "banneduntil": "2099/2/12",
         "BanReason": "Hard R"
+    },
+    "pepperminty202": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "Mass RDM, Killing in Sit"
     },
     "wheelarmor": {
         "banneduntil": "2099/1/1",
@@ -2063,6 +2075,10 @@
         "banneduntil": "2027/7/9",
         "BanReason": "underage"
     },
+    "SGT.Skull310": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "RDM/ Evasion"
+    },
     "the_approved_nephew": {
         "banneduntil": "2025/2/16",
         "BanReason": "Spawn camping with evidence."
@@ -2115,6 +2131,10 @@
         "banneduntil": "2099/2/13",
         "BanReason": "ReBan"
     },
+    "best_strayed_pvpr": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "rdm/ cop targeting"
+    },
     "fynn.david.7": {
         "banneduntil": "2025/2/24",
         "BanReason": "f slur"
@@ -2162,6 +2182,10 @@
     "Lumbagofier": {
         "banneduntil": "2025/2/17",
         "BanReason": "RDM and Evasion"
+    },
+    "possum443": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "rdm after warning"
     },
     "JeffyDog.88": {
         "banneduntil": "2025/3/10",
@@ -2343,13 +2367,25 @@
         "banneduntil": "2025/2/16",
         "BanReason": "Mass RDM/ previous one was wrong name"
     },
+    "juanminion200.2023": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "RDM/evasion"
+    },
     "shark6956": {
         "banneduntil": "2031/1/1/",
         "BanReason": "Underage, Evasion"
     },
+    "HeathensofGore": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "RDM"
+    },
     "Dracomr3.0": {
         "banneduntil": "2025/2/18",
         "BanReason": "RDM /Evasion"
+    },
+    "Mr.Sinful": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "rdm video report"
     },
     "I_Double_H": {
         "banneduntil": "2025/2/19",
@@ -2362,6 +2398,10 @@
     "xXRJHXx": {
         "banneduntil": "2025/2/19",
         "BanReason": "RDM and Evasion"
+    },
+    "Chriscantdrive": {
+        "banneduntil": "2025/2/14",
+        "BanReason": "RDM and left"
     },
     "Old_Sodacan": {
         "banneduntil": "2025/2/15",
@@ -2542,5 +2582,9 @@
     "Kevbro1210": {
         "banneduntil": "2099/1/1",
         "BanReason": "N word Hard R"
+    },
+    "Kermite146": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "Rdm with previous warning and being very disruptive during the sit."
     }
 }
