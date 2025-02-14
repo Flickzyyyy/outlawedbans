@@ -2566,5 +2566,9 @@
     "NtrOBeast1": {
         "banneduntil": "2025/2/27",
         "BanReason": "Sexual remarks"
+    },
+    "FREE_LeD_GIV3R": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "f slur"
     }
 }
