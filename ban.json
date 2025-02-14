@@ -2542,5 +2542,9 @@
     "ImmaSillyClown": {
         "banneduntil": "2025/2/27",
         "BanReason": "f slur"
+    },
+    "soul.vibe": {
+        "banneduntil": "2025/2/17",
+        "BanReason": "RDM for an admin taxi service"
     }
 }
