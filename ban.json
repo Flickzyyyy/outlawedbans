@@ -2594,5 +2594,9 @@
     "sword256664": {
         "banneduntil": "2025/2/22",
         "BanReason": "Spawn camping gingers"
+    },
+    "6_owls_6": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "RDM and admin evasion"
     }
 }
