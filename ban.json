@@ -2602,5 +2602,9 @@
     "fent_snacher.556": {
         "banneduntil": "2025/2/22",
         "BanReason": "Spawn camping"
+    },
+    "Chazz10": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "f slur"
     }
 }
