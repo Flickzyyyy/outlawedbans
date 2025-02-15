@@ -2570,5 +2570,9 @@
     "kaicenatburger": {
         "banneduntil": "2025/3/5",
         "BanReason": "soft a and evasion"
+    },
+    "Butterdog2": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "soft a"
     }
 }
