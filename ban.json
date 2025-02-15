@@ -2638,5 +2638,9 @@
     "Cfred_customs": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R Multiple times"
+    },
+    "gobson.703475": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "rdm"
     }
 }
