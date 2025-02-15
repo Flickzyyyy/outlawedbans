@@ -2638,5 +2638,9 @@
     "DomJuan": {
         "banneduntil": "2025/2/19",
         "BanReason": "RDM/Evasion"
+    },
+    "Cfred_customs": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R Multiple times"
     }
 }
