@@ -2574,5 +2574,9 @@
     "Butterdog2": {
         "banneduntil": "2025/3/1",
         "BanReason": "soft a"
+    },
+    "ChewTheJ": {
+        "banneduntil": "2025/2/19",
+        "BanReason": "rdm"
     }
 }
