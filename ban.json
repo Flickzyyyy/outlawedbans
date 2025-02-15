@@ -2634,5 +2634,9 @@
     "Da_Boy1001": {
         "banneduntil": "2027/1/1",
         "BanReason": "under age and won\u2019t say it"
+    },
+    "DomJuan": {
+        "banneduntil": "2025/2/19",
+        "BanReason": "RDM/Evasion"
     }
 }
