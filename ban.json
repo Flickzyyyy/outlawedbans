@@ -2624,8 +2624,8 @@
         "BanReason": "moneywiped"
     },
     "n1ghtt1me": {
-        "banneduntil": "2020/2/16",
-        "BanReason": "moneywiped"
+        "banneduntil": "2025/2/16",
+        "BanReason": "glitch"
     },
     "Handerson810": {
         "banneduntil": "2025/2/16",
@@ -2638,5 +2638,9 @@
     "badboy-billybones": {
         "banneduntil": "2025/2/16",
         "BanReason": "glitch"
+    },
+    "gukkyung": {
+        "banneduntil": "2020/2/16",
+        "BanReason": "moneywiped"
     }
 }
