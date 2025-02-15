@@ -2634,5 +2634,9 @@
     "DS_Pro": {
         "banneduntil": "2025/3/1",
         "BanReason": "Soft A"
+    },
+    "badboy-billybones": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "glitch"
     }
 }
