@@ -2618,5 +2618,9 @@
     "DS_Pro": {
         "banneduntil": "2025/3/1",
         "BanReason": "Soft A"
+    },
+    "Oilung": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "Underage"
     }
 }
