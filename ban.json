@@ -2590,5 +2590,9 @@
     "OrinB0o": {
         "banneduntil": "2025/2/18",
         "BanReason": "RDM/Evasion"
+    },
+    "sword256664": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "Spawn camping gingers"
     }
 }
