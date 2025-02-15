@@ -2620,8 +2620,8 @@
         "BanReason": "glitch"
     },
     "Jack7313": {
-        "banneduntil": "2025/2/16",
-        "BanReason": "glitch"
+        "banneduntil": "2020/2/16",
+        "BanReason": "moneywiped"
     },
     "n1ghtt1me": {
         "banneduntil": "2025/2/16",
@@ -2638,9 +2638,5 @@
     "badboy-billybones": {
         "banneduntil": "2025/2/16",
         "BanReason": "glitch"
-    },
-    "Boundful": {
-        "banneduntil": "2020/2/16",
-        "BanReason": "moneywiped"
     }
 }
