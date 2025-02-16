@@ -2658,5 +2658,9 @@
     "NikeI420": {
         "banneduntil": "2025/3/2",
         "BanReason": "Fslur"
+    },
+    "NikeL420": {
+        "banneduntil": "2025/3/2",
+        "BanReason": "F slur"
     }
 }
