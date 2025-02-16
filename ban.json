@@ -2626,5 +2626,9 @@
     "tororosso": {
         "banneduntil": "2025/3/2",
         "BanReason": "Soft A"
+    },
+    "cholman_27": {
+        "banneduntil": "2025/2/29",
+        "BanReason": "F slur"
     }
 }
