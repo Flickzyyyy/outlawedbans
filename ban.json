@@ -2682,5 +2682,9 @@
     "prison.warden": {
         "banneduntil": "2025/3/1",
         "BanReason": "Selling and buying slaves"
+    },
+    "specialfriend": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "Sexual remarks to a minor"
     }
 }
