@@ -2638,5 +2638,9 @@
     "retard_withagun": {
         "banneduntil": "2025/2/22",
         "BanReason": "Calling people monkeys with warnings and evasion."
+    },
+    "Doomofhulkvr": {
+        "banneduntil": "2025/2/19",
+        "BanReason": "RDM"
     }
 }
