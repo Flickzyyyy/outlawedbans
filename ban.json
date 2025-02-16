@@ -2666,5 +2666,9 @@
     "streeetyy": {
         "banneduntil": "2025/3/18",
         "BanReason": "Mass rdm, spawn killing other players, evading admin sit by spawn killing"
+    },
+    "dino4348": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "RDM/Evasion"
     }
 }
