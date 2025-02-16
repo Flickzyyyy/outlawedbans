@@ -2610,5 +2610,9 @@
     "Monjet": {
         "banneduntil": "2025/2/22",
         "BanReason": "RDM and admin evasion"
+    },
+    "macman823": {
+        "banneduntil": "2025/2/20",
+        "BanReason": "cop targeting"
     }
 }
