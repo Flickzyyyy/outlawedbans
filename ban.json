@@ -2630,5 +2630,9 @@
     "cholman_27": {
         "banneduntil": "2025/2/29",
         "BanReason": "F slur"
+    },
+    "Samuel265": {
+        "banneduntil": "2025/2/10",
+        "BanReason": "Mass RDM"
     }
 }
