@@ -2630,5 +2630,9 @@
     "Steve8716": {
         "banneduntil": "2026/2/16",
         "BanReason": "Underage left when asked his age"
+    },
+    "boykisseranonymous": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "F slur and killing in admin sit"
     }
 }
