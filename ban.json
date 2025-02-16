@@ -2654,5 +2654,9 @@
     "Samuel265": {
         "banneduntil": "2025/2/20",
         "BanReason": "Mass RDM - put wrong date last time"
+    },
+    "Zero_The_Reaper": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "Mass RDM, Cop Targetting, evading sit"
     }
 }
