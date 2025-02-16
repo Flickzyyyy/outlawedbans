@@ -2638,5 +2638,9 @@
     "enma411": {
         "banneduntil": "2025/2/23",
         "BanReason": "Started revolution and RDM"
+    },
+    "Kafkaisque01": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "Mass RDM after warning and admin evasion"
     }
 }
