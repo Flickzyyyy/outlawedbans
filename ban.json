@@ -2606,5 +2606,9 @@
     "shudzzzze": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Monjet": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "RDM and admin evasion"
     }
 }
