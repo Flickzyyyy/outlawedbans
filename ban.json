@@ -2602,5 +2602,9 @@
     "niger.hunter.2025": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r in user"
+    },
+    "shudzzzze": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
