@@ -2658,5 +2658,9 @@
     "Zero_The_Reaper": {
         "banneduntil": "2025/2/23",
         "BanReason": "Mass RDM, Cop Targetting, evading sit"
+    },
+    "historyguy903": {
+        "banneduntil": "2025/2/18",
+        "BanReason": "RDM x 2 before leabing server"
     }
 }
