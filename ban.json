@@ -2622,5 +2622,9 @@
     "Oilung": {
         "banneduntil": "2026/4/5",
         "BanReason": "Underage"
+    },
+    "tororosso": {
+        "banneduntil": "2025/3/2",
+        "BanReason": "Soft A"
     }
 }
