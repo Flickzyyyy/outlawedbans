@@ -2634,5 +2634,9 @@
     "boykisseranonymous": {
         "banneduntil": "2025/3/9",
         "BanReason": "F slur and killing in admin sit"
+    },
+    "enma411": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "Started revolution and RDM"
     }
 }
