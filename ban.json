@@ -2702,5 +2702,9 @@
     "Battle.Doid": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "slowkid6": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage and. didn\u2019t give me a yy/mm/dd"
     }
 }
