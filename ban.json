@@ -2642,5 +2642,9 @@
     "Kafkaisque01": {
         "banneduntil": "2025/2/25",
         "BanReason": "Mass RDM after warning and admin evasion"
+    },
+    "Agnaldo047": {
+        "banneduntil": "2025/2/19",
+        "BanReason": "Cop targeting report"
     }
 }
