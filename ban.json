@@ -2678,5 +2678,9 @@
     "NuclearHobo2112": {
         "banneduntil": "2025/3/1",
         "BanReason": "Selling and buying slaves"
+    },
+    "prison.warden": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "Selling and buying slaves"
     }
 }
