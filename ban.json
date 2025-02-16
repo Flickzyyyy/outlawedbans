@@ -2598,5 +2598,9 @@
     "izzy_spm2102": {
         "banneduntil": "2025/2/17",
         "BanReason": "rdm and left"
+    },
+    "niger.hunter.2025": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r in user"
     }
 }
