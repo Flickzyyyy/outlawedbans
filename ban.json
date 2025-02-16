@@ -2634,5 +2634,9 @@
     "Jariel0831": {
         "banneduntil": "2025/2/18",
         "BanReason": "Mass RDM"
+    },
+    "retard_withagun": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "Calling people monkeys with warnings and evasion."
     }
 }
