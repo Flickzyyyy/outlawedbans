@@ -2674,5 +2674,9 @@
     "xahmBee": {
         "banneduntil": "2027/12/28",
         "BanReason": "Underage"
+    },
+    "Milky_123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R and F slur"
     }
 }
