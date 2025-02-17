@@ -2674,5 +2674,9 @@
     "sillygoose1213": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt account"
+    },
+    "SpedGaming": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "f slur multiple times"
     }
 }
