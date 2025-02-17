@@ -2678,5 +2678,9 @@
     "Milky_123": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R and F slur"
+    },
+    "Maestruk206": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "Mass RDM"
     }
 }
