@@ -2694,5 +2694,9 @@
     "The.Angry.Moose": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "hate_negros": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "N word in his name and hard R"
     }
 }
