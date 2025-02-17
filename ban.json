@@ -2670,5 +2670,9 @@
     "Jordan12232": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underage"
+    },
+    "xahmBee": {
+        "banneduntil": "2027/12/28",
+        "BanReason": "Underage"
     }
 }
