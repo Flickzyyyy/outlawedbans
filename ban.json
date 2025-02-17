@@ -2698,5 +2698,9 @@
     "TacticalLegs": {
         "banneduntil": "2025/3/1",
         "BanReason": "F slur"
+    },
+    "Blacktanks": {
+        "banneduntil": "2025/3/17",
+        "BanReason": "Mass RDM and Evasion"
     }
 }
