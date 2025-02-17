@@ -2654,5 +2654,9 @@
     "beanbag78": {
         "banneduntil": "2026/2/16",
         "BanReason": "Underage"
+    },
+    "Boundful": {
+        "banneduntil": "2025/1/1",
+        "BanReason": "unban"
     }
 }
