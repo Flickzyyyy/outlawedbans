@@ -2694,5 +2694,9 @@
     "streety.grmps": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "TacticalLegs": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "F slur"
     }
 }
