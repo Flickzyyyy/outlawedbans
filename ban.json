@@ -2686,5 +2686,9 @@
     "GTDeathStroke": {
         "banneduntil": "2025/3/2",
         "BanReason": "f slur"
+    },
+    "skeletonman234": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "Spawn camping and evasion"
     }
 }
