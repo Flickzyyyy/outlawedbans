@@ -2662,5 +2662,9 @@
     "dylan.ledford": {
         "banneduntil": "2025/2/21",
         "BanReason": "Mass RDM"
+    },
+    "wylan.ledford": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "Mass RDM"
     }
 }
