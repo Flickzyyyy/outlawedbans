@@ -2690,5 +2690,9 @@
     "skeletonman234": {
         "banneduntil": "2025/2/22",
         "BanReason": "Spawn camping and evasion"
+    },
+    "The.Angry.Moose": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
