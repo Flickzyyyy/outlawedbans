@@ -2698,5 +2698,9 @@
     "hate_negros": {
         "banneduntil": "2099/1/1",
         "BanReason": "N word in his name and hard R"
+    },
+    "SurroundedbyBalls03": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R Soft A F slur"
     }
 }
