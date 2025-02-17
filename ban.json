@@ -2690,5 +2690,9 @@
     "Charnk": {
         "banneduntil": "2025/2/21",
         "BanReason": "RDM"
+    },
+    "streety.grmps": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
