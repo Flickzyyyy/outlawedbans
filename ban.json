@@ -2702,5 +2702,9 @@
     "Blacktanks": {
         "banneduntil": "2025/3/17",
         "BanReason": "Mass RDM and Evasion"
+    },
+    "FrostyBananaKG": {
+        "banneduntil": "2025/3/3",
+        "BanReason": "Soft a"
     }
 }
