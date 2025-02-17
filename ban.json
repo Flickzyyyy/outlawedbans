@@ -2682,5 +2682,9 @@
     "Maestruk206": {
         "banneduntil": "2025/2/24",
         "BanReason": "Mass RDM"
+    },
+    "PlayboyCartiKisser": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "F slur"
     }
 }
