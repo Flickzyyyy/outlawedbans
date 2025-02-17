@@ -2714,5 +2714,9 @@
     "SlimeLanguage": {
         "banneduntil": "2025/2/21",
         "BanReason": "RDM, terrible attitude"
+    },
+    "DumbLookingIndian": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
