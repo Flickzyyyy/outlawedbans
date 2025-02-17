@@ -2686,5 +2686,9 @@
     "PlayboyCartiKisser": {
         "banneduntil": "2025/3/10",
         "BanReason": "F slur"
+    },
+    "Charnk": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "RDM"
     }
 }
