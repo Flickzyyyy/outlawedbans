@@ -2738,5 +2738,9 @@
     "mskedkilla.1234": {
         "banneduntil": "2025/2/21",
         "BanReason": "Rdm"
+    },
+    "NPC.12": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "RDM"
     }
 }
