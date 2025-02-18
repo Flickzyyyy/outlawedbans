@@ -2774,5 +2774,9 @@
     "typeshiz420": {
         "banneduntil": "2025/7/6",
         "BanReason": "underage"
+    },
+    "DankyStankyBoi": {
+        "banneduntil": "2025/2/19",
+        "BanReason": "RDM/spawn camping"
     }
 }
