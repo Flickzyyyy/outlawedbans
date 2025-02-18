@@ -2742,5 +2742,9 @@
     "Zoowho22": {
         "banneduntil": "2025/2/22",
         "BanReason": "Cop targeting and admin evasion"
+    },
+    "mhorsley": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "rdm"
     }
 }
