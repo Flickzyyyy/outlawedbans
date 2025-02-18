@@ -2798,5 +2798,9 @@
     "GunAddictVR": {
         "banneduntil": "2025/2/21",
         "BanReason": "Underage"
+    },
+    "crazyfaz": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "Underage"
     }
 }
