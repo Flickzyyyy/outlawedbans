@@ -2722,5 +2722,9 @@
     "not.very.awesome": {
         "banneduntil": "2025/2/24",
         "BanReason": "RDM, cop targeting"
+    },
+    "oculuso_wen": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "Mass RDM"
     }
 }
