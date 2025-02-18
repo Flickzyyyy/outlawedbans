@@ -2750,5 +2750,9 @@
     "shadygreys.2022": {
         "banneduntil": "2025/2/25",
         "BanReason": "Cop targeting camping hotel and evasion"
+    },
+    "Erik_420": {
+        "banneduntil": "2024/2/22",
+        "BanReason": "RDM and admin evasion"
     }
 }
