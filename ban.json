@@ -2680,8 +2680,8 @@
         "BanReason": "RDM/ F slur/impersonating an admin"
     },
     "Beverage_27": {
-        "banneduntil": "2025/2/24",
-        "BanReason": "RDM and Evasion"
+        "banneduntil": "2025/2/20",
+        "BanReason": "RDM"
     },
     "yellowbobbers": {
         "banneduntil": "2099/2/21",
