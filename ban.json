@@ -2746,5 +2746,9 @@
     "mhorsley": {
         "banneduntil": "2025/2/22",
         "BanReason": "rdm"
+    },
+    "shadygreys.2022": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "Cop targeting camping hotel and evasion"
     }
 }
