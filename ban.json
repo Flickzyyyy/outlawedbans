@@ -2762,5 +2762,9 @@
     "lazy.gammer.2024": {
         "banneduntil": "2025/2/22",
         "BanReason": "RDM"
+    },
+    "mrbaconangel": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "Attempted RDM and Evasion"
     }
 }
