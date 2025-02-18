@@ -2730,5 +2730,9 @@
     "Ironmaiden": {
         "banneduntil": "2025/2/21",
         "BanReason": "RDM"
+    },
+    "Ironmaiden_X": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "RDM"
     }
 }
