@@ -2730,5 +2730,9 @@
     "skelators": {
         "banneduntil": "2025/2/22",
         "BanReason": "RDM and admin evasion"
+    },
+    "StanTheMan2013": {
+        "banneduntil": "2027/2/18",
+        "BanReason": "Underaged"
     }
 }
