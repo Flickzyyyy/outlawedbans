@@ -2734,5 +2734,9 @@
     "Yaboi_sbeeve": {
         "banneduntil": "2025/2/27",
         "BanReason": "rdm/ evasion"
+    },
+    "mskedkilla.1234": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "Rdm"
     }
 }
