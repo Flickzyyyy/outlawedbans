@@ -2778,5 +2778,9 @@
     "jewish.matzah": {
         "banneduntil": "2025/3/11",
         "BanReason": "Reban - Mass RDM, disgusting language and slurs"
+    },
+    "Cumballson": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "Mass RDM, tried to kill me in sit"
     }
 }
