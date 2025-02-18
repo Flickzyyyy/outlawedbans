@@ -2718,5 +2718,9 @@
     "bingdingaling": {
         "banneduntil": "2025/2/23",
         "BanReason": "MassRDM"
+    },
+    "not.very.awesome": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "RDM, cop targeting"
     }
 }
