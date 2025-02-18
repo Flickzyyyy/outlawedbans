@@ -2806,5 +2806,9 @@
     "kanyewestnig": {
         "banneduntil": "2025/3/2",
         "BanReason": "username and harassment"
+    },
+    "Sm3gan": {
+        "banneduntil": "2099/2/4",
+        "BanReason": "N word/F slur"
     }
 }
