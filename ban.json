@@ -2714,5 +2714,9 @@
     "SkibidiRaperFloyd": {
         "banneduntil": "2025/3/1",
         "BanReason": "Derog User, please change before continuing to play."
+    },
+    "bingdingaling": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "MassRDM"
     }
 }
