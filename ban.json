@@ -2726,5 +2726,9 @@
     "oculuso_wen": {
         "banneduntil": "2025/2/21",
         "BanReason": "Mass RDM"
+    },
+    "skelators": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "RDM and admin evasion"
     }
 }
