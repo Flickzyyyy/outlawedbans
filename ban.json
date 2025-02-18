@@ -2802,5 +2802,9 @@
     "crazyfaz": {
         "banneduntil": "2025/4/16",
         "BanReason": "Underage"
+    },
+    "kanyewestnig": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "Username, harassment"
     }
 }
