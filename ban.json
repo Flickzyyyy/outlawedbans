@@ -2790,5 +2790,9 @@
     "tntdynamite12.32": {
         "banneduntil": "2025/2/20",
         "BanReason": "Mass RDM"
+    },
+    "MasterMasynk": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "rdm"
     }
 }
