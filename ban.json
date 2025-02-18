@@ -2758,5 +2758,9 @@
     "irishx10": {
         "banneduntil": "2025/3/1",
         "BanReason": "Racist Remarks and RDM"
+    },
+    "lazy.gammer.2024": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "RDM"
     }
 }
