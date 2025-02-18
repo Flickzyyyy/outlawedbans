@@ -2750,5 +2750,9 @@
     "Jacob. Happyman": {
         "banneduntil": "2099/2/21",
         "BanReason": "RDM/ F slur/impersonating an admin"
+    },
+    "Beverage_27": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "RDM and Evasion"
     }
 }
