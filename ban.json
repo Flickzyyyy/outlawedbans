@@ -2742,5 +2742,9 @@
     "NPC.12": {
         "banneduntil": "2025/2/21",
         "BanReason": "RDM"
+    },
+    "Kingvonfrmda0": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "RDM"
     }
 }
