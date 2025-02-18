@@ -2734,5 +2734,9 @@
     "Ironmaiden_X": {
         "banneduntil": "2025/2/21",
         "BanReason": "RDM"
+    },
+    "Yaboi_sbeeve": {
+        "banneduntil": "2025/2/20",
+        "BanReason": "rdm/ evasion"
     }
 }
