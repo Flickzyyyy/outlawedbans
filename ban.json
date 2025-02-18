@@ -2762,5 +2762,9 @@
     "FUKKK3R": {
         "banneduntil": "2025/3/17",
         "BanReason": "Running around telling people admins are r@pists"
+    },
+    "slowafminibike": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "Killing in spawn"
     }
 }
