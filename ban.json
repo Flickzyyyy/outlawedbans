@@ -2794,5 +2794,9 @@
     "MasterMasynk": {
         "banneduntil": "2025/2/22",
         "BanReason": "rdm"
+    },
+    "GunAddictVR": {
+        "banneduntil": "2025/2/21",
+        "BanReason": "Underage"
     }
 }
