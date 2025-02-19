@@ -2854,5 +2854,9 @@
     "cheeseman1": {
         "banneduntil": "2025/2/26",
         "BanReason": "RDM and Evasion"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2025/2/20",
+        "BanReason": "RDM"
     }
 }
