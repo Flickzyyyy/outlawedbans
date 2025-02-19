@@ -2818,5 +2818,9 @@
     "hamger55": {
         "banneduntil": "2025/2/26",
         "BanReason": "Cop Targeting, inciting a violent police riot, RDM"
+    },
+    "toxic-snake": {
+        "banneduntil": "2025/3/3",
+        "BanReason": "Mass RDM"
     }
 }
