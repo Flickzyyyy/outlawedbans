@@ -2826,5 +2826,9 @@
     "Jctheninja4301": {
         "banneduntil": "2025/3/19",
         "BanReason": "Mass RDM, camping, cop targeting"
+    },
+    "garret.ackerviller": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
