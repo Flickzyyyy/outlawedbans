@@ -2802,5 +2802,9 @@
     "Omripoleg17": {
         "banneduntil": "2099/1/1",
         "BanReason": "Multiple Hard R\u2019s - got on clip"
+    },
+    "blakepeter": {
+        "banneduntil": "2025/2/26",
+        "BanReason": "RDM and Evasion"
     }
 }
