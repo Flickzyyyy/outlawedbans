@@ -2826,5 +2826,9 @@
     "summers.616619": {
         "banneduntil": "2025/2/24",
         "BanReason": "rdm/evasion"
+    },
+    "Ratman48": {
+        "banneduntil": "2025/4/10",
+        "BanReason": "underage"
     }
 }
