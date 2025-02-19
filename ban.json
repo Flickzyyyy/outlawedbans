@@ -2866,5 +2866,9 @@
     "FriendlyWombat3017": {
         "banneduntil": "2025/2/23",
         "BanReason": "RDM"
+    },
+    "gun.starcat": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "Spawn camping, Rdm"
     }
 }
