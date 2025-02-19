@@ -2855,10 +2855,6 @@
         "banneduntil": "2025/2/26",
         "BanReason": "RDM and Evasion"
     },
-    "Battle.Droid": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban, no prior warning."
-    },
     "jewish.lawyer": {
         "banneduntil": "2025/4/1",
         "BanReason": "F slur, RDM, sexual remarks"
