@@ -2834,5 +2834,9 @@
     "J_BOY1001": {
         "banneduntil": "2025/3/19",
         "BanReason": "Mass RDM, camping, cop targeting"
+    },
+    "Ace35266": {
+        "banneduntil": "2025/2/27",
+        "BanReason": "RDM, evasion"
     }
 }
