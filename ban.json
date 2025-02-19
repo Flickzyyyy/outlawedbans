@@ -2822,5 +2822,9 @@
     "toxic-snake": {
         "banneduntil": "2025/3/3",
         "BanReason": "Mass RDM"
+    },
+    "Jctheninja4301": {
+        "banneduntil": "2025/3/19",
+        "BanReason": "Mass RDM, camping, cop targeting"
     }
 }
