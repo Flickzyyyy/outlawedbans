@@ -2842,5 +2842,9 @@
     "spedwalking": {
         "banneduntil": "2026/1/1",
         "BanReason": "He sounded very young so I asked him his age in a admin sit he then said he\u2019s 12. I said what is you birthday so I can correctly ban you and he gave me a weird birthday. I asked him his birthday without Sutter he then sighed and left."
+    },
+    "burtfromfishtank": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "Derogatory terms"
     }
 }
