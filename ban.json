@@ -2810,5 +2810,9 @@
     "Sm3gan": {
         "banneduntil": "2099/2/4",
         "BanReason": "N word/F slur"
+    },
+    "Holosight1": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "spawn camping, Rdm."
     }
 }
