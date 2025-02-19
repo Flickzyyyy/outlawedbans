@@ -2806,5 +2806,9 @@
     "blakepeter": {
         "banneduntil": "2025/2/26",
         "BanReason": "RDM and Evasion"
+    },
+    "RastaMonkeToeNail": {
+        "banneduntil": "2025/2/26",
+        "BanReason": "RDM and Evasion"
     }
 }
