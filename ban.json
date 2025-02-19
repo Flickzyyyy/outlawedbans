@@ -2798,5 +2798,9 @@
     "mijlky": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage"
+    },
+    "Omripoleg17": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Multiple Hard R\u2019s - got on clip"
     }
 }
