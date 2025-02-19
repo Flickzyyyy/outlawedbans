@@ -2842,5 +2842,9 @@
     "magik702lv.2023": {
         "banneduntil": "2025/2/22",
         "BanReason": "Not N word, RDM, whoops"
+    },
+    "tee.vee.2022.2022": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "RDM and Evasion"
     }
 }
