@@ -2782,5 +2782,9 @@
     "blokk_bud": {
         "banneduntil": "2025/4/1",
         "BanReason": "Mass RDM, RDM during sit, Evasion, been banned before"
+    },
+    "Ikirk5618": {
+        "banneduntil": "2026/2/16",
+        "BanReason": "underage"
     }
 }
