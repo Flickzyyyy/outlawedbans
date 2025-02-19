@@ -2810,5 +2810,9 @@
     "RastaMonkeToeNail": {
         "banneduntil": "2025/2/26",
         "BanReason": "RDM and Evasion"
+    },
+    "quiktrop": {
+        "banneduntil": "2025/2/26",
+        "BanReason": "Cop Targeting, inciting a violent police riot, RDM"
     }
 }
