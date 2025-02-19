@@ -2862,5 +2862,9 @@
     "jewish.lawyer": {
         "banneduntil": "2025/4/1",
         "BanReason": "F slur, RDM, sexual remarks"
+    },
+    "Syzcer": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "Cop targeting with previous warning by ghosty."
     }
 }
