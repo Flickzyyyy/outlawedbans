@@ -2900,7 +2900,7 @@
         "BanReason": "Camping bank. RDM"
     },
     "controller515": {
-        "banneduntil": "2025/2/25",
-        "BanReason": "cop targeting"
+        "banneduntil": "2025/2/23",
+        "BanReason": "Cop Targeting"
     }
 }
