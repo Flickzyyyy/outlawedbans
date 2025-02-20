@@ -2890,5 +2890,9 @@
     "Dexter.69": {
         "banneduntil": "2025/2/23",
         "BanReason": "RDM"
+    },
+    "2025/3/1": {
+        "banneduntil": "Atlosvr",
+        "BanReason": "Camping bank. RDM"
     }
 }
