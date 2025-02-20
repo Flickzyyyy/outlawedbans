@@ -2882,5 +2882,9 @@
     "TheInstigator1488": {
         "banneduntil": "2025/2/23",
         "BanReason": "RDM report"
+    },
+    "IvanFukston": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "RDM"
     }
 }
