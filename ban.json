@@ -2858,5 +2858,9 @@
     "MBdashawn": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Shadow.wolf.yt": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "RDM/Evasion"
     }
 }
