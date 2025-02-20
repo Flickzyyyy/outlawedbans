@@ -2898,5 +2898,9 @@
     "Evanknight34Ty": {
         "banneduntil": "2025/3/2",
         "BanReason": "Mass RDM/ Evasion during sit"
+    },
+    "skeleton_bones": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "RDM/RDM during sit/Evasion"
     }
 }
