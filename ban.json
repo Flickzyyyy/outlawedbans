@@ -2862,5 +2862,9 @@
     "Shadow.wolf.yt": {
         "banneduntil": "2025/2/25",
         "BanReason": "RDM/Evasion"
+    },
+    "Trentonn": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "Mass RDM (been banned many other times)"
     }
 }
