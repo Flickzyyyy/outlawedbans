@@ -2846,5 +2846,9 @@
     "controller515": {
         "banneduntil": "2025/2/23",
         "BanReason": "Cop Targeting"
+    },
+    "TwizzyWick": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "sexual harassment"
     }
 }
