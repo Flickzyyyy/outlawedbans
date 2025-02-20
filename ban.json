@@ -2874,5 +2874,9 @@
     "lil durk.411005": {
         "banneduntil": "2025/2/23",
         "BanReason": "RDM"
+    },
+    "kotten42": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "mass rdm report"
     }
 }
