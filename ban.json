@@ -2922,5 +2922,9 @@
     "entersandman1944.2025": {
         "banneduntil": "2028/1/1",
         "BanReason": "under age admin evasion"
+    },
+    "Blackstar_251": {
+        "banneduntil": "2025/8/31",
+        "BanReason": "underage"
     }
 }
