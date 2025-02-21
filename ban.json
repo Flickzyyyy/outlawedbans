@@ -2930,5 +2930,9 @@
     "Poggar_Man": {
         "banneduntil": "2025/2/27",
         "BanReason": "mass RDM evasion"
+    },
+    "MyNameJeffy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
