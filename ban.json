@@ -2862,5 +2862,9 @@
     "sourest": {
         "banneduntil": "2025/3/6",
         "BanReason": "Soft a"
+    },
+    "kasvxzas44": {
+        "banneduntil": "2025/2/25",
+        "BanReason": "evasion"
     }
 }
