@@ -2902,5 +2902,9 @@
     "lildurk.411005": {
         "banneduntil": "2025/3/10",
         "BanReason": "RDM/soft A"
+    },
+    "Turtle_07": {
+        "banneduntil": "2025/3/7",
+        "BanReason": "cop targeting, mass rdm"
     }
 }
