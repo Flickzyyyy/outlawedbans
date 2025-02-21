@@ -2922,5 +2922,9 @@
     "entersandman1944": {
         "banneduntil": "2011/1/1",
         "BanReason": "under age admin evasion"
+    },
+    "entersandman1944.2025": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "under age admin evasion"
     }
 }
