@@ -2926,5 +2926,9 @@
     "Blackstar_251": {
         "banneduntil": "2025/8/31",
         "BanReason": "underage"
+    },
+    "Poggar_Man": {
+        "banneduntil": "2025/2/27",
+        "BanReason": "mass RDM evasion"
     }
 }
