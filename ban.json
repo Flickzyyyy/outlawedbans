@@ -2918,5 +2918,9 @@
     "007ant": {
         "banneduntil": "2025/3/1",
         "BanReason": "Rdm, Cop targeting, Evasion, Killing in a sit"
+    },
+    "entersandman1944": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "under age admin evasion"
     }
 }
