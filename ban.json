@@ -2882,5 +2882,9 @@
     "The.cum.man": {
         "banneduntil": "2025/3/1",
         "BanReason": "rdm, cop targeting, evasion"
+    },
+    "Vybz": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "cop targeting, Rdm, evasion"
     }
 }
