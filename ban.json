@@ -2910,5 +2910,9 @@
     "Getgood2013": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage"
+    },
+    "Cookingwithtimmyvr": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "Evasion in a admin sit"
     }
 }
