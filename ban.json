@@ -2906,5 +2906,9 @@
     "XwenGx": {
         "banneduntil": "2025/2/23",
         "BanReason": "RDM"
+    },
+    "Getgood2013": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage"
     }
 }
