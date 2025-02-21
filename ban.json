@@ -2902,5 +2902,9 @@
     "skeleton_bones": {
         "banneduntil": "2025/2/28",
         "BanReason": "RDM/RDM during sit/Evasion"
+    },
+    "XwenGx": {
+        "banneduntil": "2025/2/23",
+        "BanReason": "RDM"
     }
 }
