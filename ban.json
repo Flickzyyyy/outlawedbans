@@ -2906,5 +2906,9 @@
     "Turtle_07": {
         "banneduntil": "2025/3/7",
         "BanReason": "cop targeting, mass rdm"
+    },
+    "Ifoundapenny": {
+        "banneduntil": "2025/2/22",
+        "BanReason": "RDM"
     }
 }
