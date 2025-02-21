@@ -2858,5 +2858,9 @@
     "Borallge": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "sourest": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "Soft a"
     }
 }
