@@ -2942,5 +2942,9 @@
     "lXxDomxXl": {
         "banneduntil": "2025/2/25",
         "BanReason": "cop targeting"
+    },
+    "BrooklynTGay": {
+        "banneduntil": "2099/2/19",
+        "BanReason": "Alt"
     }
 }
