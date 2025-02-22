@@ -2886,5 +2886,9 @@
     "TonsilTeaser": {
         "banneduntil": "2025/3/10",
         "BanReason": "Soft-a/RDM/ Evidence in my log"
+    },
+    "killed_by_sigma": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "F slur"
     }
 }
