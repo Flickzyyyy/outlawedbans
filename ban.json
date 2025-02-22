@@ -2890,5 +2890,9 @@
     "killed_by_sigma": {
         "banneduntil": "2025/3/8",
         "BanReason": "F slur"
+    },
+    "battle.droid": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "Mass RDM despite warning prior, then left the server hence avoiding an admin sit, he has been banned many times previously for the same thing so he should get a longer ban"
     }
 }
