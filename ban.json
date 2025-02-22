@@ -2922,5 +2922,9 @@
     "ifoundapenny": {
         "banneduntil": "2025/2/23",
         "BanReason": "Mass RDM"
+    },
+    "thepennymeister": {
+        "banneduntil": "2025/3/7",
+        "BanReason": "Sexual harassment"
     }
 }
