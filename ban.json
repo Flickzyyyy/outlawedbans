@@ -2866,5 +2866,9 @@
     "seansomestuff": {
         "banneduntil": "2025/2/24",
         "BanReason": "rdm"
+    },
+    "Riddimizer": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "two mass rdm reports."
     }
 }
