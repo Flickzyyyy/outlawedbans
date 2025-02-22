@@ -2862,5 +2862,9 @@
     "SHIIT4SS": {
         "banneduntil": "2025/5/28",
         "BanReason": "mass RDM F slur evasion sexual remarks"
+    },
+    "seansomestuff": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "rdm"
     }
 }
