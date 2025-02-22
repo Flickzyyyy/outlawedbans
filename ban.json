@@ -2870,5 +2870,9 @@
     "Riddimizer": {
         "banneduntil": "2025/2/28",
         "BanReason": "two mass rdm reports."
+    },
+    "SIGMA_ALPHA": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "RDM/Camping Bank/Evasion"
     }
 }
