@@ -2866,5 +2866,9 @@
     "seansomestuff": {
         "banneduntil": "2025/2/24",
         "BanReason": "rdm"
+    },
+    "Xverse17": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "Hard R"
     }
 }
