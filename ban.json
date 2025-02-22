@@ -2882,5 +2882,9 @@
     "murdahoodrap": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitting to alts and saying he was perma banned before"
+    },
+    "TonsilTeaser": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "Soft-a/RDM/ Evidence in my log"
     }
 }
