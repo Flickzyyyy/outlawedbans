@@ -2914,5 +2914,9 @@
     "SupremePinecone": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "applejuicedrinker65": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "hard R"
     }
 }
