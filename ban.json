@@ -2902,5 +2902,9 @@
     "edbplayz": {
         "banneduntil": "2025/2/24",
         "BanReason": "Evasion, attempted RDM"
+    },
+    "shadeguy21": {
+        "banneduntil": "2025/2/24",
+        "BanReason": "Rdm, evasion during sit"
     }
 }
