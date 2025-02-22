@@ -2878,5 +2878,9 @@
     "billybolts2": {
         "banneduntil": "2025/2/24",
         "BanReason": "bullying based on characteristics"
+    },
+    "murdahoodrap": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitting to alts and saying he was perma banned before"
     }
 }
