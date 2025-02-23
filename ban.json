@@ -2850,5 +2850,9 @@
     "TypicalDingus": {
         "banneduntil": "2099/2/2",
         "BanReason": "HARD R"
+    },
+    "SuperbadAj": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "SOFT A/ evasion"
     }
 }
