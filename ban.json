@@ -2910,5 +2910,9 @@
     "auptismb": {
         "banneduntil": "2025/3/9",
         "BanReason": "f slur"
+    },
+    "fazedpotato": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
