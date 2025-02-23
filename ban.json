@@ -2930,5 +2930,9 @@
     "Maymay0912": {
         "banneduntil": "2025/3/1",
         "BanReason": "rdm, evasion"
+    },
+    "Soviet.Onion1": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "spawn camping"
     }
 }
