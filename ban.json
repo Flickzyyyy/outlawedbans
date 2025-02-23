@@ -2934,5 +2934,9 @@
     "Soviet.Onion1": {
         "banneduntil": "2025/2/28",
         "BanReason": "spawn camping"
+    },
+    "flickygooner": {
+        "banneduntil": "2025/3/22",
+        "BanReason": "f slur, evasion, spawn camping, mass Rdm."
     }
 }
