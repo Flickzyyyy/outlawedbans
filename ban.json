@@ -2942,5 +2942,9 @@
     "MeDreamie": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "noahorhim": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "f slur"
     }
 }
