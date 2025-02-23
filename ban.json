@@ -2882,5 +2882,9 @@
     "Eltacob": {
         "banneduntil": "2025/2/26",
         "BanReason": "Cop Target"
+    },
+    "Playeridk": {
+        "banneduntil": "2025/2/26",
+        "BanReason": "Cop Target"
     }
 }
