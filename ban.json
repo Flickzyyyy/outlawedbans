@@ -2906,5 +2906,9 @@
     "BigM1\u0431": {
         "banneduntil": "2025/2/27",
         "BanReason": "Rdm reports"
+    },
+    "auptismb": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "f slur"
     }
 }
