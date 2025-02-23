@@ -2938,5 +2938,9 @@
     "flickygooner": {
         "banneduntil": "2025/3/22",
         "BanReason": "f slur, evasion, spawn camping, mass Rdm."
+    },
+    "MeDreamie": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
