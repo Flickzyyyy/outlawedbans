@@ -2870,5 +2870,9 @@
     "artdeity": {
         "banneduntil": "2025/2/26",
         "BanReason": "RDM"
+    },
+    "Munted_Mfer": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "f Slur"
     }
 }
