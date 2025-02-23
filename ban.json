@@ -2854,5 +2854,9 @@
     "SuperbadAj": {
         "banneduntil": "2025/3/15",
         "BanReason": "SOFT A/ evasion"
+    },
+    "skeletonman234": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "HARD R"
     }
 }
