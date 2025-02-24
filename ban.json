@@ -2946,5 +2946,9 @@
     "noahorhim": {
         "banneduntil": "2025/3/9",
         "BanReason": "f slur"
+    },
+    "Bigchief10": {
+        "banneduntil": "2025/2/26",
+        "BanReason": "Rdm, Evasion"
     }
 }
