@@ -2906,5 +2906,9 @@
     "killer.clown95": {
         "banneduntil": "2025/2/28",
         "BanReason": "RDM/KILLED ADMIN DURING SIT"
+    },
+    "TreyTheMunchkin": {
+        "banneduntil": "2025/4/21",
+        "BanReason": "Underage"
     }
 }
