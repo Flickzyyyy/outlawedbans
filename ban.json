@@ -2922,5 +2922,9 @@
     "SIavB": {
         "banneduntil": "2025/3/11",
         "BanReason": "F slur"
+    },
+    "SlavB": {
+        "banneduntil": "2025/3/11",
+        "BanReason": "F slur"
     }
 }
