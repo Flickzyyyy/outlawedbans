@@ -2938,5 +2938,9 @@
     "mikey169": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage and evasion"
+    },
+    "Jdub.86": {
+        "banneduntil": "2029/9/28",
+        "BanReason": "Underage"
     }
 }
