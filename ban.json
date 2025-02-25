@@ -2898,5 +2898,9 @@
     "200IQ": {
         "banneduntil": "2025/3/1",
         "BanReason": "RDM"
+    },
+    "TTTLH": {
+        "banneduntil": "2025/3/1",
+        "BanReason": "RDM with video and verbal reports"
     }
 }
