@@ -2942,5 +2942,9 @@
     "Jdub.86": {
         "banneduntil": "2029/9/28",
         "BanReason": "Underage"
+    },
+    "Evanknight363": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
