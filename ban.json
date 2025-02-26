@@ -2870,5 +2870,9 @@
     "shroomenthusiast3812": {
         "banneduntil": "2025/3/4",
         "BanReason": "camping"
+    },
+    "no.vanity.999": {
+        "banneduntil": "2025/3/2",
+        "BanReason": "RDM, Evasion"
     }
 }
