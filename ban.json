@@ -2898,5 +2898,9 @@
     "Formula.1Fan": {
         "banneduntil": "2099/1/1",
         "BanReason": "Reason: Hard R - correction from previous date"
+    },
+    "Seerbye": {
+        "banneduntil": "2025/3/4",
+        "BanReason": "rdm and evasion"
     }
 }
