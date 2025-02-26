@@ -2938,5 +2938,9 @@
     "Diddyinator69420": {
         "banneduntil": "2025/3/10",
         "BanReason": "Rdm, Killing in spawn multiple times with warnings"
+    },
+    "OnwardChef": {
+        "banneduntil": "2025/3/2",
+        "BanReason": "Mass RDM"
     }
 }
