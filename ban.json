@@ -2894,5 +2894,9 @@
     "vincapro2013": {
         "banneduntil": "2026/5/5",
         "BanReason": "Underage"
+    },
+    "Formula.1Fan": {
+        "banneduntil": "2025/26/2",
+        "BanReason": "Reason: Hard R"
     }
 }
