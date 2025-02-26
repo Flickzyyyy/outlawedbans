@@ -2878,5 +2878,9 @@
     "God202434252": {
         "banneduntil": "2027/5/5",
         "BanReason": "underage"
+    },
+    "Robert2105": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "RDM, evasion, RDM during admin sit"
     }
 }
