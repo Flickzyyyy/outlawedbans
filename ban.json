@@ -2886,5 +2886,9 @@
     "luca.424678": {
         "banneduntil": "2025/5/5",
         "BanReason": "Underage"
+    },
+    "Gongoboy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT (gongo1990 banned for soft a)"
     }
 }
