@@ -2918,5 +2918,9 @@
     "FREEBEE": {
         "banneduntil": "2025/3/14",
         "BanReason": "Mass RDM camping evasion"
+    },
+    "grapistjellybean": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt and f slur"
     }
 }
