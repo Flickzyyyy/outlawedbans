@@ -2926,5 +2926,9 @@
     "batman.357.2022": {
         "banneduntil": "2028/8/27",
         "BanReason": "Underage"
+    },
+    "Penny7613": {
+        "banneduntil": "2025/2/28",
+        "BanReason": "rdm"
     }
 }
