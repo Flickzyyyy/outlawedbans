@@ -2930,5 +2930,9 @@
     "Plutonium19": {
         "banneduntil": "2025/3/1",
         "BanReason": "RDM video report"
+    },
+    "watermelonqL": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "ReBan"
     }
 }
