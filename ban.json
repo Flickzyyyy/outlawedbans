@@ -2942,5 +2942,9 @@
     "OnwardChef": {
         "banneduntil": "2025/3/2",
         "BanReason": "Mass RDM"
+    },
+    "Skadaddle_skudoodle": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "Racial Remarks despite warnings"
     }
 }
