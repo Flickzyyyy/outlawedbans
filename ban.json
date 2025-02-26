@@ -2910,5 +2910,9 @@
     "BLUEINDAFACE": {
         "banneduntil": "2025/3/18",
         "BanReason": "F slur, Mass RDM"
+    },
+    "personna3": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "F slur, Hard R"
     }
 }
