@@ -2958,5 +2958,9 @@
     "rellikkyyzzz": {
         "banneduntil": "2025/3/2",
         "BanReason": "RDM evasion"
+    },
+    "EvanknightnotQ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
