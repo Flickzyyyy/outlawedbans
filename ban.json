@@ -2906,5 +2906,9 @@
     "BubonicKLL": {
         "banneduntil": "2025/3/30",
         "BanReason": "F-slur, Mass rdm, spawn camping,evasion, killing in a sit"
+    },
+    "BLUEINDAFACE": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "F slur, Mass RDM"
     }
 }
