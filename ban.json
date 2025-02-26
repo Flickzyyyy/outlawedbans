@@ -2898,9 +2898,5 @@
     "Formula.1Fan": {
         "banneduntil": "2099/1/1",
         "BanReason": "Reason: Hard R - correction from previous date"
-    },
-    "watermelonqL": {
-        "banneduntil": "2025/2/8",
-        "BanReason": "Mass RDM, evasion"
     }
 }
