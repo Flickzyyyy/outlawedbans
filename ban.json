@@ -2896,7 +2896,7 @@
         "BanReason": "Underage"
     },
     "Formula.1Fan": {
-        "banneduntil": "2025/26/2",
+        "banneduntil": "2099/26/2",
         "BanReason": "Reason: Hard R"
     }
 }
