@@ -2998,5 +2998,9 @@
     "Name: smellyfatfart": {
         "banneduntil": "Date: 2025/3/1",
         "BanReason": "Reason: RDM"
+    },
+    "thales1234": {
+        "banneduntil": "2025/3/7",
+        "BanReason": "Rdm with warning"
     }
 }
