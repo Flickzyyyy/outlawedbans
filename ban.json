@@ -2994,5 +2994,9 @@
     "ruzzex9618": {
         "banneduntil": "2025/3/13",
         "BanReason": "Mass RDM, Mass RDM during sit, evasion, cop targetting - Reban"
+    },
+    "Name: smellyfatfart": {
+        "banneduntil": "Date: 2025/3/1",
+        "BanReason": "Reason: RDM"
     }
 }
