@@ -2998,5 +2998,9 @@
     "EEBEEF": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Kingdih": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt mass RDM"
     }
 }
