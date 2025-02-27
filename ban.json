@@ -2994,5 +2994,9 @@
     "Evanknightnotqh": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "EEBEEF": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
