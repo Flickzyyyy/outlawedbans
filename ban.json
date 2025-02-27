@@ -2994,5 +2994,9 @@
     "russex9618": {
         "banneduntil": "2028/3/10",
         "BanReason": "Mass RDM, killed admin during sit, evasion during sit"
+    },
+    "ruzzex9618": {
+        "banneduntil": "2028/3/10",
+        "BanReason": "Mass RDM, killed admin during sit, evasion during sit"
     }
 }
