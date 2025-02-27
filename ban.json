@@ -2978,5 +2978,9 @@
     "Name: Kaidin2009": {
         "banneduntil": "Date: 2025/3/2",
         "BanReason": "Reason: RDM/ cop targeting"
+    },
+    "LxndoGxmes": {
+        "banneduntil": "2025/3/13",
+        "BanReason": "Soft A"
     }
 }
