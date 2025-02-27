@@ -2978,5 +2978,9 @@
     "Moscamuerta": {
         "banneduntil": "2025/3/2",
         "BanReason": "Underage turning 13 this sunday"
+    },
+    "Frazio": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard R F slur"
     }
 }
