@@ -2974,5 +2974,9 @@
     "Name: ItsSuperMax03": {
         "banneduntil": "Date 2026/3/3",
         "BanReason": "Reason: underage, also evaded the admin sit"
+    },
+    "FoggyMist399": {
+        "banneduntil": "2035/3/1",
+        "BanReason": "Rdm, evasion"
     }
 }
