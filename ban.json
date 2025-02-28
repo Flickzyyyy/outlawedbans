@@ -3046,5 +3046,9 @@
     "ilias.308": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Williamfinklebob": {
+        "banneduntil": "2025/3/3",
+        "BanReason": "RDM"
     }
 }
