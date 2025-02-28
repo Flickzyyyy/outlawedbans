@@ -3006,5 +3006,9 @@
     "ZodiacLovesRevolvers": {
         "banneduntil": "2025/3/8",
         "BanReason": "Admin evasion+RDM"
+    },
+    "Wizardofcheese2023": {
+        "banneduntil": "2025/3/14",
+        "BanReason": "mass rdm"
     }
 }
