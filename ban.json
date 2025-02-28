@@ -3026,5 +3026,9 @@
     "MythVR_2024": {
         "banneduntil": "2025/3/2",
         "BanReason": "rdm"
+    },
+    "jahhobie": {
+        "banneduntil": "2025/3/7",
+        "BanReason": "camping gun store"
     }
 }
