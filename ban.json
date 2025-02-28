@@ -3062,5 +3062,9 @@
     "H3YD4DDY": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Convict1053": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underage"
     }
 }
