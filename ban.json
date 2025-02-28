@@ -3034,5 +3034,9 @@
     "wa_ss95": {
         "banneduntil": "2025/3/4",
         "BanReason": "Rdm, evasion"
+    },
+    "mmest933": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "mass rdm and evasion"
     }
 }
