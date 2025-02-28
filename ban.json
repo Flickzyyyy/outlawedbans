@@ -3022,5 +3022,9 @@
     "zodiacluvsrevolvers": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "MythVR_2024": {
+        "banneduntil": "2025/3/2",
+        "BanReason": "rdm"
     }
 }
