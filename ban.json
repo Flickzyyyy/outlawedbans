@@ -3082,5 +3082,9 @@
     "fazekittenluver": {
         "banneduntil": "2025/3/3",
         "BanReason": "RDM evasion"
+    },
+    "46251": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "mass rdm"
     }
 }
