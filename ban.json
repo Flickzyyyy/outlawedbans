@@ -3030,5 +3030,9 @@
     "MonkeyMan.1": {
         "banneduntil": "2025/3/10",
         "BanReason": "rdm and evasion"
+    },
+    "wa_ss95": {
+        "banneduntil": "2025/3/4",
+        "BanReason": "Rdm, evasion"
     }
 }
