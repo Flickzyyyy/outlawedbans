@@ -3042,5 +3042,9 @@
     "VrakTheConquerer": {
         "banneduntil": "2025/3/13",
         "BanReason": "Sexual Acts on a Minor"
+    },
+    "ilias.308": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
