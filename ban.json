@@ -3066,5 +3066,9 @@
     "jaggfurr": {
         "banneduntil": "2027/3/27",
         "BanReason": "Underage"
+    },
+    "Frier1": {
+        "banneduntil": "2025/3/13",
+        "BanReason": "Admitting and reports of mass rdming and kill feeds check out"
     }
 }
