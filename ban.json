@@ -3002,5 +3002,9 @@
     "ItsSuperMax03": {
         "banneduntil": "2025/3/2",
         "BanReason": "Evasion"
+    },
+    "ZodiacLovesRevolvers": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "Admin evasion+RDM"
     }
 }
