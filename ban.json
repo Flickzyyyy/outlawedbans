@@ -3034,5 +3034,9 @@
     "mlkburner": {
         "banneduntil": "2025/3/15",
         "BanReason": "Mass rdm in spawn and outside of it"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2000/2/10",
+        "BanReason": "Reduction"
     }
 }
