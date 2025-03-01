@@ -3038,5 +3038,9 @@
     "deebizkit": {
         "banneduntil": "2025/3/3",
         "BanReason": "cop targeting/ killed a cop immediately after warning"
+    },
+    "Skiddlz711": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "RDM/cop targeting"
     }
 }
