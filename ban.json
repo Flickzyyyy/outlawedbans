@@ -3066,5 +3066,9 @@
     "rick124657": {
         "banneduntil": "2026/2/18",
         "BanReason": "unerage"
+    },
+    "SLIMEBALLSACK": {
+        "banneduntil": "2025/3/3",
+        "BanReason": "RDM"
     }
 }
