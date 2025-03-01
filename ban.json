@@ -3026,5 +3026,9 @@
     "GreatRex65": {
         "banneduntil": "2025/3/6",
         "BanReason": "Rdm and evasion"
+    },
+    "juststoptrying": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "Cop Targeting"
     }
 }
