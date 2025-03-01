@@ -3098,5 +3098,9 @@
     "bud_light": {
         "banneduntil": "2025/3/12",
         "BanReason": "Cop targeting,Rdm, evasion"
+    },
+    "indianburnvictim": {
+        "banneduntil": "2025/3/4",
+        "BanReason": "Cop Targeting"
     }
 }
