@@ -3066,5 +3066,9 @@
     "Convict1053": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underage"
+    },
+    "anarack.2024": {
+        "banneduntil": "2025/3/4",
+        "BanReason": "RDM evasion"
     }
 }
