@@ -3078,5 +3078,9 @@
     "FALLOTARMY|": {
         "banneduntil": "2025/3/15",
         "BanReason": "F Slu (saw on Droids Live/)"
+    },
+    "Soviet.Onion1": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "Soft A (saw on Droids Live/)"
     }
 }
