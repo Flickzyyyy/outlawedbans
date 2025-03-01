@@ -3016,7 +3016,7 @@
         "BanReason": "Evasaion"
     },
     "jwecker": {
-        "banneduntil": "2027/4/28",
-        "BanReason": "underage"
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage"
     }
 }
