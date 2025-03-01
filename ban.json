@@ -3086,5 +3086,9 @@
     "jameshairline": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt and hard r"
+    },
+    "unbannable123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
