@@ -3034,5 +3034,9 @@
     "mlkburner": {
         "banneduntil": "2025/3/15",
         "BanReason": "Mass rdm in spawn and outside of it"
+    },
+    "deebizkit": {
+        "banneduntil": "2025/3/3",
+        "BanReason": "cop targeting/ killed a cop immediately after warning"
     }
 }
