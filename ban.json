@@ -3070,5 +3070,9 @@
     "SLIMEBALLSACK": {
         "banneduntil": "2025/3/3",
         "BanReason": "RDM"
+    },
+    "countryboyforever": {
+        "banneduntil": "2025/3/3",
+        "BanReason": "RDM"
     }
 }
