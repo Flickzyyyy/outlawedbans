@@ -3094,5 +3094,9 @@
     "Supertrooper3602.0": {
         "banneduntil": "2025/3/8",
         "BanReason": "Evasion and rdm"
+    },
+    "bud_light": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "Cop targeting,Rdm, evasion"
     }
 }
