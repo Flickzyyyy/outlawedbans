@@ -3014,5 +3014,9 @@
     "jfamilyquest": {
         "banneduntil": "2025/3/5",
         "BanReason": "Evasaion"
+    },
+    "jwecker": {
+        "banneduntil": "2027/4/28",
+        "BanReason": "underage"
     }
 }
