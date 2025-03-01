@@ -3090,5 +3090,9 @@
     "unbannable123": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Supertrooper3602.0": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "Evasion and rdm"
     }
 }
