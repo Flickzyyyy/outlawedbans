@@ -3054,5 +3054,9 @@
     "skidmarkbandit": {
         "banneduntil": "2025/3/9",
         "BanReason": "rdm report and evasion"
+    },
+    "TopGsmurf69": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "Soft A (saw on Droids Live/)"
     }
 }
