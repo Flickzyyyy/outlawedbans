@@ -3050,5 +3050,9 @@
     "Noble_six6": {
         "banneduntil": "2025/3/9",
         "BanReason": "cop targeting after warning and evasion"
+    },
+    "skidmarkbandit": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "rdm report and evasion"
     }
 }
