@@ -3090,5 +3090,9 @@
     "joshuacock": {
         "banneduntil": "2025/3/26",
         "BanReason": "f slur and camping"
+    },
+    "putfrieindabag": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
