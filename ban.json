@@ -3074,5 +3074,9 @@
     "RothchildDescendant": {
         "banneduntil": "2025/3/11",
         "BanReason": "RDM evasion"
+    },
+    "Trunkler64": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "mass RDM cop targeting spine camping evasion"
     }
 }
