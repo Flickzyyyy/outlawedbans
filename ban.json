@@ -3102,5 +3102,9 @@
     "Littledaddymac": {
         "banneduntil": "2025/3/5",
         "BanReason": "Cop Targeting"
+    },
+    "Marines_guy": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "evasion"
     }
 }
