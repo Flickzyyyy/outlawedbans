@@ -3078,5 +3078,9 @@
     "Trunkler64": {
         "banneduntil": "2025/3/25",
         "BanReason": "mass RDM cop targeting spine camping evasion"
+    },
+    "jamieshairline": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt and hard r"
     }
 }
