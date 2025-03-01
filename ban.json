@@ -3114,5 +3114,9 @@
     "tuff045": {
         "banneduntil": "2025/3/5",
         "BanReason": "evasion"
+    },
+    "ThatVRPlayer": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "sexual remarks"
     }
 }
