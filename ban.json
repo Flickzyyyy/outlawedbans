@@ -3018,5 +3018,9 @@
     "jwecker": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage"
+    },
+    "PizzaGuy21": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "Evasion and Cop Targeting"
     }
 }
