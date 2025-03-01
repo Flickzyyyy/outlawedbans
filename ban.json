@@ -3116,8 +3116,8 @@
         "BanReason": "evasion"
     },
     "ThatVRPlayer": {
-        "banneduntil": "2000/1/1",
-        "BanReason": "Unban"
+        "banneduntil": "2025/3/15",
+        "BanReason": "sexual remarks"
     },
     "HARRISSAB": {
         "banneduntil": "2025/3/9",
@@ -3126,5 +3126,9 @@
     "Yungkyle": {
         "banneduntil": "Mass rdm",
         "BanReason": "2025/3/8"
+    },
+    "Bro1230": {
+        "banneduntil": "2025/3/11",
+        "BanReason": "RDM + Evasion"
     }
 }
