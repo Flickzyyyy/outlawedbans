@@ -3086,5 +3086,9 @@
     "FALLOTARMY": {
         "banneduntil": "2025/3/8",
         "BanReason": "Camping and Evasion"
+    },
+    "joshuacock": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "f slur and camping"
     }
 }
