@@ -3036,7 +3036,7 @@
         "BanReason": "Mass rdm in spawn and outside of it"
     },
     "Battle.Droid": {
-        "banneduntil": "2025/3/2",
-        "BanReason": "Fatty"
+        "banneduntil": "2000/2/10",
+        "BanReason": "Reduction"
     }
 }
