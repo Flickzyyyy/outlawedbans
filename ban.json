@@ -3074,5 +3074,9 @@
     "countryboyforever": {
         "banneduntil": "2025/3/3",
         "BanReason": "RDM"
+    },
+    "FALLOTARMY|": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "F Slu (saw on Droids Live/)"
     }
 }
