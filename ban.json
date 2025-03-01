@@ -3030,5 +3030,9 @@
     "juststoptrying": {
         "banneduntil": "2025/3/5",
         "BanReason": "Cop Targeting"
+    },
+    "mlkburner": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "Mass rdm in spawn and outside of it"
     }
 }
