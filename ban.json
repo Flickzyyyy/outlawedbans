@@ -3106,5 +3106,9 @@
     "Marines_guy": {
         "banneduntil": "2025/3/5",
         "BanReason": "evasion"
+    },
+    "sam2023": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "rdm and evasion"
     }
 }
