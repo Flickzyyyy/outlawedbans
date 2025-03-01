@@ -3110,5 +3110,9 @@
     "sam2023": {
         "banneduntil": "2025/3/9",
         "BanReason": "rdm and evasion"
+    },
+    "tuff045": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "evasion"
     }
 }
