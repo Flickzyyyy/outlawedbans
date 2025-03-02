@@ -3174,5 +3174,9 @@
     "ihateflixxy": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "themonsterzay": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hacker"
     }
 }
