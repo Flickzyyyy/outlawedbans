@@ -3130,5 +3130,9 @@
     "soggybred6.7": {
         "banneduntil": "2099/1/1",
         "BanReason": "RDM"
+    },
+    "username1234567812": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "admitting to hard r and alt"
     }
 }
