@@ -3162,5 +3162,9 @@
     "evilsodadude": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underage no date given"
+    },
+    "6the.spot9": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "Underage"
     }
 }
