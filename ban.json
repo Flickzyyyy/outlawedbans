@@ -3138,5 +3138,9 @@
     "luckytrucks": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "andreamcappelli": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "Admin evasion and RDM and cop targeting"
     }
 }
