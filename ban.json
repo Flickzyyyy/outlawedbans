@@ -3166,5 +3166,9 @@
     "6the.spot9": {
         "banneduntil": "2025/3/21",
         "BanReason": "Underage"
+    },
+    "AceOfSp3ds": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "Rdm with MANY warnings"
     }
 }
