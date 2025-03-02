@@ -3154,5 +3154,9 @@
     "popoutatoneinthemorning": {
         "banneduntil": "2099/3/15",
         "BanReason": "F Slur + Alt"
+    },
+    "theycallmebutter": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underage"
     }
 }
