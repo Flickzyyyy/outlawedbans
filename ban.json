@@ -3142,5 +3142,9 @@
     "KatD45": {
         "banneduntil": "2027/3/4",
         "BanReason": "Underage and Evasion"
+    },
+    "bc.games": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "RDM"
     }
 }
