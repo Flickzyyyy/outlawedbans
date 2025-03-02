@@ -3158,5 +3158,9 @@
     "theycallmebutter": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underage"
+    },
+    "BOOGERBEAR": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "Underage"
     }
 }
