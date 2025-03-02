@@ -3142,5 +3142,9 @@
     "andreamcappelli": {
         "banneduntil": "2025/3/12",
         "BanReason": "Admin evasion and RDM and cop targeting"
+    },
+    "badboy-billybones": {
+        "banneduntil": "2025/3/16",
+        "BanReason": "Sexual remarks"
     }
 }
