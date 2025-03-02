@@ -3138,5 +3138,9 @@
     "kermit124": {
         "banneduntil": "2026/12/1",
         "BanReason": "underage"
+    },
+    "cOOp3rH": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "unban"
     }
 }
