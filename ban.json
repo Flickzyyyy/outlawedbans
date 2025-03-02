@@ -3158,5 +3158,9 @@
     "ihatedex": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "evilsodadude": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underage no date given"
     }
 }
