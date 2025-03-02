@@ -3190,5 +3190,9 @@
     "lCreditl": {
         "banneduntil": "2025/3/10",
         "BanReason": "Evasion and Cop Targeting"
+    },
+    "SKEEDERD": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "RDM"
     }
 }
