@@ -3126,5 +3126,9 @@
     "themonsterzay": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hacker"
+    },
+    "soggybred6.7": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "RDM"
     }
 }
