@@ -3138,5 +3138,9 @@
     "kermit124": {
         "banneduntil": "2026/12/1",
         "BanReason": "underage"
+    },
+    "KatD45": {
+        "banneduntil": "2027/3/4",
+        "BanReason": "Underage and Evasion"
     }
 }
