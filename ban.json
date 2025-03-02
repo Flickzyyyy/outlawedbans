@@ -3134,5 +3134,9 @@
     "Miami9009": {
         "banneduntil": "2025/3/15",
         "BanReason": "Mass RDM + Evasion"
+    },
+    "kermit124": {
+        "banneduntil": "2026/12/1",
+        "BanReason": "underage"
     }
 }
