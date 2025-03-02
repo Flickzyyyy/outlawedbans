@@ -3154,5 +3154,9 @@
     "blackmonkeyanthony": {
         "banneduntil": "2099/1/1",
         "BanReason": "Derog user, please change before playing again"
+    },
+    "ihatedex": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
