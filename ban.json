@@ -3166,5 +3166,9 @@
     "Turtle_07": {
         "banneduntil": "2025/3/5",
         "BanReason": "RDM"
+    },
+    "ihatedex777": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
