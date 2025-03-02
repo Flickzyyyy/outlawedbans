@@ -3150,5 +3150,9 @@
     "plsdiedex": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "popoutatoneinthemorning": {
+        "banneduntil": "2099/3/15",
+        "BanReason": "F Slur + Alt"
     }
 }
