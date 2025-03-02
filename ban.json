@@ -3178,5 +3178,9 @@
     "themonsterzay": {
         "banneduntil": "2099/1/1",
         "BanReason": "hacker"
+    },
+    "Thaskibitistguy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hacker"
     }
 }
