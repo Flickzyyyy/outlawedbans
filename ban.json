@@ -3186,5 +3186,9 @@
     "oliverclosof": {
         "banneduntil": "2025/3/8",
         "BanReason": "Cop targeting/ RDM report"
+    },
+    "|Credit|": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "Evasion and Cop Targeting"
     }
 }
