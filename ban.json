@@ -3230,5 +3230,9 @@
     "Dattle": {
         "banneduntil": "2025/3/5",
         "BanReason": "rdm"
+    },
+    "tinker0257": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "rdm"
     }
 }
