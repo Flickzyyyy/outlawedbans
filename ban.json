@@ -3190,5 +3190,9 @@
     "MintLake25": {
         "banneduntil": "2025/3/10",
         "BanReason": "rdm and evasion"
+    },
+    "No_friends_yodo": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "Cop Targeting and Rdm with multiple warnings on cop targeting"
     }
 }
