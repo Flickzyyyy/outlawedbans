@@ -3246,5 +3246,9 @@
     "OceanXD": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r and F slur"
+    },
+    "thraggwithanf": {
+        "banneduntil": "2025/3/28",
+        "BanReason": "F slur and Rdm"
     }
 }
