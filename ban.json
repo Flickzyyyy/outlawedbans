@@ -3254,5 +3254,9 @@
     "RUMBDETARD": {
         "banneduntil": "2025/4/2",
         "BanReason": "F slur and mass rdm in spawn"
+    },
+    "imdumn.467310": {
+        "banneduntil": "2025/3/24",
+        "BanReason": "F slur"
     }
 }
