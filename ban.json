@@ -3250,5 +3250,9 @@
     "thraggwithanf": {
         "banneduntil": "2025/3/28",
         "BanReason": "F slur and Rdm"
+    },
+    "RUMBDETARD": {
+        "banneduntil": "2025/4/2",
+        "BanReason": "F slur and mass rdm in spawn"
     }
 }
