@@ -3234,5 +3234,9 @@
     "micgriddle": {
         "banneduntil": "2025/3/4",
         "BanReason": "RDM"
+    },
+    "MintLake25": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "rdm and evasion"
     }
 }
