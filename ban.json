@@ -3210,5 +3210,9 @@
     "kIngcrImson": {
         "banneduntil": "2025/3/4",
         "BanReason": "Sucude abuse"
+    },
+    "Notlaurence": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "rdm evasion"
     }
 }
