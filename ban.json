@@ -3198,5 +3198,9 @@
     "MythVR_2024": {
         "banneduntil": "2025/3/6",
         "BanReason": "RDM"
+    },
+    "Chiko15": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "RDM"
     }
 }
