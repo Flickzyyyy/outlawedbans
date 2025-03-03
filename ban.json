@@ -3202,5 +3202,9 @@
     "Chiko15": {
         "banneduntil": "2025/3/6",
         "BanReason": "RDM"
+    },
+    "Bible.Camp.Victim. 1": {
+        "banneduntil": "2025/3/16",
+        "BanReason": "Sexual Remark"
     }
 }
