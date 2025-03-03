@@ -3218,5 +3218,9 @@
     "lucas.850189": {
         "banneduntil": "2025/6/4",
         "BanReason": "underage"
+    },
+    "Biggie_Cheesie": {
+        "banneduntil": "2025/3/14",
+        "BanReason": "Mass RDM, evasion"
     }
 }
