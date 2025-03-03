@@ -3210,5 +3210,9 @@
     "Boundful": {
         "banneduntil": "2025/3/16",
         "BanReason": "Racist Remarks"
+    },
+    "Prof6tVR": {
+        "banneduntil": "2099/1/23",
+        "BanReason": "Hard r and soft a"
     }
 }
