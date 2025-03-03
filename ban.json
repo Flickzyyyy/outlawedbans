@@ -3214,5 +3214,9 @@
     "Notlaurence": {
         "banneduntil": "2025/3/5",
         "BanReason": "rdm evasion"
+    },
+    "lucas.850189": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "underage"
     }
 }
