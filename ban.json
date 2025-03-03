@@ -3238,5 +3238,9 @@
     "Traviskill1": {
         "banneduntil": "2025/3/21",
         "BanReason": "N word and evasion"
+    },
+    "ZX_DRIZZY": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
