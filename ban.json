@@ -3226,5 +3226,9 @@
     "mariyan1005": {
         "banneduntil": "2025/3/17",
         "BanReason": "Soft Ax2"
+    },
+    "Dattle": {
+        "banneduntil": "2025/3/5",
+        "BanReason": "rdm"
     }
 }
