@@ -3230,5 +3230,9 @@
     "Xavier.808": {
         "banneduntil": "2025/3/10",
         "BanReason": "rdm and evasion"
+    },
+    "micgriddle": {
+        "banneduntil": "2025/3/4",
+        "BanReason": "RDM"
     }
 }
