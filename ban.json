@@ -3194,5 +3194,9 @@
     "SKEEDERD": {
         "banneduntil": "2025/3/6",
         "BanReason": "RDM"
+    },
+    "MythVR_2024": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "RDM"
     }
 }
