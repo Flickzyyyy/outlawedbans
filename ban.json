@@ -3270,5 +3270,9 @@
     "mee2": {
         "banneduntil": "2027/2/2",
         "BanReason": "Underage"
+    },
+    "FiveDollarYo": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "Evasion and selling slaves added one day"
     }
 }
