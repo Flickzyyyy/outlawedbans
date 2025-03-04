@@ -3290,5 +3290,9 @@
     "DBhill": {
         "banneduntil": "2025/3/15",
         "BanReason": "Rdm,Cop targeting, Evasion"
+    },
+    "cheese3213": {
+        "banneduntil": "2025/3/24",
+        "BanReason": "soft a equivalent, evasion"
     }
 }
