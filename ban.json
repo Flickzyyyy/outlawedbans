@@ -3282,5 +3282,9 @@
     "Enzapa": {
         "banneduntil": "2028/8/4",
         "BanReason": "under age"
+    },
+    "bokbok11": {
+        "banneduntil": "2025/3/14",
+        "BanReason": "cop targeting  evasion"
     }
 }
