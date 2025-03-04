@@ -3262,5 +3262,9 @@
     "Kaidin2009": {
         "banneduntil": "2025/3/25",
         "BanReason": "Soft A"
+    },
+    "pax25": {
+        "banneduntil": "2027/4/1",
+        "BanReason": "under age"
     }
 }
