@@ -3266,5 +3266,9 @@
     "pax25": {
         "banneduntil": "2027/4/1",
         "BanReason": "under age"
+    },
+    "PianoGuy124": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "RDM, cop target, left during admin sit"
     }
 }
