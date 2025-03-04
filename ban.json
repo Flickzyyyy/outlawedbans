@@ -3274,5 +3274,9 @@
     "FiveDollarYo": {
         "banneduntil": "2025/3/14",
         "BanReason": "Evasion and selling slaves added one week"
+    },
+    "kiwi_the_Laginator": {
+        "banneduntil": "2025/3/11",
+        "BanReason": "Cop targeting and evasion"
     }
 }
