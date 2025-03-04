@@ -3298,5 +3298,9 @@
     "CommaCrow": {
         "banneduntil": "2025/3/7",
         "BanReason": "RDM after warning and left."
+    },
+    "coolkid10101010100": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "Asian slur"
     }
 }
