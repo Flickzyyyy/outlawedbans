@@ -3266,5 +3266,9 @@
     "niel5em": {
         "banneduntil": "2099/1/1",
         "BanReason": "Erotic comments"
+    },
+    "mee2": {
+        "banneduntil": "2027/2/2",
+        "BanReason": "Underage"
     }
 }
