@@ -3294,5 +3294,9 @@
     "cheese3213": {
         "banneduntil": "2025/3/24",
         "BanReason": "soft a equivalent, evasion"
+    },
+    "CommaCrow": {
+        "banneduntil": "2025/3/7",
+        "BanReason": "RDM after warning and left."
     }
 }
