@@ -3274,5 +3274,9 @@
     "kIngcrImson": {
         "banneduntil": "2025/3/12",
         "BanReason": "RDM, keeps going away during admin sit"
+    },
+    "klngcrlmson": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "RDM, keeps leaving during admin sit"
     }
 }
