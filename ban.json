@@ -3298,5 +3298,9 @@
     "badassdad55": {
         "banneduntil": "2026/11/22",
         "BanReason": "Underage"
+    },
+    "d-man062308": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "RDM/ left after warning"
     }
 }
