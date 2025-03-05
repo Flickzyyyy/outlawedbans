@@ -3242,5 +3242,9 @@
     "nitrousmicrowav": {
         "banneduntil": "2025/3/21",
         "BanReason": "F-slur/RDM With evidence in my log"
+    },
+    "jeep.man2099": {
+        "banneduntil": "2025/3/19",
+        "BanReason": "F slur"
     }
 }
