@@ -3234,5 +3234,9 @@
     "d-man062308": {
         "banneduntil": "2025/3/8",
         "BanReason": "RDM/ left after warning"
+    },
+    "KidChoas80": {
+        "banneduntil": "2025/3/30",
+        "BanReason": "RDM camping F slur"
     }
 }
