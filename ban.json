@@ -3282,5 +3282,9 @@
     "tbot807": {
         "banneduntil": "2025/3/12",
         "BanReason": "RDM, Cop targeting inappropriate behaviour"
+    },
+    "Larryrb": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "rdm and evasion"
     }
 }
