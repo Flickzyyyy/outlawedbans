@@ -3238,5 +3238,9 @@
     "KidChoas80": {
         "banneduntil": "2025/3/30",
         "BanReason": "RDM camping F slur"
+    },
+    "nitrousmicrowav": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "F-slur/RDM With evidence in my log"
     }
 }
