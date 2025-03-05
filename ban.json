@@ -3286,5 +3286,9 @@
     "Larryrb": {
         "banneduntil": "2025/3/8",
         "BanReason": "rdm and evasion"
+    },
+    "Theronius.2024": {
+        "banneduntil": "2026/3/4",
+        "BanReason": "Underage"
     }
 }
