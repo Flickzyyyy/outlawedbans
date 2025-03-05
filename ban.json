@@ -3270,5 +3270,9 @@
     "PianoGuy124": {
         "banneduntil": "2025/3/12",
         "BanReason": "RDM, cop target, left during admin sit"
+    },
+    "kIngcrImson": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "RDM, keeps going away during admin sit"
     }
 }
