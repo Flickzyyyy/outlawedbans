@@ -3230,5 +3230,9 @@
     "Titan78DC": {
         "banneduntil": "2025/3/24",
         "BanReason": "F slur and Evasion"
+    },
+    "jewish.spike": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "F slur  mass RDM band evasion"
     }
 }
