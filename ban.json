@@ -3258,5 +3258,9 @@
     "Outlaw.Rdr": {
         "banneduntil": "2026/7/9",
         "BanReason": "underage"
+    },
+    "PeterButtPlug": {
+        "banneduntil": "2025/3/9",
+        "BanReason": "rdm"
     }
 }
