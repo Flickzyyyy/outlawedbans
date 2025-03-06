@@ -3274,5 +3274,9 @@
     "@Theronius.2024": {
         "banneduntil": "2025/3/15",
         "BanReason": "Underage re-ban"
+    },
+    "UpalGnom": {
+        "banneduntil": "2025/3/13",
+        "BanReason": "Mass Rdm"
     }
 }
