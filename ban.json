@@ -3242,5 +3242,9 @@
     "CoastieKing": {
         "banneduntil": "2025/3/13",
         "BanReason": "Camping Clip"
+    },
+    "MaximumGamesta": {
+        "banneduntil": "2025/3/20",
+        "BanReason": "R slur"
     }
 }
