@@ -3282,5 +3282,9 @@
     "Firefrog6": {
         "banneduntil": "2025/3/10",
         "BanReason": "RDM/Evasion"
+    },
+    "mongo5225": {
+        "banneduntil": "2027/7/16",
+        "BanReason": "underage"
     }
 }
