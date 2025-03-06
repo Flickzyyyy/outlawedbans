@@ -3234,5 +3234,9 @@
     "jewish.spike": {
         "banneduntil": "2099/1/1",
         "BanReason": "F slur  mass RDM band evasion"
+    },
+    "MVPDECOR.COM": {
+        "banneduntil": "2025/3/13",
+        "BanReason": "Camping Clip"
     }
 }
