@@ -3254,5 +3254,9 @@
     "OutlawRdr": {
         "banneduntil": "2026/7/9",
         "BanReason": "underage"
+    },
+    "Outlaw.Rdr": {
+        "banneduntil": "2026/7/9",
+        "BanReason": "underage"
     }
 }
