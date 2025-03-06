@@ -3278,5 +3278,9 @@
     "UpalGnom": {
         "banneduntil": "2025/3/13",
         "BanReason": "Mass Rdm"
+    },
+    "Firefrog6": {
+        "banneduntil": "2025/3/10",
+        "BanReason": "RDM/Evasion"
     }
 }
