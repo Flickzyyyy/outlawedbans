@@ -3246,5 +3246,9 @@
     "MaximumGamesta": {
         "banneduntil": "2025/3/20",
         "BanReason": "R slur"
+    },
+    "Eficgamer": {
+        "banneduntil": "3025/3/11",
+        "BanReason": "RDM evasion, despite warning"
     }
 }
