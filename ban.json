@@ -3250,5 +3250,9 @@
     "Olive_Munchcock": {
         "banneduntil": "2025/3/19",
         "BanReason": "F slur"
+    },
+    "OutlawRdr": {
+        "banneduntil": "2026/7/9",
+        "BanReason": "underage"
     }
 }
