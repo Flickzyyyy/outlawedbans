@@ -3214,5 +3214,9 @@
     "irishx10": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "rickgrimes_10": {
+        "banneduntil": "2025/3/13",
+        "BanReason": "rdm evasion"
     }
 }
