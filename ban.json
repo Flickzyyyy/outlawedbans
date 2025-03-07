@@ -3262,5 +3262,9 @@
     "171818385875212": {
         "banneduntil": "2028/3/11",
         "BanReason": "uneerage evasion"
+    },
+    "Kman231123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "perm"
     }
 }
