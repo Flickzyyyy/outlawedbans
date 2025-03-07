@@ -3230,5 +3230,9 @@
     "wilioso": {
         "banneduntil": "2027/3/7",
         "BanReason": "underage"
+    },
+    "footmilk": {
+        "banneduntil": "2025/03/11",
+        "BanReason": "RDM"
     }
 }
