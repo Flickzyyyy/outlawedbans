@@ -3238,5 +3238,9 @@
     "thepennymeister": {
         "banneduntil": "2025/3/12",
         "BanReason": "coo targeting"
+    },
+    "MythVR_2024": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "cop targeting"
     }
 }
