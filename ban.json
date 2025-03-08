@@ -3266,5 +3266,9 @@
     "jgcmh": {
         "banneduntil": "2025/3/22",
         "BanReason": "sexual harassment"
+    },
+    "fatballs": {
+        "banneduntil": "2025/3/16",
+        "BanReason": "Evasion RDM"
     }
 }
