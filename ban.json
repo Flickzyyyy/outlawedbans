@@ -3270,5 +3270,9 @@
     "lilboss21pig3": {
         "banneduntil": "2099/3/3",
         "BanReason": "Alt"
+    },
+    "TheGreatCaptainCannon": {
+        "banneduntil": "2025/3/14",
+        "BanReason": "Mass RDM"
     }
 }
