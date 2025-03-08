@@ -3274,5 +3274,9 @@
     "fatbalIs": {
         "banneduntil": "2025/3/16",
         "BanReason": "Evasion, rdm"
+    },
+    "Doom.scare": {
+        "banneduntil": "2025/3/16",
+        "BanReason": "evasion, RDM"
     }
 }
