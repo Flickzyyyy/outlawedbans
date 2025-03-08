@@ -3254,5 +3254,9 @@
     "fisharcol": {
         "banneduntil": "2025/3/16",
         "BanReason": "RDM extension"
+    },
+    "bob444555677": {
+        "banneduntil": "2029/3/12",
+        "BanReason": "underage"
     }
 }
