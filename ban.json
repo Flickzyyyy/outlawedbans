@@ -3242,5 +3242,9 @@
     "MythVR_2024": {
         "banneduntil": "2025/3/12",
         "BanReason": "cop targeting"
+    },
+    "HerkimerMichael": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r ,RDM"
     }
 }
