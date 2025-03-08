@@ -3226,5 +3226,9 @@
     "LuigilnVegas": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r replacing i with e to \u201cnot be saying it\u201d"
+    },
+    "markismessil": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
