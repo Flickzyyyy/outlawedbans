@@ -3250,5 +3250,9 @@
     "reallycooldude": {
         "banneduntil": "2025/3/12",
         "BanReason": "RDM"
+    },
+    "fisharcol": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "RDM"
     }
 }
