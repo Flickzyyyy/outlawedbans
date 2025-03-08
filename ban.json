@@ -3230,5 +3230,9 @@
     "markismessil": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Tittletwister": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r RDM evasion"
     }
 }
