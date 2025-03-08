@@ -3242,5 +3242,9 @@
     "Will3308": {
         "banneduntil": "2025/3/8",
         "BanReason": "Joined back after a kick"
+    },
+    "MTChevy": {
+        "banneduntil": "2027/3/8",
+        "BanReason": "Underage"
     }
 }
