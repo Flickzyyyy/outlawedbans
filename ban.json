@@ -3294,5 +3294,9 @@
     "S2clexzo": {
         "banneduntil": "2025/3/15",
         "BanReason": "Abusing a bug"
+    },
+    "billybolts2": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "Camping, rdm"
     }
 }
