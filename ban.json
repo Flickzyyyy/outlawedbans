@@ -3278,5 +3278,9 @@
     "Doom.scare": {
         "banneduntil": "2025/3/16",
         "BanReason": "evasion, RDM"
+    },
+    "ZoeOnTheGo": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
