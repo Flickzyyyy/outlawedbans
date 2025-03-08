@@ -3246,5 +3246,9 @@
     "HerkimerMichael": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r ,RDM"
+    },
+    "reallycooldude": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "RDM"
     }
 }
