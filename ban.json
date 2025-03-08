@@ -3290,5 +3290,9 @@
     "Terpinoy_08": {
         "banneduntil": "2026/3/8",
         "BanReason": "Underage"
+    },
+    "S2clexzo": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "Abusing a bug"
     }
 }
