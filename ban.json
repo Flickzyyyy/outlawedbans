@@ -3262,5 +3262,9 @@
     "Epicprodude": {
         "banneduntil": "2025/3/18",
         "BanReason": "RDM + Evasion"
+    },
+    "Kermite146": {
+        "banneduntil": "2025/3/11",
+        "BanReason": "RDM"
     }
 }
