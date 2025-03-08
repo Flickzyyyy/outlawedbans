@@ -3254,5 +3254,9 @@
     "Jstdly": {
         "banneduntil": "2025/3/11",
         "BanReason": "RDM"
+    },
+    "tororosso": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "F Slur"
     }
 }
