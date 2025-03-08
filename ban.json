@@ -3270,5 +3270,9 @@
     "fatballs": {
         "banneduntil": "2025/3/16",
         "BanReason": "Evasion RDM"
+    },
+    "fatbalIs": {
+        "banneduntil": "2025/3/16",
+        "BanReason": "Evasion, rdm"
     }
 }
