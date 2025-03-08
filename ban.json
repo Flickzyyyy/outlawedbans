@@ -3234,5 +3234,9 @@
     "footmilk": {
         "banneduntil": "2025/03/11",
         "BanReason": "unban"
+    },
+    "Lilboot1": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "RDM + Evasion"
     }
 }
