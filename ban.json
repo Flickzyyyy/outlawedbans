@@ -3238,5 +3238,9 @@
     "Lilboot1": {
         "banneduntil": "2025/3/18",
         "BanReason": "RDM + Evasion"
+    },
+    "Will3308": {
+        "banneduntil": "2025/3/8",
+        "BanReason": "Joined back after a kick"
     }
 }
