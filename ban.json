@@ -3274,5 +3274,9 @@
     "TheGreatCaptainCannon": {
         "banneduntil": "2025/3/14",
         "BanReason": "Mass RDM"
+    },
+    "LuigilnVegas": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r replacing i with e to \u201cnot be saying it\u201d"
     }
 }
