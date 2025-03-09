@@ -3302,5 +3302,9 @@
     "djmugenergy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "00thatguy00": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "Cop Target + evadiing"
     }
 }
