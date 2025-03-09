@@ -3298,5 +3298,9 @@
     "fatazz23": {
         "banneduntil": "2025/3/23",
         "BanReason": "F slur"
+    },
+    "djmugenergy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
