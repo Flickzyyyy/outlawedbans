@@ -3274,5 +3274,9 @@
     "Lshel12": {
         "banneduntil": "2025/3/15",
         "BanReason": "underage"
+    },
+    "Lshel13": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "underage re ban"
     }
 }
