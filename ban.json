@@ -3298,5 +3298,9 @@
     "billybolts2": {
         "banneduntil": "2025/3/18",
         "BanReason": "Camping, rdm"
+    },
+    "Sazzy2_0": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "Mass RDM"
     }
 }
