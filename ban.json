@@ -3310,5 +3310,9 @@
     "RRAND0": {
         "banneduntil": "2025/3/21",
         "BanReason": "Cop Target + evadiing"
+    },
+    "imDj123": {
+        "banneduntil": "2027/3/11",
+        "BanReason": "underage"
     }
 }
