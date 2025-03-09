@@ -3270,5 +3270,9 @@
     "pas.375341": {
         "banneduntil": "2025/3/18",
         "BanReason": "Cop targeting, evasion"
+    },
+    "Lshel12": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "underage"
     }
 }
