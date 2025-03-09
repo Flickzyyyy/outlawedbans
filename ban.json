@@ -3266,5 +3266,9 @@
     "MrTwinkleFart": {
         "banneduntil": "2025/3/11",
         "BanReason": "Cop targeting"
+    },
+    "pas.375341": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "Cop targeting, evasion"
     }
 }
