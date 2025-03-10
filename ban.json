@@ -3286,5 +3286,9 @@
     "BP.Sprite22": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Mc.JiggleTit": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "Cop targeting/killing as soon as walk out (video report)"
     }
 }
