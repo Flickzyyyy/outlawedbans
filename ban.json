@@ -3342,5 +3342,9 @@
     "Clamp83": {
         "banneduntil": "2025/3/25",
         "BanReason": "f slur"
+    },
+    "teebanks": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "f slur"
     }
 }
