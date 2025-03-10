@@ -3282,5 +3282,9 @@
     "0_lil_frank_0": {
         "banneduntil": "2025/3/26",
         "BanReason": "Soft a equivalent/ evasion"
+    },
+    "BP.Sprite22": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
