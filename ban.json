@@ -3290,5 +3290,9 @@
     "Mc.JiggleTit": {
         "banneduntil": "2025/3/18",
         "BanReason": "Cop targeting/killing as soon as walk out (video report)"
+    },
+    "PurpleNurpler": {
+        "banneduntil": "2025/3/14",
+        "BanReason": "Cop targeting (video report)"
     }
 }
