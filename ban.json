@@ -3334,5 +3334,9 @@
     "Battle.Droid": {
         "banneduntil": "2025/3/16",
         "BanReason": "Camping Gun Store"
+    },
+    "JonesBois": {
+        "banneduntil": "2025/3/13",
+        "BanReason": "RDM"
     }
 }
