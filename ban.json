@@ -3298,5 +3298,9 @@
     "Jariel0831": {
         "banneduntil": "2025/3/18",
         "BanReason": "RDM/Camping gun store"
+    },
+    "Kafkaisque01": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "cop targeting, evading"
     }
 }
