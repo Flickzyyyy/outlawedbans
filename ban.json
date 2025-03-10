@@ -3330,5 +3330,9 @@
     "lacedwithagony": {
         "banneduntil": "2025/3/25",
         "BanReason": "Mass RDM + evading"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2025/3/16",
+        "BanReason": "Camping Gun Store"
     }
 }
