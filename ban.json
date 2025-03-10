@@ -3302,5 +3302,9 @@
     "Kafkaisque01": {
         "banneduntil": "2025/3/18",
         "BanReason": "cop targeting, evading"
+    },
+    "firebasher70": {
+        "banneduntil": "2025/3/14",
+        "BanReason": "RDM"
     }
 }
