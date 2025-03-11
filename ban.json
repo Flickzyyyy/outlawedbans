@@ -3298,5 +3298,9 @@
     "bigbeanbean5000": {
         "banneduntil": "2025/3/21",
         "BanReason": "RDM + Suicide Evading"
+    },
+    "Tizzo2k18": {
+        "banneduntil": "2025/3/6",
+        "BanReason": "RDM, Evasion"
     }
 }
