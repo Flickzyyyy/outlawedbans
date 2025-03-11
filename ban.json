@@ -3306,5 +3306,9 @@
     "whattheg34": {
         "banneduntil": "2025/3/14",
         "BanReason": "RDM video report"
+    },
+    "tabdacool": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "F Slur"
     }
 }
