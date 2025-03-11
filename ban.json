@@ -3318,5 +3318,9 @@
     "prison.warden": {
         "banneduntil": "2025/4/25",
         "BanReason": "Underage"
+    },
+    "d-man062308": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "Abusing bugs and Evasion"
     }
 }
