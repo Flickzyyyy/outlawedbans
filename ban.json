@@ -3310,5 +3310,9 @@
     "Bamber23": {
         "banneduntil": "2025/7/23",
         "BanReason": "Underage"
+    },
+    "nigboycheese": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "please change user."
     }
 }
