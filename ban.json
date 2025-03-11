@@ -3322,5 +3322,9 @@
     "Newports05": {
         "banneduntil": "2025/3/22",
         "BanReason": "RDM + Evading"
+    },
+    "shroomenthusiast3812": {
+        "banneduntil": "2025/3/15",
+        "BanReason": "RDM"
     }
 }
