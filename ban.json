@@ -3298,5 +3298,9 @@
     "bigbeanbean5000": {
         "banneduntil": "2025/3/21",
         "BanReason": "RDM + Suicide Evading"
+    },
+    "LiamA_05": {
+        "banneduntil": "2028/3/11",
+        "BanReason": "underage"
     }
 }
