@@ -3314,5 +3314,9 @@
     "GlowingFlamingo385": {
         "banneduntil": "2025/3/14",
         "BanReason": "RDM video report"
+    },
+    "Syzcer": {
+        "banneduntil": "2025/3/12",
+        "BanReason": "Suicide to Escape Cops"
     }
 }
