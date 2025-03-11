@@ -3310,5 +3310,9 @@
     "tabdacool": {
         "banneduntil": "2025/3/25",
         "BanReason": "F Slur"
+    },
+    "GlowingFlamingo385": {
+        "banneduntil": "2025/3/14",
+        "BanReason": "RDM video report"
     }
 }
