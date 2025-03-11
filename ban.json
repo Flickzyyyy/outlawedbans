@@ -3318,5 +3318,9 @@
     "Siracha1600": {
         "banneduntil": "2025/3/15",
         "BanReason": "RDM"
+    },
+    "Newports05": {
+        "banneduntil": "2025/3/22",
+        "BanReason": "RDM + Evading"
     }
 }
