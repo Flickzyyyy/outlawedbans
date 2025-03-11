@@ -3314,5 +3314,9 @@
     "nigboycheese": {
         "banneduntil": "2099/1/1",
         "BanReason": "please change user."
+    },
+    "prison.warden": {
+        "banneduntil": "2025/4/25",
+        "BanReason": "Underage"
     }
 }
