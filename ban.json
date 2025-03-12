@@ -3346,5 +3346,9 @@
     "E.S.L": {
         "banneduntil": "2025/3/26",
         "BanReason": "N word soft A"
+    },
+    "CinApple": {
+        "banneduntil": "2025/3/23",
+        "BanReason": "Evasion, Rdm."
     }
 }
