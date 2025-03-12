@@ -3338,5 +3338,9 @@
     "Ghostsaid": {
         "banneduntil": "2027/3/11",
         "BanReason": "underage, evasion"
+    },
+    "German_Duck31": {
+        "banneduntil": "2099/3/11",
+        "BanReason": "hard R"
     }
 }
