@@ -3342,5 +3342,9 @@
     "German_Duck31": {
         "banneduntil": "2099/3/11",
         "BanReason": "hard R"
+    },
+    "E.S.L": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "N word soft A"
     }
 }
