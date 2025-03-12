@@ -3326,5 +3326,9 @@
     "steph.vpx.Fr": {
         "banneduntil": "2025/3/18",
         "BanReason": "rdm evasion"
+    },
+    "ballon.373723": {
+        "banneduntil": "2025/3/23",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
