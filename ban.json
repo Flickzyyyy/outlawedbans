@@ -3322,5 +3322,9 @@
     "johnesyc": {
         "banneduntil": "2025/3/26",
         "BanReason": "mass RDM camping gun store"
+    },
+    "steph.vpx.Fr": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "rdm evasion"
     }
 }
