@@ -3298,5 +3298,9 @@
     "Kman321123": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "EpicPedik": {
+        "banneduntil": "2025/3/16",
+        "BanReason": "F-slur video in log"
     }
 }
