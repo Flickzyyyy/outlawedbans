@@ -3306,5 +3306,9 @@
     "Hitoshima": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "AceJnr__39": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "Rdm, evasion"
     }
 }
