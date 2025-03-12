@@ -3302,5 +3302,9 @@
     "EpicPedik": {
         "banneduntil": "2025/3/16",
         "BanReason": "F-slur video in log"
+    },
+    "Hitoshima": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
