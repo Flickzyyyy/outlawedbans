@@ -3330,5 +3330,9 @@
     "ballon.373723": {
         "banneduntil": "2025/3/23",
         "BanReason": "Mass RDM, Evasion"
+    },
+    "dexter15235": {
+        "banneduntil": "2027/9/16",
+        "BanReason": "Underage"
     }
 }
