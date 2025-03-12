@@ -3334,5 +3334,9 @@
     "soul.vibe": {
         "banneduntil": "2025/3/15",
         "BanReason": "RDM"
+    },
+    "Evanknight244": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
