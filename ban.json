@@ -3326,5 +3326,9 @@
     "PatrykHryniewicki": {
         "banneduntil": "2099/3/12",
         "BanReason": "N-Word"
+    },
+    "LuigiInVegas": {
+        "banneduntil": "2025/3/17",
+        "BanReason": "RDM"
     }
 }
