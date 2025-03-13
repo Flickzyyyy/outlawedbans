@@ -3390,5 +3390,9 @@
     "outburst_1": {
         "banneduntil": "2025/3/26",
         "BanReason": "F slur"
+    },
+    "Xverse17": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "Mass RDM"
     }
 }
