@@ -3394,5 +3394,9 @@
     "Xverse17": {
         "banneduntil": "2025/3/25",
         "BanReason": "Mass RDM"
+    },
+    "Cpt-price-.": {
+        "banneduntil": "2025/3/27",
+        "BanReason": "Soft A, RDM"
     }
 }
