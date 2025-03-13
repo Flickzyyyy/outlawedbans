@@ -3330,9 +3330,5 @@
     "LuigiInVegas": {
         "banneduntil": "2025/3/17",
         "BanReason": "RDM"
-    },
-    "Syzcer": {
-        "banneduntil": "2024/3/12",
-        "BanReason": "Unban - Player can still not join despite ban being expired"
     }
 }
