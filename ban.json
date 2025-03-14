@@ -3342,5 +3342,9 @@
     "Sgree8": {
         "banneduntil": "2025/3/22",
         "BanReason": "RDM, sexual conduct"
+    },
+    "TTVBakedxBeanz": {
+        "banneduntil": "Warning",
+        "BanReason": "RDM, evasion"
     }
 }
