@@ -3338,5 +3338,9 @@
     "IAML1AR": {
         "banneduntil": "2099/3/13",
         "BanReason": "Alt"
+    },
+    "iIInesso": {
+        "banneduntil": "2099/3/13",
+        "BanReason": "Alt"
     }
 }
