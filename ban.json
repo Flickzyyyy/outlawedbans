@@ -3346,5 +3346,9 @@
     "TTVBakedxBeanz": {
         "banneduntil": "Warning",
         "BanReason": "RDM, evasion"
+    },
+    "scarecar": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "RDM"
     }
 }
