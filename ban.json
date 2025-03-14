@@ -3334,5 +3334,9 @@
     "carlgrimes_11": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "IAML1AR": {
+        "banneduntil": "2099/3/13",
+        "BanReason": "Alt"
     }
 }
