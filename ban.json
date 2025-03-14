@@ -3350,5 +3350,9 @@
     "scarecar": {
         "banneduntil": "2025/3/18",
         "BanReason": "RDM"
+    },
+    "Ghostsigma": {
+        "banneduntil": "2099/3/11",
+        "BanReason": "hard r"
     }
 }
