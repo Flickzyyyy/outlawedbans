@@ -3314,5 +3314,9 @@
     "n1gward": {
         "banneduntil": "2099/1/1",
         "BanReason": "N word in user."
+    },
+    "GlacialParaleet1631": {
+        "banneduntil": "2030/2/6",
+        "BanReason": "Underage"
     }
 }
