@@ -3310,5 +3310,9 @@
     "El_Tac0": {
         "banneduntil": "2025/3/21",
         "BanReason": "Rdm, Evasion"
+    },
+    "n1gward": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "N word in user."
     }
 }
