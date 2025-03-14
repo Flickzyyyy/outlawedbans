@@ -3330,5 +3330,9 @@
     "LuigiInVegas": {
         "banneduntil": "2025/3/17",
         "BanReason": "RDM"
+    },
+    "carlgrimes_11": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
