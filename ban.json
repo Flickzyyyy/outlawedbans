@@ -3358,5 +3358,9 @@
     "ItzAlex2": {
         "banneduntil": "2025/3/22",
         "BanReason": "RDM EVADING"
+    },
+    "zylactshoodcouncil": {
+        "banneduntil": "2025/3/22",
+        "BanReason": "RDM, Evading x3"
     }
 }
