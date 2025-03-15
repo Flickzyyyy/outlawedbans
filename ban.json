@@ -3298,5 +3298,9 @@
     "gesu.op1": {
         "banneduntil": "2025/3/17",
         "BanReason": "RDM"
+    },
+    "gesu.op01": {
+        "banneduntil": "2025/3/17",
+        "BanReason": "RDM"
     }
 }
