@@ -3314,5 +3314,9 @@
     "Notorious__B.I.G67": {
         "banneduntil": "2025/3/16",
         "BanReason": "ban decrease"
+    },
+    "2o2a": {
+        "banneduntil": "2025/3/19",
+        "BanReason": "RDM, EVADING"
     }
 }
