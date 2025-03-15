@@ -3346,5 +3346,9 @@
     "bigshooter90": {
         "banneduntil": "2025/3/19",
         "BanReason": "RDM evading"
+    },
+    "thomas_69p": {
+        "banneduntil": "2025/3/19",
+        "BanReason": "RDM, Evading"
     }
 }
