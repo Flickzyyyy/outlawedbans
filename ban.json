@@ -3298,5 +3298,9 @@
     "gesu.op01": {
         "banneduntil": "2025/3/17",
         "BanReason": "RDM"
+    },
+    "thepennymeister": {
+        "banneduntil": "2025/3/18",
+        "BanReason": "RDM"
     }
 }
