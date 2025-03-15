@@ -3326,5 +3326,9 @@
     "RocKy_N": {
         "banneduntil": "2025/3/19",
         "BanReason": "RDM"
+    },
+    "Special_Needz": {
+        "banneduntil": "2025/3/19",
+        "BanReason": "RDM"
     }
 }
