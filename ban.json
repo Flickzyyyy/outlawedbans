@@ -3290,5 +3290,9 @@
     "thraggbarber": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "4BAYDAN": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
