@@ -3318,5 +3318,9 @@
     "2o2a": {
         "banneduntil": "2025/3/19",
         "BanReason": "RDM, EVADING"
+    },
+    "tbot807": {
+        "banneduntil": "2025/3/19",
+        "BanReason": "RDM"
     }
 }
