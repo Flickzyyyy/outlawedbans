@@ -3362,5 +3362,9 @@
     "zylactshoodcouncil": {
         "banneduntil": "2025/3/22",
         "BanReason": "RDM, Evading x3"
+    },
+    "puffpenguin.2025": {
+        "banneduntil": "2099/2/1",
+        "BanReason": "hard r"
     }
 }
