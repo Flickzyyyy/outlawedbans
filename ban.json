@@ -3314,5 +3314,9 @@
     "Sebb_a": {
         "banneduntil": "2025/3/29",
         "BanReason": "RDM/  Was trying to speed run a ban"
+    },
+    "Skunkweasel11": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
