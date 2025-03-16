@@ -3340,7 +3340,7 @@
         "BanReason": "Camping video report"
     },
     "rae.ping.miners": {
-        "banneduntil": "2025/3/23",
-        "BanReason": "name"
+        "banneduntil": "2099/1/1",
+        "BanReason": "CHANGE USER (Derog User)"
     }
 }
