@@ -3322,5 +3322,9 @@
     "blackattack467": {
         "banneduntil": "2025/3/19",
         "BanReason": "RDM report"
+    },
+    "Bartle07312019": {
+        "banneduntil": "2027/3/27",
+        "BanReason": "under age"
     }
 }
