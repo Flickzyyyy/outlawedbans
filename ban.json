@@ -3318,5 +3318,9 @@
     "Skunkweasel11": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "blackattack467": {
+        "banneduntil": "2025/3/19",
+        "BanReason": "RDM report"
     }
 }
