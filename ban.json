@@ -3326,5 +3326,9 @@
     "Bartle07312019": {
         "banneduntil": "2027/3/27",
         "BanReason": "under age"
+    },
+    "USEagleMarine51357": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
