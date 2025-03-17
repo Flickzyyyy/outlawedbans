@@ -3186,5 +3186,9 @@
     "trostgrahamm": {
         "banneduntil": "2025/3/20",
         "BanReason": "RDM With evidence"
+    },
+    "CookingMoth179": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "RDM/cop targetting with evidence"
     }
 }
