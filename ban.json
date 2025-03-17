@@ -3174,5 +3174,9 @@
     "rae.ping.miners": {
         "banneduntil": "2099/1/1",
         "BanReason": "CHANGE USER (Derog User)"
+    },
+    "Logickee": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "cop targeting"
     }
 }
