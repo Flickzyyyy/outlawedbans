@@ -3142,5 +3142,9 @@
     "DEL1R10USDADDY": {
         "banneduntil": "2025/4/2",
         "BanReason": "Camping, spawn camping, Mass RDM"
+    },
+    "callum78r8": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "Mass RDM"
     }
 }
