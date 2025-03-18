@@ -3110,5 +3110,9 @@
     "Dark alien": {
         "banneduntil": "2025/3/21",
         "BanReason": "RDM video report"
+    },
+    "TauntPower09": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "Mass RDM, Evasion"
     }
 }
