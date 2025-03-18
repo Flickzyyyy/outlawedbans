@@ -3102,5 +3102,9 @@
     "michael.123r": {
         "banneduntil": "2025/3/24",
         "BanReason": "RDM"
+    },
+    "MilliGarV1U.D.S": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "Mass RDM"
     }
 }
