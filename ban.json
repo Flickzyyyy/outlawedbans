@@ -3126,5 +3126,9 @@
     "Siracha1600": {
         "banneduntil": "2025/3/20",
         "BanReason": "RDM video report"
+    },
+    "xyuk": {
+        "banneduntil": "2030/1/1",
+        "BanReason": "Underage"
     }
 }
