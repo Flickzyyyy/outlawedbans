@@ -3114,5 +3114,9 @@
     "TauntPower09": {
         "banneduntil": "2025/3/29",
         "BanReason": "Mass RDM, Evasion"
+    },
+    "brobo8819": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "f slur"
     }
 }
