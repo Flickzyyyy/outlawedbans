@@ -3106,5 +3106,9 @@
     "MilliGarV1U.D.S": {
         "banneduntil": "2025/3/25",
         "BanReason": "Mass RDM"
+    },
+    "Dark alien": {
+        "banneduntil": "2025/3/21",
+        "BanReason": "RDM video report"
     }
 }
