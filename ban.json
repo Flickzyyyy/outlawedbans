@@ -3190,5 +3190,9 @@
     "ch1cken.j0ckey": {
         "banneduntil": "2025/3/25",
         "BanReason": "mass rdm"
+    },
+    "Chiko15": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "multiple bans"
     }
 }
