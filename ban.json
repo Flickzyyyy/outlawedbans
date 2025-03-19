@@ -3190,5 +3190,9 @@
     "Him9048": {
         "banneduntil": "2025/8/25",
         "BanReason": "under age. I pulled him into an admin sit, and I informed him that our age requirement was ten. He then proceeded to say he was 12."
+    },
+    "Ostell": {
+        "banneduntil": "2025/3/27",
+        "BanReason": "Rdm evasion"
     }
 }
