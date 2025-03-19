@@ -3166,5 +3166,9 @@
     "freeman.847456": {
         "banneduntil": "2099/1/1",
         "BanReason": "N-Word bait"
+    },
+    "gencalbo": {
+        "banneduntil": "20991/1",
+        "BanReason": "Hard R"
     }
 }
