@@ -3150,5 +3150,9 @@
     "sussyjamaica": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard R"
+    },
+    "lilvilla2330": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "RDM, cop targetting, evasion"
     }
 }
