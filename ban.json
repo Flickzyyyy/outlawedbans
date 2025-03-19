@@ -3178,5 +3178,9 @@
     "ki11.2": {
         "banneduntil": "2026/3/18",
         "BanReason": "underage"
+    },
+    "NickU1130": {
+        "banneduntil": "2099/3/11",
+        "BanReason": "racist comments"
     }
 }
