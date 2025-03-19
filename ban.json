@@ -3158,5 +3158,9 @@
     "The_Yappatron": {
         "banneduntil": "2025/3/28",
         "BanReason": "RDM/ KILL IN SPAWN ABD DURING SIT"
+    },
+    "skyesolos": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
