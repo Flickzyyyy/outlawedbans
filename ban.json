@@ -3162,5 +3162,9 @@
     "skyesolos": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "niel5en": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "serverban"
     }
 }
