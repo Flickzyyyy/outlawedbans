@@ -3154,5 +3154,9 @@
     "lilvilla2330": {
         "banneduntil": "2025/3/25",
         "BanReason": "RDM, cop targetting, evasion"
+    },
+    "JacobDIABETESMAN": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
