@@ -3194,5 +3194,9 @@
     "Ostell": {
         "banneduntil": "2025/3/27",
         "BanReason": "Rdm evasion"
+    },
+    "flintonsteel": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt, I pulled for Rdm. From there, he verbally admitted to his account being an alt. Then he said the f slur."
     }
 }
