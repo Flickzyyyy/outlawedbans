@@ -3222,5 +3222,9 @@
     "BEER__MANN": {
         "banneduntil": "2025/3/26",
         "BanReason": "Mass RDM"
+    },
+    "Mystonce": {
+        "banneduntil": "2025/1/1",
+        "BanReason": "unban"
     }
 }
