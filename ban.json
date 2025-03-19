@@ -3214,5 +3214,9 @@
     "MrDreamie": {
         "banneduntil": "2025/4/2",
         "BanReason": "f slur in bank."
+    },
+    "BEER_MANN": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "Mass RDM"
     }
 }
