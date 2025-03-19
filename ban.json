@@ -3166,5 +3166,9 @@
     "niel5en": {
         "banneduntil": "2099/1/1",
         "BanReason": "serverban"
+    },
+    "pewpewzoey": {
+        "banneduntil": "2025/3/22",
+        "BanReason": "Force RP"
     }
 }
