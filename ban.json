@@ -3174,5 +3174,9 @@
     "Lilboot1": {
         "banneduntil": "2025/4/1",
         "BanReason": "derog comments."
+    },
+    "ki11.2": {
+        "banneduntil": "2026/3/18",
+        "BanReason": "underage"
     }
 }
