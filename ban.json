@@ -3214,5 +3214,9 @@
     "MrDreamie": {
         "banneduntil": "2025/4/2",
         "BanReason": "f slur in bank."
+    },
+    "BleachTea3": {
+        "banneduntil": "2025/2/2",
+        "BanReason": "Unban"
     }
 }
