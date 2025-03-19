@@ -3198,5 +3198,9 @@
     "flintonsteel": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt, I pulled for Rdm. From there, he verbally admitted to his account being an alt. Then he said the f slur."
+    },
+    "DeathDoesThings": {
+        "banneduntil": "2025/4/2",
+        "BanReason": "f slur in the saloon."
     }
 }
