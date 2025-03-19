@@ -3146,5 +3146,9 @@
     "idan480": {
         "banneduntil": "2025/3/25",
         "BanReason": "RDM/ KILL DURING WARNING/SIT"
+    },
+    "sussyjamaica": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard R"
     }
 }
