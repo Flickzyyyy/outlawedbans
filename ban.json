@@ -3158,5 +3158,9 @@
     "JacobDIABETESMAN": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "therawog": {
+        "banneduntil": "2025/4/4",
+        "BanReason": "Sexual Harrassment, RDM"
     }
 }
