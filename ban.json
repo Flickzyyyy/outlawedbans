@@ -3218,5 +3218,9 @@
     "BEER_MANN": {
         "banneduntil": "2025/3/26",
         "BanReason": "Mass RDM"
+    },
+    "BEER__MANN": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "Mass RDM"
     }
 }
