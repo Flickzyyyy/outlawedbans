@@ -3222,5 +3222,9 @@
     "Shartsicle.1": {
         "banneduntil": "2099/4/2",
         "BanReason": "HARD R\\Killed during own sit"
+    },
+    "North.East.radgie": {
+        "banneduntil": "2025/3/28",
+        "BanReason": "RDM/Killed during own sit"
     }
 }
