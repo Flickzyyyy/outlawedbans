@@ -3226,5 +3226,9 @@
     "North.East.radgie": {
         "banneduntil": "2025/3/28",
         "BanReason": "RDM/Killed during own sit"
+    },
+    "metal.for.brains": {
+        "banneduntil": "2099/4/2",
+        "BanReason": "HARD R\\left as soon as he got warped"
     }
 }
