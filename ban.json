@@ -3242,5 +3242,9 @@
     "MrDontPlay20": {
         "banneduntil": "2025/7/1",
         "BanReason": "Underage"
+    },
+    "shrunk": {
+        "banneduntil": "2025/5/16",
+        "BanReason": "Underage"
     }
 }
