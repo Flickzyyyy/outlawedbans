@@ -3234,5 +3234,9 @@
     "cade15": {
         "banneduntil": "2025/3/31",
         "BanReason": "rdm, evasion shot two people in the back for no reason."
+    },
+    "DeveloperKai": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
