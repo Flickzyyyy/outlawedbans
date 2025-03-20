@@ -3226,5 +3226,9 @@
     "Giddyshomp": {
         "banneduntil": "2025/3/26",
         "BanReason": "mass rdm"
+    },
+    "vxbrave": {
+        "banneduntil": "2025/3/27",
+        "BanReason": "RDM and evasion"
     }
 }
