@@ -3218,5 +3218,9 @@
     "Ri.Rye": {
         "banneduntil": "2025/4/3",
         "BanReason": "Soft a"
+    },
+    "Shartsicle.1": {
+        "banneduntil": "2099/4/2",
+        "BanReason": "HARD R\\Killed during own sit"
     }
 }
