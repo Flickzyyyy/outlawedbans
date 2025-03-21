@@ -18,5 +18,9 @@
     "oculuso_wen": {
         "banneduntil": "2025/4/1",
         "BanReason": "MASS RDM/Cop Targeting."
+    },
+    "xijiahao": {
+        "banneduntil": "2025/3/28",
+        "BanReason": "MASS RDM"
     }
 }
