@@ -3250,5 +3250,9 @@
     "depot.231533": {
         "banneduntil": "2025/3/27",
         "BanReason": "MASS RDM"
+    },
+    "SoundboarduserYT12": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
