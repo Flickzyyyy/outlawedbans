@@ -30,5 +30,9 @@
     "re.ese5162": {
         "banneduntil": "2099/3/2",
         "BanReason": "Hard R"
+    },
+    "Cpt.Trip": {
+        "banneduntil": "2099/3/2",
+        "BanReason": "Hard R"
     }
 }
