@@ -10,5 +10,9 @@
     "justbirdbird": {
         "banneduntil": "2025/3/25",
         "BanReason": "RDM video report"
+    },
+    "Miami9009": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "7 bans total"
     }
 }
