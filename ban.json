@@ -3266,5 +3266,9 @@
     "Cummuncher47": {
         "banneduntil": "2025/3/27",
         "BanReason": "Mass RDM"
+    },
+    "CopperPixel": {
+        "banneduntil": "2025/3/31",
+        "BanReason": "RDM + Evasion"
     }
 }
