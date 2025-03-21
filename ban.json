@@ -34,5 +34,9 @@
     "Cpt.Trip": {
         "banneduntil": "2099/3/2",
         "BanReason": "Hard R"
+    },
+    "lefvuckyou": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "RDM + Evasion"
     }
 }
