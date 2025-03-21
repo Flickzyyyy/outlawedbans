@@ -26,5 +26,9 @@
     "Mr.zagofzig": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "MystOnce": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban"
     }
 }
