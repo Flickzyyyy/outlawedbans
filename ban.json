@@ -38,5 +38,9 @@
     "lefvuckyou": {
         "banneduntil": "2025/3/29",
         "BanReason": "RDM + Evasion"
+    },
+    "APT11": {
+        "banneduntil": "2099/3/2",
+        "BanReason": "Hard R"
     }
 }
