@@ -3254,5 +3254,9 @@
     "SoundboarduserYT12": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "tr4sh_b0at": {
+        "banneduntil": "2025/4/7",
+        "BanReason": "rdm"
     }
 }
