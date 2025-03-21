@@ -58,5 +58,9 @@
     "jax2022.39242": {
         "banneduntil": "2025/4/8",
         "BanReason": "F SLUR"
+    },
+    "Jaksindotjpg": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "RDM"
     }
 }
