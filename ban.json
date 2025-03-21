@@ -46,5 +46,9 @@
     "kaioshinn199": {
         "banneduntil": "2099/1/1",
         "BanReason": "n word"
+    },
+    "Ostell": {
+        "banneduntil": "2025/3/24",
+        "BanReason": "ban decrease"
     }
 }
