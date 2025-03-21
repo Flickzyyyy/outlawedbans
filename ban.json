@@ -2936,8 +2936,8 @@
         "BanReason": "Hard-R"
     },
     "blackattack467": {
-        "banneduntil": "2025/4/6",
-        "BanReason": "Reban/Homophobia"
+        "banneduntil": "2025/3/24",
+        "BanReason": "RDM"
     },
     "Bartle07312019": {
         "banneduntil": "2027/3/27",
@@ -3214,13 +3214,5 @@
     "SheLuvsGabe": {
         "banneduntil": "2025/4/1",
         "BanReason": "soft a"
-    },
-    "trostgrahamm": {
-        "banneduntil": "2025/3/20",
-        "BanReason": "RDM With evidence"
-    },
-    "Dark alien": {
-        "banneduntil": "2025/3/21",
-        "BanReason": "RDM video report"
     }
 }
