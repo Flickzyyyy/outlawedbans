@@ -50,5 +50,9 @@
     "Ostell": {
         "banneduntil": "2025/3/24",
         "BanReason": "ban decrease"
+    },
+    "Vinny.pat.35": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "RDM"
     }
 }
