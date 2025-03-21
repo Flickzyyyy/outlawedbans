@@ -14,5 +14,9 @@
     "Miami9009": {
         "banneduntil": "2099/1/1",
         "BanReason": "7 bans total"
+    },
+    "MystOnce": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban"
     }
 }
