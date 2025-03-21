@@ -42,5 +42,9 @@
     "APT11": {
         "banneduntil": "2099/3/2",
         "BanReason": "Hard R"
+    },
+    "lefvckyou": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "RDM + Evasion"
     }
 }
