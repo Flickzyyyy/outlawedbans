@@ -22,5 +22,9 @@
     "xijiahao": {
         "banneduntil": "2025/3/28",
         "BanReason": "MASS RDM"
+    },
+    "pewpewzoey": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
