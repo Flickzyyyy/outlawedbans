@@ -3258,5 +3258,9 @@
     "tr4sh_b0at": {
         "banneduntil": "2025/4/7",
         "BanReason": "rdm"
+    },
+    "NuclearHobo2112": {
+        "banneduntil": "2025/3/31",
+        "BanReason": "RDM + Evasion"
     }
 }
