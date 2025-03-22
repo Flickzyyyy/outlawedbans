@@ -95,8 +95,8 @@
         "banneduntil": "2025/3/26",
         "BanReason": "Cop Targeting"
     },
-    "Big-Tough-E": {
-        "banneduntil": "2025/3/30",
-        "BanReason": "Camping"
+    "avarageguest": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM"
     }
 }
