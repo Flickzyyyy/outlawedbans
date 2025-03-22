@@ -62,5 +62,9 @@
     "kencarson.ss": {
         "banneduntil": "2025/3/29",
         "BanReason": "MASS RDM"
+    },
+    "light9dark2": {
+        "banneduntil": "2026/9/16",
+        "BanReason": "Underage"
     }
 }
