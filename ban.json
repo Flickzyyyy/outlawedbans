@@ -95,7 +95,11 @@
         "banneduntil": "2025/3/26",
         "BanReason": "Cop Targeting"
     },
-    "avarageguest": {
+    "Big-Tough-E": {
+        "banneduntil": "2025/3/30",
+        "BanReason": "Camping"
+    },
+    "Holosight1": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM"
     }
