@@ -34,5 +34,9 @@
     "lol.205": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM"
+    },
+    "Rex_Splode1": {
+        "banneduntil": "2025/4/5",
+        "BanReason": "Mass RDM"
     }
 }
