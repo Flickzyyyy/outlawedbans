@@ -70,5 +70,9 @@
     "jacobbennett.20.2023": {
         "banneduntil": "2025/3/30",
         "BanReason": "rdm evasion reban"
+    },
+    "Ev_dog09": {
+        "banneduntil": "2025/3/31",
+        "BanReason": "rdm/Reban"
     }
 }
