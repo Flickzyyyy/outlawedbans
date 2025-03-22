@@ -66,5 +66,9 @@
     "light9dark2": {
         "banneduntil": "2026/9/16",
         "BanReason": "Underage"
+    },
+    "jacobbennett.20.2023": {
+        "banneduntil": "2025/3/30",
+        "BanReason": "rdm"
     }
 }
