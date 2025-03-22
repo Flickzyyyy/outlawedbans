@@ -70,5 +70,9 @@
     "GZDub": {
         "banneduntil": "2025/3/25",
         "BanReason": "rdm report"
+    },
+    "NuclearHobo2112": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
