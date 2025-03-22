@@ -50,5 +50,9 @@
     "crustplankton": {
         "banneduntil": "2025/4/9",
         "BanReason": "MASS RDM + Evasion + Camping"
+    },
+    "Astroiid_ethan": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "MASS RDM"
     }
 }
