@@ -114,5 +114,9 @@
     "RRAND0": {
         "banneduntil": "2025/4/2",
         "BanReason": "RDM + Evading"
+    },
+    "LEOWALKER7665": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "Mass RDM"
     }
 }
