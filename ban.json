@@ -130,5 +130,9 @@
     "Cntrytater": {
         "banneduntil": "2025/4/5",
         "BanReason": "F Slur"
+    },
+    "themonsterzay2": {
+        "banneduntil": "2099/3/22",
+        "BanReason": "ALT"
     }
 }
