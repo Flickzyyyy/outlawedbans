@@ -86,5 +86,9 @@
     "Hamper123": {
         "banneduntil": "2025/3/27",
         "BanReason": "Mass RDM, Cop targetting"
+    },
+    "Lord.jit": {
+        "banneduntil": "2025/3/23",
+        "BanReason": "bullying report"
     }
 }
