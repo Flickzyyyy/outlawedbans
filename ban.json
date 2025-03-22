@@ -102,5 +102,9 @@
     "Holosight1": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM"
+    },
+    "BilbothedildO": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
