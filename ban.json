@@ -46,5 +46,9 @@
     "ELDUDEX": {
         "banneduntil": "2025/3/30",
         "BanReason": "RDM+Evasion"
+    },
+    "crustplankton": {
+        "banneduntil": "2025/4/5",
+        "BanReason": "MASS RDM + Evasion"
     }
 }
