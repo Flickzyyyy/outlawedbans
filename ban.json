@@ -82,5 +82,9 @@
     "Mcmac900014": {
         "banneduntil": "2027/1/30",
         "BanReason": "Underage"
+    },
+    "Hamper123": {
+        "banneduntil": "2025/3/27",
+        "BanReason": "Mass RDM, Cop targetting"
     }
 }
