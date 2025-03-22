@@ -82,5 +82,9 @@
     "blackattack467": {
         "banneduntil": "2025/4/9",
         "BanReason": "Reban/Homophobia/RDM"
+    },
+    "imHerb": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "Evasion"
     }
 }
