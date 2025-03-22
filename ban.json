@@ -60,8 +60,8 @@
         "BanReason": "RDM + Cop Targeting + Camping"
     },
     "kencarson.ss": {
-        "banneduntil": "2025/3/29",
-        "BanReason": "MASS RDM"
+        "banneduntil": "2025/4/2",
+        "BanReason": "RDM + Evading"
     },
     "light9dark2": {
         "banneduntil": "2026/9/16",
@@ -102,9 +102,5 @@
     "Holosight1": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM"
-    },
-    "TateumGalaxyHunter": {
-        "banneduntil": "2025/4/2",
-        "BanReason": "RDM + Evading"
     }
 }
