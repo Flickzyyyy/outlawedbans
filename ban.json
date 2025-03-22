@@ -110,5 +110,9 @@
     "ZodiacLovesRevolvers": {
         "banneduntil": "2099/3/22",
         "BanReason": "Alt"
+    },
+    "RRAND0": {
+        "banneduntil": "2025/4/2",
+        "BanReason": "RDM + Evading"
     }
 }
