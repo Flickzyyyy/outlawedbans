@@ -16,15 +16,11 @@
         "BanReason": "You got a life yet?"
     },
     "Shartsicle.1": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "HARD R"
+        "banneduntil": "2020/1/1",
+        "BanReason": "UNBAN"
     },
     "therawog": {
         "banneduntil": "2025/4/4",
         "BanReason": "Sexual Harrassment, RDM/Reban"
-    },
-    "MythVR_2024": {
-        "banneduntil": "2025/4/5",
-        "BanReason": "racist remarks"
     }
 }
