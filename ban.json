@@ -86,5 +86,9 @@
     "imHerb": {
         "banneduntil": "2025/3/29",
         "BanReason": "Evasion"
+    },
+    "yaelthenoob": {
+        "banneduntil": "2027/9/19",
+        "BanReason": "DOB Underage"
     }
 }
