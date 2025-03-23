@@ -178,5 +178,9 @@
     "PanzerTrakk": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r and sexual misconduct"
+    },
+    "crazyfaz": {
+        "banneduntil": "2027/4/15",
+        "BanReason": "underage"
     }
 }
