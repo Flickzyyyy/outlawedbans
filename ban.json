@@ -72,8 +72,8 @@
         "BanReason": "rdm evasion reban"
     },
     "Ev_dog09": {
-        "banneduntil": "2025/3/31",
-        "BanReason": "rdm/Reban"
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM"
     },
     "jacobbennet20.2023": {
         "banneduntil": "2025/3/30",
