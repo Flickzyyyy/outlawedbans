@@ -182,5 +182,9 @@
     "crazyfaz": {
         "banneduntil": "2027/4/15",
         "BanReason": "underage"
+    },
+    "Choppa.212": {
+        "banneduntil": "2025/3/28",
+        "BanReason": "Rdm Evasion"
     }
 }
