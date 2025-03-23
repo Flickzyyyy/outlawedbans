@@ -142,5 +142,9 @@
     "Notech69": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM"
+    },
+    "russflyin": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM"
     }
 }
