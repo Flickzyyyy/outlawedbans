@@ -170,5 +170,9 @@
     "Vince0810": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM evasion"
+    },
+    "themonsterzay": {
+        "banneduntil": "2099/3/25",
+        "BanReason": "ALT"
     }
 }
