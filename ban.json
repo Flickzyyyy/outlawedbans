@@ -114,5 +114,9 @@
     "Bilbothedild0": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM, Evasion"
+    },
+    "radio123": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM, evasion"
     }
 }
