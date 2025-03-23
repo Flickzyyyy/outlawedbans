@@ -138,5 +138,9 @@
     "Bro1230": {
         "banneduntil": "2025/3/25",
         "BanReason": "RDM video report"
+    },
+    "Notech69": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM"
     }
 }
