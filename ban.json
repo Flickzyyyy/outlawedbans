@@ -110,5 +110,9 @@
     "mrfranky": {
         "banneduntil": "2025/4/5",
         "BanReason": "F Slur + Mass RDM"
+    },
+    "Bilbothedild0": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM, Evasion"
     }
 }
