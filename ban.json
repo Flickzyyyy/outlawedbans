@@ -134,5 +134,9 @@
     "hvllcat": {
         "banneduntil": "2025/3/29",
         "BanReason": "Camping"
+    },
+    "Bro1230": {
+        "banneduntil": "2025/3/25",
+        "BanReason": "RDM video report"
     }
 }
