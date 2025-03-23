@@ -154,5 +154,9 @@
     "KingDaBillionaire": {
         "banneduntil": "2099/1/1",
         "BanReason": "nword"
+    },
+    "bigtoe9": {
+        "banneduntil": "2025/4/6",
+        "BanReason": "sexual misconduct"
     }
 }
