@@ -122,5 +122,9 @@
     "dogman.242522": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM, evasion"
+    },
+    "23kitcats": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM"
     }
 }
