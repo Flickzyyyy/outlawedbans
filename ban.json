@@ -130,5 +130,9 @@
     "scoutvr12": {
         "banneduntil": "2025/4/1",
         "BanReason": "RDM evasion"
+    },
+    "hvllcat": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "Camping"
     }
 }
