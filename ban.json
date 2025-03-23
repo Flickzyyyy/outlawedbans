@@ -150,5 +150,9 @@
     "wa_ss95": {
         "banneduntil": "2025/3/25",
         "BanReason": "evasion"
+    },
+    "KingDaBillionaire": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "nword"
     }
 }
