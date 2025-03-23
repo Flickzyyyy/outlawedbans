@@ -202,5 +202,9 @@
     "dedrateR": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Riverbythesea": {
+        "banneduntil": "2025/4/7",
+        "BanReason": "soft A"
     }
 }
