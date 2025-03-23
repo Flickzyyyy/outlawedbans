@@ -162,5 +162,9 @@
     "justbirdbird": {
         "banneduntil": "2025/4/2",
         "BanReason": "RDM, cop targeting EVASION"
+    },
+    "typeshiz420": {
+        "banneduntil": "2025/3/27",
+        "BanReason": "Rdm/evasion"
     }
 }
