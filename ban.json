@@ -290,5 +290,9 @@
     "FTOPLAYA": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "jewish.gunman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Ban"
     }
 }
