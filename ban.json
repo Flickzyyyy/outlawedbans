@@ -222,5 +222,9 @@
     "Xenalee2179": {
         "banneduntil": "2025/3/26",
         "BanReason": "RDM video report"
+    },
+    "red40consumer": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
