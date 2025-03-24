@@ -258,5 +258,9 @@
     "lebronglazery": {
         "banneduntil": "2025/4/1",
         "BanReason": "soft A"
+    },
+    "flixzyglazer": {
+        "banneduntil": "2025/3/28",
+        "BanReason": "RDM"
     }
 }
