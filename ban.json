@@ -210,5 +210,9 @@
     "ShawtyInVR": {
         "banneduntil": "2025/4/3",
         "BanReason": "RDM + Evading"
+    },
+    "light9dark2": {
+        "banneduntil": "2025/4/6",
+        "BanReason": "Homophobic Remarks"
     }
 }
