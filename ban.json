@@ -274,5 +274,9 @@
     "whyban": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R, Many Many times"
+    },
+    "cpt.jeffydog": {
+        "banneduntil": "2025/3/26",
+        "BanReason": "RDM"
     }
 }
