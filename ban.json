@@ -202,5 +202,9 @@
     "Riverbythesea": {
         "banneduntil": "2025/4/7",
         "BanReason": "soft A"
+    },
+    "Link365": {
+        "banneduntil": "2025/3/31",
+        "BanReason": "RDM + Evasion"
     }
 }
