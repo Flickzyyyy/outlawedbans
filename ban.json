@@ -246,5 +246,9 @@
     "linglingpingpong": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt and n word"
+    },
+    "CommaCrow": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "RDM and evasion"
     }
 }
