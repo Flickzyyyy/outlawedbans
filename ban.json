@@ -270,5 +270,9 @@
     "NuclearHobo2112": {
         "banneduntil": "2025/3/31",
         "BanReason": "Reban Since He Clipped Himself RDMING"
+    },
+    "whyban": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R, Many Many times"
     }
 }
