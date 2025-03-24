@@ -254,5 +254,9 @@
     "Noble_six6": {
         "banneduntil": "2025/4/1",
         "BanReason": "RDM and evasion"
+    },
+    "lebronglazery": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "soft A"
     }
 }
