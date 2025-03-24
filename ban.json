@@ -230,5 +230,9 @@
     "Jckarp": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "ValorRush": {
+        "banneduntil": "2025/4/7",
+        "BanReason": "Racist Comments"
     }
 }
