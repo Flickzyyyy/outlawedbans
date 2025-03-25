@@ -302,5 +302,9 @@
     "Dinomitydwe": {
         "banneduntil": "2028/1/21",
         "BanReason": "Underage"
+    },
+    "Wafflezaregud": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "reason"
     }
 }
