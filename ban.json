@@ -302,5 +302,9 @@
     "0mute0": {
         "banneduntil": "2025/3/29",
         "BanReason": "rdm"
+    },
+    "killswitch.0930567": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
