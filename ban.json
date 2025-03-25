@@ -298,5 +298,9 @@
     "lickydgaming": {
         "banneduntil": "2025/4/10",
         "BanReason": "F slur"
+    },
+    "0mute0": {
+        "banneduntil": "2025/3/29",
+        "BanReason": "rdm"
     }
 }
