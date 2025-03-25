@@ -322,5 +322,9 @@
     "brian1ldk": {
         "banneduntil": "2025/4/8",
         "BanReason": "soft a"
+    },
+    "Name:The_People_Pirate": {
+        "banneduntil": "Date: 4/8/2025",
+        "BanReason": "Spawn kill, Evasion."
     }
 }
