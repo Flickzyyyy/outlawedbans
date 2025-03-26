@@ -314,5 +314,9 @@
     "mrguns6113": {
         "banneduntil": "2025/3/30",
         "BanReason": "rdm+evasion"
+    },
+    "AizenTheGamer": {
+        "banneduntil": "2027/01/01",
+        "BanReason": "Underage"
     }
 }
