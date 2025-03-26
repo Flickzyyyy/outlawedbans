@@ -310,5 +310,9 @@
     "indian_huzz": {
         "banneduntil": "2025/4/23",
         "BanReason": "f slur, mass rdm, camping"
+    },
+    "mrguns6113": {
+        "banneduntil": "2025/3/30",
+        "BanReason": "rdm+evasion"
     }
 }
