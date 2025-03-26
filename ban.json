@@ -298,5 +298,9 @@
     "Name: channing2211": {
         "banneduntil": "Date: 11/16/2025",
         "BanReason": "reason: underage"
+    },
+    "channing2211": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "Underage"
     }
 }
