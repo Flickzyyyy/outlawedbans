@@ -10,5 +10,9 @@
     "Ev_dog09": {
         "banneduntil": "2099/1/1",
         "BanReason": "multiple"
+    },
+    "Dylan_black_23": {
+        "banneduntil": "2025/4/12",
+        "BanReason": "F slur"
     }
 }
