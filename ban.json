@@ -338,5 +338,9 @@
     "Adrian314": {
         "banneduntil": "2025/4/1",
         "BanReason": "camping"
+    },
+    "LaBarkingSharks": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r/reban"
     }
 }
