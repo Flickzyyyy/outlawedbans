@@ -38,5 +38,9 @@
     "astrokid09": {
         "banneduntil": "2025/3/31",
         "BanReason": "rdm/evasion"
+    },
+    "zylactshoodcouncil": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "RDM/ HARD R"
     }
 }
