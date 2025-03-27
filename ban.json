@@ -370,5 +370,9 @@
     "Oxifer": {
         "banneduntil": "2025/4/9",
         "BanReason": "f slur"
+    },
+    "USEagleMarine51357": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
