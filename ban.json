@@ -418,5 +418,9 @@
     "nigboycheese": {
         "banneduntil": "2099/1/1",
         "BanReason": "please change user."
+    },
+    "nevergettingridofme": {
+        "banneduntil": "2099/2/1",
+        "BanReason": "Alt/ F slur"
     }
 }
