@@ -346,5 +346,9 @@
     "Titan78DC": {
         "banneduntil": "2025/4/4",
         "BanReason": "cop targeting/rdm/evasion"
+    },
+    "Shinbop": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
