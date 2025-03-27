@@ -34,5 +34,9 @@
     "Ratman48": {
         "banneduntil": "2025/3/31",
         "BanReason": "RDM"
+    },
+    "astrokid09": {
+        "banneduntil": "2025/3/31",
+        "BanReason": "rdm/evasion"
     }
 }
