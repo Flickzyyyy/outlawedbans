@@ -390,5 +390,9 @@
     "ok47": {
         "banneduntil": "2099/1/1",
         "BanReason": "rdm has been banned way too many times"
+    },
+    "Yaboi_sbeeve": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "multiple bans"
     }
 }
