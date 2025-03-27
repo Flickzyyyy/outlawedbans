@@ -391,8 +391,12 @@
         "banneduntil": "2099/1/1",
         "BanReason": "rdm has been banned way too many times"
     },
-    "carlgrimes_11": {
+    "Yaboi_sbeeve": {
         "banneduntil": "2099/1/1",
-        "BanReason": "Hard-R"
+        "BanReason": "multiple bans"
+    },
+    "LakeSOHO": {
+        "banneduntil": "2099/3/12",
+        "BanReason": "n word"
     }
 }
