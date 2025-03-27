@@ -358,5 +358,9 @@
     "Ra1nbowDiddles": {
         "banneduntil": "2025/6/31",
         "BanReason": "Underage"
+    },
+    "RxtardedDihMounter": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
