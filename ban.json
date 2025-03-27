@@ -366,5 +366,9 @@
     "Potato456216": {
         "banneduntil": "2025/3/31",
         "BanReason": "RDM"
+    },
+    "Oxifer": {
+        "banneduntil": "2025/4/9",
+        "BanReason": "f slur"
     }
 }
