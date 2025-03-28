@@ -46,5 +46,9 @@
     "Joseph7360": {
         "banneduntil": "2099/01/1",
         "BanReason": "hard r/ f slur"
+    },
+    "7_62x39": {
+        "banneduntil": "2025/4/2",
+        "BanReason": "cop targeting/evasion"
     }
 }
