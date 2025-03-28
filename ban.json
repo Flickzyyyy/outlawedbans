@@ -50,5 +50,9 @@
     "7_62x39": {
         "banneduntil": "2025/4/2",
         "BanReason": "cop targeting/evasion"
+    },
+    "yaelthenoob": {
+        "banneduntil": "2026/2/2",
+        "BanReason": "underadge"
     }
 }
