@@ -66,5 +66,9 @@
     "sanic_ay": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard R"
+    },
+    "boydakar": {
+        "banneduntil": "2025/4/11",
+        "BanReason": "soft a"
     }
 }
