@@ -106,5 +106,9 @@
     "coferland": {
         "banneduntil": "2026/6/5",
         "BanReason": "Underage"
+    },
+    "thecatz216": {
+        "banneduntil": "2025/4/2",
+        "BanReason": "RDM/Evasion"
     }
 }
