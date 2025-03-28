@@ -74,5 +74,9 @@
     "gcshoota": {
         "banneduntil": "2025/4/11",
         "BanReason": "Mass RDM, Evasion"
+    },
+    "ZodiacLovesRevolvers": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
