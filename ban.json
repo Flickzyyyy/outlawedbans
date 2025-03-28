@@ -118,5 +118,9 @@
     "fancyjigga": {
         "banneduntil": "2025/4/10",
         "BanReason": "derog user"
+    },
+    "samueldrake7.202": {
+        "banneduntil": "2025/4/5",
+        "BanReason": "rdm+evasion"
     }
 }
