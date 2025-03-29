@@ -154,5 +154,9 @@
     "s1p1": {
         "banneduntil": "2025/3/31",
         "BanReason": "RDM"
+    },
+    "Im.billis": {
+        "banneduntil": "2025/3/30",
+        "BanReason": "RDM with evidence"
     }
 }
