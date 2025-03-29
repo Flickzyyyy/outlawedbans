@@ -130,5 +130,9 @@
     "RandomDihMoment": {
         "banneduntil": "2099/1/14",
         "BanReason": "Alt/ F SLUR"
+    },
+    "Slated_2000": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "underage"
     }
 }
