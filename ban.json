@@ -206,5 +206,9 @@
     "soultaker334": {
         "banneduntil": "2099/1/1",
         "BanReason": "Know server raider"
+    },
+    "blackattack467": {
+        "banneduntil": "2025/4/9",
+        "BanReason": "Reban/Homophobia/RDM"
     }
 }
