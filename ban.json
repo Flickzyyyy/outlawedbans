@@ -214,5 +214,9 @@
     "TheHauntingBird": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R/REBAN"
+    },
+    "tsgt.rodney.2024": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard R"
     }
 }
