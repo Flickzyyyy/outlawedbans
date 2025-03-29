@@ -170,5 +170,9 @@
     "GreatRex65": {
         "banneduntil": "2025/4/1",
         "BanReason": "RDM"
+    },
+    "realmidway": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "RDM EVASION"
     }
 }
