@@ -146,5 +146,9 @@
     "APT11": {
         "banneduntil": "2025/4/1",
         "BanReason": "RDM, sexual misconduct"
+    },
+    "OhTuff547": {
+        "banneduntil": "2025/3/30",
+        "BanReason": "rdm"
     }
 }
