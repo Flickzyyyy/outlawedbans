@@ -158,5 +158,9 @@
     "Im.billis": {
         "banneduntil": "2025/3/30",
         "BanReason": "RDM with evidence"
+    },
+    "CookingMoth1799": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "rdm report"
     }
 }
