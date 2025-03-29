@@ -218,5 +218,9 @@
     "tsgt.rodney.2024": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard R"
+    },
+    "fazedpotato": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R/REBAN"
     }
 }
