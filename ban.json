@@ -174,5 +174,9 @@
     "realmidway": {
         "banneduntil": "2025/4/1",
         "BanReason": "RDM EVASION"
+    },
+    "liam.van.ouytsel": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "rdm"
     }
 }
