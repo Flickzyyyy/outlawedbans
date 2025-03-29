@@ -154,5 +154,9 @@
     "ItzAlex2": {
         "banneduntil": "2025/3/31",
         "BanReason": "RDM"
+    },
+    "s1p1": {
+        "banneduntil": "2025/3/31",
+        "BanReason": "RDM"
     }
 }
