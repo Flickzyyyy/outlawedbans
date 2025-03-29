@@ -142,5 +142,9 @@
     "countryboyforever": {
         "banneduntil": "2025/4/10",
         "BanReason": "F slur"
+    },
+    "APT11": {
+        "banneduntil": "2025/4/1",
+        "BanReason": "RDM, sexual misconduct"
     }
 }
