@@ -186,5 +186,9 @@
     "44Plays": {
         "banneduntil": "2025/4/1",
         "BanReason": "rdm"
+    },
+    "NormonTitus15": {
+        "banneduntil": "2025/4/12",
+        "BanReason": "sexual explicit actions"
     }
 }
