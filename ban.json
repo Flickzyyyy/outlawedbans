@@ -210,5 +210,9 @@
     "blackattack467": {
         "banneduntil": "2025/4/9",
         "BanReason": "Reban/Homophobia/RDM"
+    },
+    "TheHauntingBird": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
