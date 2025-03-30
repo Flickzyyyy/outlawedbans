@@ -262,5 +262,9 @@
     "Voux_Val": {
         "banneduntil": "2025/4/2",
         "BanReason": "spawn camping evasion"
+    },
+    "Reddeadguy1899": {
+        "banneduntil": "2025/4/2",
+        "BanReason": "rdm"
     }
 }
