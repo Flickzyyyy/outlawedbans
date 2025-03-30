@@ -246,5 +246,9 @@
     "zakj1604": {
         "banneduntil": "2025/4/12",
         "BanReason": "soft a"
+    },
+    "Taquivionis": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
