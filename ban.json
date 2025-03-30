@@ -286,5 +286,9 @@
     "Doughboii": {
         "banneduntil": "2025/4/7",
         "BanReason": "mass rdm"
+    },
+    "phoenixabg": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "underage"
     }
 }
