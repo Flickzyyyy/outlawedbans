@@ -234,5 +234,9 @@
     "luch21": {
         "banneduntil": "2025/4/2",
         "BanReason": "rdm"
+    },
+    "Miami9009": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "7 bans total/ REBAN"
     }
 }
