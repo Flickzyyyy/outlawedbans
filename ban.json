@@ -230,5 +230,9 @@
     "Bobbery51234": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "luch21": {
+        "banneduntil": "2025/4/2",
+        "BanReason": "rdm"
     }
 }
