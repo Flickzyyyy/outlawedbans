@@ -238,5 +238,9 @@
     "Miami9009": {
         "banneduntil": "2099/1/1",
         "BanReason": "7 bans total/ REBAN"
+    },
+    "donald.duck.123.2025": {
+        "banneduntil": "2025/4/8",
+        "BanReason": "cop targeting and evasion"
     }
 }
