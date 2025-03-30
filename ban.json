@@ -310,5 +310,9 @@
     "doomguy29.2022": {
         "banneduntil": "2025/4/3",
         "BanReason": "rdm"
+    },
+    "mostlychill": {
+        "banneduntil": "2025/4/3",
+        "BanReason": "rdm report"
     }
 }
