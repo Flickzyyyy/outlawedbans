@@ -242,5 +242,9 @@
     "donald.duck.123.2025": {
         "banneduntil": "2025/4/8",
         "BanReason": "cop targeting and evasion"
+    },
+    "zakj1604": {
+        "banneduntil": "2025/4/12",
+        "BanReason": "soft a"
     }
 }
