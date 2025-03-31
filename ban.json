@@ -318,5 +318,9 @@
     "admineater": {
         "banneduntil": "2025/4/14",
         "BanReason": "Soft-a"
+    },
+    "drunkenreterd": {
+        "banneduntil": "2025/4/4",
+        "BanReason": "RDM"
     }
 }
