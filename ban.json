@@ -322,5 +322,9 @@
     "drunkenreterd": {
         "banneduntil": "2025/4/4",
         "BanReason": "RDM"
+    },
+    "rfhunting": {
+        "banneduntil": "2025/4/4",
+        "BanReason": "suicide abuse"
     }
 }
