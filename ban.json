@@ -326,5 +326,9 @@
     "rfhunting": {
         "banneduntil": "2025/4/4",
         "BanReason": "suicide abuse"
+    },
+    "RandomA55PeopleEating": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "RDM, sexual misconduct, F slur"
     }
 }
