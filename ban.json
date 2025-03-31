@@ -330,5 +330,9 @@
     "RandomA55PeopleEating": {
         "banneduntil": "2025/7/1",
         "BanReason": "RDM, sexual misconduct, F slur"
+    },
+    "RestartedDihMonster": {
+        "banneduntil": "2025/5/20",
+        "BanReason": "sexual misconduct, F slur"
     }
 }
