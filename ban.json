@@ -314,5 +314,9 @@
     "lgbrobro": {
         "banneduntil": "2025/4/4",
         "BanReason": "RDM"
+    },
+    "admineater": {
+        "banneduntil": "2025/4/14",
+        "BanReason": "Soft-a"
     }
 }
