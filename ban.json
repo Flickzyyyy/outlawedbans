@@ -362,5 +362,9 @@
     "IIIIIIllllllIIIIII": {
         "banneduntil": "2025/4/5",
         "BanReason": "RDM"
+    },
+    "brooksmak": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
