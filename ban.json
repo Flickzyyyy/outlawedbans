@@ -366,5 +366,9 @@
     "brooksmak": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "FrawleyJ": {
+        "banneduntil": "2025/4/8",
+        "BanReason": "Mass RDM"
     }
 }
