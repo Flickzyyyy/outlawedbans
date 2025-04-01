@@ -370,5 +370,9 @@
     "CookingMoth1799T2": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Not_Knight": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-r/ alt"
     }
 }
