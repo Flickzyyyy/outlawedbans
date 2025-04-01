@@ -362,5 +362,9 @@
     "Tushea31": {
         "banneduntil": "2029/4/4",
         "BanReason": "HARD R"
+    },
+    "CookingMoth1799T": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
