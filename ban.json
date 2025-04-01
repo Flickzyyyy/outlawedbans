@@ -366,5 +366,9 @@
     "CookingMoth1799T": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "CookingMoth1799T2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
