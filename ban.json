@@ -350,5 +350,9 @@
     "California120": {
         "banneduntil": "2025/4/15",
         "BanReason": "soft a"
+    },
+    "bigol_balls": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "F slur"
     }
 }
