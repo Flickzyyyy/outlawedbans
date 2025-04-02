@@ -398,5 +398,9 @@
     "Private_ghost11": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Aceplayer2010": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "SOFT A"
     }
 }
