@@ -410,5 +410,9 @@
     "RocKy_N": {
         "banneduntil": "2025/4/16",
         "BanReason": "f slur"
+    },
+    "Xorph1": {
+        "banneduntil": "2025/4/3",
+        "BanReason": "evasion"
     }
 }
