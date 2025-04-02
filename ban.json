@@ -398,5 +398,9 @@
     "Westernpotato": {
         "banneduntil": "2025/4/16",
         "BanReason": "screaming soft a because his friend was arrested"
+    },
+    "SlowRanger": {
+        "banneduntil": "2025/4/5",
+        "BanReason": "RDM and evasion"
     }
 }
