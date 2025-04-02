@@ -386,5 +386,9 @@
     "some_ooonne": {
         "banneduntil": "2025/4/4",
         "BanReason": "RDM"
+    },
+    "JackatackYT": {
+        "banneduntil": "2025/4/6",
+        "BanReason": "RDM"
     }
 }
