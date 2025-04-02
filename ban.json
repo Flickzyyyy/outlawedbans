@@ -378,5 +378,9 @@
     "Thenameisbukamal": {
         "banneduntil": "2025/4/15",
         "BanReason": "Sexual Harassment"
+    },
+    "OPPENHIGHMER": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
