@@ -390,5 +390,9 @@
     "JackatackYT": {
         "banneduntil": "2025/4/6",
         "BanReason": "RDM"
+    },
+    "CUMZILLA": {
+        "banneduntil": "2025/4/8",
+        "BanReason": "Camping gun store"
     }
 }
