@@ -382,5 +382,9 @@
     "OPPENHIGHMER": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "terman.2022": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
