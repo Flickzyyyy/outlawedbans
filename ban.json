@@ -386,5 +386,9 @@
     "terman.2022": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Pancakes_and_waffles": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
