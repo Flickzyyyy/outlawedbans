@@ -406,5 +406,9 @@
     "cloope": {
         "banneduntil": "2025/4/3",
         "BanReason": "RDM"
+    },
+    "PixelsStreaming": {
+        "banneduntil": "2025/4/5",
+        "BanReason": "RDM and evasion"
     }
 }
