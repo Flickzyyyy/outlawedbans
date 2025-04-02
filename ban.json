@@ -402,5 +402,9 @@
     "Aceplayer2010": {
         "banneduntil": "2025/4/15",
         "BanReason": "SOFT A"
+    },
+    "cloope": {
+        "banneduntil": "2025/4/3",
+        "BanReason": "RDM"
     }
 }
