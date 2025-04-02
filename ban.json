@@ -402,5 +402,9 @@
     "SlowRanger": {
         "banneduntil": "2025/4/5",
         "BanReason": "RDM and evasion"
+    },
+    "TheLawFam2023": {
+        "banneduntil": "2027/4/2",
+        "BanReason": "Underage"
     }
 }
