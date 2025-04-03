@@ -490,5 +490,9 @@
     "Gamewarden195": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "TopVertex": {
+        "banneduntil": "2025/4/17",
+        "BanReason": "anti semetic comments said to multiple individuals"
     }
 }
