@@ -462,5 +462,9 @@
     "noey134": {
         "banneduntil": "2025/4/6",
         "BanReason": "RDM"
+    },
+    "FiveDollarYo": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "Selling Slaves"
     }
 }
