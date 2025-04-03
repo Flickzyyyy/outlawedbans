@@ -414,5 +414,9 @@
     "Xorph1": {
         "banneduntil": "2025/4/3",
         "BanReason": "evasion"
+    },
+    "JessiGodfrey": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "Underage"
     }
 }
