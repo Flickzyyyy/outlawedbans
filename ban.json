@@ -466,5 +466,9 @@
     "Turtle_07": {
         "banneduntil": "2099/1/1",
         "BanReason": "excess bans"
+    },
+    "johndon31": {
+        "banneduntil": "2025/4/7",
+        "BanReason": "RDM"
     }
 }
