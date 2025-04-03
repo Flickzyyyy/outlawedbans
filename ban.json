@@ -454,5 +454,9 @@
     "Unleashthehype": {
         "banneduntil": "2025/4/6",
         "BanReason": "RDM EVASION"
+    },
+    "deepfriedtank": {
+        "banneduntil": "2025/4/10",
+        "BanReason": "RDM, evasion"
     }
 }
