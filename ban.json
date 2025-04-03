@@ -486,5 +486,9 @@
     "colbyringading": {
         "banneduntil": "2025/4/7",
         "BanReason": "Cop targeting+rdm"
+    },
+    "Gamewarden195": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
