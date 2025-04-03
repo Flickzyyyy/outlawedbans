@@ -458,5 +458,9 @@
     "deepfriedtank": {
         "banneduntil": "2025/4/10",
         "BanReason": "RDM, evasion"
+    },
+    "kunahamaturi": {
+        "banneduntil": "2025/4/21",
+        "BanReason": "Racist comments, Evasion"
     }
 }
