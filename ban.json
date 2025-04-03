@@ -422,5 +422,9 @@
     "Odeman1234567": {
         "banneduntil": "2025/4/9",
         "BanReason": "homophobic slur"
+    },
+    "Lijahs": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "camping evasion"
     }
 }
