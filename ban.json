@@ -446,5 +446,9 @@
     "Ranger_Edge": {
         "banneduntil": "2025/4/7",
         "BanReason": "RDM"
+    },
+    "TwistPug": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "Mass RDM + Evading"
     }
 }
