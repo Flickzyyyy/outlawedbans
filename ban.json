@@ -450,5 +450,9 @@
     "TwistPug": {
         "banneduntil": "2025/4/16",
         "BanReason": "Mass RDM + Evading"
+    },
+    "Grand_MasterBAITER": {
+        "banneduntil": "2099/4/4",
+        "BanReason": "Hard R"
     }
 }
