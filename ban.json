@@ -486,5 +486,9 @@
     "o2ZodiacLovesRevolvers": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "AshPeakFast": {
+        "banneduntil": "2025/4/9",
+        "BanReason": "mass RDM Evasion"
     }
 }
