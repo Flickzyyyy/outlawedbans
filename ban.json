@@ -482,5 +482,9 @@
     "o1ZodiacLovesRevolvers": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "o2ZodiacLovesRevolvers": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
