@@ -442,5 +442,9 @@
     "giddyshomp": {
         "banneduntil": "2025/4/19",
         "BanReason": "soft a"
+    },
+    "BBHVINCE": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard"
     }
 }
