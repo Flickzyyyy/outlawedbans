@@ -490,5 +490,9 @@
     "AshPeakFast": {
         "banneduntil": "2025/4/9",
         "BanReason": "mass RDM Evasion"
+    },
+    "Holosight": {
+        "banneduntil": "2025/4/19",
+        "BanReason": "spawn killing."
     }
 }
