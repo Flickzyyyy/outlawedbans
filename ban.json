@@ -474,5 +474,9 @@
     "sultanbindrai": {
         "banneduntil": "2025/4/20",
         "BanReason": "soft A"
+    },
+    "YoyolG": {
+        "banneduntil": "2025/4/9",
+        "BanReason": "Cop targeting, evasion"
     }
 }
