@@ -470,5 +470,9 @@
     "Newgraves": {
         "banneduntil": "2025/4/9",
         "BanReason": "evasion, possible underage"
+    },
+    "sultanbindrai": {
+        "banneduntil": "2025/4/20",
+        "BanReason": "soft A"
     }
 }
