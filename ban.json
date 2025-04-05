@@ -434,5 +434,9 @@
     "soggysoup1": {
         "banneduntil": "2025/4/25",
         "BanReason": "cop targeting evasion sexual misconduct"
+    },
+    "AVarkainChief": {
+        "banneduntil": "2025/4/13",
+        "BanReason": "rdm"
     }
 }
