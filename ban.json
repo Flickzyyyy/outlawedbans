@@ -498,5 +498,9 @@
     "bigdeano.2022": {
         "banneduntil": "2025/4/16",
         "BanReason": "RDM + Evading"
+    },
+    "Thexchildxeater": {
+        "banneduntil": "2025/4/9",
+        "BanReason": "RDM"
     }
 }
