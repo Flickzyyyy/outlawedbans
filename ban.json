@@ -518,5 +518,9 @@
     "itsVlox": {
         "banneduntil": "2025/4/7",
         "BanReason": "temp"
+    },
+    "Sandalz": {
+        "banneduntil": "2025/4/20",
+        "BanReason": "derogatory comments"
     }
 }
