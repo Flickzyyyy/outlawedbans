@@ -494,5 +494,9 @@
     "Holosight": {
         "banneduntil": "2025/4/19",
         "BanReason": "spawn killing."
+    },
+    "bigdeano.2022": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "RDM + Evading"
     }
 }
