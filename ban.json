@@ -522,5 +522,9 @@
     "Sandalz": {
         "banneduntil": "2025/4/20",
         "BanReason": "derogatory comments"
+    },
+    "RadiantBadger5159": {
+        "banneduntil": "2025/4/14",
+        "BanReason": "rdm"
     }
 }
