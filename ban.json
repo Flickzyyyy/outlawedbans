@@ -502,5 +502,9 @@
     "Thexchildxeater": {
         "banneduntil": "2025/4/9",
         "BanReason": "RDM"
+    },
+    "WarCriminalGnome": {
+        "banneduntil": "2025/4/12",
+        "BanReason": "spawn camping, cop targeting"
     }
 }
