@@ -534,5 +534,9 @@
     "Prodo_24_": {
         "banneduntil": "2035/4/20",
         "BanReason": "sexual remarks of a minor"
+    },
+    "walker_king": {
+        "banneduntil": "2025/4/10",
+        "BanReason": "rdm as a cop."
     }
 }
