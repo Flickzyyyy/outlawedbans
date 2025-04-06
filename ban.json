@@ -510,5 +510,9 @@
     "LuigilnVegas": {
         "banneduntil": "2025/4/13",
         "BanReason": "camping gun store."
+    },
+    "EvSOADrum26": {
+        "banneduntil": "2025/4/7",
+        "BanReason": "tenp"
     }
 }
