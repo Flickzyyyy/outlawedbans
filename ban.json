@@ -514,5 +514,9 @@
     "EvSOADrum26": {
         "banneduntil": "2025/4/7",
         "BanReason": "tenp"
+    },
+    "itsVlox": {
+        "banneduntil": "2025/4/7",
+        "BanReason": "temp"
     }
 }
