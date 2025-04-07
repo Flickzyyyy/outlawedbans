@@ -534,5 +534,9 @@
     "walker_king": {
         "banneduntil": "2025/4/10",
         "BanReason": "rdm as a cop."
+    },
+    "H3ARTZGUARD": {
+        "banneduntil": "2025/4/20",
+        "BanReason": "Soft A"
     }
 }
