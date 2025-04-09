@@ -502,5 +502,9 @@
     "makesurehedead.2023": {
         "banneduntil": "2025/4/13",
         "BanReason": "RDM"
+    },
+    "light9dark2": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
