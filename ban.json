@@ -482,5 +482,9 @@
     "Battle.Droid": {
         "banneduntil": "2099/4/9",
         "BanReason": "Later"
+    },
+    "Mcdinglemcnutty1034": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "RDM+Evasion"
     }
 }
