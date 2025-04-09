@@ -123,10 +123,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Know server raider"
     },
-    "blackattack467": {
-        "banneduntil": "2025/4/9",
-        "BanReason": "Reban/Homophobia/RDM"
-    },
     "TheHauntingBird": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R/REBAN"
@@ -311,10 +307,6 @@
         "banneduntil": "2025/7/12",
         "BanReason": "Underage"
     },
-    "Odeman1234567": {
-        "banneduntil": "2025/4/9",
-        "BanReason": "homophobic slur"
-    },
     "Lijahs": {
         "banneduntil": "2025/4/16",
         "BanReason": "camping evasion"
@@ -407,17 +399,9 @@
         "banneduntil": "2025/4/19",
         "BanReason": "sexual remarks of a minor"
     },
-    "Newgraves": {
-        "banneduntil": "2025/4/9",
-        "BanReason": "evasion, possible underage"
-    },
     "sultanbindrai": {
         "banneduntil": "2025/4/20",
         "BanReason": "soft A"
-    },
-    "YoyolG": {
-        "banneduntil": "2025/4/9",
-        "BanReason": "Cop targeting, evasion"
     },
     "o1ZodiacLovesRevolvers": {
         "banneduntil": "2099/1/1",
@@ -426,10 +410,6 @@
     "o2ZodiacLovesRevolvers": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
-    },
-    "AshPeakFast": {
-        "banneduntil": "2025/4/9",
-        "BanReason": "mass RDM Evasion"
     },
     "Holosight": {
         "banneduntil": "2025/4/19",
