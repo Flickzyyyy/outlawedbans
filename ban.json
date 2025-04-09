@@ -494,5 +494,9 @@
     "uhhhhhvr": {
         "banneduntil": "2099/4/9",
         "BanReason": "HARD R"
+    },
+    "MTChevy": {
+        "banneduntil": "2025/4/27",
+        "BanReason": "HARD R"
     }
 }
