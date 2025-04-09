@@ -478,5 +478,9 @@
     "Otter407": {
         "banneduntil": "2025/4/24",
         "BanReason": "R word, RDM"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2099/4/9",
+        "BanReason": "Later"
     }
 }
