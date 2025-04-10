@@ -502,5 +502,9 @@
     "makesurehedead.2023": {
         "banneduntil": "2025/4/13",
         "BanReason": "RDM"
+    },
+    "marshmellow518": {
+        "banneduntil": "2025/4/17",
+        "BanReason": "Cop targeting and evasion"
     }
 }
