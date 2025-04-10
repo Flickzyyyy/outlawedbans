@@ -494,5 +494,9 @@
     "oddballadmin": {
         "banneduntil": "2025/4/23",
         "BanReason": "f slur"
+    },
+    "tabdacool": {
+        "banneduntil": "2025/4/28",
+        "BanReason": "sexual misconduct"
     }
 }
