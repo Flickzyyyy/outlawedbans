@@ -502,5 +502,9 @@
     "i.sounded.once.yes": {
         "banneduntil": "2025/5/4",
         "BanReason": "homophobia, cop targeting , RDM"
+    },
+    "ZKerwood904": {
+        "banneduntil": "2025/4/24",
+        "BanReason": "RDM, F-Slur"
     }
 }
