@@ -506,5 +506,9 @@
     "ZKerwood904": {
         "banneduntil": "2025/4/28",
         "BanReason": "RDM, F-Slur, evasion"
+    },
+    "frogGuy135": {
+        "banneduntil": "2025/4/14",
+        "BanReason": "RDM, Evasion"
     }
 }
