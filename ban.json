@@ -522,5 +522,9 @@
     "Ayyjay_vr": {
         "banneduntil": "2025/4/11",
         "BanReason": "Evasion"
+    },
+    "pinkbread12": {
+        "banneduntil": "2028/4/20",
+        "BanReason": "Underage"
     }
 }
