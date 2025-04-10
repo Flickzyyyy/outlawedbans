@@ -518,5 +518,9 @@
     "Di3forne": {
         "banneduntil": "2025/4/14",
         "BanReason": "RDM"
+    },
+    "Ayyjay_vr": {
+        "banneduntil": "2025/4/11",
+        "BanReason": "Evasion"
     }
 }
