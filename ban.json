@@ -514,5 +514,9 @@
     "Juicyjessse": {
         "banneduntil": "2025/4/23",
         "BanReason": "F slur"
+    },
+    "oddballadmin": {
+        "banneduntil": "2025/4/23",
+        "BanReason": "f slur"
     }
 }
