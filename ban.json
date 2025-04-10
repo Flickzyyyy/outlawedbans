@@ -510,5 +510,9 @@
     "MexicanSwagg": {
         "banneduntil": "2099/4/9",
         "BanReason": "hard r and f slur"
+    },
+    "Juicyjessse": {
+        "banneduntil": "2025/4/23",
+        "BanReason": "F slur"
     }
 }
