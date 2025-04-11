@@ -542,5 +542,9 @@
     "Ostell": {
         "banneduntil": "2099/04/10",
         "BanReason": "Causing Drama + Admitting to Alts"
+    },
+    "HoldenBeans": {
+        "banneduntil": "2025/4/24",
+        "BanReason": "soft A"
     }
 }
