@@ -554,5 +554,9 @@
     "V_masuka": {
         "banneduntil": "2025/4/15",
         "BanReason": "cop targeting"
+    },
+    "2025/4/15": {
+        "banneduntil": "zdog2342",
+        "BanReason": "Rdm + evasion"
     }
 }
