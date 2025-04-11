@@ -550,5 +550,9 @@
     "gamer1438": {
         "banneduntil": "2027/4/11",
         "BanReason": "Admission to being underage, evasion by leaving"
+    },
+    "V_masuka": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "cop targeting"
     }
 }
