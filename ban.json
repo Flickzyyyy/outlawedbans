@@ -526,5 +526,9 @@
     "pinkbread12": {
         "banneduntil": "2028/4/20",
         "BanReason": "Underage"
+    },
+    "jobamacoma": {
+        "banneduntil": "2025/4/22",
+        "BanReason": "F slur"
     }
 }
