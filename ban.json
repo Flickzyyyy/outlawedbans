@@ -530,5 +530,9 @@
     "bnm4321": {
         "banneduntil": "2025/4/24",
         "BanReason": "f slur"
+    },
+    "BbyAxzul": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "Back 2 Back RDM + Evasion of warning"
     }
 }
