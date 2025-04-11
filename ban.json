@@ -542,5 +542,9 @@
     "Di3forme": {
         "banneduntil": "2025/4/15",
         "BanReason": "Multiple RDM\u2019s Warning giving second RDM"
+    },
+    "TBC.1nonlyGhost": {
+        "banneduntil": "2025/4/14",
+        "BanReason": "RDM with evidence"
     }
 }
