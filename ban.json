@@ -558,5 +558,9 @@
     "2025/4/15": {
         "banneduntil": "zdog2342",
         "BanReason": "Rdm + evasion"
+    },
+    "zdog2342": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "rdm, evasion"
     }
 }
