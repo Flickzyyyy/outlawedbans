@@ -546,5 +546,9 @@
     "HoldenBeans": {
         "banneduntil": "2025/4/24",
         "BanReason": "soft A"
+    },
+    "bnm4321": {
+        "banneduntil": "2025/4/24",
+        "BanReason": "f slur"
     }
 }
