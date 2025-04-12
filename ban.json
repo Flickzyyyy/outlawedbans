@@ -602,5 +602,9 @@
     "lixman2": {
         "banneduntil": "2025/4/16",
         "BanReason": "RDM, evasion"
+    },
+    "purps1015": {
+        "banneduntil": "2024/4/27",
+        "BanReason": "Rdm+Evasion+Camping spawn"
     }
 }
