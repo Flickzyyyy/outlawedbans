@@ -582,5 +582,9 @@
     "cheelsome": {
         "banneduntil": "2025/4/26",
         "BanReason": "derog"
+    },
+    "CIBoys": {
+        "banneduntil": "2025/4/25",
+        "BanReason": "F-slur"
     }
 }
