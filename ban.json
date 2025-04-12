@@ -570,5 +570,9 @@
     "gorillaguy310": {
         "banneduntil": "2028/4/25",
         "BanReason": "underage"
+    },
+    "turtle_07": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "perm"
     }
 }
