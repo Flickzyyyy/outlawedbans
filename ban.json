@@ -586,5 +586,9 @@
     "Jabs121": {
         "banneduntil": "2025/4/16",
         "BanReason": "cop targeting. Killed three cops in a row after warning"
+    },
+    "thedroopy.table97": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "RDM, evasion"
     }
 }
