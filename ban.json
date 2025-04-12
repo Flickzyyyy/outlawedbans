@@ -626,5 +626,9 @@
     "taylerjune": {
         "banneduntil": "2025/4/14",
         "BanReason": "RDM"
+    },
+    "Rip_BlueWolf": {
+        "banneduntil": "2025/4/26",
+        "BanReason": "F slur"
     }
 }
