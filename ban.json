@@ -602,5 +602,9 @@
     "lixman2": {
         "banneduntil": "2025/4/16",
         "BanReason": "RDM, evasion"
+    },
+    "philiprorrer": {
+        "banneduntil": "2024/4/16",
+        "BanReason": "Rdm"
     }
 }
