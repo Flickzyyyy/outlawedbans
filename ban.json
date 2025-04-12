@@ -586,5 +586,9 @@
     "CIBoys": {
         "banneduntil": "2025/4/25",
         "BanReason": "F-slur"
+    },
+    "Skulkye24": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "rdm"
     }
 }
