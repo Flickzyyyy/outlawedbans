@@ -622,5 +622,9 @@
     "ThatCanadianMan1": {
         "banneduntil": "2025/9/13",
         "BanReason": "13th Birthday"
+    },
+    "taylerjune": {
+        "banneduntil": "2025/4/14",
+        "BanReason": "RDM"
     }
 }
