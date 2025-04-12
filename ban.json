@@ -578,5 +578,9 @@
     "Rhygno": {
         "banneduntil": "2025/4/25",
         "BanReason": "SOFT A"
+    },
+    "cheelsome": {
+        "banneduntil": "2025/4/26",
+        "BanReason": "derog"
     }
 }
