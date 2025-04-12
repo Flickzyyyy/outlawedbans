@@ -594,5 +594,9 @@
     "GOONGAT": {
         "banneduntil": "2099/1/1",
         "BanReason": "f slur, alt"
+    },
+    "NeverGonnaGoToSpace": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
