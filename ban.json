@@ -590,5 +590,9 @@
     "thedroopy.table97": {
         "banneduntil": "2025/4/15",
         "BanReason": "RDM, evasion"
+    },
+    "UNTITLED_05": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "rdm"
     }
 }
