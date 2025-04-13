@@ -658,5 +658,9 @@
     "0_ZomBII_0": {
         "banneduntil": "2025/4/19",
         "BanReason": "mass rdm"
+    },
+    "TEDASSHOLE": {
+        "banneduntil": "2025/4/16",
+        "BanReason": "RDM"
     }
 }
