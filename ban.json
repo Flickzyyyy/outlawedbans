@@ -674,5 +674,9 @@
     "Z8TR4": {
         "banneduntil": "2099/4/14",
         "BanReason": "Alt"
+    },
+    "gabeM1911": {
+        "banneduntil": "2025/4/17",
+        "BanReason": "rdm/ cop targeting."
     }
 }
