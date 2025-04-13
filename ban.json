@@ -670,5 +670,9 @@
     "Flying.monkey": {
         "banneduntil": "2025/4/28",
         "BanReason": "rdm, spawn camping"
+    },
+    "Flying.Monkey": {
+        "banneduntil": "2025/4/28",
+        "BanReason": "rdm, spawn camping"
     }
 }
