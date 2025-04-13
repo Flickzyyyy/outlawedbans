@@ -666,5 +666,9 @@
     "Griffith2119": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "dirtyfartvr": {
+        "banneduntil": "2099/4/13",
+        "BanReason": "hard r"
     }
 }
