@@ -650,5 +650,9 @@
     "dextermorganvr": {
         "banneduntil": "2099/1/1",
         "BanReason": "soft a"
+    },
+    "TheLi0n": {
+        "banneduntil": "2025/4/30",
+        "BanReason": "F-slur"
     }
 }
