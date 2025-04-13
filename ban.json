@@ -654,5 +654,9 @@
     "TheLi0n": {
         "banneduntil": "2025/4/30",
         "BanReason": "F-slur"
+    },
+    "0_ZomBII_0": {
+        "banneduntil": "2025/4/19",
+        "BanReason": "mass rdm"
     }
 }
