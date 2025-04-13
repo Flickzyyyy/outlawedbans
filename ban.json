@@ -674,5 +674,9 @@
     "Flying.Monkey": {
         "banneduntil": "2025/4/28",
         "BanReason": "rdm, spawn camping"
+    },
+    "Griffith2119": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
