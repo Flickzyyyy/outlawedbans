@@ -666,5 +666,9 @@
     "Didyoujustspeak": {
         "banneduntil": "2025/4/16",
         "BanReason": "RDM"
+    },
+    "Flying.monkey": {
+        "banneduntil": "2025/4/28",
+        "BanReason": "rdm, spawn camping"
     }
 }
