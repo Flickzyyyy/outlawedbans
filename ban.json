@@ -670,5 +670,9 @@
     "dirtyfartvr": {
         "banneduntil": "2099/4/13",
         "BanReason": "hard r"
+    },
+    "Z8TR4": {
+        "banneduntil": "2099/4/14",
+        "BanReason": "Alt"
     }
 }
