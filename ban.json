@@ -718,5 +718,9 @@
     "LOADING.0001": {
         "banneduntil": "2025/5/31",
         "BanReason": "pull for rmding, during verbal warning committed 2 more RDM\u2019s than evaded."
+    },
+    "CesarAw": {
+        "banneduntil": "2025/4/21",
+        "BanReason": "spawn camping, Rdm"
     }
 }
