@@ -742,5 +742,9 @@
     "dreeeezz": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Redfive22": {
+        "banneduntil": "2025/4/30",
+        "BanReason": "Camping + RDM + Evading"
     }
 }
