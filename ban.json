@@ -730,5 +730,9 @@
     "CloudConnected": {
         "banneduntil": "2027/6/21",
         "BanReason": "underage"
+    },
+    "Bigwetfwet": {
+        "banneduntil": "2025/4/27",
+        "BanReason": "F slur"
     }
 }
