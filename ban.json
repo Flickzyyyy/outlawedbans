@@ -722,5 +722,9 @@
     "Jdub.86": {
         "banneduntil": "2029/8/28",
         "BanReason": "underage"
+    },
+    "soupmaestro": {
+        "banneduntil": "2025/4/17",
+        "BanReason": "Rdm"
     }
 }
