@@ -708,10 +708,6 @@
         "BanReason": "underadge"
     },
     "BoomBapGod": {
-        "banneduntil": "2024/4/17",
-        "BanReason": "admin evasion and RDM"
-    },
-    "blade.406894": {
         "banneduntil": "2025/4/17",
         "BanReason": "RDM and admin evasion"
     }
