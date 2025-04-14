@@ -714,5 +714,9 @@
     "nashawn.456359": {
         "banneduntil": "2025/4/27",
         "BanReason": "soft A"
+    },
+    "LOADING.0001": {
+        "banneduntil": "25/5/31",
+        "BanReason": "pulled for an RDM during verbal warning committed 2 more RDM\u2019s than evaded"
     }
 }
