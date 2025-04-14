@@ -742,5 +742,9 @@
     "Ronin5245": {
         "banneduntil": "2025/4/19",
         "BanReason": "Mass rdm, evasion"
+    },
+    "Americanman": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "Rdm/gang targeting"
     }
 }
