@@ -730,5 +730,9 @@
     "fancyjigga": {
         "banneduntil": "2025/4/28",
         "BanReason": "Inappropriate Name"
+    },
+    "AVarkainChief": {
+        "banneduntil": "2025/4/15",
+        "BanReason": "temp"
     }
 }
