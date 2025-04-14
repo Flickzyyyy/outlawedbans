@@ -706,5 +706,9 @@
     "iLovesytemofadown": {
         "banneduntil": "2027/6/4",
         "BanReason": "underadge"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2024/4/17",
+        "BanReason": "admin evasion and RDM"
     }
 }
