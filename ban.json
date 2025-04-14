@@ -734,5 +734,9 @@
     "Bigwetfwet": {
         "banneduntil": "2025/4/27",
         "BanReason": "F slur"
+    },
+    "gorillalabs": {
+        "banneduntil": "2025/4/27",
+        "BanReason": "soft a"
     }
 }
