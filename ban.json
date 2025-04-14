@@ -726,5 +726,9 @@
     "soupmaestro": {
         "banneduntil": "2025/4/17",
         "BanReason": "Rdm"
+    },
+    "CloudConnected": {
+        "banneduntil": "2027/6/21",
+        "BanReason": "underage"
     }
 }
