@@ -738,5 +738,9 @@
     "corrie.25": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r, mass rdm"
+    },
+    "Ronin5245": {
+        "banneduntil": "2025/4/19",
+        "BanReason": "Mass rdm, evasion"
     }
 }
