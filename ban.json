@@ -726,5 +726,9 @@
     "Traviskill1": {
         "banneduntil": "2025/4/21",
         "BanReason": "spawn camping"
+    },
+    "fancyjigga": {
+        "banneduntil": "2025/4/28",
+        "BanReason": "Inappropriate Name"
     }
 }
