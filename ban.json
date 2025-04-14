@@ -722,5 +722,9 @@
     "CesarAw": {
         "banneduntil": "2025/4/21",
         "BanReason": "spawn camping, Rdm"
+    },
+    "Traviskill1": {
+        "banneduntil": "2025/4/21",
+        "BanReason": "spawn camping"
     }
 }
