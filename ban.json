@@ -738,5 +738,9 @@
     "gorillalabs": {
         "banneduntil": "2025/4/27",
         "BanReason": "soft a"
+    },
+    "dreeeezz": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
