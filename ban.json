@@ -710,5 +710,9 @@
     "BoomBapGod": {
         "banneduntil": "2025/4/17",
         "BanReason": "RDM and admin evasion"
+    },
+    "Feisty66": {
+        "banneduntil": "2099/4/17",
+        "BanReason": "HARD R"
     }
 }
