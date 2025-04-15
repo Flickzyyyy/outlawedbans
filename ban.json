@@ -734,5 +734,9 @@
     "RadiantTapir9080": {
         "banneduntil": "2025/5/1",
         "BanReason": "Soft A + RDM"
+    },
+    "Jordan_yes": {
+        "banneduntil": "2025/4/19",
+        "BanReason": "RDM(ticket by mr.physicaltherapist)"
     }
 }
