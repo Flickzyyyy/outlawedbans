@@ -762,5 +762,9 @@
     "makesurehedead.2023": {
         "banneduntil": "2025/4/28",
         "BanReason": "rdm, sexual harassment"
+    },
+    "meebru": {
+        "banneduntil": "2025/10/23",
+        "BanReason": "underadge"
     }
 }
