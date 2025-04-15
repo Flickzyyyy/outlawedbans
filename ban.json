@@ -714,5 +714,9 @@
     "meebru": {
         "banneduntil": "2025/10/23",
         "BanReason": "underadge"
+    },
+    "OUTBALD": {
+        "banneduntil": "2099/4/16",
+        "BanReason": "alt"
     }
 }
