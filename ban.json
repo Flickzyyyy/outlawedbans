@@ -758,5 +758,9 @@
     "Di3forme": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt+mass rdm"
+    },
+    "Leviathan_meat67": {
+        "banneduntil": "2025/4/29",
+        "BanReason": "soft a"
     }
 }
