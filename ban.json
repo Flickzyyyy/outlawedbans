@@ -766,5 +766,9 @@
     "meebru": {
         "banneduntil": "2025/10/23",
         "BanReason": "underadge"
+    },
+    "Venkman39": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
