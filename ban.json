@@ -730,5 +730,9 @@
     "Gullible245": {
         "banneduntil": "2099/4/16",
         "BanReason": "Hard R"
+    },
+    "RadiantTapir9080": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "Soft A + RDM"
     }
 }
