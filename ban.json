@@ -726,5 +726,9 @@
     "Stinky_cat": {
         "banneduntil": "2025/4/22",
         "BanReason": "Mass RDM"
+    },
+    "Gullible245": {
+        "banneduntil": "2099/4/16",
+        "BanReason": "Hard R"
     }
 }
