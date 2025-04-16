@@ -742,5 +742,9 @@
     "CookingMoth150": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "mattjr2011": {
+        "banneduntil": "2025/4/30",
+        "BanReason": "soft a"
     }
 }
