@@ -750,5 +750,9 @@
     "mr.ak.muncher": {
         "banneduntil": "2025/5/14",
         "BanReason": "f slur"
+    },
+    "ISawYou0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
