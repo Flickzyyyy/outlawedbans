@@ -726,5 +726,9 @@
     "BOT_B_DOG": {
         "banneduntil": "2025/4/20",
         "BanReason": "rdm"
+    },
+    "Zukipk": {
+        "banneduntil": "2027/4/16",
+        "BanReason": "Admitted to being 11, then left"
     }
 }
