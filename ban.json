@@ -758,5 +758,9 @@
     "syvo": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "EvankNight36": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
