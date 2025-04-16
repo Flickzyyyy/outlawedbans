@@ -790,5 +790,9 @@
     "itshim": {
         "banneduntil": "2025/4/22",
         "BanReason": "rdm+evasion"
+    },
+    "Yemmach": {
+        "banneduntil": "2025/4/28",
+        "BanReason": "f slur"
     }
 }
