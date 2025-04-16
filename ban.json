@@ -782,5 +782,9 @@
     "4202life.2022": {
         "banneduntil": "2025/4/19",
         "BanReason": "RDM"
+    },
+    "negativemonkeyppsuace": {
+        "banneduntil": "2025/4/19",
+        "BanReason": "cop targeting"
     }
 }
