@@ -778,5 +778,9 @@
     "californication6969": {
         "banneduntil": "2025/4/26",
         "BanReason": "mass rdm and evasion"
+    },
+    "4202life.2022": {
+        "banneduntil": "2025/4/19",
+        "BanReason": "RDM"
     }
 }
