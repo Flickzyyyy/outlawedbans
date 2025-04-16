@@ -726,5 +726,9 @@
     "Yemmach": {
         "banneduntil": "2025/4/28",
         "BanReason": "f slur"
+    },
+    "BOT_B_DOG": {
+        "banneduntil": "2025/4/20",
+        "BanReason": "rdm"
     }
 }
