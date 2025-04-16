@@ -738,5 +738,9 @@
     "bennybruh111": {
         "banneduntil": "2025/4/20",
         "BanReason": "rdm"
+    },
+    "CookingMoth150": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
