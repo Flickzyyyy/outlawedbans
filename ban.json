@@ -786,5 +786,9 @@
     "negativemonkeyppsuace": {
         "banneduntil": "2025/4/19",
         "BanReason": "cop targeting"
+    },
+    "itshim": {
+        "banneduntil": "2025/4/22",
+        "BanReason": "rdm+evasion"
     }
 }
