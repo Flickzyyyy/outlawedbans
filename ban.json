@@ -778,5 +778,9 @@
     "Iron1man": {
         "banneduntil": "2025/4/21",
         "BanReason": "rdm"
+    },
+    "RocKy_N": {
+        "banneduntil": "2025/4/29",
+        "BanReason": "f-slur"
     }
 }
