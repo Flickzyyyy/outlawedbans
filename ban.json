@@ -770,5 +770,9 @@
     "Snipz8074": {
         "banneduntil": "2025/4/21",
         "BanReason": "RDM, evasion"
+    },
+    "Tropicaleeky": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "RDM+evasion+f-slur"
     }
 }
