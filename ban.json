@@ -770,5 +770,9 @@
     "EvankNight361": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "fagmin": {
+        "banneduntil": "2025/4/30",
+        "BanReason": "Slur in user"
     }
 }
