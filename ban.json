@@ -766,5 +766,9 @@
     "enclave69lol": {
         "banneduntil": "2025/4/20",
         "BanReason": "RDM"
+    },
+    "EvankNight361": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
