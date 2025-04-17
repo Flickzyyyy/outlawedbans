@@ -786,5 +786,9 @@
     "vitruvius": {
         "banneduntil": "2026/7/1",
         "BanReason": "underage"
+    },
+    "vitruviusj": {
+        "banneduntil": "2026/7/1",
+        "BanReason": "underage missed a letter"
     }
 }
