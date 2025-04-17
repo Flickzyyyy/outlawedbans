@@ -782,5 +782,9 @@
     "RocKy_N": {
         "banneduntil": "2025/4/29",
         "BanReason": "f-slur"
+    },
+    "vitruvius": {
+        "banneduntil": "2026/7/1",
+        "BanReason": "underage"
     }
 }
