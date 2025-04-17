@@ -746,5 +746,9 @@
     "fagmin": {
         "banneduntil": "2025/4/30",
         "BanReason": "Slur in user"
+    },
+    "bigol_balls": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r ticket made by ray"
     }
 }
