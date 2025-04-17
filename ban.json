@@ -774,5 +774,9 @@
     "Tropicaleeky": {
         "banneduntil": "2025/5/25",
         "BanReason": "RDM+evasion+f-slur"
+    },
+    "Iron1man": {
+        "banneduntil": "2025/4/21",
+        "BanReason": "rdm"
     }
 }
