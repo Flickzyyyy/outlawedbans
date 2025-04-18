@@ -810,5 +810,9 @@
     "Brent.Peterson.11": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "mip1234.638753": {
+        "banneduntil": "2025/4/22",
+        "BanReason": "RDM"
     }
 }
