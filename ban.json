@@ -794,5 +794,9 @@
     "wingnut_13": {
         "banneduntil": "2025/4/21",
         "BanReason": "RDM"
+    },
+    "personn_t": {
+        "banneduntil": "2025/4/24",
+        "BanReason": "Camping"
     }
 }
