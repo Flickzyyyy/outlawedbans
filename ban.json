@@ -814,5 +814,9 @@
     "mip1234.638753": {
         "banneduntil": "2025/4/22",
         "BanReason": "RDM"
+    },
+    "giulio_natsu": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "N Word in PFP"
     }
 }
