@@ -790,5 +790,9 @@
     "vitruviusj": {
         "banneduntil": "2026/7/1",
         "BanReason": "underage missed a letter"
+    },
+    "wingnut_13": {
+        "banneduntil": "2025/4/21",
+        "BanReason": "RDM"
     }
 }
