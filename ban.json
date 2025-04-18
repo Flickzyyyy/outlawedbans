@@ -802,5 +802,9 @@
     "NuclearHobo2112": {
         "banneduntil": "2025/4/22",
         "BanReason": "RDM"
+    },
+    "DonavinK": {
+        "banneduntil": "2099/4/19",
+        "BanReason": "Server Drama + Previous Ban"
     }
 }
