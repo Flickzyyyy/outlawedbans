@@ -794,5 +794,9 @@
     "wingnut_13": {
         "banneduntil": "2025/4/21",
         "BanReason": "RDM"
+    },
+    "Personn_T": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "Camping+ F slur"
     }
 }
