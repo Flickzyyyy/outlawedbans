@@ -798,5 +798,9 @@
     "Personn_T": {
         "banneduntil": "2025/5/8",
         "BanReason": "Camping+ F slur"
+    },
+    "LocalDuckGuy": {
+        "banneduntil": "2025/4/19",
+        "BanReason": "cop targeting"
     }
 }
