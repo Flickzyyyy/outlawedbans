@@ -830,5 +830,9 @@
     "DoNtAsKJuSdO": {
         "banneduntil": "2025/5/1",
         "BanReason": "evasion+racist/homophobic remarks"
+    },
+    "AWB4": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "Temp"
     }
 }
