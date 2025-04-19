@@ -816,7 +816,7 @@
         "BanReason": "underdage"
     },
     "ForGetTheTax": {
-        "banneduntil": "2025/5/1",
-        "BanReason": "soft a"
+        "banneduntil": "2025/5/14",
+        "BanReason": "soft a * evasion"
     }
 }
