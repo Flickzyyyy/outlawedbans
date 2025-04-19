@@ -810,5 +810,9 @@
     "Crewfr": {
         "banneduntil": "2025/9/5",
         "BanReason": "underdage"
+    },
+    "Crewsfr": {
+        "banneduntil": "2025/9/5",
+        "BanReason": "underdage"
     }
 }
