@@ -802,5 +802,9 @@
     "2K_SNI3R": {
         "banneduntil": "2025/4/25",
         "BanReason": "rdm"
+    },
+    "META.Z123": {
+        "banneduntil": "2025/4/23",
+        "BanReason": "cop targeting"
     }
 }
