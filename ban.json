@@ -794,5 +794,9 @@
     "ImposterBrady": {
         "banneduntil": "2025/4/25",
         "BanReason": "rdm+evasion +sexual harassment with misunderstanding."
+    },
+    "blosser.2023": {
+        "banneduntil": "2025/4/23",
+        "BanReason": "cop targeting report (look at logs for evidence)"
     }
 }
