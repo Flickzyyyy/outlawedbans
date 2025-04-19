@@ -814,5 +814,9 @@
     "Crewsfr": {
         "banneduntil": "2025/9/5",
         "BanReason": "underdage"
+    },
+    "ForGetTheTax": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "soft a"
     }
 }
