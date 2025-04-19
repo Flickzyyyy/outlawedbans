@@ -834,5 +834,9 @@
     "AWB4": {
         "banneduntil": "2025/5/1",
         "BanReason": "Temp"
+    },
+    "Teamstark03": {
+        "banneduntil": "2026/5/20",
+        "BanReason": "underage"
     }
 }
