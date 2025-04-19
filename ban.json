@@ -806,5 +806,9 @@
     "META.Z123": {
         "banneduntil": "2025/4/23",
         "BanReason": "cop targeting"
+    },
+    "Crewfr": {
+        "banneduntil": "2025/9/5",
+        "BanReason": "underdage"
     }
 }
