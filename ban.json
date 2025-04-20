@@ -786,5 +786,9 @@
     "etriganthedemon": {
         "banneduntil": "2025/4/27",
         "BanReason": "Rdm * evasion"
+    },
+    "LocalDuckGuy": {
+        "banneduntil": "2025/4/26",
+        "BanReason": "camping"
     }
 }
