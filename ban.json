@@ -830,5 +830,9 @@
     "big1fickl": {
         "banneduntil": "2025/4/27",
         "BanReason": "Rdm * evasion"
+    },
+    "etriganthedemon": {
+        "banneduntil": "2025/4/27",
+        "BanReason": "Rdm * evasion"
     }
 }
