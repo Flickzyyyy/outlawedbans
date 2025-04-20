@@ -826,5 +826,9 @@
     "Ban": {
         "banneduntil": "big1fickl",
         "BanReason": "Rdm * evasion"
+    },
+    "big1fickl": {
+        "banneduntil": "2025/4/27",
+        "BanReason": "Rdm * evasion"
     }
 }
