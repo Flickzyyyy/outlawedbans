@@ -822,5 +822,9 @@
     "shmeke": {
         "banneduntil": "2025/4/26",
         "BanReason": "mass rdm"
+    },
+    "Ban": {
+        "banneduntil": "big1fickl",
+        "BanReason": "Rdm * evasion"
     }
 }
