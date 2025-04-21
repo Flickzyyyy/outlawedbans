@@ -814,5 +814,9 @@
     "bokbok11": {
         "banneduntil": "2025/5/4",
         "BanReason": "f slur equivalent"
+    },
+    "Daaaang": {
+        "banneduntil": "2025/4/24",
+        "BanReason": "RDM"
     }
 }
