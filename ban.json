@@ -814,5 +814,9 @@
     "Homosexual": {
         "banneduntil": "2025/5/5",
         "BanReason": "derog comments."
+    },
+    "chandlerMandler": {
+        "banneduntil": "2025/5/5",
+        "BanReason": "soft a"
     }
 }
