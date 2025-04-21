@@ -810,5 +810,9 @@
     "vsaj291": {
         "banneduntil": "2025/4/28",
         "BanReason": "rdm, evasion"
+    },
+    "Homosexual": {
+        "banneduntil": "2025/5/5",
+        "BanReason": "derog comments."
     }
 }
