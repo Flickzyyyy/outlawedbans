@@ -806,5 +806,9 @@
     "cu5mrag67": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "ragerMyles": {
+        "banneduntil": "2025/4/24",
+        "BanReason": "RDM and admin evasion"
     }
 }
