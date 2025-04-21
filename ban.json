@@ -818,5 +818,9 @@
     "Daaaang": {
         "banneduntil": "2025/4/24",
         "BanReason": "RDM"
+    },
+    "Aidan1217": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
