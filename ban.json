@@ -822,5 +822,9 @@
     "Trex_taylors": {
         "banneduntil": "2025/4/26",
         "BanReason": "RDM/evasion"
+    },
+    "ekos83": {
+        "banneduntil": "2025/4/30",
+        "BanReason": "RDM evasion"
     }
 }
