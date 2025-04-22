@@ -830,5 +830,9 @@
     "MrNobodyLovesMen": {
         "banneduntil": "2099/1/1",
         "BanReason": "perm"
+    },
+    "Kermite146": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
