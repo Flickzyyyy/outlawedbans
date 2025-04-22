@@ -818,5 +818,9 @@
     "Youngling_killer22": {
         "banneduntil": "2025/4/29",
         "BanReason": "RDM+Evasion"
+    },
+    "Trex_taylors": {
+        "banneduntil": "2025/4/26",
+        "BanReason": "RDM/evasion"
     }
 }
