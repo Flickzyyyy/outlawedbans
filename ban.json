@@ -838,5 +838,9 @@
     "ROBBIERATT": {
         "banneduntil": "2025/5/6",
         "BanReason": "RDM Evasion Spawm camping"
+    },
+    "BlingBingB0y": {
+        "banneduntil": "2025/5/9",
+        "BanReason": "RDM F SLUR"
     }
 }
