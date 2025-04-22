@@ -814,5 +814,9 @@
     "BlingBingB0y": {
         "banneduntil": "2025/5/9",
         "BanReason": "RDM F SLUR"
+    },
+    "Youngling_killer22": {
+        "banneduntil": "2025/4/29",
+        "BanReason": "RDM+Evasion"
     }
 }
