@@ -834,5 +834,9 @@
     "dragonsbreath2011": {
         "banneduntil": "2027/1/1",
         "BanReason": "under age wont give actual burthday"
+    },
+    "ROBBIERATT": {
+        "banneduntil": "2025/4/25",
+        "BanReason": "RDM"
     }
 }
