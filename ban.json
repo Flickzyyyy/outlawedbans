@@ -826,5 +826,9 @@
     "sheards": {
         "banneduntil": "2025/4/23",
         "BanReason": "cop targeting"
+    },
+    "MrNobodyLovesMen": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "perm"
     }
 }
