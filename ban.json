@@ -826,5 +826,9 @@
     "ekos83": {
         "banneduntil": "2025/4/30",
         "BanReason": "RDM evasion"
+    },
+    "sheards": {
+        "banneduntil": "2025/4/23",
+        "BanReason": "cop targeting"
     }
 }
