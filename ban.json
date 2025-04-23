@@ -842,5 +842,9 @@
     "Newgraves": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "tweaking": {
+        "banneduntil": "2025/5/2",
+        "BanReason": "sexual acts"
     }
 }
