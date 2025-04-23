@@ -838,5 +838,9 @@
     "bryanmills": {
         "banneduntil": "2025/4/27",
         "BanReason": "rdm"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2025/4/27",
+        "BanReason": "rdm"
     }
 }
