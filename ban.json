@@ -846,5 +846,9 @@
     "tweaking": {
         "banneduntil": "2025/5/2",
         "BanReason": "sexual acts"
+    },
+    "SeriousSteve": {
+        "banneduntil": "2025/4/26",
+        "BanReason": "rdm"
     }
 }
