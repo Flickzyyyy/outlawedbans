@@ -850,5 +850,9 @@
     "SeriousSteve": {
         "banneduntil": "2025/4/26",
         "BanReason": "rdm"
+    },
+    "BigZ1120": {
+        "banneduntil": "2025/4/25",
+        "BanReason": "rdm"
     }
 }
