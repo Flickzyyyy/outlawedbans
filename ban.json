@@ -922,5 +922,9 @@
     "almondinger": {
         "banneduntil": "2025/7/2",
         "BanReason": "under age"
+    },
+    "Fent.Cart.Dealer": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
