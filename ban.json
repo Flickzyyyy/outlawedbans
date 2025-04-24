@@ -910,5 +910,9 @@
     "TastnSnozBerrys": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "rewopyn": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
