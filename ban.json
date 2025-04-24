@@ -870,5 +870,9 @@
     "fent_snacher556": {
         "banneduntil": "2025/6/8",
         "BanReason": "underadge"
+    },
+    "fent_snacher.556": {
+        "banneduntil": "2025/6/8",
+        "BanReason": "underadge"
     }
 }
