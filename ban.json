@@ -878,5 +878,9 @@
     "ragerMyles": {
         "banneduntil": "2099/4/24",
         "BanReason": "Hard R"
+    },
+    "FL.HONEYBUN": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "SOFT A"
     }
 }
