@@ -866,5 +866,9 @@
     "Hammer3309": {
         "banneduntil": "2025/4/26",
         "BanReason": "evasion/suicide abuse"
+    },
+    "fent_snacher556": {
+        "banneduntil": "2025/6/8",
+        "BanReason": "underadge"
     }
 }
