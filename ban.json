@@ -906,5 +906,9 @@
     "voxygen": {
         "banneduntil": "2025/5/10",
         "BanReason": "racist comments"
+    },
+    "TastnSnozBerrys": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
