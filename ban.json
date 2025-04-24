@@ -902,5 +902,9 @@
     "HorociousCuzzler": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "voxygen": {
+        "banneduntil": "2025/5/10",
+        "BanReason": "racist comments"
     }
 }
