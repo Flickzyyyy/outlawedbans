@@ -862,5 +862,9 @@
     "goodboynoah": {
         "banneduntil": "2025/4/27",
         "BanReason": "rdm+evasion"
+    },
+    "Hammer3309": {
+        "banneduntil": "2025/4/26",
+        "BanReason": "evasion/suicide abuse"
     }
 }
