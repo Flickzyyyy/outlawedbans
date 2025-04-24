@@ -874,5 +874,9 @@
     "fent_snacher.556": {
         "banneduntil": "2025/6/8",
         "BanReason": "underadge"
+    },
+    "ragerMyles": {
+        "banneduntil": "2099/4/24",
+        "BanReason": "Hard R"
     }
 }
