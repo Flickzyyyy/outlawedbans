@@ -946,5 +946,9 @@
     "soggy_lettuce5": {
         "banneduntil": "2025/5/8",
         "BanReason": "racism"
+    },
+    "ghost.28.2010": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "rdm plus evasion"
     }
 }
