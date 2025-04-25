@@ -942,5 +942,9 @@
     "Donald.J.Trump47th": {
         "banneduntil": "2025/5/8",
         "BanReason": "f slur"
+    },
+    "soggy_lettuce5": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "racism"
     }
 }
