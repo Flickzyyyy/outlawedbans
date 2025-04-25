@@ -958,5 +958,9 @@
     "Soccerman1234": {
         "banneduntil": "2026/5/5",
         "BanReason": "underadge"
+    },
+    "fadedoffthespeeze": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
