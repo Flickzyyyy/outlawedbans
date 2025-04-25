@@ -950,5 +950,9 @@
     "ghost.28.2010": {
         "banneduntil": "2025/5/1",
         "BanReason": "rdm plus evasion"
+    },
+    "MythVR_2024": {
+        "banneduntil": "2025/4/25",
+        "BanReason": "rdm"
     }
 }
