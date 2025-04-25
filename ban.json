@@ -942,5 +942,9 @@
     "Wolverineclaws07": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "Traviskill1": {
+        "banneduntil": "2025/5/2",
+        "BanReason": "soft A"
     }
 }
