@@ -934,5 +934,9 @@
     "Ironmaiden_X": {
         "banneduntil": "2025/5/12",
         "BanReason": "slur usage and rdm (video report)"
+    },
+    "mehta.65331": {
+        "banneduntil": "2025/4/29",
+        "BanReason": "RDM"
     }
 }
