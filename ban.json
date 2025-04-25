@@ -954,5 +954,9 @@
     "MythVR_2024": {
         "banneduntil": "2025/4/25",
         "BanReason": "rdm"
+    },
+    "Soccerman1234": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "underadge"
     }
 }
