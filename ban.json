@@ -962,5 +962,9 @@
     "fadedoffthespeeze": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Ironmaiden_X": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "slur usage and rdm (video report)"
     }
 }
