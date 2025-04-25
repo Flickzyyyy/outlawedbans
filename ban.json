@@ -930,5 +930,9 @@
     "LBMac13": {
         "banneduntil": "2027/4/24",
         "BanReason": "underage"
+    },
+    "Mr.clicker13": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "evasion from rdm ban sit"
     }
 }
