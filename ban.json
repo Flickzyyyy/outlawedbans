@@ -978,5 +978,9 @@
     "komodo.doll": {
         "banneduntil": "2025/5/10",
         "BanReason": "f slur"
+    },
+    "RIJID9": {
+        "banneduntil": "2025/4/30",
+        "BanReason": "RDM"
     }
 }
