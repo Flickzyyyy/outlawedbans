@@ -962,5 +962,9 @@
     "shadow12.2023": {
         "banneduntil": "2025/4/29",
         "BanReason": "RDM w/video by flash"
+    },
+    "negativemonkeyppsuace": {
+        "banneduntil": "2025/4/29",
+        "BanReason": "RDM and cop targeting"
     }
 }
