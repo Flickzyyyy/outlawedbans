@@ -986,5 +986,9 @@
     "SirGoonQuadThe5Th": {
         "banneduntil": "2025/5/3",
         "BanReason": "RDM+Evasion"
+    },
+    "Ozziegg": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "Abusing suicide Evasion"
     }
 }
