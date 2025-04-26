@@ -974,5 +974,9 @@
     "Evan0210": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "komodo.doll": {
+        "banneduntil": "2025/5/10",
+        "BanReason": "f slur"
     }
 }
