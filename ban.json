@@ -942,5 +942,9 @@
     "tiniestwall": {
         "banneduntil": "2025/5/9",
         "BanReason": "racist remarks"
+    },
+    "LeNutJames": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "Slur usage"
     }
 }
