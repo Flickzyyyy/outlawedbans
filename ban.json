@@ -1022,5 +1022,9 @@
     "top5wieners": {
         "banneduntil": "2025/5/10",
         "BanReason": "bullying on race"
+    },
+    "W_wins": {
+        "banneduntil": "2025/5/24",
+        "BanReason": "soft a and evasion"
     }
 }
