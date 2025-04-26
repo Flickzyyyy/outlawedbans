@@ -930,5 +930,9 @@
     "WH1TEO4T": {
         "banneduntil": "2025/4/29",
         "BanReason": "rdm"
+    },
+    "Carty500": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "Q Slur and Evasion"
     }
 }
