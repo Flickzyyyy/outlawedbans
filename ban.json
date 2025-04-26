@@ -1002,5 +1002,9 @@
     "Jabs121": {
         "banneduntil": "2025/5/14",
         "BanReason": "Rdm+F SLUR"
+    },
+    "itsVlox": {
+        "banneduntil": "2025/4/30",
+        "BanReason": "Rdm"
     }
 }
