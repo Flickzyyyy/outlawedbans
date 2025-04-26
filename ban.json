@@ -958,5 +958,9 @@
     "mr.turkye": {
         "banneduntil": "2025/5/6",
         "BanReason": "fslur"
+    },
+    "shadow12.2023": {
+        "banneduntil": "2025/4/29",
+        "BanReason": "RDM w/video by flash"
     }
 }
