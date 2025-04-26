@@ -1018,5 +1018,9 @@
     "LiamA_05": {
         "banneduntil": "2029/12/18",
         "BanReason": "underage"
+    },
+    "top5wieners": {
+        "banneduntil": "2025/5/10",
+        "BanReason": "bullying on race"
     }
 }
