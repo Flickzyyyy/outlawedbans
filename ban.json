@@ -990,5 +990,9 @@
     "Ozziegg": {
         "banneduntil": "2025/5/1",
         "BanReason": "Abusing suicide Evasion"
+    },
+    "Hotsteamypee_Desoto": {
+        "banneduntil": "2025/5/10",
+        "BanReason": "Soft A"
     }
 }
