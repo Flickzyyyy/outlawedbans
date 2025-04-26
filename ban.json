@@ -982,5 +982,9 @@
     "RIJID9": {
         "banneduntil": "2025/4/30",
         "BanReason": "RDM"
+    },
+    "SirGoonQuadThe5Th": {
+        "banneduntil": "2025/5/3",
+        "BanReason": "RDM+Evasion"
     }
 }
