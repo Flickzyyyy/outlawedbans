@@ -946,5 +946,9 @@
     "Traviskill1": {
         "banneduntil": "2025/5/2",
         "BanReason": "soft A"
+    },
+    "seanjohnwick": {
+        "banneduntil": "2025/5/6",
+        "BanReason": "homophobia"
     }
 }
