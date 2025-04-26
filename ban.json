@@ -1010,5 +1010,9 @@
     "nigglet1738": {
         "banneduntil": "2099/1/1",
         "BanReason": "user"
+    },
+    "NightRider06": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r several times"
     }
 }
