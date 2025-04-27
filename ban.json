@@ -1022,5 +1022,9 @@
     "JPS2525": {
         "banneduntil": "2025/4/29",
         "BanReason": "Left when pulled to an admin sit for RDM"
+    },
+    "RykerRay1005": {
+        "banneduntil": "2027/4/30",
+        "BanReason": "Underaged+Evasion"
     }
 }
