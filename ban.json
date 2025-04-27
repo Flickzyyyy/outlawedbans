@@ -1026,5 +1026,9 @@
     "W_wins": {
         "banneduntil": "2025/5/24",
         "BanReason": "soft a and evasion"
+    },
+    "Bingly_Evan": {
+        "banneduntil": "2025/5/3",
+        "BanReason": "Mass RDM"
     }
 }
