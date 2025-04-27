@@ -1030,5 +1030,9 @@
     "Bingly_Evan": {
         "banneduntil": "2025/5/3",
         "BanReason": "Mass RDM"
+    },
+    "Lucky_Mutt": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "reban"
     }
 }
