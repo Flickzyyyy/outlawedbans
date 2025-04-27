@@ -1034,5 +1034,9 @@
     "Lucky_Mutt": {
         "banneduntil": "2099/1/1",
         "BanReason": "reban"
+    },
+    "Sniper5678": {
+        "banneduntil": "2025/5/9",
+        "BanReason": "soft a"
     }
 }
