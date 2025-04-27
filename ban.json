@@ -1010,5 +1010,9 @@
     "Gumfund": {
         "banneduntil": "2025/5/1",
         "BanReason": "rdm"
+    },
+    "koreeDOOM": {
+        "banneduntil": "2025/5/2",
+        "BanReason": "RDM cop targeting evasion"
     }
 }
