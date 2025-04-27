@@ -1006,5 +1006,9 @@
     "Toxi.Yeah": {
         "banneduntil": "2025/5/11",
         "BanReason": "sexual misconduct."
+    },
+    "Gumfund": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "rdm"
     }
 }
