@@ -1014,9 +1014,5 @@
     "koreeDOOM": {
         "banneduntil": "2025/5/2",
         "BanReason": "RDM cop targeting evasion"
-    },
-    "nick_nugget": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "appeal"
     }
 }
