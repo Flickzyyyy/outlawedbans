@@ -998,5 +998,9 @@
     "RoboPants21": {
         "banneduntil": "2025/5/4",
         "BanReason": "rdm and evasion"
+    },
+    "Finn._vrr": {
+        "banneduntil": "2025/5/4",
+        "BanReason": "Rdm + Evasion"
     }
 }
