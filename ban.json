@@ -1014,5 +1014,9 @@
     "koreeDOOM": {
         "banneduntil": "2025/5/2",
         "BanReason": "RDM cop targeting evasion"
+    },
+    "tvanpuymbrouck": {
+        "banneduntil": "2025/5/3",
+        "BanReason": "Rdm\u2019d three people, then left when I pulled him"
     }
 }
