@@ -1016,7 +1016,7 @@
         "BanReason": "RDM cop targeting evasion"
     },
     "nick_nugget": {
-        "banneduntil": "2025/5/1",
-        "BanReason": "rdm"
+        "banneduntil": "2020/1/1",
+        "BanReason": "appeal"
     }
 }
