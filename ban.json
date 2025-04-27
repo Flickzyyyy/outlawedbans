@@ -1030,5 +1030,9 @@
     "Terpinoy_08": {
         "banneduntil": "2027/4/30",
         "BanReason": "Underaged+rdm"
+    },
+    "Gaugeshotgun": {
+        "banneduntil": "2027/4/30",
+        "BanReason": "Underaged+Evasion"
     }
 }
