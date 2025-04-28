@@ -1034,5 +1034,9 @@
     "Gaugeshotgun": {
         "banneduntil": "2027/4/30",
         "BanReason": "Underaged+Evasion"
+    },
+    "Alexifons2013": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "RDM COP TARGETING Evasion"
     }
 }
