@@ -1058,5 +1058,9 @@
     "Testicle_Slayer": {
         "banneduntil": "2025/5/11",
         "BanReason": "sexual harassment"
+    },
+    "gcshoota": {
+        "banneduntil": "2025/5/2",
+        "BanReason": "RDM and Evasion"
     }
 }
