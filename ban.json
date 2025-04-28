@@ -1046,5 +1046,9 @@
     "thinkweiser": {
         "banneduntil": "2025/5/1",
         "BanReason": "rdm"
+    },
+    "crazy.tyron12": {
+        "banneduntil": "2025/5/11",
+        "BanReason": "f slur"
     }
 }
