@@ -1062,5 +1062,9 @@
     "gcshoota": {
         "banneduntil": "2025/5/2",
         "BanReason": "RDM and Evasion"
+    },
+    "StillHavingFun": {
+        "banneduntil": "2099/4/30",
+        "BanReason": "Weirdo"
     }
 }
