@@ -1054,5 +1054,9 @@
     "kohl_should_kill_himself": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Testicle_Slayer": {
+        "banneduntil": "2025/5/11",
+        "BanReason": "sexual harassment"
     }
 }
