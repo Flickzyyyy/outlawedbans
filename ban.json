@@ -1042,5 +1042,9 @@
     "Pasta3223": {
         "banneduntil": "2025/5/11",
         "BanReason": "racism"
+    },
+    "thinkweiser": {
+        "banneduntil": "2025/5/1",
+        "BanReason": "rdm"
     }
 }
