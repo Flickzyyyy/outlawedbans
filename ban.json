@@ -1014,5 +1014,9 @@
     "Hartley123": {
         "banneduntil": "2025/5/8",
         "BanReason": "f slur."
+    },
+    "Hammer3309": {
+        "banneduntil": "2099/1/2",
+        "BanReason": "hard R"
     }
 }
