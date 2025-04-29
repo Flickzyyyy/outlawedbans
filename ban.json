@@ -1050,5 +1050,9 @@
     "Daaaang": {
         "banneduntil": "2099/1/1",
         "BanReason": "continuious bans."
+    },
+    "Doomofhulkvr": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "camping"
     }
 }
