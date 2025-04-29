@@ -1090,5 +1090,9 @@
     "skipfree": {
         "banneduntil": "2025/5/13",
         "BanReason": "SOFT A"
+    },
+    "Zario.Ace.064": {
+        "banneduntil": "2025/5/5",
+        "BanReason": "Spawn camping"
     }
 }
