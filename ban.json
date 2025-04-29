@@ -1050,5 +1050,9 @@
     "DKWII0614": {
         "banneduntil": "2099/1/1",
         "BanReason": "N-Word"
+    },
+    "crashfire.2023": {
+        "banneduntil": "2026/4/29",
+        "BanReason": "underage. he admitted in a text message."
     }
 }
