@@ -1070,5 +1070,9 @@
     "ytAustin": {
         "banneduntil": "2025/5/7",
         "BanReason": "Cop targeting +evasion"
+    },
+    "realcozmo": {
+        "banneduntil": "2099/5/13",
+        "BanReason": "Hard R"
     }
 }
