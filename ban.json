@@ -1070,5 +1070,9 @@
     "Jadielleft": {
         "banneduntil": "2025/5/6",
         "BanReason": "rdm and evasion"
+    },
+    "grapevictimadmin": {
+        "banneduntil": "2025/5/28",
+        "BanReason": "fslur and mass rdm"
     }
 }
