@@ -1046,5 +1046,9 @@
     "BusseFam11": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage, evasion"
+    },
+    "DKWII0614": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "N-Word"
     }
 }
