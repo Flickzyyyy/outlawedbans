@@ -1082,5 +1082,9 @@
     "ElectricSeal7260": {
         "banneduntil": "2025/5/13",
         "BanReason": "racist comments"
+    },
+    "dozer50.2023": {
+        "banneduntil": "2099/5/13",
+        "BanReason": "Hard R"
     }
 }
