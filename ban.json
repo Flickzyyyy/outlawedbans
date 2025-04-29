@@ -1034,5 +1034,9 @@
     "DY6": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "GingRDeadMan": {
+        "banneduntil": "2025/5/16",
+        "BanReason": "Soft A+Evasion"
     }
 }
