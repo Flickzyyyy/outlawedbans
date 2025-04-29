@@ -1054,5 +1054,9 @@
     "crashfire.2023": {
         "banneduntil": "2026/4/29",
         "BanReason": "underage. he admitted in a text message."
+    },
+    "badmanjack.2024": {
+        "banneduntil": "2027/4/1",
+        "BanReason": "underage"
     }
 }
