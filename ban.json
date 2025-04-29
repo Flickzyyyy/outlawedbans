@@ -1062,5 +1062,9 @@
     "BBB_starr6ewild244": {
         "banneduntil": "2027/7/2",
         "BanReason": "underage"
+    },
+    "BBB_starr6wild244": {
+        "banneduntil": "2027/7/2",
+        "BanReason": "underage"
     }
 }
