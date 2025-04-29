@@ -1066,5 +1066,9 @@
     "BBB_starr6wild244": {
         "banneduntil": "2027/7/2",
         "BanReason": "underage"
+    },
+    "ytAustin": {
+        "banneduntil": "2025/5/",
+        "BanReason": "Cop targeting +evasion"
     }
 }
