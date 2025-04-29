@@ -1066,5 +1066,9 @@
     "Girthquake1900": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Jadielleft": {
+        "banneduntil": "2025/5/6",
+        "BanReason": "rdm and evasion"
     }
 }
