@@ -1074,5 +1074,9 @@
     "grapevictimadmin": {
         "banneduntil": "2025/5/28",
         "BanReason": "fslur and mass rdm"
+    },
+    "FLICKERBUGG": {
+        "banneduntil": "2025/5/28",
+        "BanReason": "fslur and mass"
     }
 }
