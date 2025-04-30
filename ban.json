@@ -1102,5 +1102,9 @@
     "VcCorn": {
         "banneduntil": "2025/5/13",
         "BanReason": "fslur"
+    },
+    "J8DENTHECANADIAN": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "derog comments"
     }
 }
