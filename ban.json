@@ -1094,5 +1094,9 @@
     "Vybz": {
         "banneduntil": "2099/4/30",
         "BanReason": "Hard R"
+    },
+    "Russex9618": {
+        "banneduntil": "2025/5/3",
+        "BanReason": "rdm"
     }
 }
