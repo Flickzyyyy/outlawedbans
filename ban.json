@@ -1122,5 +1122,9 @@
     "Girthmaster1900": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Redmoosepants": {
+        "banneduntil": "2025/5/3",
+        "BanReason": "Rdm"
     }
 }
