@@ -1098,5 +1098,9 @@
     "Russex9618": {
         "banneduntil": "2025/5/3",
         "BanReason": "rdm"
+    },
+    "laniamin_209": {
+        "banneduntil": "2025/5/3",
+        "BanReason": "rdm"
     }
 }
