@@ -1098,5 +1098,9 @@
     "Logan1000": {
         "banneduntil": "2025/5/13",
         "BanReason": "f slur"
+    },
+    "VcCorn": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "fslur"
     }
 }
