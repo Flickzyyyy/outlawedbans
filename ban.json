@@ -1130,5 +1130,9 @@
     "Deadshot9624": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Vybz": {
+        "banneduntil": "2099/4/30",
+        "BanReason": "Hard R"
     }
 }
