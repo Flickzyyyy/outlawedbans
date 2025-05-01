@@ -1102,5 +1102,9 @@
     "masona0205": {
         "banneduntil": "2025/5/9",
         "BanReason": "rdm and evasion"
+    },
+    "soggysoup1": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "rdm evasion"
     }
 }
