@@ -1126,5 +1126,9 @@
     "imback.528768": {
         "banneduntil": "2025/5/4",
         "BanReason": "cop targeting"
+    },
+    "chicken.jeffy": {
+        "banneduntil": "2025/6/6",
+        "BanReason": "f slur, evasion, mass rdm, spawn kill"
     }
 }
