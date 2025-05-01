@@ -1098,5 +1098,9 @@
     "Ruberito": {
         "banneduntil": "2025/5/4",
         "BanReason": "RDM, evasion"
+    },
+    "masona0205": {
+        "banneduntil": "2025/5/9",
+        "BanReason": "rdm and evasion"
     }
 }
