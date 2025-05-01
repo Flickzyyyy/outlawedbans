@@ -1110,5 +1110,9 @@
     "ruzzex9618": {
         "banneduntil": "2025/5/8",
         "BanReason": "Cop targeting + Evasion"
+    },
+    "Brick11e": {
+        "banneduntil": "2025/5/14",
+        "BanReason": "soft a"
     }
 }
