@@ -1122,5 +1122,9 @@
     "mr.Poleg": {
         "banneduntil": "2025/5/6",
         "BanReason": "RDM and Evasion"
+    },
+    "imback.528768": {
+        "banneduntil": "2025/5/4",
+        "BanReason": "cop targeting"
     }
 }
