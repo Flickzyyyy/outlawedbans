@@ -1126,5 +1126,9 @@
     "Messerschmitt_bf_109": {
         "banneduntil": "2099/5/2",
         "BanReason": "hard r."
+    },
+    "RyzanLLC": {
+        "banneduntil": "2025/5/16",
+        "BanReason": "Got sent a clip of him saying the N word via Meta DMs"
     }
 }
