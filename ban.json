@@ -1122,5 +1122,9 @@
     "MooniniteModz": {
         "banneduntil": "2027/3/10",
         "BanReason": "underadge"
+    },
+    "skello": {
+        "banneduntil": "2025/5/5",
+        "BanReason": "coo targeting"
     }
 }
