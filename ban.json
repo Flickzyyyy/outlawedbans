@@ -1126,5 +1126,9 @@
     "skello": {
         "banneduntil": "2025/5/5",
         "BanReason": "coo targeting"
+    },
+    "Cowboy_jackman": {
+        "banneduntil": "2025/5/9",
+        "BanReason": "cop targeting and evasion"
     }
 }
