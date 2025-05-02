@@ -1122,5 +1122,9 @@
     "riskabel": {
         "banneduntil": "2025/5/10",
         "BanReason": "cop targeting and he evaded the admin sit"
+    },
+    "Messerschmitt_bf_109": {
+        "banneduntil": "2099/5/2",
+        "BanReason": "hard r."
     }
 }
