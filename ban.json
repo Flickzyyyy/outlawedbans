@@ -1186,5 +1186,9 @@
     "rowanberra": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Lord.jit": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "abracadabra"
     }
 }
