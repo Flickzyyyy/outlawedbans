@@ -1254,5 +1254,9 @@
     "MintyPlus": {
         "banneduntil": "2099/5/6",
         "BanReason": "HARD R"
+    },
+    "supermap101": {
+        "banneduntil": "2028/7/14",
+        "BanReason": "underadge"
     }
 }
