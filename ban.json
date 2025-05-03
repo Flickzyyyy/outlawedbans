@@ -1172,8 +1172,8 @@
         "BanReason": "F SLUR"
     },
     "ironmacs": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "alt"
+        "banneduntil": "2020/1/1",
+        "BanReason": "False Ban"
     },
     "IIIIIIllllllIIIIII": {
         "banneduntil": "2025/5/10",
