@@ -1250,5 +1250,9 @@
     "Otter407": {
         "banneduntil": "2025/5/6",
         "BanReason": "RDM"
+    },
+    "MintyPlus": {
+        "banneduntil": "2099/5/6",
+        "BanReason": "HARD R"
     }
 }
