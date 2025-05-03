@@ -1258,5 +1258,9 @@
     "supermap101": {
         "banneduntil": "2028/7/14",
         "BanReason": "underadge"
+    },
+    "thinkweiser": {
+        "banneduntil": "2025/5/6",
+        "BanReason": "RDM"
     }
 }
