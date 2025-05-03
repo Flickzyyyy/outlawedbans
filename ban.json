@@ -1174,5 +1174,9 @@
     "ironmacs": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "IIIIIIllllllIIIIII": {
+        "banneduntil": "2025/5/10",
+        "BanReason": "sexual harassment"
     }
 }
