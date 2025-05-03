@@ -1182,5 +1182,9 @@
     "FIickzyyy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Impersonation"
+    },
+    "rowanberra": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
