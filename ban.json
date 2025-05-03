@@ -1262,5 +1262,9 @@
     "thinkweiser": {
         "banneduntil": "2025/5/6",
         "BanReason": "RDM"
+    },
+    "jax2022.39242": {
+        "banneduntil": "2099/5/6",
+        "BanReason": "HARD R"
     }
 }
