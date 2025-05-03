@@ -1154,5 +1154,9 @@
     "vic.resnov": {
         "banneduntil": "2025/5/21",
         "BanReason": "rdm+ F SLUR"
+    },
+    "KingVonfrm64th": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "soft a"
     }
 }
