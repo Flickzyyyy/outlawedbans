@@ -1218,5 +1218,9 @@
     "CALISAIN209": {
         "banneduntil": "2025/5/24",
         "BanReason": "Camping + mass RDM + Evading"
+    },
+    "koreeDOOM": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitted to Alting"
     }
 }
