@@ -1146,5 +1146,9 @@
     "hvllcat": {
         "banneduntil": "2025/5/6",
         "BanReason": "rdm"
+    },
+    "Andrewkna": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "rdm+evasion"
     }
 }
