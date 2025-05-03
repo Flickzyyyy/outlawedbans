@@ -1154,5 +1154,9 @@
     "Vamp1re16": {
         "banneduntil": "2025/5/8",
         "BanReason": "rdm+evasion"
+    },
+    "w.wfam": {
+        "banneduntil": "2028/5/2",
+        "BanReason": "underage"
     }
 }
