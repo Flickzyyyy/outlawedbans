@@ -1234,5 +1234,9 @@
     "PREDHUNTERSVR": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "lily.your.babs": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "racist remarks"
     }
 }
