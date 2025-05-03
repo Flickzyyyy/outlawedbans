@@ -1270,5 +1270,9 @@
     "ARTHURMORGAN6": {
         "banneduntil": "2027/5/1",
         "BanReason": "underadge"
+    },
+    "pepsi.guy.vr99": {
+        "banneduntil": "2026/5/1",
+        "BanReason": "underage"
     }
 }
