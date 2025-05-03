@@ -1170,5 +1170,9 @@
     "Verymuchpoopypants503": {
         "banneduntil": "2025/5/30",
         "BanReason": "F SLUR"
+    },
+    "ironmacs": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
