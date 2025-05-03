@@ -1266,5 +1266,9 @@
     "jax2022.39242": {
         "banneduntil": "2099/5/6",
         "BanReason": "HARD R"
+    },
+    "ARTHURMORGAN6": {
+        "banneduntil": "2027/5/1",
+        "BanReason": "underadge"
     }
 }
