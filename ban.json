@@ -1242,5 +1242,9 @@
     "HarryHZ7": {
         "banneduntil": "2025/5/10",
         "BanReason": "Camping"
+    },
+    "Big-Tough-E": {
+        "banneduntil": "2025/5/11",
+        "BanReason": "Cop Targeting"
     }
 }
