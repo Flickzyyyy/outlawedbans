@@ -1150,5 +1150,9 @@
     "rowanberra": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "vic.resnov": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "rdm+ F SLUR"
     }
 }
