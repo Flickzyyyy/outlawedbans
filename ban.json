@@ -1158,5 +1158,9 @@
     "w.wfam": {
         "banneduntil": "2028/5/2",
         "BanReason": "underage"
+    },
+    "yuh.628848": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "rdm+evasion"
     }
 }
