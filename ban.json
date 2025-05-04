@@ -1310,5 +1310,9 @@
     "fancyjigga": {
         "banneduntil": "2099/1/1",
         "BanReason": "user until it\u2019s changed"
+    },
+    "al.bryant.75": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "rdm"
     }
 }
