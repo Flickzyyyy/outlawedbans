@@ -1390,5 +1390,9 @@
     "Leanord544": {
         "banneduntil": "2025/5/8",
         "BanReason": "Rdm"
+    },
+    "BlitzBallMG": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
