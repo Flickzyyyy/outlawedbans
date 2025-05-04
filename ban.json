@@ -1278,5 +1278,9 @@
     "R3KTuRnT": {
         "banneduntil": "2025/5/11",
         "BanReason": "rdm evasion"
+    },
+    "citress": {
+        "banneduntil": "2025/5/7",
+        "BanReason": "rdm/cop target after a warning"
     }
 }
