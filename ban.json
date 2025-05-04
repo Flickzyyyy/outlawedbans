@@ -1382,5 +1382,9 @@
     "goopslimer": {
         "banneduntil": "2025/5/15",
         "BanReason": "spawn camping"
+    },
+    "GOONBLOCK3R": {
+        "banneduntil": "2025/5/15",
+        "BanReason": "camping"
     }
 }
