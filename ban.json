@@ -1378,5 +1378,9 @@
     "salty_vr08": {
         "banneduntil": "2026/5/12",
         "BanReason": "Underage"
+    },
+    "goopslimer": {
+        "banneduntil": "2025/5/15",
+        "BanReason": "spawn camping"
     }
 }
