@@ -1278,5 +1278,9 @@
     "Meikil1.0": {
         "banneduntil": "2025/5/8",
         "BanReason": "cop targeting video report"
+    },
+    "Meiki1.0": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "cop targeting video report"
     }
 }
