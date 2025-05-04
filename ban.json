@@ -1270,5 +1270,9 @@
     "Flamooshka": {
         "banneduntil": "2025/5/7",
         "BanReason": "video report"
+    },
+    "cody-cali": {
+        "banneduntil": "2025/5/18",
+        "BanReason": "f slur"
     }
 }
