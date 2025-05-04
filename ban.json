@@ -1286,5 +1286,9 @@
     "Mempe": {
         "banneduntil": "2025/5/8",
         "BanReason": "RDM, evasion"
+    },
+    "ChikenSamich": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "rdm(video report)"
     }
 }
