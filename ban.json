@@ -1282,5 +1282,9 @@
     "Meiki1.0": {
         "banneduntil": "2025/5/8",
         "BanReason": "cop targeting video report"
+    },
+    "Mempe": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "RDM, evasion"
     }
 }
