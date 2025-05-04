@@ -1358,5 +1358,9 @@
     "KarKar2": {
         "banneduntil": "2025/5/12",
         "BanReason": "RDM, Evasion"
+    },
+    "Cjr81413": {
+        "banneduntil": "2027/1/13",
+        "BanReason": "underage"
     }
 }
