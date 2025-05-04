@@ -1274,5 +1274,9 @@
     "cody-cali": {
         "banneduntil": "2025/5/18",
         "BanReason": "f slur"
+    },
+    "Meikil1.0": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "cop targeting video report"
     }
 }
