@@ -1370,5 +1370,9 @@
     "Evil_M0rty": {
         "banneduntil": "2025/5/12",
         "BanReason": "cop targeting , Evasion"
+    },
+    "wzsniper": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "cop targeting and evasion"
     }
 }
