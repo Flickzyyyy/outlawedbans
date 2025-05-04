@@ -1322,5 +1322,9 @@
     "MonkeymabJJLD": {
         "banneduntil": "2025/5/11",
         "BanReason": "spawn camping and evasion"
+    },
+    "Flickzycangetdismeat": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "rdm"
     }
 }
