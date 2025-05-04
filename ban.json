@@ -1266,5 +1266,9 @@
     "11Jack09": {
         "banneduntil": "2025/5/18",
         "BanReason": "f slur"
+    },
+    "Flamooshka": {
+        "banneduntil": "2025/5/7",
+        "BanReason": "video report"
     }
 }
