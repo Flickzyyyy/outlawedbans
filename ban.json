@@ -1342,5 +1342,9 @@
     "blutaco28": {
         "banneduntil": "2028/5/2",
         "BanReason": "under age 10"
+    },
+    "creamymummy": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "RDM, evasion"
     }
 }
