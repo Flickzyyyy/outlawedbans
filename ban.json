@@ -1386,5 +1386,9 @@
     "GOONBLOCK3R": {
         "banneduntil": "2025/5/15",
         "BanReason": "camping"
+    },
+    "Leanord544": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "Rdm"
     }
 }
