@@ -1354,5 +1354,9 @@
     "Just.A.Russian123": {
         "banneduntil": "2025/5/8",
         "BanReason": "RDM, Evasion"
+    },
+    "KarKar2": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "RDM, Evasion"
     }
 }
