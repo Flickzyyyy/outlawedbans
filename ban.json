@@ -1274,5 +1274,9 @@
     "pepsi.guy.vr999": {
         "banneduntil": "2026/5/1",
         "BanReason": "underage"
+    },
+    "R3KTuRnT": {
+        "banneduntil": "2025/5/11",
+        "BanReason": "rdm evasion"
     }
 }
