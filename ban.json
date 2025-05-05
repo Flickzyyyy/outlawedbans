@@ -1406,5 +1406,9 @@
     "SlimyAn": {
         "banneduntil": "2025/5/19",
         "BanReason": "Racist Comments"
+    },
+    "GaminEamon": {
+        "banneduntil": "2025/5/15",
+        "BanReason": "Cop Targeting+Camping"
     }
 }
