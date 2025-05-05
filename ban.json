@@ -1422,5 +1422,9 @@
     "roadwarrior2.0": {
         "banneduntil": "2025/5/13",
         "BanReason": "RDM+evasion"
+    },
+    "CeeDubVee": {
+        "banneduntil": "2025/5/9",
+        "BanReason": "rdm"
     }
 }
