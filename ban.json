@@ -1430,5 +1430,9 @@
     "TTplayer123": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "kishmaster.064": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "Underaged"
     }
 }
