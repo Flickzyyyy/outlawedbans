@@ -1410,5 +1410,9 @@
     "GaminEamon": {
         "banneduntil": "2025/5/15",
         "BanReason": "Cop Targeting+Camping"
+    },
+    "Bigmansam445": {
+        "banneduntil": "2025/5/8",
+        "BanReason": "Cop Targeting"
     }
 }
