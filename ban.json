@@ -1426,5 +1426,9 @@
     "CeeDubVee": {
         "banneduntil": "2025/5/9",
         "BanReason": "rdm"
+    },
+    "TTplayer123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
