@@ -1394,5 +1394,9 @@
     "BlitzBallMG": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "DiamondDollars": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
