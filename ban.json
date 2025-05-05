@@ -1430,5 +1430,9 @@
     "NixoV": {
         "banneduntil": "2025/5/8",
         "BanReason": "RDM"
+    },
+    "bokbok11": {
+        "banneduntil": "2025/6/2",
+        "BanReason": "F Slur+Homophobic comments"
     }
 }
