@@ -1434,5 +1434,9 @@
     "kishmaster.064": {
         "banneduntil": "2026/5/5",
         "BanReason": "Underaged"
+    },
+    "god.of.game1": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "underaged"
     }
 }
