@@ -1446,5 +1446,9 @@
     "kn.1290": {
         "banneduntil": "2025/5/19",
         "BanReason": "soft a"
+    },
+    "bigdeano.2022": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "RDM+evasion"
     }
 }
