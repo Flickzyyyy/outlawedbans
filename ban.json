@@ -1410,5 +1410,9 @@
     "Sinister_IDIOT": {
         "banneduntil": "2025/5/12",
         "BanReason": "RDM+evasion"
+    },
+    "sebb_a": {
+        "banneduntil": "2025/1/1",
+        "BanReason": "RDM+evasion"
     }
 }
