@@ -1406,5 +1406,9 @@
     "bokbok11": {
         "banneduntil": "2025/6/2",
         "BanReason": "F Slur+Homophobic comments"
+    },
+    "Sinister_IDIOT": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "RDM+evasion"
     }
 }
