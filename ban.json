@@ -1450,5 +1450,9 @@
     "bigdeano.2022": {
         "banneduntil": "2025/5/13",
         "BanReason": "RDM+evasion"
+    },
+    "Idk.prod": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "F SLUR+Evasion"
     }
 }
