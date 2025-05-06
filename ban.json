@@ -1462,5 +1462,9 @@
     "MrMaximus99": {
         "banneduntil": "2025/5/18",
         "BanReason": "derog comment"
+    },
+    "red_dot12": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "rdm- evasion"
     }
 }
