@@ -1422,5 +1422,9 @@
     "raycum": {
         "banneduntil": "2025/5/19",
         "BanReason": "f slur (video report)"
+    },
+    "ajo.1": {
+        "banneduntil": "2025/5/20",
+        "BanReason": "f-slur"
     }
 }
