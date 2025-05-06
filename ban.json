@@ -1426,5 +1426,9 @@
     "ajo.1": {
         "banneduntil": "2025/5/20",
         "BanReason": "f-slur"
+    },
+    "DeathDoesThings": {
+        "banneduntil": "2025/5/20",
+        "BanReason": "harassment, (check PN)"
     }
 }
