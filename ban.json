@@ -1418,5 +1418,9 @@
     "red_dot12": {
         "banneduntil": "2025/5/13",
         "BanReason": "rdm- evasion"
+    },
+    "raycum": {
+        "banneduntil": "2025/5/19",
+        "BanReason": "f slur (video report)"
     }
 }
