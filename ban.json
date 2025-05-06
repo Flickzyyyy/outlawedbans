@@ -1454,5 +1454,9 @@
     "Idk.prod": {
         "banneduntil": "2025/5/23",
         "BanReason": "F SLUR+Evasion"
+    },
+    "nikokai6091": {
+        "banneduntil": "2025/5/9",
+        "BanReason": "Rdm"
     }
 }
