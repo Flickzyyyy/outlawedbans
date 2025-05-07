@@ -1434,5 +1434,9 @@
     "comicdude": {
         "banneduntil": "2025/5/10",
         "BanReason": "MASS RDM and evasion"
+    },
+    "ZKerwood904": {
+        "banneduntil": "2025/5/10",
+        "BanReason": "RDM, Cop Targting"
     }
 }
