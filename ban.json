@@ -1450,5 +1450,9 @@
     "Candyfarts": {
         "banneduntil": "2026/1/1",
         "BanReason": "under age video report ( no DOB)"
+    },
+    "bleepy.20": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "f slur"
     }
 }
