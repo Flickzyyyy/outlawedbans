@@ -1454,5 +1454,9 @@
     "bleepy.20": {
         "banneduntil": "2025/5/21",
         "BanReason": "f slur"
+    },
+    "pemissuk": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "Q slur"
     }
 }
