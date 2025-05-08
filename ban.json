@@ -1470,5 +1470,9 @@
     "Dogeater12345678901": {
         "banneduntil": "2025/5/14",
         "BanReason": "rdm/ evasion"
+    },
+    "BeefNuggets": {
+        "banneduntil": "2025/5/11",
+        "BanReason": "rdm"
     }
 }
