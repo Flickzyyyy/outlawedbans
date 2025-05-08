@@ -1370,5 +1370,9 @@
     "NutRider": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt and evasion"
+    },
+    "stretchedoutwhiteboy": {
+        "banneduntil": "2025/5/28",
+        "BanReason": "f slur RDM"
     }
 }
