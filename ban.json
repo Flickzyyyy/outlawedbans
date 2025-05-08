@@ -1462,5 +1462,9 @@
     "Streetkid13": {
         "banneduntil": "2026/5/6",
         "BanReason": "Underage"
+    },
+    "Axl09": {
+        "banneduntil": "2026/5/14",
+        "BanReason": "Camping"
     }
 }
