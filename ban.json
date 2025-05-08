@@ -1474,5 +1474,9 @@
     "BeefNuggets": {
         "banneduntil": "2025/5/11",
         "BanReason": "rdm"
+    },
+    "ST00NEDD": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "rdm/ evasion + camping"
     }
 }
