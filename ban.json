@@ -1386,5 +1386,9 @@
     "CoolGuy57AM": {
         "banneduntil": "2025/5/22",
         "BanReason": "soft a"
+    },
+    "Katana21_": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "rdm/evasion"
     }
 }
