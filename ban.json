@@ -1406,5 +1406,9 @@
     "fearisamazing": {
         "banneduntil": "2025/5/13",
         "BanReason": "rdm (video report)"
+    },
+    "I_Jamal_l": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
