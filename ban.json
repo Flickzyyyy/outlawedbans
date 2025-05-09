@@ -1386,5 +1386,9 @@
     "gabe_owners": {
         "banneduntil": "2025/5/23",
         "BanReason": "f slur"
+    },
+    "lordlucan.2022": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "RDM EVASION"
     }
 }
