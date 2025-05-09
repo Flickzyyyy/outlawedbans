@@ -1390,5 +1390,9 @@
     "lordlucan.2022": {
         "banneduntil": "2025/5/13",
         "BanReason": "RDM EVASION"
+    },
+    "thefrog_du93": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "underage"
     }
 }
