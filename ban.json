@@ -1394,5 +1394,9 @@
     "thefrog_du93": {
         "banneduntil": "2026/5/13",
         "BanReason": "underage"
+    },
+    "grim_kid": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "homophobic remarks"
     }
 }
