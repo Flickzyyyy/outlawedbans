@@ -1402,5 +1402,9 @@
     "Speedyjoker": {
         "banneduntil": "2025/6/9",
         "BanReason": "Racist Remarks, Sexual Remarks, RDM"
+    },
+    "fearisamazing": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "rdm (video report)"
     }
 }
