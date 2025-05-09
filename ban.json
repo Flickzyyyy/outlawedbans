@@ -1390,5 +1390,9 @@
     "Katana21_": {
         "banneduntil": "2025/5/12",
         "BanReason": "rdm/evasion"
+    },
+    "Clash7273": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
