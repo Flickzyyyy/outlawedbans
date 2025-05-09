@@ -1378,5 +1378,9 @@
     "Mr.Autism": {
         "banneduntil": "2025/5/11",
         "BanReason": "RDM after being given a warning"
+    },
+    "blitz_vv": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "RDM with clip"
     }
 }
