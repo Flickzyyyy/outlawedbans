@@ -1382,5 +1382,9 @@
     "blitz_vv": {
         "banneduntil": "2025/5/12",
         "BanReason": "RDM with clip"
+    },
+    "gabe_owners": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "f slur"
     }
 }
