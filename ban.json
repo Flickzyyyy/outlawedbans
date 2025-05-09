@@ -1380,8 +1380,8 @@
         "BanReason": "RDM after being given a warning"
     },
     "blitz_vv": {
-        "banneduntil": "2025/5/12",
-        "BanReason": "RDM with clip"
+        "banneduntil": "2025/5/13",
+        "BanReason": "rdm(video report)"
     },
     "gabe_owners": {
         "banneduntil": "2025/5/23",
