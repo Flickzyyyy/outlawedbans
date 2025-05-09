@@ -1394,5 +1394,9 @@
     "Clash7273": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "corn_wales": {
+        "banneduntil": "2025/5/12",
+        "BanReason": "rdm and evasion"
     }
 }
