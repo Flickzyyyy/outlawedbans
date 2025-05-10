@@ -1398,5 +1398,9 @@
     "ZargonZozan": {
         "banneduntil": "2025/5/24",
         "BanReason": "MASS TDM+ Camping"
+    },
+    "maxgetz": {
+        "banneduntil": "2025/5/24",
+        "BanReason": "Q Slur"
     }
 }
