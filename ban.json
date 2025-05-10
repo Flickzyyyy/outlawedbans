@@ -1390,5 +1390,9 @@
     "normantitus15": {
         "banneduntil": "2025/5/24",
         "BanReason": "n word baiting"
+    },
+    "Ollie2.0": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "under age"
     }
 }
