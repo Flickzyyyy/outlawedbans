@@ -1386,5 +1386,9 @@
     "skate.skate.masturbate": {
         "banneduntil": "2025/5/17",
         "BanReason": "RDM and evasion"
+    },
+    "normantitus15": {
+        "banneduntil": "2025/5/24",
+        "BanReason": "n word baiting"
     }
 }
