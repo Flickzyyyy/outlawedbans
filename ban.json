@@ -1430,5 +1430,9 @@
     "IIIIIIIIIIIIIIIIII": {
         "banneduntil": "2025/5/14",
         "BanReason": "RDM Report"
+    },
+    "losty_wosty.YT": {
+        "banneduntil": "2025/5/14",
+        "BanReason": "rdm vid submission"
     }
 }
