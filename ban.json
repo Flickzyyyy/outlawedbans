@@ -1450,5 +1450,9 @@
     "MGM1217": {
         "banneduntil": "2026/1/1",
         "BanReason": "underage"
+    },
+    "creamymummy": {
+        "banneduntil": "2025/5/14",
+        "BanReason": "rdm"
     }
 }
