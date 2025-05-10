@@ -1418,5 +1418,9 @@
     "Paddleforward": {
         "banneduntil": "2025/5/18",
         "BanReason": "rdm and evasion"
+    },
+    "paddleforward": {
+        "banneduntil": "2025/5/18",
+        "BanReason": "rdm and evasion"
     }
 }
