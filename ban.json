@@ -1434,5 +1434,9 @@
     "BeerMaxxing": {
         "banneduntil": "2025/5/13",
         "BanReason": "RDM (clip submitted)"
+    },
+    "skate.skate.masturbate": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "RDM and evasion"
     }
 }
