@@ -1454,5 +1454,9 @@
     "creamymummy": {
         "banneduntil": "2025/5/14",
         "BanReason": "rdm"
+    },
+    "diddleman24": {
+        "banneduntil": "2025/5/14",
+        "BanReason": "Evasion and RDM"
     }
 }
