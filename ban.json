@@ -1414,5 +1414,9 @@
     "TonyTalkTuah": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "goldenjed": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
