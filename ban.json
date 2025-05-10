@@ -1418,5 +1418,9 @@
     "goldenjed": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "ALMIGHTYJROD": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "Reason:racist remarks"
     }
 }
