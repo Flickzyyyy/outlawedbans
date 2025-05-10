@@ -1434,5 +1434,9 @@
     "losty_wosty.YT": {
         "banneduntil": "2025/5/14",
         "BanReason": "rdm vid submission"
+    },
+    "PeaterButtPlug": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "rdm"
     }
 }
