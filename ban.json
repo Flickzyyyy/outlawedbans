@@ -1430,5 +1430,9 @@
     "CaptnKullie": {
         "banneduntil": "2025/5/23",
         "BanReason": "Reason: soft a"
+    },
+    "BeerMaxxing": {
+        "banneduntil": "2025/5/13",
+        "BanReason": "RDM (clip submitted)"
     }
 }
