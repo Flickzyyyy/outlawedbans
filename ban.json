@@ -1426,5 +1426,9 @@
     "Enribot": {
         "banneduntil": "2031/5/9",
         "BanReason": "10yr old plus evasion"
+    },
+    "CaptnKullie": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "Reason: soft a"
     }
 }
