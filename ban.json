@@ -1402,5 +1402,9 @@
     "maxgetz": {
         "banneduntil": "2025/5/24",
         "BanReason": "Q Slur"
+    },
+    "TheFrogWizard0327": {
+        "banneduntil": "2027/3/27",
+        "BanReason": "underage and RDM"
     }
 }
