@@ -1486,5 +1486,9 @@
     "Gongledongle": {
         "banneduntil": "2025/5/24",
         "BanReason": "Mass rdm"
+    },
+    "klutzysoda": {
+        "banneduntil": "2099/5/11",
+        "BanReason": "Hard R"
     }
 }
