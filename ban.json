@@ -1506,5 +1506,9 @@
     "puckfuppetOG": {
         "banneduntil": "2025/5/25",
         "BanReason": "Soft-a"
+    },
+    "orphanagebomber": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
