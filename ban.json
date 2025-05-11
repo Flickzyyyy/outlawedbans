@@ -1490,5 +1490,9 @@
     "klutzysoda": {
         "banneduntil": "2099/5/11",
         "BanReason": "Hard R"
+    },
+    "flinstonegummies": {
+        "banneduntil": "2099/5/11",
+        "BanReason": "Alting"
     }
 }
