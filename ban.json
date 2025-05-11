@@ -1482,5 +1482,9 @@
     "MIZRE69": {
         "banneduntil": "2025/6/1",
         "BanReason": "alt, RDM"
+    },
+    "Gongledongle": {
+        "banneduntil": "2025/5/24",
+        "BanReason": "Mass rdm"
     }
 }
