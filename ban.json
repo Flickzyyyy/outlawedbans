@@ -1494,5 +1494,9 @@
     "Ayanl0": {
         "banneduntil": "2025/5/15",
         "BanReason": "rdm"
+    },
+    "REBORNZEKKEN": {
+        "banneduntil": "2099/5/11",
+        "BanReason": "hard r twice"
     }
 }
