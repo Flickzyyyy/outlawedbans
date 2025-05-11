@@ -1466,5 +1466,9 @@
     "Shadowz_King": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "exfilzonefemboy": {
+        "banneduntil": "2025/5/19",
+        "BanReason": "Evasion and RDM"
     }
 }
