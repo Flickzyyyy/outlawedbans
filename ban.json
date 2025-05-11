@@ -1502,5 +1502,9 @@
     "BoomBapGod": {
         "banneduntil": "2025/5/19",
         "BanReason": "Rdm and evasion"
+    },
+    "puckfuppetOG": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "Soft a"
     }
 }
