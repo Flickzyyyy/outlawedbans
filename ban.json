@@ -1494,5 +1494,9 @@
     "flinstonegummies": {
         "banneduntil": "2099/5/11",
         "BanReason": "Alting"
+    },
+    "racecareli": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage"
     }
 }
