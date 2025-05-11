@@ -1458,5 +1458,9 @@
     "Mempe": {
         "banneduntil": "2025/5/18",
         "BanReason": "cop targeting and evading admin sit"
+    },
+    "exfilzonefemboy": {
+        "banneduntil": "2025/5/11",
+        "BanReason": "Evasion and RDM"
     }
 }
