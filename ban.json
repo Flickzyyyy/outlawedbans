@@ -1474,5 +1474,9 @@
     "kedru": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "yessirreebow11": {
+        "banneduntil": "2025/5/15",
+        "BanReason": "rdm video report"
     }
 }
