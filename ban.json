@@ -1454,5 +1454,9 @@
     "SkibbidiCumRocket221": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r video report"
+    },
+    "Mempe": {
+        "banneduntil": "2025/5/18",
+        "BanReason": "cop targeting and evading admin sit"
     }
 }
