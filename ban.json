@@ -1498,5 +1498,9 @@
     "REBORNZEKKEN": {
         "banneduntil": "2099/5/11",
         "BanReason": "hard r twice"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2025/5/19",
+        "BanReason": "Rdm and evasion"
     }
 }
