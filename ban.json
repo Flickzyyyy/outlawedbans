@@ -1490,5 +1490,9 @@
     "bryshk": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Ayanl0": {
+        "banneduntil": "2025/5/15",
+        "BanReason": "rdm"
     }
 }
