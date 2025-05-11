@@ -1470,5 +1470,9 @@
     "exfilzonefemboy": {
         "banneduntil": "2025/5/19",
         "BanReason": "Evasion and RDM"
+    },
+    "kedru": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
