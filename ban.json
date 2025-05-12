@@ -1490,5 +1490,9 @@
     "Special_Needz": {
         "banneduntil": "2025/5/16",
         "BanReason": "rdm"
+    },
+    "NeonWren9140": {
+        "banneduntil": "2025/5/26",
+        "BanReason": "derog"
     }
 }
