@@ -1514,5 +1514,9 @@
     "LocalDuckGuy": {
         "banneduntil": "2025/5/26",
         "BanReason": "harassment"
+    },
+    "RaymondLovesTWD": {
+        "banneduntil": "2025/5/26",
+        "BanReason": "harassment"
     }
 }
