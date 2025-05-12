@@ -1514,5 +1514,9 @@
     "fleshwave": {
         "banneduntil": "2025/5/25",
         "BanReason": "sexual remarks"
+    },
+    "reallybadatgame": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "Derogatory remarks towards a native"
     }
 }
