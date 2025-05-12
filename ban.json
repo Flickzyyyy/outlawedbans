@@ -1506,5 +1506,9 @@
     "Kafkaisque01": {
         "banneduntil": "2025/5/20",
         "BanReason": "rdm/Evasion"
+    },
+    "MOE_ZEDK.ace.208": {
+        "banneduntil": "2025/5/16",
+        "BanReason": "rdm"
     }
 }
