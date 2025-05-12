@@ -1522,5 +1522,9 @@
     "Gumfund": {
         "banneduntil": "2025/10/1",
         "BanReason": "underage"
+    },
+    "RoccoBama43": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "Sexual Actions/RDM"
     }
 }
