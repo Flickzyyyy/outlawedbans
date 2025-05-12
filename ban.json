@@ -1510,5 +1510,9 @@
     "MOE_ZEDK.ace.208": {
         "banneduntil": "2025/5/16",
         "BanReason": "rdm"
+    },
+    "LocalDuckGuy": {
+        "banneduntil": "2025/5/26",
+        "BanReason": "harassment"
     }
 }
