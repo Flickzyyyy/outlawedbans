@@ -1494,5 +1494,9 @@
     "NeonWren9140": {
         "banneduntil": "2025/5/26",
         "BanReason": "derog"
+    },
+    "vincent.384873": {
+        "banneduntil": "2025/5/20",
+        "BanReason": "rdm/Evasion"
     }
 }
