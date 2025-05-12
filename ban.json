@@ -1502,5 +1502,9 @@
     "tastez.like.milk": {
         "banneduntil": "2025/5/20",
         "BanReason": "rdm/Evasion"
+    },
+    "Kafkaisque01": {
+        "banneduntil": "2025/5/20",
+        "BanReason": "rdm/Evasion"
     }
 }
