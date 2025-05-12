@@ -1498,5 +1498,9 @@
     "vincent.384873": {
         "banneduntil": "2025/5/20",
         "BanReason": "rdm/Evasion"
+    },
+    "tastez.like.milk": {
+        "banneduntil": "2025/5/20",
+        "BanReason": "rdm/Evasion"
     }
 }
