@@ -1510,5 +1510,9 @@
     "orphanagebomber": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "fleshwave": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "sexual remarks"
     }
 }
