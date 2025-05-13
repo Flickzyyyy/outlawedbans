@@ -1578,5 +1578,9 @@
     "quiktrop": {
         "banneduntil": "2025/5/17",
         "BanReason": "rdm"
+    },
+    "Safem": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
