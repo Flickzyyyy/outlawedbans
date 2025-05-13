@@ -1554,5 +1554,9 @@
     "Jimy_AC": {
         "banneduntil": "2025/6/13",
         "BanReason": "f slur evasion"
+    },
+    "MapleVReality": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "possible RDM, and evasion"
     }
 }
