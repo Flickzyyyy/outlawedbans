@@ -1522,5 +1522,9 @@
     "voxygen": {
         "banneduntil": "2025/5/17",
         "BanReason": "RDM in spawn"
+    },
+    "EdgarAllenBruh": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "spawn"
     }
 }
