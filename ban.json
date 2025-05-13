@@ -1550,5 +1550,9 @@
     "Cocomc21": {
         "banneduntil": "2025/5/21",
         "BanReason": "RDM:Evasion"
+    },
+    "Jimy_AC": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "f slur"
     }
 }
