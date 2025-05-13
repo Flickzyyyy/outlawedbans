@@ -1538,5 +1538,9 @@
     "ihs2000": {
         "banneduntil": "2025/5/21",
         "BanReason": "RDM:Evasion"
+    },
+    "CharleyJames": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "RDM EVASION"
     }
 }
