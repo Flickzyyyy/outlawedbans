@@ -1518,5 +1518,9 @@
     "huntervr.490102": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "voxygen": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "RDM in spawn"
     }
 }
