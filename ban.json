@@ -1542,5 +1542,9 @@
     "CharleyJames": {
         "banneduntil": "2025/5/17",
         "BanReason": "RDM EVASION"
+    },
+    "I_Jamal_I": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "RDM:Evasion"
     }
 }
