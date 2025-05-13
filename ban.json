@@ -1550,5 +1550,9 @@
     "Easton20210": {
         "banneduntil": "2025/5/26",
         "BanReason": "F Slur"
+    },
+    "wetawdedOG7": {
+        "banneduntil": "2025/5/26",
+        "BanReason": "Derogatory Word"
     }
 }
