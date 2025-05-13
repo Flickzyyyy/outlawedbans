@@ -1526,5 +1526,9 @@
     "EdgarAllenBruh": {
         "banneduntil": "2025/5/17",
         "BanReason": "rdm"
+    },
+    "Bacoloop": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "rdm/Evasion"
     }
 }
