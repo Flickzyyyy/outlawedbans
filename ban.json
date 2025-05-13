@@ -1514,5 +1514,9 @@
     "RaRaRiach": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "huntervr.490102": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
