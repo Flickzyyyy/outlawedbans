@@ -1530,5 +1530,9 @@
     "Bacoloop": {
         "banneduntil": "2025/5/21",
         "BanReason": "rdm/Evasion"
+    },
+    "ytAustin": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "RDM:Evasion"
     }
 }
