@@ -1574,5 +1574,9 @@
     "Bible_camp_victim___324": {
         "banneduntil": "2026/1/1",
         "BanReason": "12 yr old no exact birthday given"
+    },
+    "quiktrop": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "rdm"
     }
 }
