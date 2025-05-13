@@ -1502,5 +1502,9 @@
     "Brenden_2009": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "JackatackYT": {
+        "banneduntil": "2025/5/17",
+        "BanReason": "rdm"
     }
 }
