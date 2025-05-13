@@ -1558,5 +1558,9 @@
     "corn_wales": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "RdotGzz": {
+        "banneduntil": "2025/5/24",
+        "BanReason": "soft a"
     }
 }
