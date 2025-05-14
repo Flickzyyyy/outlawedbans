@@ -1586,5 +1586,9 @@
     "mpjgentry": {
         "banneduntil": "2025/5/27",
         "BanReason": "sexual misconduct"
+    },
+    "g.624593": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "underage"
     }
 }
