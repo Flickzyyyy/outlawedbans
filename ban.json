@@ -1554,5 +1554,9 @@
     "Diinkle": {
         "banneduntil": "2025/5/22",
         "BanReason": "rdm+evasion"
+    },
+    "Echo_ct7515": {
+        "banneduntil": "2027/01/01",
+        "BanReason": "underage"
     }
 }
