@@ -1558,5 +1558,9 @@
     "Echo_ct7515": {
         "banneduntil": "2027/01/01",
         "BanReason": "underage"
+    },
+    "Yunusog": {
+        "banneduntil": "2025/5/28",
+        "BanReason": "sexual misconduct"
     }
 }
