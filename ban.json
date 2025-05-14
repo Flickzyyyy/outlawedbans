@@ -1582,5 +1582,9 @@
     "Safem": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "mpjgentry": {
+        "banneduntil": "2025/5/27",
+        "BanReason": "sexual misconduct"
     }
 }
