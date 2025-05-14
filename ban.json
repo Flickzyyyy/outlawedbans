@@ -1550,5 +1550,9 @@
     "karsenkyle": {
         "banneduntil": "2025/5/21",
         "BanReason": "rdm+evasion"
+    },
+    "Diinkle": {
+        "banneduntil": "2025/5/22",
+        "BanReason": "rdm+evasion"
     }
 }
