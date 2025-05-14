@@ -1590,5 +1590,9 @@
     "Bolenek": {
         "banneduntil": "2025/5/18",
         "BanReason": "rdm"
+    },
+    "Jbtwins2009": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "camping"
     }
 }
