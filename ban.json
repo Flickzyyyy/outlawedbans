@@ -1606,5 +1606,9 @@
     "Ghost_RXP": {
         "banneduntil": "2025/5/19",
         "BanReason": "RDM"
+    },
+    "Tjmartin3054": {
+        "banneduntil": "2025/5/19",
+        "BanReason": "RDM with clip"
     }
 }
