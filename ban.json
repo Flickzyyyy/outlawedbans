@@ -1590,5 +1590,9 @@
     "FunnyFatMan06": {
         "banneduntil": "2025/5/28",
         "BanReason": "soft"
+    },
+    "Guilysuit1504": {
+        "banneduntil": "2026/01/01",
+        "BanReason": "underage/Evasion"
     }
 }
