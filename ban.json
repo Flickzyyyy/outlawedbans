@@ -1610,5 +1610,9 @@
     "OFWGKTA.666": {
         "banneduntil": "2025/5/28",
         "BanReason": "Homophobic remarks"
+    },
+    "BigTed5433": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "rdm after warned"
     }
 }
