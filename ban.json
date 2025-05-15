@@ -1622,5 +1622,9 @@
     "1FallinDeadReliveLife1": {
         "banneduntil": "2099/5/15",
         "BanReason": "hard r"
+    },
+    "Ayan10": {
+        "banneduntil": "2025/5/22",
+        "BanReason": "camping"
     }
 }
