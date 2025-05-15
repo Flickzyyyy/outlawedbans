@@ -1614,5 +1614,9 @@
     "Big-Tough-E": {
         "banneduntil": "2025/5/19",
         "BanReason": "RDM with clip"
+    },
+    "1FallinDeadReliveLife": {
+        "banneduntil": "2099/5/15",
+        "BanReason": "hard r"
     }
 }
