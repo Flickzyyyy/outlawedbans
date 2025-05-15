@@ -1602,5 +1602,9 @@
     "Leanord544": {
         "banneduntil": "2025/5/23",
         "BanReason": "RDM and evasion"
+    },
+    "Ghost_RXP": {
+        "banneduntil": "2025/5/19",
+        "BanReason": "RDM"
     }
 }
