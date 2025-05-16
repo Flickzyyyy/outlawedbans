@@ -1642,5 +1642,9 @@
     "INSTANT.AF": {
         "banneduntil": "2025/5/23",
         "BanReason": "rdm and evasion"
+    },
+    "vonkingvon": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
