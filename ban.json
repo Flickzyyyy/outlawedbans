@@ -1654,5 +1654,9 @@
     "Gamer4life0516": {
         "banneduntil": "20/5/5/19",
         "BanReason": "RDM EVASION"
+    },
+    "universai.nut": {
+        "banneduntil": "2025/5/19",
+        "BanReason": "RDM Evasion"
     }
 }
