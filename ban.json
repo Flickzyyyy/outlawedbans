@@ -1638,5 +1638,9 @@
     "capigod.ok": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Delta_8763": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "mass rdm"
     }
 }
