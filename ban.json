@@ -1658,5 +1658,9 @@
     "universai.nut": {
         "banneduntil": "2025/5/19",
         "BanReason": "RDM Evasion"
+    },
+    "GuyFwen": {
+        "banneduntil": "2025/5/29",
+        "BanReason": "F-slur"
     }
 }
