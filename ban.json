@@ -1642,5 +1642,9 @@
     "AidenOwen9": {
         "banneduntil": "2026/1/3",
         "BanReason": "underaged"
+    },
+    "CaseDJ": {
+        "banneduntil": "2027/6/25",
+        "BanReason": "underaged"
     }
 }
