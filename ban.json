@@ -1650,5 +1650,9 @@
     "Ruthlessz": {
         "banneduntil": "2025/10/28",
         "BanReason": "UNDERAGED"
+    },
+    "The_Notorious_BAP": {
+        "banneduntil": "2025/5/20",
+        "BanReason": "rdm"
     }
 }
