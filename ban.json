@@ -1658,5 +1658,9 @@
     "RocKy_N": {
         "banneduntil": "2025/5/31",
         "BanReason": "f slur"
+    },
+    "coconutx": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underage"
     }
 }
