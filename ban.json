@@ -1702,5 +1702,9 @@
     "big13fickI": {
         "banneduntil": "2025/5/25",
         "BanReason": "Rdm evasion"
+    },
+    "big13fickl": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "Rdm evasion"
     }
 }
