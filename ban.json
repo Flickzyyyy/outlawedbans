@@ -1662,5 +1662,9 @@
     "coconutx": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "DedassSupreme": {
+        "banneduntil": "2025/5/21",
+        "BanReason": "rdm"
     }
 }
