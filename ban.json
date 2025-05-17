@@ -1694,5 +1694,9 @@
     "LIL_LO2": {
         "banneduntil": "2025/5/31",
         "BanReason": "f Slur"
+    },
+    "chickenjockysoup": {
+        "banneduntil": "2025/5/31",
+        "BanReason": "soft a"
     }
 }
