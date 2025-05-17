@@ -1654,5 +1654,9 @@
     "C0CKQUEST": {
         "banneduntil": "2025/5/30",
         "BanReason": "ALT"
+    },
+    "RocKy_N": {
+        "banneduntil": "2025/5/31",
+        "BanReason": "f slur"
     }
 }
