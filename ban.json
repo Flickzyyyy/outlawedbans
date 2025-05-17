@@ -1722,5 +1722,9 @@
     "walkman716": {
         "banneduntil": "2099/1/1",
         "BanReason": "excess bans"
+    },
+    "Diddynator69420": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "Rdm evasion"
     }
 }
