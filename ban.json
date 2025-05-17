@@ -1638,5 +1638,9 @@
     "RedPukeInDaToilet": {
         "banneduntil": "2099/5/20",
         "BanReason": "ALT"
+    },
+    "Scrillzz": {
+        "banneduntil": "2099/5/30",
+        "BanReason": "HARD R"
     }
 }
