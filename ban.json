@@ -1678,5 +1678,9 @@
     "hagenboys.2024": {
         "banneduntil": "2027/8/20",
         "BanReason": "under"
+    },
+    "GeorgeDroidTheFirst": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt account."
     }
 }
