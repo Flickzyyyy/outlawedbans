@@ -1710,5 +1710,9 @@
     "ElasticBuckle": {
         "banneduntil": "2025/5/25",
         "BanReason": "rdm evasion. Shot two people in a row for no reason"
+    },
+    "boi154": {
+        "banneduntil": "2025/5/31",
+        "BanReason": "Sexual remarks"
     }
 }
