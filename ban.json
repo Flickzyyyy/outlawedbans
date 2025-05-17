@@ -1738,5 +1738,9 @@
     "BigStingRayBSR": {
         "banneduntil": "2025/5/25",
         "BanReason": "Rdm evasion"
+    },
+    "ShibaPerson100": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "Rdm evasion"
     }
 }
