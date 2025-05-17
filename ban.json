@@ -1734,5 +1734,9 @@
     "Tuyo_69": {
         "banneduntil": "2025/5/31",
         "BanReason": "Soft a"
+    },
+    "BigStingRayBSR": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "Rdm evasion"
     }
 }
