@@ -1650,5 +1650,9 @@
     "Grahamerslammer": {
         "banneduntil": "2025/5/30",
         "BanReason": "Sexual Remarks"
+    },
+    "C0CKQUEST": {
+        "banneduntil": "2025/5/30",
+        "BanReason": "ALT"
     }
 }
