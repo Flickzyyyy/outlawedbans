@@ -1654,5 +1654,9 @@
     "The_Notorious_BAP": {
         "banneduntil": "2025/5/20",
         "BanReason": "rdm"
+    },
+    "Karkar2": {
+        "banneduntil": "2025/5/26",
+        "BanReason": "spawn camping, Rdm"
     }
 }
