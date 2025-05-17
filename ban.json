@@ -1634,5 +1634,9 @@
     "Sazzy2_0": {
         "banneduntil": "2025/5/30",
         "BanReason": "F SLUR"
+    },
+    "RedPukeInDaToilet": {
+        "banneduntil": "2099/5/20",
+        "BanReason": "ALT"
     }
 }
