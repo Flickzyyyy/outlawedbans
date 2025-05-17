@@ -1706,5 +1706,9 @@
     "big13fickl": {
         "banneduntil": "2025/5/25",
         "BanReason": "Rdm evasion"
+    },
+    "ElasticBuckle": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "rdm evasion. Shot two people in a row for no reason"
     }
 }
