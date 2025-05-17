@@ -1686,5 +1686,9 @@
     "joscoolmon": {
         "banneduntil": "2025/5/25",
         "BanReason": "Rdm and evasion"
+    },
+    "Sniper5678": {
+        "banneduntil": "2025/5/31",
+        "BanReason": "Soft a"
     }
 }
