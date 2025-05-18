@@ -1722,5 +1722,9 @@
     "ebuckner4": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r video report"
+    },
+    "Ehoulvanquisher": {
+        "banneduntil": "2025/5/22",
+        "BanReason": "Rdm video report"
     }
 }
