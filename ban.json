@@ -1750,5 +1750,9 @@
     "oldchinesecat21": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "TheTrueOne17": {
+        "banneduntil": "2025/6/1",
+        "BanReason": "spawn camping and evasion"
     }
 }
