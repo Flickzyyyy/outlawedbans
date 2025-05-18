@@ -1738,5 +1738,9 @@
     "1_bee_keeper_1": {
         "banneduntil": "2025/6/1",
         "BanReason": "soft a"
+    },
+    "JohnWickyThe3rd": {
+        "banneduntil": "2025/5/26",
+        "BanReason": "Cop targeting + Evasion"
     }
 }
