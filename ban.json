@@ -1742,5 +1742,9 @@
     "JohnWickyThe3rd": {
         "banneduntil": "2025/5/26",
         "BanReason": "Cop targeting + Evasion"
+    },
+    "Ozious": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "video clip"
     }
 }
