@@ -1742,5 +1742,9 @@
     "ShibaPerson100": {
         "banneduntil": "2025/5/25",
         "BanReason": "Rdm evasion"
+    },
+    "Toxic9807": {
+        "banneduntil": "2026/10/13",
+        "BanReason": "Underage"
     }
 }
