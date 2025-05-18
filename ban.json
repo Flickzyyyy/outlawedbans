@@ -1682,5 +1682,9 @@
     "SandGuardian2": {
         "banneduntil": "2025/5/19",
         "BanReason": "abusing suicide"
+    },
+    "catwuver1234": {
+        "banneduntil": "2025/5/25",
+        "BanReason": "spawn camping"
     }
 }
