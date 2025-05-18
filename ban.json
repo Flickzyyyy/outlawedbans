@@ -1686,5 +1686,9 @@
     "catwuver1234": {
         "banneduntil": "2025/5/25",
         "BanReason": "spawn camping"
+    },
+    "GEAR_SHARX": {
+        "banneduntil": "2025/6/1",
+        "BanReason": "f slur"
     }
 }
