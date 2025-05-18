@@ -1678,5 +1678,9 @@
     "Joey7516": {
         "banneduntil": "2025/5/31",
         "BanReason": "Soft a"
+    },
+    "SandGuardian2": {
+        "banneduntil": "2025/5/19",
+        "BanReason": "abusing suicide"
     }
 }
