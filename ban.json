@@ -1694,5 +1694,9 @@
     "overlord.123456789": {
         "banneduntil": "2025/5/25",
         "BanReason": "Soft A"
+    },
+    "CockQuest": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
