@@ -1746,5 +1746,9 @@
     "DonTonyzBro": {
         "banneduntil": "2025/6/4",
         "BanReason": "Mass RDM"
+    },
+    "SHRKLP": {
+        "banneduntil": "2025/5/24",
+        "BanReason": "RDM"
     }
 }
