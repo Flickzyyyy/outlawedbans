@@ -1758,5 +1758,9 @@
     "Lurxx": {
         "banneduntil": "2025/5/24",
         "BanReason": "RDM"
+    },
+    "Lurrxx": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "mass RDM"
     }
 }
