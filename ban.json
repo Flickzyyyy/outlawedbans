@@ -1730,5 +1730,9 @@
     "NicholasRage2010": {
         "banneduntil": "2025/6/9",
         "BanReason": "sexual remarks+evasion"
+    },
+    "i_Fap_TwoHanded": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "sexual name"
     }
 }
