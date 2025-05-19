@@ -1722,5 +1722,9 @@
     "BillPrime": {
         "banneduntil": "2025/6/4",
         "BanReason": "Mass RDM, cop targeting, Evasion"
+    },
+    "Ppman6969": {
+        "banneduntil": "2025/5/27",
+        "BanReason": "Rdm evasion"
     }
 }
