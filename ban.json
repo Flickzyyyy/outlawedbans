@@ -1734,5 +1734,9 @@
     "i_Fap_TwoHanded": {
         "banneduntil": "2099/1/1",
         "BanReason": "sexual name"
+    },
+    "BlackSkull475": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual misconduct"
     }
 }
