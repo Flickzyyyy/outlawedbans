@@ -1790,5 +1790,9 @@
     "KR1SP_33Z": {
         "banneduntil": "2025/5/20",
         "BanReason": "Underaged"
+    },
+    "Jadielleft": {
+        "banneduntil": "2026/5/29",
+        "BanReason": "Mass RDM"
     }
 }
