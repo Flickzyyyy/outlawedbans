@@ -1706,5 +1706,9 @@
     "500lbs": {
         "banneduntil": "2025/5/26",
         "BanReason": "rdm"
+    },
+    "yaboidom3": {
+        "banneduntil": "2025/6/5",
+        "BanReason": "soft A"
     }
 }
