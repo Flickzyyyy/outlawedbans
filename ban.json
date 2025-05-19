@@ -1710,5 +1710,9 @@
     "yaboidom3": {
         "banneduntil": "2025/6/5",
         "BanReason": "soft A"
+    },
+    "NightlyTundra65": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "MASS RDM, Evasion,"
     }
 }
