@@ -1794,5 +1794,9 @@
     "Jadielleft": {
         "banneduntil": "2026/5/29",
         "BanReason": "Mass RDM+evasion"
+    },
+    "PeachMann00": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "rdm"
     }
 }
