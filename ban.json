@@ -1822,5 +1822,9 @@
     "tee.vee.2022.2022": {
         "banneduntil": "2025/6/4",
         "BanReason": "sexual misconduct"
+    },
+    "WLR_Tacokermit": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ip threats"
     }
 }
