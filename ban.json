@@ -1810,5 +1810,9 @@
     "diggy14.2022": {
         "banneduntil": "2027/1/1",
         "BanReason": "underaged"
+    },
+    "don\u2019t.steal.my.name": {
+        "banneduntil": "2025/6/2",
+        "BanReason": "soft a"
     }
 }
