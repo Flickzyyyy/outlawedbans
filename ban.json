@@ -1826,5 +1826,9 @@
     "Luhbonkq": {
         "banneduntil": "2025/5/29",
         "BanReason": "RDM + Evading"
+    },
+    "devilechiken": {
+        "banneduntil": "2025/5/26",
+        "BanReason": "Mass RDM"
     }
 }
