@@ -1818,5 +1818,9 @@
     "The_Toothpaste_man": {
         "banneduntil": "2025/5/28",
         "BanReason": "Rdm and evasion"
+    },
+    "NeckKutter17": {
+        "banneduntil": "2025/5/23",
+        "BanReason": "RDM"
     }
 }
