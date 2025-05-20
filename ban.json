@@ -1802,5 +1802,9 @@
     "goochygooner": {
         "banneduntil": "2099/1/1",
         "BanReason": "rdm"
+    },
+    "goobalong": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
