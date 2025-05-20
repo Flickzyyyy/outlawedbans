@@ -1846,5 +1846,9 @@
     "Lewis.65921": {
         "banneduntil": "2025/5/24",
         "BanReason": "RDM report"
+    },
+    "Roni1969": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
