@@ -1812,7 +1812,7 @@
         "BanReason": "alt"
     },
     "DangerRanger05": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "alt"
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
