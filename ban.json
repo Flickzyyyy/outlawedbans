@@ -1830,5 +1830,9 @@
     "devilechiken": {
         "banneduntil": "2025/5/26",
         "BanReason": "Mass RDM"
+    },
+    "Ghoulvanquisher": {
+        "banneduntil": "2025/5/27",
+        "BanReason": "Mass RDM"
     }
 }
