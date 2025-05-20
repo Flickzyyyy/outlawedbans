@@ -1842,5 +1842,9 @@
     "itsjustfacts357": {
         "banneduntil": "2025/6/1",
         "BanReason": "Soft a. Said soft a in spawn"
+    },
+    "WarehouseLA": {
+        "banneduntil": "2025/5/27",
+        "BanReason": "Rdm and evasion"
     }
 }
