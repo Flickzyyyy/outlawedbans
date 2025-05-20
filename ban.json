@@ -1798,5 +1798,9 @@
     "swagboycumball": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "goochygooner": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "rdm"
     }
 }
