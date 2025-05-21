@@ -1862,5 +1862,9 @@
     "Ibrahimll": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard"
+    },
+    "sampsdokknes200": {
+        "banneduntil": "2010/2/31",
+        "BanReason": "to silly"
     }
 }
