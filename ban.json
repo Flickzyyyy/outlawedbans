@@ -1870,5 +1870,9 @@
     "TickleTimmson": {
         "banneduntil": "2025/6/4",
         "BanReason": "sexual gestures and rdm"
+    },
+    "mostlychill": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
