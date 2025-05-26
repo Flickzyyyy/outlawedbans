@@ -1542,5 +1542,9 @@
     "king.von.420": {
         "banneduntil": "2025/6/9",
         "BanReason": "Soft A"
+    },
+    "Froyo_Clips66": {
+        "banneduntil": "2025/5/30",
+        "BanReason": "RDM"
     }
 }
