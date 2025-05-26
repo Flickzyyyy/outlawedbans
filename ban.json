@@ -1538,5 +1538,9 @@
     "Pingisking": {
         "banneduntil": "2025/8/15",
         "BanReason": "Underaged"
+    },
+    "king.von.420": {
+        "banneduntil": "2025/6/9",
+        "BanReason": "Soft A"
     }
 }
