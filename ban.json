@@ -1546,5 +1546,9 @@
     "Froyo_Clips66": {
         "banneduntil": "2025/5/30",
         "BanReason": "RDM"
+    },
+    "Buckethead10y": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
