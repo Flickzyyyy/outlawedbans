@@ -1370,9 +1370,5 @@
     "Ckarnold23": {
         "banneduntil": "2028/6/15",
         "BanReason": "10 year old"
-    },
-    "prison.warden": {
-        "banneduntil": "2000/1/1",
-        "BanReason": "Above age limit now"
     }
 }
