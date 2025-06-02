@@ -1354,5 +1354,9 @@
     "ticklemonster555": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Theshaqolantern": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "Mass rdm and evasion"
     }
 }
