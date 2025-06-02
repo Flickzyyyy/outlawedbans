@@ -1358,5 +1358,9 @@
     "Theshaqolantern": {
         "banneduntil": "2025/6/15",
         "BanReason": "Mass rdm and evasion"
+    },
+    "skylor.47650": {
+        "banneduntil": "2029/6/15",
+        "BanReason": "underage"
     }
 }
