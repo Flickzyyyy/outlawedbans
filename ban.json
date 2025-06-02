@@ -1394,5 +1394,9 @@
     "PineappleManz": {
         "banneduntil": "2025/6/6",
         "BanReason": "RDM"
+    },
+    "4204life.2022": {
+        "banneduntil": "2025/6/9",
+        "BanReason": "Spawn Camping"
     }
 }
