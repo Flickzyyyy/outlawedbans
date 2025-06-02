@@ -1390,5 +1390,9 @@
     "happyduck1234": {
         "banneduntil": "2025/6/16",
         "BanReason": "Racism towards Jewish people"
+    },
+    "PineappleManz": {
+        "banneduntil": "2025/6/6",
+        "BanReason": "RDM"
     }
 }
