@@ -1418,5 +1418,9 @@
     "anuswatterson": {
         "banneduntil": "2025/6/24",
         "BanReason": "mass rdm f slur"
+    },
+    "carlpoorlice": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "admitting to being on alts"
     }
 }
