@@ -1426,5 +1426,9 @@
     "Blacksc9": {
         "banneduntil": "2025/6/17",
         "BanReason": "f slur with clip"
+    },
+    "Rip_Bluewolf": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "rdm plus evasion"
     }
 }
