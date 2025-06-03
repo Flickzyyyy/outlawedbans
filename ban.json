@@ -1442,5 +1442,9 @@
     "LUCKY_TT": {
         "banneduntil": "2025/6/31",
         "BanReason": "Under age"
+    },
+    "AVarkainChief": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
