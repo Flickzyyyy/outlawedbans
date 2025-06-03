@@ -1430,5 +1430,9 @@
     "Rip_Bluewolf": {
         "banneduntil": "2025/6/11",
         "BanReason": "rdm plus evasion"
+    },
+    "HMMz": {
+        "banneduntil": "2027/4/19",
+        "BanReason": "underage"
     }
 }
