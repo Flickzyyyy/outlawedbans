@@ -1450,5 +1450,9 @@
     "PDcruzz22": {
         "banneduntil": "2099/01/01",
         "BanReason": "hard r"
+    },
+    "PDcruz22": {
+        "banneduntil": "2099/01/01",
+        "BanReason": "hard r"
     }
 }
