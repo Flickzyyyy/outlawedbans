@@ -1446,5 +1446,9 @@
     "AVarkainChief": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "PDcruzz22": {
+        "banneduntil": "2099/01/01",
+        "BanReason": "hard r"
     }
 }
