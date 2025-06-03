@@ -1438,5 +1438,9 @@
     "OnionGrass2023": {
         "banneduntil": "2025/7/3",
         "BanReason": "called me  g@y plus evasion"
+    },
+    "LUCKY_TT": {
+        "banneduntil": "2025/6/31",
+        "BanReason": "Under age"
     }
 }
