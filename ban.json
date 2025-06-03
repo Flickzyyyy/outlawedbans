@@ -1422,5 +1422,9 @@
     "carlpoorlice": {
         "banneduntil": "2099/1/1",
         "BanReason": "admitting to being on alts"
+    },
+    "Blacksc9": {
+        "banneduntil": "2025/6/17",
+        "BanReason": "f slur with clip"
     }
 }
