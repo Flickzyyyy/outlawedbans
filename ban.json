@@ -1486,5 +1486,9 @@
     "Pbberry226": {
         "banneduntil": "2025/6/10",
         "BanReason": "Mass RDM"
+    },
+    "p019": {
+        "banneduntil": "2025/6/7",
+        "BanReason": "RDM"
     }
 }
