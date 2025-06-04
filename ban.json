@@ -1215,6 +1215,18 @@
         "banneduntil": "2025/6/5",
         "BanReason": "soft A"
     },
+    "NightlyTundra65": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "MASS RDM, Evasion,"
+    },
+    "JAKEZXYS_R6": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual misconduct, RDM"
+    },
+    "BillPrime": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "Mass RDM, cop targeting, Evasion"
+    },
     "NicholasRage2010": {
         "banneduntil": "2025/6/9",
         "BanReason": "sexual remarks+evasion"
@@ -1223,6 +1235,30 @@
         "banneduntil": "2099/1/1",
         "BanReason": "sexual name"
     },
+    "BlackSkull475": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual misconduct"
+    },
+    "XTC": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "soft A"
+    },
+    "DonTonyzBro": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "Mass RDM"
+    },
+    "BamBam6670": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual misconduct"
+    },
+    "Lurrxx": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "mass RDM"
+    },
+    "Kerp5": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual misconduct"
+    },
     "dami81711": {
         "banneduntil": "2025/6/6",
         "BanReason": "sexual misconduct"
@@ -1230,6 +1266,14 @@
     "Lt.Lee01": {
         "banneduntil": "2099/6/4",
         "BanReason": "HARD R"
+    },
+    "Swelly": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual misconduct"
+    },
+    "murphy.408260": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "mass RDM"
     },
     "snakeboy77": {
         "banneduntil": "2026/5/23",
@@ -1242,6 +1286,10 @@
     "diggy14.2022": {
         "banneduntil": "2027/1/1",
         "BanReason": "underaged"
+    },
+    "tee.vee.2022.2022": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual misconduct"
     },
     "WLR_Tacokermit": {
         "banneduntil": "2099/1/1",
@@ -1278,6 +1326,10 @@
     "sampsdokknes200": {
         "banneduntil": "2010/2/31",
         "BanReason": "to silly"
+    },
+    "TickleTimmson": {
+        "banneduntil": "2025/6/4",
+        "BanReason": "sexual gestures and rdm"
     },
     "dantheman6538": {
         "banneduntil": "2099/1/1",
@@ -1438,5 +1490,9 @@
     "p019": {
         "banneduntil": "2025/6/7",
         "BanReason": "RDM"
+    },
+    "Louemn": {
+        "banneduntil": "2025/6/9",
+        "BanReason": "Rdm + Ban Evading"
     }
 }
