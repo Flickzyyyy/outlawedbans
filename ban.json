@@ -1466,5 +1466,9 @@
     "German_Leader1940": {
         "banneduntil": "2025/6/17",
         "BanReason": "soft a"
+    },
+    "tuckerisg3e": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "Cop targeting plus evasion"
     }
 }
