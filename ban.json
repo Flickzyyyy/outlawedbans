@@ -1478,5 +1478,9 @@
     "P.U.S.S.Y.C.R.E.A.M.E": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R clip"
+    },
+    "united.pepsi": {
+        "banneduntil": "2025/6/8",
+        "BanReason": "RDM clip"
     }
 }
