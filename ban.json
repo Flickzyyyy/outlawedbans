@@ -1474,5 +1474,9 @@
     "united.pepsi": {
         "banneduntil": "2025/6/8",
         "BanReason": "RDM clip"
+    },
+    "cash.carti.on.crack": {
+        "banneduntil": "2025/6/19",
+        "BanReason": "Slur Usage *2"
     }
 }
