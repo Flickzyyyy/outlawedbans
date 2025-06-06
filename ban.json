@@ -1546,5 +1546,9 @@
     "Lebron_meat_rider": {
         "banneduntil": "2027/6/6",
         "BanReason": "11 years old"
+    },
+    "Babayaga.513": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R clip"
     }
 }
