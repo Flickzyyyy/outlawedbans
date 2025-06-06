@@ -1490,9 +1490,5 @@
     "dargohub": {
         "banneduntil": "2025/6/12",
         "BanReason": "RDM and Evasion"
-    },
-    "Hetrem": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "(un ban original ban made by will. Permitted by will)"
     }
 }
