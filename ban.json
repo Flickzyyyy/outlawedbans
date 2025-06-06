@@ -1534,5 +1534,9 @@
     "Buggin09": {
         "banneduntil": "2025/6/10",
         "BanReason": "rdm"
+    },
+    "wa_ss95": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "rdm"
     }
 }
