@@ -1550,5 +1550,9 @@
     "Babayaga.513": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R clip"
+    },
+    "purps1015": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "RDM Clip"
     }
 }
