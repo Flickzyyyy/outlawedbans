@@ -1522,5 +1522,9 @@
     "blitz_vv": {
         "banneduntil": "2025/6/20",
         "BanReason": "sexual remarks"
+    },
+    "Duck.and.cover": {
+        "banneduntil": "2025/6/14",
+        "BanReason": "rdm and evasion"
     }
 }
