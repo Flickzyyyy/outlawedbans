@@ -1482,5 +1482,9 @@
     "lieutenant_qwakerson": {
         "banneduntil": "2025/6/10",
         "BanReason": "RDM"
+    },
+    "goofyGOOBER9111": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r clip"
     }
 }
