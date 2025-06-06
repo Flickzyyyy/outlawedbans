@@ -1486,5 +1486,9 @@
     "Sbrau06": {
         "banneduntil": "2025/6/19",
         "BanReason": "Jerking people off"
+    },
+    "dargohub": {
+        "banneduntil": "2025/6/12",
+        "BanReason": "RDM and Evasion"
     }
 }
