@@ -1490,5 +1490,9 @@
     "goooooobin": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R Clip"
+    },
+    "Mr.Breyden": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "RDM"
     }
 }
