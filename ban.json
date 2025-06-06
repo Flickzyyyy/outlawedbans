@@ -1498,5 +1498,9 @@
     "netgds23": {
         "banneduntil": "2025/6/8",
         "BanReason": "Rdm*2"
+    },
+    "misterboneypantsguy": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "rdm"
     }
 }
