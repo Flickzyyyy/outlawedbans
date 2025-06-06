@@ -1494,5 +1494,9 @@
     "Mr.Breyden": {
         "banneduntil": "2025/6/10",
         "BanReason": "RDM"
+    },
+    "netgds23": {
+        "banneduntil": "2025/6/8",
+        "BanReason": "Rdm*2"
     }
 }
