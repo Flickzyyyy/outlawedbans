@@ -1578,5 +1578,9 @@
     "Popcorn.bygod.sutton": {
         "banneduntil": "2025/6/10",
         "BanReason": "rdm"
+    },
+    "1Sushiroll": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "Rdm+Ban Evading"
     }
 }
