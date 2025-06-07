@@ -1586,5 +1586,9 @@
     "djbcg07.2025": {
         "banneduntil": "2025/6/21",
         "BanReason": "Sexual remarks to a minor"
+    },
+    "GodslayerGomes": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "RDM and admin evasion"
     }
 }
