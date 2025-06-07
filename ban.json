@@ -1566,5 +1566,9 @@
     "Optix_vr": {
         "banneduntil": "2028/6/6",
         "BanReason": "10 yr old"
+    },
+    "shturman_I": {
+        "banneduntil": "2025/6/20",
+        "BanReason": "f slur"
     }
 }
