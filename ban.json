@@ -1582,5 +1582,9 @@
     "Britishtea1": {
         "banneduntil": "2025/6/21",
         "BanReason": "Spamming slurs"
+    },
+    "djbcg07.2025": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "Sexual remarks to a minor"
     }
 }
