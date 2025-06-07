@@ -1578,5 +1578,9 @@
     "bay.harbour.butcher": {
         "banneduntil": "2099/01/01",
         "BanReason": "N word hard r spam"
+    },
+    "Britishtea1": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "Spamming slurs"
     }
 }
