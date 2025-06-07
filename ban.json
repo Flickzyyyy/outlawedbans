@@ -1574,5 +1574,9 @@
     "1Sushiroll": {
         "banneduntil": "2025/6/15",
         "BanReason": "Rdm+Ban Evading"
+    },
+    "bay.harbour.butcher": {
+        "banneduntil": "2099/01/01",
+        "BanReason": "N word hard r spam"
     }
 }
