@@ -1602,5 +1602,9 @@
     "Alfie.Crom": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R and other Racial Slurs clip"
+    },
+    "spideryn": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "rdm"
     }
 }
