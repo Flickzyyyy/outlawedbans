@@ -1554,5 +1554,9 @@
     "purps1015": {
         "banneduntil": "2025/6/10",
         "BanReason": "RDM Clip"
+    },
+    "neotheprotogen.2025": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "rdm"
     }
 }
