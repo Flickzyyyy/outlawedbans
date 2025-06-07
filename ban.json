@@ -1570,5 +1570,9 @@
     "shturman_I": {
         "banneduntil": "2025/6/20",
         "BanReason": "f slur"
+    },
+    "morgan766": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "rdm"
     }
 }
