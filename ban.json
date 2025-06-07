@@ -1602,5 +1602,9 @@
     "Alfie.Crom": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R and other Racial Slurs clip"
+    },
+    "OceanXD": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "Unban"
     }
 }
