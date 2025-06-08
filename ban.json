@@ -1594,5 +1594,9 @@
     "Dudebro56": {
         "banneduntil": "2025/6/9",
         "BanReason": "RDM (Clip in Logs)"
+    },
+    "Pvt.jelly": {
+        "banneduntil": "Slurs + Rdm + Cop Targeting",
+        "BanReason": "2025/6/30"
     }
 }
