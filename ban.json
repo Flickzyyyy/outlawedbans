@@ -1678,5 +1678,9 @@
     "DMG14": {
         "banneduntil": "2025/6/29",
         "BanReason": "F slur + Evasion"
+    },
+    "Seshmonster": {
+        "banneduntil": "2025/6/29",
+        "BanReason": "Sexual Remarks + Evasion"
     }
 }
