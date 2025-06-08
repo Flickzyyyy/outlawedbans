@@ -1590,5 +1590,9 @@
     "spideryn": {
         "banneduntil": "2025/6/11",
         "BanReason": "rdm"
+    },
+    "Dudebro56": {
+        "banneduntil": "2025/6/12",
+        "BanReason": "RDM (Clip in Logs)"
     }
 }
