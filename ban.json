@@ -1674,5 +1674,9 @@
     "itx.Hubert": {
         "banneduntil": "2025/6/16",
         "BanReason": "Cop Targeting + Evading"
+    },
+    "DMG14": {
+        "banneduntil": "2025/6/29",
+        "BanReason": "F slur + Evasion"
     }
 }
