@@ -1646,5 +1646,9 @@
     "lilxMeeGots": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "shortcircut4": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "rdm, evasion."
     }
 }
