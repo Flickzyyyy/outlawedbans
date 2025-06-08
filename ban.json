@@ -1650,5 +1650,9 @@
     "shortcircut4": {
         "banneduntil": "2025/6/15",
         "BanReason": "rdm, evasion."
+    },
+    "Morgan8990": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "ALT"
     }
 }
