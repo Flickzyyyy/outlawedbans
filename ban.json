@@ -1602,5 +1602,9 @@
     "WarehouseLA": {
         "banneduntil": "2025/6/10",
         "BanReason": "rdm"
+    },
+    "Sebb_a": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "Bullying people's stutters"
     }
 }
