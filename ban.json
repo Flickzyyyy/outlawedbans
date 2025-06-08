@@ -1630,5 +1630,9 @@
     "Tai789": {
         "banneduntil": "2025/6/16",
         "BanReason": "cop targeting and admin evasion"
+    },
+    "forcesunknown": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "rdm, evasion. I got a report about this player, I pulled him into an admin sit from there he left."
     }
 }
