@@ -1598,5 +1598,9 @@
     "Pvt.jelly": {
         "banneduntil": "Slurs + Rdm + Cop Targeting",
         "BanReason": "2025/6/30"
+    },
+    "WarehouseLA": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "rdm"
     }
 }
