@@ -1622,5 +1622,9 @@
     "PeterButtPlug": {
         "banneduntil": "2025/6/22",
         "BanReason": "Sexual remarks"
+    },
+    "YAKK.2x": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "RDM"
     }
 }
