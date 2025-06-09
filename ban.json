@@ -1766,5 +1766,9 @@
     "Flickzycangetdismeat": {
         "banneduntil": "2025/6/12",
         "BanReason": "Rdm"
+    },
+    "JAKEZXYS_R6": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "cop targeting plus evasion"
     }
 }
