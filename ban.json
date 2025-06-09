@@ -1778,5 +1778,9 @@
     "ShadowOnVR": {
         "banneduntil": "2025/6/13",
         "BanReason": "cop targeting plus evasion"
+    },
+    "Thexchildxeater": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "Abusing suicide+Evasion"
     }
 }
