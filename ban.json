@@ -1734,5 +1734,9 @@
     "xgarfild": {
         "banneduntil": "2025/7/7",
         "BanReason": "Sexual Remarks + ban evasion"
+    },
+    "Wingnut_13": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "F slur"
     }
 }
