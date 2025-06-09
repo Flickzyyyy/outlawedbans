@@ -1662,5 +1662,9 @@
     "Ashtyn.dex": {
         "banneduntil": "2025/11/24",
         "BanReason": "Underaged"
+    },
+    "MAGE32": {
+        "banneduntil": "2025/6/22",
+        "BanReason": "Mass rdm"
     }
 }
