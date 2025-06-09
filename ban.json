@@ -1770,5 +1770,9 @@
     "JAKEZXYS_R6": {
         "banneduntil": "2025/6/15",
         "BanReason": "cop targeting plus evasion"
+    },
+    "ShadowOnVr": {
+        "banneduntil": "2025/6/10",
+        "BanReason": "Cop Targeting"
     }
 }
