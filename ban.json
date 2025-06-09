@@ -1686,5 +1686,9 @@
     "jebd123": {
         "banneduntil": "2025/6/16",
         "BanReason": "under aged"
+    },
+    "LittleMan820": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
