@@ -1670,5 +1670,9 @@
     "Aztec_83505": {
         "banneduntil": "2025/6/23",
         "BanReason": "Spawn camping and evasion"
+    },
+    "Smught": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "f slur"
     }
 }
