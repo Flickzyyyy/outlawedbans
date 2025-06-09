@@ -1702,5 +1702,9 @@
     "dj.bustt.a.nut.900972.2025": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "MasterOwen10": {
+        "banneduntil": "2025/6/13",
+        "BanReason": "RDM from clip"
     }
 }
