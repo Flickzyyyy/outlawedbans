@@ -1746,5 +1746,9 @@
     "fish362": {
         "banneduntil": "2025/6/16",
         "BanReason": "wall-banging/ cop targeting"
+    },
+    "vxncr_op": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "Soft A"
     }
 }
