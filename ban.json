@@ -1666,5 +1666,9 @@
     "MAGE32": {
         "banneduntil": "2025/6/22",
         "BanReason": "Mass rdm"
+    },
+    "Smught": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
