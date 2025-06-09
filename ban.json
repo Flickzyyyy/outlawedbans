@@ -1750,5 +1750,9 @@
     "vxncr_op": {
         "banneduntil": "2025/7/7",
         "BanReason": "Soft A+Evasion"
+    },
+    "Scarface.58": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "soft a"
     }
 }
