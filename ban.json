@@ -1814,5 +1814,9 @@
     "MonkeTooCute": {
         "banneduntil": "2025/6/23",
         "BanReason": "Soft A"
+    },
+    "R0VA1": {
+        "banneduntil": "2025/6/18",
+        "BanReason": "rdm+ evasion"
     }
 }
