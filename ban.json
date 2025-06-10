@@ -1946,5 +1946,9 @@
     "Cerealbox0612": {
         "banneduntil": "2025/6/11",
         "BanReason": "Abusing suicide"
+    },
+    "Super-Chill": {
+        "banneduntil": "2025/6/18",
+        "BanReason": "mass RDM"
     }
 }
