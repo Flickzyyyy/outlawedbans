@@ -1858,5 +1858,9 @@
     "ZEEK80876": {
         "banneduntil": "2025/6/17",
         "BanReason": "Cop Targeting + Evasion"
+    },
+    "PhaZeeeHits": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "Sexual remarks"
     }
 }
