@@ -1846,5 +1846,9 @@
     "J1NX_VR": {
         "banneduntil": "2025/6/23",
         "BanReason": "soft a"
+    },
+    "nexusvr10124": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
