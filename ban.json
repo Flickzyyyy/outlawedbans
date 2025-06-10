@@ -1914,5 +1914,9 @@
     "DefNotTucker": {
         "banneduntil": "2025/6/14",
         "BanReason": "RDM ticket"
+    },
+    "DamnBoy420": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "sexual remarks"
     }
 }
