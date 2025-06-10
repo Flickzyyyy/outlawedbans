@@ -1814,5 +1814,9 @@
     "SayHey2022": {
         "banneduntil": "2025/7/9",
         "BanReason": "Sexual remarks and evasion"
+    },
+    "Josh0p": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "underage"
     }
 }
