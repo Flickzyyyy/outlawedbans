@@ -1842,5 +1842,9 @@
     "Drmigi143": {
         "banneduntil": "2027/3/11",
         "BanReason": "underaged"
+    },
+    "J1NX_VR": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "soft a"
     }
 }
