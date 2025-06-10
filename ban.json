@@ -1818,5 +1818,9 @@
     "R0VA1": {
         "banneduntil": "2025/6/18",
         "BanReason": "rdm+ evasion"
+    },
+    "SandersNero": {
+        "banneduntil": "2025/6/18",
+        "BanReason": "Rdm and evasion"
     }
 }
