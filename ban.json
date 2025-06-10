@@ -1870,5 +1870,9 @@
     "assassin.on.top": {
         "banneduntil": "2025/6/18",
         "BanReason": "Rdm + Ban Evasion"
+    },
+    "Anonumus_not": {
+        "banneduntil": "8 Days",
+        "BanReason": "Rdm + Ban Evasion"
     }
 }
