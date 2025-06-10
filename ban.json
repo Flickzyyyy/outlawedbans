@@ -1906,5 +1906,9 @@
     "tinker0257": {
         "banneduntil": "2025/6/24",
         "BanReason": "spawn camping plus evasion"
+    },
+    "HogRida62": {
+        "banneduntil": "2025/6/18",
+        "BanReason": "rdm and evasion"
     }
 }
