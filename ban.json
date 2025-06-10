@@ -1930,5 +1930,9 @@
     "JuanOchoaCam": {
         "banneduntil": "2025/6/14",
         "BanReason": "RDM ticket"
+    },
+    "Hotsteamypee_Desoto": {
+        "banneduntil": "2025/6/17",
+        "BanReason": "rdm plus evasion"
     }
 }
