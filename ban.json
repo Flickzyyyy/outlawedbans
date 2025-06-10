@@ -1950,5 +1950,9 @@
     "Super-Chill": {
         "banneduntil": "2025/6/18",
         "BanReason": "mass RDM"
+    },
+    "fartfacial": {
+        "banneduntil": "2025/6/12",
+        "BanReason": "cop targeting"
     }
 }
