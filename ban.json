@@ -1806,5 +1806,9 @@
     "noschool123321": {
         "banneduntil": "2025/7/6",
         "BanReason": "soft A and evasion"
+    },
+    "AKArdoin": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "Rdm + Evading"
     }
 }
