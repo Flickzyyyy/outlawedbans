@@ -1942,5 +1942,9 @@
     "Cerealbox0611": {
         "banneduntil": "2025/6/11",
         "BanReason": "Abusing suicide"
+    },
+    "Cerealbox0612": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "Abusing suicide"
     }
 }
