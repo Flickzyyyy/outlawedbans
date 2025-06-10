@@ -1850,5 +1850,9 @@
     "nexusvr10124": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Ro0kie_2552": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "f slur"
     }
 }
