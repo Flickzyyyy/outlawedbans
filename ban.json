@@ -1858,5 +1858,9 @@
     "ZEEK80876": {
         "banneduntil": "2025/6/17",
         "BanReason": "Cop Targeting + Evasion"
+    },
+    "ZEEK8076": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban accident"
     }
 }
