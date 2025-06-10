@@ -1810,5 +1810,9 @@
     "bluedemon0131": {
         "banneduntil": "2025/6/17",
         "BanReason": "rdm plus evasion"
+    },
+    "SayHey2022": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "Sexual remarks and evasion"
     }
 }
