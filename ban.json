@@ -1854,5 +1854,9 @@
     "PeterButtPubes": {
         "banneduntil": "2025/6/13",
         "BanReason": "Cop Targeting"
+    },
+    "ZEEK80876": {
+        "banneduntil": "2025/6/17",
+        "BanReason": "Cop Targeting + Evasion"
     }
 }
