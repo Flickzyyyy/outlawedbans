@@ -1798,5 +1798,9 @@
     "PhaZeeeHits": {
         "banneduntil": "2025/6/23",
         "BanReason": "Sexual remarks"
+    },
+    "cockmonster25": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "Rdm"
     }
 }
