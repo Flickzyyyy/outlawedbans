@@ -1866,5 +1866,9 @@
     "Zingyd": {
         "banneduntil": "2025/6/12",
         "BanReason": "Rdm+Ban Evasion"
+    },
+    "assassin.on.top": {
+        "banneduntil": "2025/6/18",
+        "BanReason": "Rdm + Ban Evasion"
     }
 }
