@@ -1810,5 +1810,9 @@
     "AKArdoin": {
         "banneduntil": "2025/6/11",
         "BanReason": "Rdm + Evading"
+    },
+    "MonkeTooCute": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "Soft A"
     }
 }
