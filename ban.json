@@ -1902,5 +1902,9 @@
     "WarDog556": {
         "banneduntil": "2025/6/17",
         "BanReason": "spawn camping"
+    },
+    "tinker0257": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "spawn camping plus evasion"
     }
 }
