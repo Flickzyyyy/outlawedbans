@@ -1878,5 +1878,9 @@
     "mike.webb.1840070": {
         "banneduntil": "2025/6/18",
         "BanReason": "Rdm + Ban Evasion"
+    },
+    "shortcircuit4": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "Rdm"
     }
 }
