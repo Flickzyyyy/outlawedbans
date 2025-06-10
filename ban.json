@@ -1894,5 +1894,9 @@
     "daftey_kai": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Smallbogdan1": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
