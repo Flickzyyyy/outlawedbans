@@ -1934,5 +1934,9 @@
     "Hotsteamypee_Desoto": {
         "banneduntil": "2025/6/17",
         "BanReason": "rdm plus evasion"
+    },
+    "Shaggy_Fox": {
+        "banneduntil": "2025/6/14",
+        "BanReason": "rdm vid ticket"
     }
 }
