@@ -1994,5 +1994,9 @@
     "PRIMEJAKE": {
         "banneduntil": "2099/1/1",
         "BanReason": "racism+soft A"
+    },
+    "Kitty2": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "rdm, mass Rdm, evasion"
     }
 }
