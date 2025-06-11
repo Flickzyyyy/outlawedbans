@@ -1962,5 +1962,9 @@
     "LadoMac74": {
         "banneduntil": "2025/7/10",
         "BanReason": "Sexual Remarks, Rdm, Ban Evasion"
+    },
+    "CrazyTaz09": {
+        "banneduntil": "2025/6/11",
+        "BanReason": "Rdm"
     }
 }
