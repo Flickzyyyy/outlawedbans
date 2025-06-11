@@ -1962,5 +1962,9 @@
     "killa.a": {
         "banneduntil": "2026/6/11",
         "BanReason": "underaged"
+    },
+    "killer.a": {
+        "banneduntil": "2026/6/11",
+        "BanReason": "underaged"
     }
 }
