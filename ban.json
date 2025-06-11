@@ -1986,5 +1986,9 @@
     "Sqmep": {
         "banneduntil": "2025/7/9",
         "BanReason": "F Slur + Evasion"
+    },
+    "pops1368": {
+        "banneduntil": "2025/6/19",
+        "BanReason": "rdm, evasion"
     }
 }
