@@ -2002,5 +2002,9 @@
     "Quator_man": {
         "banneduntil": "2025/6/25",
         "BanReason": "sexual remarks"
+    },
+    "Faygo_4000": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "Racial remarks plus evasion"
     }
 }
