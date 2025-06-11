@@ -1974,5 +1974,9 @@
     "WarehouseLA": {
         "banneduntil": "2025/6/20",
         "BanReason": "mass rdm"
+    },
+    "vrdue123": {
+        "banneduntil": "2025/6/13",
+        "BanReason": "Rdm+Evasion"
     }
 }
