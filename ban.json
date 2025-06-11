@@ -1966,5 +1966,9 @@
     "killer.a": {
         "banneduntil": "2026/6/11",
         "BanReason": "underaged"
+    },
+    "Mythical_M": {
+        "banneduntil": "2025/6/14",
+        "BanReason": "RDM, warned earlier today for other shit"
     }
 }
