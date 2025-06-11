@@ -1998,5 +1998,9 @@
     "Kitty2": {
         "banneduntil": "2025/6/30",
         "BanReason": "rdm, mass Rdm, evasion"
+    },
+    "Quator_man": {
+        "banneduntil": "2025/6/25",
+        "BanReason": "sexual remarks"
     }
 }
