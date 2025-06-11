@@ -2022,5 +2022,9 @@
     "Dapimpishere0422": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "ALL_CAPZ": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "RDM with video proof"
     }
 }
