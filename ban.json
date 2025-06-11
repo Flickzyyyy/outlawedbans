@@ -1994,5 +1994,9 @@
     "MlSFITwumbo": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Gforce730": {
+        "banneduntil": "2025/6/25",
+        "BanReason": "Soft A"
     }
 }
