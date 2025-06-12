@@ -2070,5 +2070,9 @@
     "44Plays": {
         "banneduntil": "2025/6/25",
         "BanReason": "homophobia"
+    },
+    "shortcircuit4": {
+        "banneduntil": "2025/6/16",
+        "BanReason": "rdm"
     }
 }
