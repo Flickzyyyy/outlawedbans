@@ -2034,5 +2034,9 @@
     "Goon_God_69": {
         "banneduntil": "2025/6/18",
         "BanReason": "RDM EVASION"
+    },
+    "thinkweiser": {
+        "banneduntil": "2025/6/15",
+        "BanReason": "RDM"
     }
 }
