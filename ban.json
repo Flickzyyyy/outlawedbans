@@ -2134,5 +2134,9 @@
     "dig_bick_man": {
         "banneduntil": "2025/6/20",
         "BanReason": "mass RDM"
+    },
+    "RosterBlack": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "sexual misconduct"
     }
 }
