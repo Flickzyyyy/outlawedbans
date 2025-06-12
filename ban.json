@@ -2042,5 +2042,9 @@
     "jacob. 152.2025": {
         "banneduntil": "2026/6/11",
         "BanReason": "Underage"
+    },
+    "definitelynotkevinspacey": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
