@@ -2094,5 +2094,9 @@
     "Lattothemac": {
         "banneduntil": "2025/7/10",
         "BanReason": "f slur plus evasion"
+    },
+    "Not_Clark": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "Sexual harassment"
     }
 }
