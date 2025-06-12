@@ -2030,5 +2030,9 @@
     "ihateblacksv": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "TheSlinggunner": {
+        "banneduntil": "2025/6/18",
+        "BanReason": "spawn camping"
     }
 }
