@@ -2062,5 +2062,9 @@
     "The.Assistant": {
         "banneduntil": "2025/6/26",
         "BanReason": "Mass RDM report"
+    },
+    "soap_vr21": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "mass RDM report"
     }
 }
