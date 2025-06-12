@@ -2042,5 +2042,9 @@
     "reallycooldude": {
         "banneduntil": "2025/6/19",
         "BanReason": "rdm evasion"
+    },
+    "gongbonger": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
