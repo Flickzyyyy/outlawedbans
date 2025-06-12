@@ -2058,5 +2058,9 @@
     "pumkinbread5656": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "The.Assistant": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "Mass RDM report"
     }
 }
