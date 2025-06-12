@@ -2074,5 +2074,9 @@
     "shortcircuit4": {
         "banneduntil": "2025/6/16",
         "BanReason": "rdm"
+    },
+    "Mutanttripod46": {
+        "banneduntil": "2025/6/16",
+        "BanReason": "rdm"
     }
 }
