@@ -2130,5 +2130,9 @@
     "Luxx553": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "dig_bick_man": {
+        "banneduntil": "2025/6/20",
+        "BanReason": "mass RDM"
     }
 }
