@@ -2098,5 +2098,9 @@
     "Not_Clark": {
         "banneduntil": "2025/6/26",
         "BanReason": "Sexual harassment"
+    },
+    "B.52": {
+        "banneduntil": "2025/6/20",
+        "BanReason": "RDM+Evasion"
     }
 }
