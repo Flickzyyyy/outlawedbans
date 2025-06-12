@@ -2038,5 +2038,9 @@
     "thinkweiser": {
         "banneduntil": "2025/6/15",
         "BanReason": "RDM"
+    },
+    "reallycooldude": {
+        "banneduntil": "2025/6/19",
+        "BanReason": "rdm evasion"
     }
 }
