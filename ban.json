@@ -2034,5 +2034,9 @@
     "TheSlinggunner": {
         "banneduntil": "2025/6/18",
         "BanReason": "spawn camping"
+    },
+    "elite_potato_chip69": {
+        "banneduntil": "2026/6/28",
+        "BanReason": "Underaged"
     }
 }
