@@ -2066,5 +2066,9 @@
     "soap_vr21": {
         "banneduntil": "2025/6/26",
         "BanReason": "mass RDM report"
+    },
+    "44Plays": {
+        "banneduntil": "2025/6/25",
+        "BanReason": "homophobia"
     }
 }
