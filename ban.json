@@ -2050,5 +2050,9 @@
     "askaphagh": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "ihateblacksv": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
