@@ -2118,5 +2118,9 @@
     "Newtons08": {
         "banneduntil": "2030/8/5",
         "BanReason": "underage"
+    },
+    "FunnyFatMan06": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "sexual remarks"
     }
 }
