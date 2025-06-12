@@ -2114,5 +2114,9 @@
     "Vindicator_f": {
         "banneduntil": "2025/6/26",
         "BanReason": "soft-A"
+    },
+    "Newtons08": {
+        "banneduntil": "2030/8/5",
+        "BanReason": "underage"
     }
 }
