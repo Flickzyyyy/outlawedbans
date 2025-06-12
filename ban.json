@@ -2102,5 +2102,9 @@
     "B.52": {
         "banneduntil": "2025/6/20",
         "BanReason": "RDM+Evasion"
+    },
+    "WarDog556": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "sexual misconduct"
     }
 }
