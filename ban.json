@@ -2178,5 +2178,9 @@
     "Jim_milton5": {
         "banneduntil": "2025/6/17",
         "BanReason": "RDM"
+    },
+    "REAL_JetskiMotercycle": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
