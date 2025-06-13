@@ -2182,5 +2182,9 @@
     "REAL_JetskiMotercycle": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "creeperman144": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
