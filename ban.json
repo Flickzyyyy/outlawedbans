@@ -2170,5 +2170,9 @@
     "BakerTwo2": {
         "banneduntil": "2025/6/16",
         "BanReason": "rdm"
+    },
+    "blosser.2023": {
+        "banneduntil": "2025/6/16",
+        "BanReason": "rdm"
     }
 }
