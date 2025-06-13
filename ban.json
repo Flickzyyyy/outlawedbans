@@ -2130,5 +2130,9 @@
     "Tech_117": {
         "banneduntil": "2099/6/26",
         "BanReason": "Hard R"
+    },
+    "AlienZethin": {
+        "banneduntil": "2025/06/14",
+        "BanReason": "Abusing Suicide + Evasion"
     }
 }
