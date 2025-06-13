@@ -2206,5 +2206,9 @@
     "WorstTea": {
         "banneduntil": "2027/6/13",
         "BanReason": "Under age"
+    },
+    "DevSender _\u0428": {
+        "banneduntil": "2025/6/17",
+        "BanReason": "RDM"
     }
 }
