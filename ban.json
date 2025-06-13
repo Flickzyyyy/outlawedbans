@@ -2202,5 +2202,9 @@
     "united.pepsi": {
         "banneduntil": "2025/6/21",
         "BanReason": "rdm plus evasion"
+    },
+    "WorstTea": {
+        "banneduntil": "2027/6/13",
+        "BanReason": "Under age"
     }
 }
