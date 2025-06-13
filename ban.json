@@ -2162,5 +2162,9 @@
     "Boiled_lobster": {
         "banneduntil": "2025/6/17",
         "BanReason": "Rdm"
+    },
+    "Crustacean_Craig": {
+        "banneduntil": "2025/6/20",
+        "BanReason": "Mass rdm"
     }
 }
