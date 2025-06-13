@@ -2190,5 +2190,9 @@
     "California120": {
         "banneduntil": "2025/6/17",
         "BanReason": "RDM"
+    },
+    "sparkelypinkpony": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "Sexual remarks"
     }
 }
