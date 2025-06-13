@@ -2198,5 +2198,9 @@
     "Auz13": {
         "banneduntil": "2025/6/15",
         "BanReason": "RDM"
+    },
+    "united.pepsi": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "rdm plus evasion"
     }
 }
