@@ -2186,5 +2186,9 @@
     "creeperman144": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "California120": {
+        "banneduntil": "2025/6/17",
+        "BanReason": "RDM"
     }
 }
