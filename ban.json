@@ -2166,5 +2166,9 @@
     "trlathrop66": {
         "banneduntil": "2025/08/23",
         "BanReason": "underage"
+    },
+    "BakerTwo2": {
+        "banneduntil": "2025/6/16",
+        "BanReason": "rdm"
     }
 }
