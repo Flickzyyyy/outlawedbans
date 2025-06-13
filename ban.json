@@ -2186,5 +2186,9 @@
     "meme2001gg": {
         "banneduntil": "2025/6/20",
         "BanReason": "rdm plus evasion"
+    },
+    "Tech_117": {
+        "banneduntil": "2099/6/26",
+        "BanReason": "Hard R"
     }
 }
