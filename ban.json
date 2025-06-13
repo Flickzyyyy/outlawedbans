@@ -2166,5 +2166,9 @@
     "FEMBOYHOOTERSS": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "SLAMMED.BY.VIDERCLC": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
