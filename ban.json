@@ -2158,5 +2158,9 @@
     "mr.dicaprio": {
         "banneduntil": "2025/7/11",
         "BanReason": "Mass rdm + evasion + harassment"
+    },
+    "Boiled_lobster": {
+        "banneduntil": "2025/6/17",
+        "BanReason": "Rdm"
     }
 }
