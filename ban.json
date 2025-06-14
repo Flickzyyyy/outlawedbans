@@ -2210,5 +2210,9 @@
     "IBangSisters": {
         "banneduntil": "2025/6/22",
         "BanReason": "rdm plus evasion"
+    },
+    "Komodo.well": {
+        "banneduntil": "2025/28",
+        "BanReason": "F slur"
     }
 }
