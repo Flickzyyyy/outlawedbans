@@ -2246,5 +2246,9 @@
     "buster_scruggs1": {
         "banneduntil": "2025/6/17",
         "BanReason": "rdm"
+    },
+    "ironhorse359": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "rdm evasion"
     }
 }
