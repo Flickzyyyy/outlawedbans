@@ -2250,5 +2250,9 @@
     "Curiousdagoat": {
         "banneduntil": "2025/6/22",
         "BanReason": "rdm plus evasion"
+    },
+    "BananaBreadBurger": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "Racist Remarks Ticket"
     }
 }
