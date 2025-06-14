@@ -2262,5 +2262,9 @@
     "plenterzo": {
         "banneduntil": "2025/6/28",
         "BanReason": "Sexual remarks"
+    },
+    "RHINO132": {
+        "banneduntil": "2025/7/28",
+        "BanReason": "Sexual remarks"
     }
 }
