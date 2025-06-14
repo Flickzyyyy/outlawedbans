@@ -2242,5 +2242,9 @@
     "muckerman.2022": {
         "banneduntil": "2025/6/27",
         "BanReason": "spawn camping plus evasion"
+    },
+    "Tinman25": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "Q Slur"
     }
 }
