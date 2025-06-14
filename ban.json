@@ -2238,5 +2238,9 @@
     "BroCaSi": {
         "banneduntil": "2026/3/6",
         "BanReason": "underage"
+    },
+    "martinkvernstuen": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "sexual misconduct"
     }
 }
