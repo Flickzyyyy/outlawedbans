@@ -2230,5 +2230,9 @@
     "ruffled.hoilday": {
         "banneduntil": "2025/6/22",
         "BanReason": "rdm plus evasion"
+    },
+    "diddy6942069": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "killing in spawn"
     }
 }
