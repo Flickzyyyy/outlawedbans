@@ -2226,5 +2226,9 @@
     "tuckerisg3e": {
         "banneduntil": "2025/7/11",
         "BanReason": "Racist Remarks + Evasion"
+    },
+    "ruffled.hoilday": {
+        "banneduntil": "2025/6/22",
+        "BanReason": "rdm plus evasion"
     }
 }
