@@ -2270,5 +2270,9 @@
     "MOE_ZEDK.ace.208": {
         "banneduntil": "2025/7/28",
         "BanReason": "Mass rdm and evasion"
+    },
+    "number-57": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "Rdm + f slur + evasion"
     }
 }
