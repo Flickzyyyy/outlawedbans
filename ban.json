@@ -2214,5 +2214,9 @@
     "STR4WBERRY_SODA": {
         "banneduntil": "2025/6/21",
         "BanReason": "rdm plus evasion"
+    },
+    "gabef1592": {
+        "banneduntil": "2025/6/17",
+        "BanReason": "rdm"
     }
 }
