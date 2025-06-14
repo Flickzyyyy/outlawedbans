@@ -2222,5 +2222,9 @@
     "crab_15": {
         "banneduntil": "2025/6/22",
         "BanReason": "RDM + evasion"
+    },
+    "tuckerisg3e": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "Racist Remarks + Evasion"
     }
 }
