@@ -2254,5 +2254,9 @@
     "bibi201": {
         "banneduntil": "2025/15/6",
         "BanReason": "RDM/ ban evading"
+    },
+    "Cooch_sniffer": {
+        "banneduntil": "2025/5/11",
+        "BanReason": "Whoops, it was already handled"
     }
 }
