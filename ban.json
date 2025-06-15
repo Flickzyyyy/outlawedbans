@@ -2262,5 +2262,9 @@
     "Red_Fire71910": {
         "banneduntil": "2025/6/19",
         "BanReason": "RDM Ticket"
+    },
+    "mr.Poleg": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
