@@ -2266,5 +2266,9 @@
     "mr.Poleg": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Alexifons2013": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "Underaged"
     }
 }
