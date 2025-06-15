@@ -2246,5 +2246,9 @@
     "easy_ammo": {
         "banneduntil": "2025/6/21",
         "BanReason": "Rdm/evasion"
+    },
+    "EdgarAllenBruh": {
+        "banneduntil": "2025/6/19",
+        "BanReason": "rdm via video report"
     }
 }
