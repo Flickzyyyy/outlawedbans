@@ -2274,5 +2274,9 @@
     "number-57": {
         "banneduntil": "2025/7/12",
         "BanReason": "Rdm + f slur + evasion"
+    },
+    "coolboy123abc": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "f slur"
     }
 }
