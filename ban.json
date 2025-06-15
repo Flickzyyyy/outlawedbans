@@ -2254,5 +2254,9 @@
     "bibi201": {
         "banneduntil": "2025/15/6",
         "BanReason": "RDM/ ban evading"
+    },
+    "lvampirel": {
+        "banneduntil": "2025/6/29",
+        "BanReason": "RDM, evasion"
     }
 }
