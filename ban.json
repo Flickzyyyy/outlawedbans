@@ -2250,5 +2250,9 @@
     "EdgarAllenBruh": {
         "banneduntil": "2025/6/19",
         "BanReason": "rdm via video report"
+    },
+    "Cooch_sniffer": {
+        "banneduntil": "2025/8/24",
+        "BanReason": "Underage"
     }
 }
