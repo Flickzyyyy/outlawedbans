@@ -2242,5 +2242,9 @@
     "DoomGivesBoom": {
         "banneduntil": "2025/7/13",
         "BanReason": "Sexual gestures/remarks"
+    },
+    "easy_ammo": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "Rdm/evasion"
     }
 }
