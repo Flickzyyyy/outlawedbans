@@ -2258,5 +2258,9 @@
     "lvampirel": {
         "banneduntil": "2025/6/29",
         "BanReason": "RDM, evasion"
+    },
+    "Red_Fire71910": {
+        "banneduntil": "2025/6/19",
+        "BanReason": "RDM Ticket"
     }
 }
