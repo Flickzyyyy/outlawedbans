@@ -2270,5 +2270,9 @@
     "meman155": {
         "banneduntil": "2026/6/16",
         "BanReason": "Underaged"
+    },
+    "Speedyjoker": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "RDM + rasist remarks + evasion"
     }
 }
