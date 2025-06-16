@@ -2238,5 +2238,9 @@
     "SlickRick818": {
         "banneduntil": "2025/6/31",
         "BanReason": "RDM+evasion"
+    },
+    "HughmongusD005": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
