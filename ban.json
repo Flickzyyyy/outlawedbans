@@ -2314,5 +2314,9 @@
     "Dudebro56": {
         "banneduntil": "2025/6/20",
         "BanReason": "RDM"
+    },
+    "Active_Goulx": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "Rdm/evasion"
     }
 }
