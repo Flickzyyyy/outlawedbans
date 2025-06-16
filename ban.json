@@ -2250,5 +2250,9 @@
     "SaltyGlazers": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Boogs3": {
+        "banneduntil": "2025/6/31",
+        "BanReason": "RDM + evasion"
     }
 }
