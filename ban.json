@@ -2290,5 +2290,9 @@
     "Tyson6910": {
         "banneduntil": "2026/5/26",
         "BanReason": "underage"
+    },
+    "jaxhamm.2022": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "Spawn camping"
     }
 }
