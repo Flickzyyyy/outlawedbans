@@ -2266,5 +2266,9 @@
     "Momsaccount44": {
         "banneduntil": "2025/6/21",
         "BanReason": "RDM Ticket"
+    },
+    "meman155": {
+        "banneduntil": "2026/6/16",
+        "BanReason": "Underaged"
     }
 }
