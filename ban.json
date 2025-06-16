@@ -2254,5 +2254,9 @@
     "Boogs3": {
         "banneduntil": "2025/6/31",
         "BanReason": "RDM + evasion"
+    },
+    "milkman.143": {
+        "banneduntil": "2025/6/31",
+        "BanReason": "RDM + evasion"
     }
 }
