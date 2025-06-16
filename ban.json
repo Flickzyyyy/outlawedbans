@@ -2302,5 +2302,9 @@
     "Speedraycer36": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "ContourSaucer17": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "F Slur"
     }
 }
