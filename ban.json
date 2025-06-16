@@ -2246,5 +2246,9 @@
     "ChooChooTrian": {
         "banneduntil": "2025/6/30",
         "BanReason": "Sexual misconduct"
+    },
+    "SaltyGlazers": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
