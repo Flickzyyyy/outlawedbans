@@ -2294,9 +2294,5 @@
     "jaxhamm.2022": {
         "banneduntil": "2025/6/23",
         "BanReason": "Spawn camping"
-    },
-    "light9dark2": {
-        "banneduntil": "2000/1/1",
-        "BanReason": "Banned with no Log?"
     }
 }
