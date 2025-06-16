@@ -2270,5 +2270,9 @@
     "Alexifons2013": {
         "banneduntil": "2026/5/4",
         "BanReason": "Underaged"
+    },
+    "Promor": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "rdm plus evasion"
     }
 }
