@@ -2274,5 +2274,9 @@
     "Speedyjoker": {
         "banneduntil": "2025/7/8",
         "BanReason": "RDM + rasist remarks + evasion"
+    },
+    "bdaycray": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "F slur"
     }
 }
