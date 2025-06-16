@@ -2274,5 +2274,9 @@
     "squirrel15.2022": {
         "banneduntil": "2025/6/29",
         "BanReason": "racist remarks"
+    },
+    "cia_bob": {
+        "banneduntil": "2025/6/29",
+        "BanReason": "Racist Comments"
     }
 }
