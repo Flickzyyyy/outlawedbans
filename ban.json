@@ -2270,5 +2270,9 @@
     "Promor": {
         "banneduntil": "2025/6/23",
         "BanReason": "rdm plus evasion"
+    },
+    "squirrel15.2022": {
+        "banneduntil": "2025/6/29",
+        "BanReason": "racist remarks"
     }
 }
