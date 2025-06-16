@@ -2242,5 +2242,9 @@
     "HughmongusD005": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "ChooChooTrian": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "Sexual misconduct"
     }
 }
