@@ -2282,5 +2282,9 @@
     "Kaden_vrset": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage"
+    },
+    "Conrod105": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "rdm plus evasion"
     }
 }
