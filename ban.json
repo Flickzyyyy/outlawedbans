@@ -2326,5 +2326,9 @@
     "sir_mazin": {
         "banneduntil": "2025/6/17",
         "BanReason": "Cop targeting"
+    },
+    "SGT.FENT": {
+        "banneduntil": "2025/7/16",
+        "BanReason": "Homophobia + evasion"
     }
 }
