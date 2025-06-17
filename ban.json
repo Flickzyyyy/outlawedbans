@@ -42,5 +42,9 @@
     "boehmerfamily": {
         "banneduntil": "2030/1/1",
         "BanReason": "underage evasion"
+    },
+    "Jstdly": {
+        "banneduntil": "2025/6/25",
+        "BanReason": "Rdm and cop targeting"
     }
 }
