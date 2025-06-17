@@ -2266,5 +2266,9 @@
     "Dripped_Frost": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "shadeguy21": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "soft"
     }
 }
