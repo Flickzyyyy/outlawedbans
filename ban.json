@@ -2298,5 +2298,9 @@
     "FriendlyTiger9817": {
         "banneduntil": "2025/6/21",
         "BanReason": "RDM report"
+    },
+    "Armed_Lorax": {
+        "banneduntil": "2025/6/25",
+        "BanReason": "Rdm/evasion"
     }
 }
