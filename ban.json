@@ -38,5 +38,9 @@
     "Chance3412": {
         "banneduntil": "2025/7/1",
         "BanReason": "spawn camping plus evasion"
+    },
+    "boehmerfamily": {
+        "banneduntil": "2030/1/1",
+        "BanReason": "underage evasion"
     }
 }
