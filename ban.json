@@ -2,5 +2,9 @@
     "fisharcaol": {
         "banneduntil": "2099/1/1",
         "BanReason": "Will told me to perm ban."
+    },
+    "johnporkston": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "soft a plus evasion"
     }
 }
