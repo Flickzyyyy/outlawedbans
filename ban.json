@@ -2302,5 +2302,9 @@
     "Armed_Lorax": {
         "banneduntil": "2025/6/25",
         "BanReason": "Rdm/evasion"
+    },
+    "Jas57": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "Rdm"
     }
 }
