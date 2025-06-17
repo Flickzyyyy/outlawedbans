@@ -2318,5 +2318,9 @@
     "Active_Goulx": {
         "banneduntil": "2025/6/24",
         "BanReason": "Rdm/evasion"
+    },
+    "Reaperclan2005": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "homophobia"
     }
 }
