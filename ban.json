@@ -2290,5 +2290,9 @@
     "saint.sinner": {
         "banneduntil": "2025/6/20",
         "BanReason": "Rdm"
+    },
+    "saints.sinners": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "Rdm"
     }
 }
