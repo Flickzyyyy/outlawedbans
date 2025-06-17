@@ -2274,5 +2274,9 @@
     "M4yona1s3": {
         "banneduntil": "2025/6/30",
         "BanReason": "Sexual Remarks"
+    },
+    "gingie.002": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
