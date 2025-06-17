@@ -2278,5 +2278,9 @@
     "gingie.002": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "AIYKZ": {
+        "banneduntil": "2025/6/19",
+        "BanReason": "RDM"
     }
 }
