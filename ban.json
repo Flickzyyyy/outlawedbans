@@ -2294,5 +2294,9 @@
     "saints.sinners": {
         "banneduntil": "2025/6/21",
         "BanReason": "Rdm"
+    },
+    "FriendlyTiger9817": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "RDM report"
     }
 }
