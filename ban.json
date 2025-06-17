@@ -2286,5 +2286,9 @@
     "Brasko03": {
         "banneduntil": "2025/7/15",
         "BanReason": "Sexual Remarks + Slurs"
+    },
+    "saint.sinner": {
+        "banneduntil": "2025/6/20",
+        "BanReason": "Rdm"
     }
 }
