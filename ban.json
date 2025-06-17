@@ -2334,5 +2334,9 @@
     "samwilk4": {
         "banneduntil": "2025/7/1",
         "BanReason": "Soft a"
+    },
+    "Dripped_Frost": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
