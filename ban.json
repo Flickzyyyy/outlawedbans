@@ -118,5 +118,9 @@
     "TheBoysQuest": {
         "banneduntil": "2026/6/18",
         "BanReason": "Underaged"
+    },
+    "TSF_biggechessl": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
