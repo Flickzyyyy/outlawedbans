@@ -142,5 +142,9 @@
     "pots.292511": {
         "banneduntil": "2026/3/1",
         "BanReason": "Underaged"
+    },
+    "Mr.Cheezywizzy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
