@@ -58,5 +58,9 @@
     "Fatman.4": {
         "banneduntil": "2025/7/1",
         "BanReason": "Soft a"
+    },
+    "Iron_Spider_2022": {
+        "banneduntil": "2025/6/21",
+        "BanReason": "Rdm"
     }
 }
