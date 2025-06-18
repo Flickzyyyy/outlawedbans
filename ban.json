@@ -106,5 +106,9 @@
     "WeedReference1": {
         "banneduntil": "2025/7/2",
         "BanReason": "F Slur"
+    },
+    "TheOfficalZF23": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "Soft A"
     }
 }
