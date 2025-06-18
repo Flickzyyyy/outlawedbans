@@ -70,5 +70,9 @@
     "sebb_a": {
         "banneduntil": "2099/1/1",
         "BanReason": "perm"
+    },
+    "Billybob2041947": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "Rdm/evasion(practice)"
     }
 }
