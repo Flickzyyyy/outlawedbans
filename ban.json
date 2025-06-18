@@ -82,5 +82,9 @@
     "wonder123": {
         "banneduntil": "2025/11/1",
         "BanReason": "Underaged"
+    },
+    "Republican171": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "RDM + evasion"
     }
 }
