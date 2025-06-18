@@ -98,5 +98,9 @@
     "Mythical_M": {
         "banneduntil": "2025/6/22",
         "BanReason": "Rdm"
+    },
+    "GhostGuyFr": {
+        "banneduntil": "2025/6/26",
+        "BanReason": "Rdm"
     }
 }
