@@ -122,5 +122,9 @@
     "TSF_biggechessl": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "Bl0ss0m": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "Racism"
     }
 }
