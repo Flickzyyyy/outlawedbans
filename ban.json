@@ -78,5 +78,9 @@
     "Goochcrack": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "wonder123": {
+        "banneduntil": "2025/11/1",
+        "BanReason": "Underaged"
     }
 }
