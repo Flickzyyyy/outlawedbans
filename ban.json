@@ -94,5 +94,9 @@
     "God_is_goood": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Mythical_M": {
+        "banneduntil": "2025/6/22",
+        "BanReason": "Rdm"
     }
 }
