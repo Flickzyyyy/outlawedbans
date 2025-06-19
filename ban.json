@@ -182,5 +182,9 @@
     "fleeandhide.2024": {
         "banneduntil": "2025/7/27",
         "BanReason": "rdm plus evasion"
+    },
+    "alphacrusher5000": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "RDM"
     }
 }
