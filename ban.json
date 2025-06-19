@@ -226,5 +226,9 @@
     "thinkweiser": {
         "banneduntil": "2025/6/27",
         "BanReason": "Rdm/evasion"
+    },
+    "GunSlinger150": {
+        "banneduntil": "2025/7/05",
+        "BanReason": "Rdm  x2 / Ban evading"
     }
 }
