@@ -158,5 +158,9 @@
     "jalhjs": {
         "banneduntil": "2025/6/26",
         "BanReason": "rdm plus evasion"
+    },
+    "notgg1229mm": {
+        "banneduntil": "2025/6/22",
+        "BanReason": "RDM"
     }
 }
