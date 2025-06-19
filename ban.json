@@ -186,5 +186,9 @@
     "alphacrusher5000": {
         "banneduntil": "2025/6/23",
         "BanReason": "RDM"
+    },
+    "BillPrime": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
