@@ -198,5 +198,9 @@
     "Brick112e": {
         "banneduntil": "2025/7/4",
         "BanReason": "Soft a"
+    },
+    "fadedpigeon2000": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "hard R"
     }
 }
