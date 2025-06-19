@@ -222,5 +222,9 @@
     "Think Weiser": {
         "banneduntil": "2025/6/27",
         "BanReason": "Rdm/evasion"
+    },
+    "thinkweiser": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "Rdm/evasion"
     }
 }
