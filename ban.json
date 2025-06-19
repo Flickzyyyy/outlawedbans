@@ -218,5 +218,9 @@
     "dexter_morgan": {
         "banneduntil": "2025/7/4",
         "BanReason": "mass rdm plus evasion"
+    },
+    "Think Weiser": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "Rdm/evasion"
     }
 }
