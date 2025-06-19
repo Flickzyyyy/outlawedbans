@@ -242,5 +242,9 @@
     "META.Z123": {
         "banneduntil": "2025/7/05",
         "BanReason": "RDM x2/Ban evasion"
+    },
+    "HILOL54": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "RDM (Ticket)"
     }
 }
