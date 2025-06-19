@@ -246,5 +246,9 @@
     "HILOL54": {
         "banneduntil": "2025/6/23",
         "BanReason": "RDM (Ticket)"
+    },
+    "jewishguilt.2025": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "rdm"
     }
 }
