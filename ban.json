@@ -158,5 +158,9 @@
     "jalhjs": {
         "banneduntil": "2025/6/26",
         "BanReason": "rdm plus evasion"
+    },
+    "Dudebro56": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "RDM"
     }
 }
