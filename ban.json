@@ -190,5 +190,9 @@
     "BillPrime": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "shooter1.532401": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "Sexual Remarks"
     }
 }
