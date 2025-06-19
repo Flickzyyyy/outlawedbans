@@ -230,5 +230,9 @@
     "GunSlinger150": {
         "banneduntil": "2025/7/05",
         "BanReason": "Rdm  x2 / Ban evading"
+    },
+    "doug2010anikin": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
