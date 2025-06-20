@@ -278,5 +278,9 @@
     "pro.829.2024": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage"
+    },
+    "samwilk4": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
