@@ -290,5 +290,9 @@
     "TOXICcWaSTe": {
         "banneduntil": "2029/1/1",
         "BanReason": "underage, told me he was 11"
+    },
+    "LTK.SLAMMED.BY.BRJ": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "derog comments, kept going around calling people black monkeys."
     }
 }
