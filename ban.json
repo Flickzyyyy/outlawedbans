@@ -358,5 +358,9 @@
     "redpilled": {
         "banneduntil": "2025/6/28",
         "BanReason": "rdm + evasion"
+    },
+    "hitman714": {
+        "banneduntil": "2026/6/20",
+        "BanReason": "Underaged"
     }
 }
