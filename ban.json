@@ -346,5 +346,9 @@
     "L2bitgamer": {
         "banneduntil": "2025/6/27",
         "BanReason": "MASS RDM"
+    },
+    "slipperyman.2024": {
+        "banneduntil": "2026/6/2",
+        "BanReason": "Underaged"
     }
 }
