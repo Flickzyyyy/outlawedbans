@@ -362,5 +362,9 @@
     "hitman714": {
         "banneduntil": "2026/6/20",
         "BanReason": "Underaged"
+    },
+    "Tutffs": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "cop targeting"
     }
 }
