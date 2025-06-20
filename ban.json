@@ -318,5 +318,9 @@
     "kiorey": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R Ticket"
+    },
+    "EvitTeGret": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "RDM Ticket"
     }
 }
