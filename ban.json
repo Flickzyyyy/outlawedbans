@@ -298,5 +298,9 @@
     "PizzaPulp": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Slayer275": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "said soft a in the saloon while I was walking up the stairs."
     }
 }
