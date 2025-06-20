@@ -274,5 +274,9 @@
     "Vamp1re14": {
         "banneduntil": "2025/6/28",
         "BanReason": "RDM + evasion"
+    },
+    "pro.829.2024": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "Underage"
     }
 }
