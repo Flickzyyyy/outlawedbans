@@ -366,5 +366,9 @@
     "Tutffs": {
         "banneduntil": "2025/6/28",
         "BanReason": "cop targeting"
+    },
+    "cuger2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
