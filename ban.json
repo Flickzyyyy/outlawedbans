@@ -322,9 +322,5 @@
     "EvitTeGret": {
         "banneduntil": "2025/6/24",
         "BanReason": "RDM Ticket"
-    },
-    "TastnSnozBerrys": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
     }
 }
