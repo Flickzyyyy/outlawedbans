@@ -370,5 +370,9 @@
     "cuger2": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Waldo929": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "cop targeting"
     }
 }
