@@ -354,5 +354,9 @@
     "yaboygabe": {
         "banneduntil": "2025/6/24",
         "BanReason": "rdm"
+    },
+    "redpilled": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "rdm"
     }
 }
