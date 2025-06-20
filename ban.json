@@ -294,5 +294,9 @@
     "LTK.SLAMMED.BY.BRJ": {
         "banneduntil": "2025/7/3",
         "BanReason": "derog comments, kept going around calling people black monkeys."
+    },
+    "PizzaPulp": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
