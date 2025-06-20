@@ -270,5 +270,9 @@
     "KingdomWarrior23": {
         "banneduntil": "2028/6/20",
         "BanReason": "Underaged"
+    },
+    "Vamp1re14": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "RDM + evasion"
     }
 }
