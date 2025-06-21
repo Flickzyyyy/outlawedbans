@@ -386,5 +386,9 @@
     "Roan234": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "doc_holiday45": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "Sexual Explicit Language"
     }
 }
