@@ -414,5 +414,9 @@
     "EatMyLoad": {
         "banneduntil": "2025/6/28",
         "BanReason": "camped bank X2"
+    },
+    "44Plays": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
