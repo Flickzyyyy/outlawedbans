@@ -426,5 +426,9 @@
     "Bean3306": {
         "banneduntil": "2025/6/25",
         "BanReason": "RDM Clip"
+    },
+    "BabaYaga_of_pavlov": {
+        "banneduntil": "2025/7/5",
+        "BanReason": "sexual remarks"
     }
 }
