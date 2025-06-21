@@ -402,5 +402,9 @@
     "Sheriff_Ryan1": {
         "banneduntil": "2025/7/4",
         "BanReason": "Mass rdm and evasion"
+    },
+    "HughmongousD005": {
+        "banneduntil": "2025/7/5",
+        "BanReason": "spawn camping plus  evasion"
     }
 }
