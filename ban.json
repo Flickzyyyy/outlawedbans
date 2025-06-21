@@ -386,5 +386,9 @@
     "dtb.cayo": {
         "banneduntil": "2025/7/4",
         "BanReason": "Soft a"
+    },
+    "DotOrgFed": {
+        "banneduntil": "2025/7/5",
+        "BanReason": "Spawn camping plus evasion"
     }
 }
