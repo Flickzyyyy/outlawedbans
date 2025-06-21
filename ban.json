@@ -390,5 +390,9 @@
     "doc_holiday45": {
         "banneduntil": "2025/6/30",
         "BanReason": "Sexual Explicit Language"
+    },
+    "Limewastakenbyme": {
+        "banneduntil": "2025/6/24",
+        "BanReason": "Rdm"
     }
 }
