@@ -410,5 +410,9 @@
     "rylen76": {
         "banneduntil": "2025/6/28",
         "BanReason": "RDM + Evasion"
+    },
+    "EatMyLoad": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "camped bank X2"
     }
 }
