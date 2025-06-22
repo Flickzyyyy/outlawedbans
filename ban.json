@@ -450,5 +450,9 @@
     "ksmwyxf": {
         "banneduntil": "2025/7/19",
         "BanReason": "Sexual misconduct plus evasion"
+    },
+    "Chamillitary": {
+        "banneduntil": "2025/6/28",
+        "BanReason": "rdm"
     }
 }
