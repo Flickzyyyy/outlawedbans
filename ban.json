@@ -478,5 +478,9 @@
     "Emperor.Ace.207": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "SlimeSlimy2.0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
