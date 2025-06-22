@@ -498,5 +498,9 @@
     "VINCEBLE": {
         "banneduntil": "2025/6/24",
         "BanReason": "Rdm+Evading"
+    },
+    "Simon_Ghost": {
+        "banneduntil": "2025/6/25",
+        "BanReason": "Rdm*3"
     }
 }
