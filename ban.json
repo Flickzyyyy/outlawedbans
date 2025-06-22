@@ -466,5 +466,9 @@
     "that_canadian_dude": {
         "banneduntil": "2026/4/25",
         "BanReason": "Underaged, admitted to being 12"
+    },
+    "PaulJMiller": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "Rdm"
     }
 }
