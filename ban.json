@@ -510,5 +510,9 @@
     "mr.lambert.2025": {
         "banneduntil": "2025/6/26",
         "BanReason": "cop targeting"
+    },
+    "EATtheMACE": {
+        "banneduntil": "2025/6/29",
+        "BanReason": "Sexual remarks"
     }
 }
