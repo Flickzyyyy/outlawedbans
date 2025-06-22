@@ -502,5 +502,9 @@
     "Simon_Ghost": {
         "banneduntil": "2025/6/25",
         "BanReason": "Rdm*3"
+    },
+    "weby.Mc.gee": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "f slur"
     }
 }
