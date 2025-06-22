@@ -454,5 +454,9 @@
     "Chamillitary": {
         "banneduntil": "2025/6/28",
         "BanReason": "rdm"
+    },
+    "Canadaflow": {
+        "banneduntil": "2025/7/06",
+        "BanReason": "RDM/ F slur"
     }
 }
