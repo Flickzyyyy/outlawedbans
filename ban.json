@@ -490,5 +490,9 @@
     "krezi_wimp": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Bigwetfwet": {
+        "banneduntil": "2025/6/23",
+        "BanReason": "temp"
     }
 }
