@@ -558,5 +558,9 @@
     "pasta.banana": {
         "banneduntil": "2025/6/27",
         "BanReason": "RDM Ticket"
+    },
+    "Regularguy637": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "spawn camping report"
     }
 }
