@@ -602,5 +602,9 @@
     "Cocopufs500": {
         "banneduntil": "2025/6/30",
         "BanReason": "rdm+evasion"
+    },
+    "redlobster": {
+        "banneduntil": "2025/6/7",
+        "BanReason": "rdm"
     }
 }
