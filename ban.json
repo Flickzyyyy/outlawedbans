@@ -538,5 +538,9 @@
     "brayden1221": {
         "banneduntil": "2025/7/7",
         "BanReason": "sexual threats"
+    },
+    "John_Marston_rdr2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
