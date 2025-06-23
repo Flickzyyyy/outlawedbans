@@ -570,5 +570,9 @@
     "Ace._Vr": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r and evasion"
+    },
+    "Mattmattattack2011": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Sexual remarks and evasion"
     }
 }
