@@ -598,5 +598,9 @@
     "killerpro161": {
         "banneduntil": "2025/6/30",
         "BanReason": "rdm+evasion"
+    },
+    "Cocopufs500": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "rdm+evasion"
     }
 }
