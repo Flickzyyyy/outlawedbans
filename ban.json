@@ -514,5 +514,9 @@
     "Brown477": {
         "banneduntil": "2025/7/7",
         "BanReason": "Racist remarks"
+    },
+    "Snoop__DoGG": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
