@@ -594,5 +594,9 @@
     "hogpilot": {
         "banneduntil": "2025/7/7",
         "BanReason": "Sexual Remarks"
+    },
+    "killerpro161": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "rdm+evasion"
     }
 }
