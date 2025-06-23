@@ -506,5 +506,9 @@
     "Not_MrFlame": {
         "banneduntil": "2025/7/7",
         "BanReason": "soft a"
+    },
+    "Lemonmurder": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "mass rdm"
     }
 }
