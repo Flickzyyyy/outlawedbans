@@ -542,5 +542,9 @@
     "John_Marston_rdr2": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Jesse_W.L.F": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "Rdm + evasion"
     }
 }
