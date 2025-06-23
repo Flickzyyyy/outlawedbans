@@ -518,5 +518,9 @@
     "Snoop__DoGG": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Linux1776": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "cop targeting report"
     }
 }
