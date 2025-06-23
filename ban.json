@@ -558,5 +558,9 @@
     "pasta.banana": {
         "banneduntil": "2025/6/27",
         "BanReason": "RDM Ticket"
+    },
+    "ThatVRPlayer": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Weird issues"
     }
 }
