@@ -522,5 +522,9 @@
     "Linux1776": {
         "banneduntil": "2025/6/27",
         "BanReason": "cop targeting report"
+    },
+    "PaulJMiller": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "Rdm report"
     }
 }
