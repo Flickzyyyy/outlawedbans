@@ -554,5 +554,9 @@
     "Tommy_W.L.F": {
         "banneduntil": "2025/6/27",
         "BanReason": "RDM"
+    },
+    "pasta.banana": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "RDM Ticket"
     }
 }
