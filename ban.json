@@ -634,5 +634,9 @@
     "TheCareTaker00": {
         "banneduntil": "2025/7/7",
         "BanReason": "Mass RDM"
+    },
+    "DABEAST201900": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "Cop Targeting +Evasion"
     }
 }
