@@ -658,5 +658,9 @@
     "ruzzex9618": {
         "banneduntil": "2025/6/27",
         "BanReason": "Cop Targeting Ticket"
+    },
+    "x_Milk_x": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "Camping"
     }
 }
