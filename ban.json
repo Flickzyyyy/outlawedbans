@@ -658,5 +658,9 @@
     "glonk": {
         "banneduntil": "2025/6/27",
         "BanReason": "rdm"
+    },
+    "RockyRoad01": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "rdm"
     }
 }
