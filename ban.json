@@ -726,5 +726,9 @@
     "HothouseTax": {
         "banneduntil": "2025/7/8",
         "BanReason": "Spawn camping plus evasion"
+    },
+    "baller_ballin_bawller": {
+        "banneduntil": "2025/6/25",
+        "BanReason": "Rdm"
     }
 }
