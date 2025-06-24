@@ -666,5 +666,9 @@
     "Chowders": {
         "banneduntil": "2025/7/7",
         "BanReason": "derog"
+    },
+    "goomderbomb": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "F slur"
     }
 }
