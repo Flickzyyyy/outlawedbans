@@ -730,5 +730,9 @@
     "baller_ballin_bawller": {
         "banneduntil": "2025/6/25",
         "BanReason": "Rdm"
+    },
+    "LazyPandaPerson": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "mass rdm+f slur"
     }
 }
