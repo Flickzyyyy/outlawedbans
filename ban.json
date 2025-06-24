@@ -662,5 +662,9 @@
     "RockyRoad01": {
         "banneduntil": "2025/6/27",
         "BanReason": "rdm"
+    },
+    "LIL_LO2": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "derog"
     }
 }
