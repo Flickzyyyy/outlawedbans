@@ -654,5 +654,9 @@
     "lukenick29": {
         "banneduntil": "2025/7/7",
         "BanReason": "derog comments"
+    },
+    "glonk": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "rdm"
     }
 }
