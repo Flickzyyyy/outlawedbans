@@ -630,5 +630,9 @@
     "Weasel914": {
         "banneduntil": "2025/6/27",
         "BanReason": "RDM"
+    },
+    "TheCareTaker00": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "Mass RDM"
     }
 }
