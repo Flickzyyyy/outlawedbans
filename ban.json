@@ -622,5 +622,9 @@
     "BOT_Yuri": {
         "banneduntil": "2025/6/30",
         "BanReason": "rdm+Evasion"
+    },
+    "redlobster": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "rdm"
     }
 }
