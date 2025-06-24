@@ -682,5 +682,9 @@
     "Alii_Althanii": {
         "banneduntil": "2025/6/28",
         "BanReason": "RDM Ticket"
+    },
+    "The_Th1ng": {
+        "banneduntil": "2025/6/7/2",
+        "BanReason": "Cop Targeting + Evasion"
     }
 }
