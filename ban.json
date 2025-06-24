@@ -670,5 +670,9 @@
     "goomderbomb": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "groomderbomb": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
