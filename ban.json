@@ -618,5 +618,9 @@
     "drake1314": {
         "banneduntil": "2025/7/1",
         "BanReason": "rdm plus evasion"
+    },
+    "BOT_Yuri": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "rdm+Evasion"
     }
 }
