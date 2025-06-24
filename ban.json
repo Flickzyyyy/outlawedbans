@@ -722,5 +722,9 @@
     "swaggersauce": {
         "banneduntil": "2028/6/24",
         "BanReason": "underage"
+    },
+    "HothouseTax": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "Spawn camping plus evasion"
     }
 }
