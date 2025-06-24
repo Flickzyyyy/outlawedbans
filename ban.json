@@ -646,5 +646,9 @@
     "VS08": {
         "banneduntil": "2025/7/7",
         "BanReason": "sexual remarks"
+    },
+    "Llama_troy": {
+        "banneduntil": "2025/6/27",
+        "BanReason": "Cop Targeting Ticket"
     }
 }
