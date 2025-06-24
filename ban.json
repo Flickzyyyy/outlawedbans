@@ -662,5 +662,9 @@
     "x_Milk_x": {
         "banneduntil": "2025/7/1",
         "BanReason": "Camping"
+    },
+    "GlowingTiger7744": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "racist remark"
     }
 }
