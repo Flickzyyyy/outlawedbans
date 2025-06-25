@@ -762,5 +762,9 @@
     "Paul.Losobieski": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Kaku_cp0": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "Rdm and evasion"
     }
 }
