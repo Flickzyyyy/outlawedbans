@@ -750,5 +750,9 @@
     "Jesus_Bled_on_the_cross_4_u": {
         "banneduntil": "2099/1/1",
         "BanReason": "Rdm + evasion + admitting to use alts"
+    },
+    "picklepounder": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
