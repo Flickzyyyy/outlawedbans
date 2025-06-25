@@ -774,5 +774,9 @@
     "sammex.2023": {
         "banneduntil": "2025/7/9",
         "BanReason": "Sexual remarks"
+    },
+    "poliday": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "sexual threats"
     }
 }
