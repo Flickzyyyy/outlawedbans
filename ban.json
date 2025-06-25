@@ -770,5 +770,9 @@
     "collin.etc.yt": {
         "banneduntil": "2025/6/28",
         "BanReason": "Rdm"
+    },
+    "moon1657": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "RDM + Evasion"
     }
 }
