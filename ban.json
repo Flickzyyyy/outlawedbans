@@ -754,5 +754,9 @@
     "IronMike98": {
         "banneduntil": "2025/7/8",
         "BanReason": "F slur"
+    },
+    "poliday": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "sexual threats"
     }
 }
