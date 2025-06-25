@@ -754,5 +754,9 @@
     "Kaku_cp0": {
         "banneduntil": "2025/7/3",
         "BanReason": "Rdm and evasion"
+    },
+    "coledainel13": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "harrasment and sexual remarks"
     }
 }
