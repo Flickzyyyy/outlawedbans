@@ -754,5 +754,9 @@
     "picklepounder": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "whatsthestateofthisnation": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
