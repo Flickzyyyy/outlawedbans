@@ -774,5 +774,9 @@
     "sammex.2023": {
         "banneduntil": "2025/7/9",
         "BanReason": "Sexual remarks"
+    },
+    "BarFam4": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "F Slur Ticket"
     }
 }
