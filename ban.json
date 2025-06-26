@@ -854,5 +854,9 @@
     "redlobstercheddarbakedbiscuits": {
         "banneduntil": "2025/6/30",
         "BanReason": "rdm"
+    },
+    "Envy_11": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
