@@ -842,5 +842,9 @@
     "anus.watterson22": {
         "banneduntil": "2025/7/10",
         "BanReason": "Mass rdm + evasion"
+    },
+    "goopshoot": {
+        "banneduntil": "2025/7/10",
+        "BanReason": "F slur"
     }
 }
