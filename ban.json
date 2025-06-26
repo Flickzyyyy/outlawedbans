@@ -922,5 +922,9 @@
     "sebsulty": {
         "banneduntil": "2025/7/7",
         "BanReason": "rdm evasion"
+    },
+    "nuggetwisdom.2022": {
+        "banneduntil": "2027/2/5",
+        "BanReason": "underaged"
     }
 }
