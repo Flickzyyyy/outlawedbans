@@ -886,5 +886,9 @@
     "eli33e": {
         "banneduntil": "2025/7/3",
         "BanReason": "Underaged"
+    },
+    "HighMfTrippple9": {
+        "banneduntil": "2025/7/10",
+        "BanReason": "soft a"
     }
 }
