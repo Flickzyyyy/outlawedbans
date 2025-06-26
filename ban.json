@@ -866,5 +866,9 @@
     "thereal.von": {
         "banneduntil": "2025/7/24",
         "BanReason": "f slur and evasion (check my logs for further info)"
+    },
+    "EBKPERC": {
+        "banneduntil": "2025/7/10",
+        "BanReason": "soft a"
     }
 }
