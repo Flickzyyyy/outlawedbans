@@ -878,5 +878,9 @@
     "DerMax": {
         "banneduntil": "2025/6/27",
         "BanReason": "Rdm"
+    },
+    "Apes2520": {
+        "banneduntil": "2025/7/10",
+        "BanReason": "Spawn camping plus evasion"
     }
 }
