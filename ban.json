@@ -830,5 +830,9 @@
     "Henry1killa": {
         "banneduntil": "2025/7/3",
         "BanReason": "rdm+evasion"
+    },
+    "Nicolai2026": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "raid suspision and rdm"
     }
 }
