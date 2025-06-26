@@ -918,5 +918,9 @@
     "mileshunt": {
         "banneduntil": "2025/7/3",
         "BanReason": "Rdm and evasion"
+    },
+    "sebsulty": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "rdm evasion"
     }
 }
