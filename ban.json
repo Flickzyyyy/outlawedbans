@@ -846,5 +846,9 @@
     "goopshoot": {
         "banneduntil": "2025/7/10",
         "BanReason": "F slur"
+    },
+    "Wonpil": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "Rdm + evasion"
     }
 }
