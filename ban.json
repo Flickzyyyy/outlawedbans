@@ -838,5 +838,9 @@
     "RFKSBRAINWORM": {
         "banneduntil": "2025/7/3",
         "BanReason": "Rdm and evasion"
+    },
+    "ppsxck124": {
+        "banneduntil": "2025/7/10",
+        "BanReason": "f slur"
     }
 }
