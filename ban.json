@@ -854,5 +854,9 @@
     "WNP_42": {
         "banneduntil": "2025/7/23",
         "BanReason": "f slur+ evasion"
+    },
+    "Henry1killa": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "rdm+evasion"
     }
 }
