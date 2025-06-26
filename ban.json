@@ -850,5 +850,9 @@
     "Looneytunes846": {
         "banneduntil": "2025/7/23",
         "BanReason": "f slur evasion"
+    },
+    "redlobstercheddarbakedbiscuits": {
+        "banneduntil": "2025/6/30",
+        "BanReason": "rdm"
     }
 }
