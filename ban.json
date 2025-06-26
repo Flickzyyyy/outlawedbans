@@ -822,5 +822,9 @@
     "RagerMyles01": {
         "banneduntil": "2025/6/29",
         "BanReason": "rdm"
+    },
+    "thrapistjohny": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "name"
     }
 }
