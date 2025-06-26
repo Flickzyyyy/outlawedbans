@@ -914,5 +914,9 @@
     "Moomz7512": {
         "banneduntil": "2025/7/3",
         "BanReason": "Mass RDM"
+    },
+    "mileshunt": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "Rdm and evasion"
     }
 }
