@@ -826,5 +826,9 @@
     "thrapistjohny": {
         "banneduntil": "2099/1/1",
         "BanReason": "name"
+    },
+    "mcnugget4": {
+        "banneduntil": "2025/6/29",
+        "BanReason": "rdm"
     }
 }
