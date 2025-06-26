@@ -870,5 +870,9 @@
     "EBKPERC": {
         "banneduntil": "2025/7/10",
         "BanReason": "soft a"
+    },
+    "Mrjoe345": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "RDM and evasion"
     }
 }
