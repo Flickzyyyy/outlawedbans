@@ -850,5 +850,9 @@
     "Wonpil": {
         "banneduntil": "2025/7/3",
         "BanReason": "Rdm + evasion"
+    },
+    "WNP_42": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "f slur+ evasion"
     }
 }
