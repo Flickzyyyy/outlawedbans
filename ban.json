@@ -882,5 +882,9 @@
     "Apes2520": {
         "banneduntil": "2025/7/10",
         "BanReason": "Spawn camping plus evasion"
+    },
+    "eli33e": {
+        "banneduntil": "2025/6/3",
+        "BanReason": "Underaged"
     }
 }
