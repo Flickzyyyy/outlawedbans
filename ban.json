@@ -830,5 +830,9 @@
     "mcnugget4": {
         "banneduntil": "2025/6/29",
         "BanReason": "rdm"
+    },
+    "gRape.Fanta.0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "name"
     }
 }
