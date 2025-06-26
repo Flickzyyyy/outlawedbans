@@ -906,5 +906,9 @@
     "Babykilo": {
         "banneduntil": "2025/7/10",
         "BanReason": "soft a"
+    },
+    "prussia1862": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "spawn camping"
     }
 }
