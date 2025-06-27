@@ -926,5 +926,9 @@
     "NGB2": {
         "banneduntil": "2025/7/12",
         "BanReason": "F Slur"
+    },
+    "Voodafrm1300": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "rdm+evasion"
     }
 }
