@@ -898,5 +898,9 @@
     "Xl0ner": {
         "banneduntil": "2025/7/1",
         "BanReason": "Rdm clip re-ban"
+    },
+    "010101010101110001101011h": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
