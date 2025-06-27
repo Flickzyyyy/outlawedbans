@@ -870,5 +870,9 @@
     "CFAM2007": {
         "banneduntil": "2025/7/11",
         "BanReason": "Racist Remarks"
+    },
+    "PepsiTheOutlaw": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "RDM Clip"
     }
 }
