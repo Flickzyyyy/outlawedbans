@@ -938,5 +938,9 @@
     "Tranquil_Japanesd_Tea": {
         "banneduntil": "2025/7/8",
         "BanReason": "Mass RDM"
+    },
+    "Louis_berggman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
