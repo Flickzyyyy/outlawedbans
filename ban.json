@@ -930,5 +930,9 @@
     "Voodafrm1300": {
         "banneduntil": "2025/7/4",
         "BanReason": "rdm+evasion"
+    },
+    "JFK_GAMER1963": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "rdm clip"
     }
 }
