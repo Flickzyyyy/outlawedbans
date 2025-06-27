@@ -906,5 +906,9 @@
     "BurnerRunning": {
         "banneduntil": "2025/7/1",
         "BanReason": "Rdm clip"
+    },
+    "Nobunaga1534": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "rdm+evasion"
     }
 }
