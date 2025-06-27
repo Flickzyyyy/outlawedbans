@@ -926,5 +926,9 @@
     "scott.yearwood.1": {
         "banneduntil": "2025/7/25",
         "BanReason": "Cop Targeting + Sexual Remarks + Evasion"
+    },
+    "NGB2": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "Racist Remarks"
     }
 }
