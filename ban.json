@@ -910,5 +910,9 @@
     "Nobunaga1534": {
         "banneduntil": "2025/7/4",
         "BanReason": "rdm+evasion"
+    },
+    "babyfuxengaot": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Clip Speaks for itself in logs"
     }
 }
