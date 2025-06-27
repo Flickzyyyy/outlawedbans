@@ -878,5 +878,9 @@
     "The_ToothPaste_Man": {
         "banneduntil": "2099/1/1",
         "BanReason": "perm"
+    },
+    "Lemonade_44": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "Rdm clip"
     }
 }
