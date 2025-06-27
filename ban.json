@@ -866,5 +866,9 @@
     "SurroundedbyBalls03": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R clip"
+    },
+    "CFAM2007": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "Racist Remarks"
     }
 }
