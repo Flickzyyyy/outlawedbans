@@ -930,5 +930,9 @@
     "Zewl97": {
         "banneduntil": "2025/7/1",
         "BanReason": "rdm"
+    },
+    "Sealed.luvs.ximm": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
