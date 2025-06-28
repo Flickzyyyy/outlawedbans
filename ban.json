@@ -942,5 +942,9 @@
     "ShiloSmhosrs": {
         "banneduntil": "2025/7/1",
         "BanReason": "cop targeting"
+    },
+    "Tricanity": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Un Ban"
     }
 }
