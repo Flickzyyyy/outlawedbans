@@ -942,5 +942,9 @@
     "ShiloSmhosrs": {
         "banneduntil": "2025/7/1",
         "BanReason": "cop targeting"
+    },
+    "tequlaq": {
+        "banneduntil": "2025/7/28",
+        "BanReason": "Sexual threats plus evasion"
     }
 }
