@@ -974,9 +974,5 @@
     "1_bee_keeper_1": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
-    },
-    "Tricanity": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "Unban"
     }
 }
