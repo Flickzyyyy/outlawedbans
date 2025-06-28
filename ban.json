@@ -1030,5 +1030,9 @@
     "Episode.1.PhantomMenace": {
         "banneduntil": "2025/7/6",
         "BanReason": "Cop Targeting + Evasion"
+    },
+    "ant696945": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "Rdm + evasion"
     }
 }
