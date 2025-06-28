@@ -1002,5 +1002,9 @@
     "The.Toothpaste.Man": {
         "banneduntil": "2025/7/6",
         "BanReason": "Rdm + evasion"
+    },
+    "Djwyatt": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "Rdm"
     }
 }
