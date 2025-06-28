@@ -978,5 +978,9 @@
     "PVT_Parts1": {
         "banneduntil": "2025/7/1",
         "BanReason": "Cop Targeting"
+    },
+    "BigCoop11": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "RDM"
     }
 }
