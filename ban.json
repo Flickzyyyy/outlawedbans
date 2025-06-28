@@ -974,5 +974,9 @@
     "1_bee_keeper_1": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "PVT_Parts1": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "Cop Targeting"
     }
 }
