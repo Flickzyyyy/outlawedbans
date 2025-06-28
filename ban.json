@@ -1006,5 +1006,9 @@
     "Djwyatt": {
         "banneduntil": "2025/7/2",
         "BanReason": "Rdm"
+    },
+    "Gold_killa": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "MASS RDM Ticket"
     }
 }
