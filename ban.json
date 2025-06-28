@@ -1026,5 +1026,9 @@
     "J0HN._.W1CK": {
         "banneduntil": "2025/7/2",
         "BanReason": "Cop Targeting"
+    },
+    "Episode.1.PhantomMenace": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "Cop Targeting + Evasion"
     }
 }
