@@ -998,5 +998,9 @@
     "warbear356": {
         "banneduntil": "2025/7/2",
         "BanReason": "Rdm"
+    },
+    "The.Toothpaste.Man": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "Rdm + evasion"
     }
 }
