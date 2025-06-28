@@ -1010,5 +1010,9 @@
     "Gold_killa": {
         "banneduntil": "2025/7/6",
         "BanReason": "MASS RDM Ticket"
+    },
+    "saperb": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "Cop Targeting + Evasion"
     }
 }
