@@ -986,5 +986,9 @@
     "glockgg": {
         "banneduntil": "2025/7/6",
         "BanReason": "RDM + Evasion"
+    },
+    "Zynxdoesstuff": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "Sexual Remarks"
     }
 }
