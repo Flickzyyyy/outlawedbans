@@ -982,5 +982,9 @@
     "BigCoop11": {
         "banneduntil": "2025/7/4",
         "BanReason": "RDM"
+    },
+    "Tricanity": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban"
     }
 }
