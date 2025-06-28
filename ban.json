@@ -966,5 +966,9 @@
     "Kingbeast77": {
         "banneduntil": "2025/7/6",
         "BanReason": "RDM + Evasion"
+    },
+    "ShilohSmhosrs": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "cop targeting"
     }
 }
