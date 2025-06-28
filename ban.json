@@ -932,8 +932,8 @@
         "BanReason": "Cop Targeting"
     },
     "BigCoop11": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "Hard r clip"
+        "banneduntil": "2025/7/4",
+        "BanReason": "RDM"
     },
     "gtb.15710": {
         "banneduntil": "2025/7/5",
@@ -942,5 +942,9 @@
     "ShiloSmhosrs": {
         "banneduntil": "2025/7/1",
         "BanReason": "cop targeting"
+    },
+    "CosmicSeaOtter6716": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "N word soft a + evasion"
     }
 }
