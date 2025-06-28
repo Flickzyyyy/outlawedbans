@@ -978,5 +978,9 @@
     "Tricanity": {
         "banneduntil": "2025/7/1",
         "BanReason": "RDM"
+    },
+    "deanna.mcelroy.92": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "Sexual Remarks"
     }
 }
