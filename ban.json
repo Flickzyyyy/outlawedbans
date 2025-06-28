@@ -1034,5 +1034,9 @@
     "ant696945": {
         "banneduntil": "2025/7/6",
         "BanReason": "Rdm + evasion"
+    },
+    "y2kNeat": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
