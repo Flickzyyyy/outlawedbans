@@ -954,5 +954,9 @@
     "JOHN._.W1CK": {
         "banneduntil": "2025/7/2",
         "BanReason": "cop targeting"
+    },
+    "NINJA.IGA": {
+        "banneduntil": "2025/7/5",
+        "BanReason": "MASS RDM Ticket"
     }
 }
