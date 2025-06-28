@@ -1014,5 +1014,9 @@
     "saperb": {
         "banneduntil": "2025/7/6",
         "BanReason": "Cop Targeting + Evasion"
+    },
+    "Landsan70": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "RDM"
     }
 }
