@@ -982,5 +982,9 @@
     "BigCoop11": {
         "banneduntil": "2025/7/4",
         "BanReason": "RDM"
+    },
+    "gtb.15710": {
+        "banneduntil": "2025/7/5",
+        "BanReason": "Cop Targeting + Evading"
     }
 }
