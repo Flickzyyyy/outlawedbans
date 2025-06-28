@@ -1038,5 +1038,9 @@
     "y2kNeat": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "K33M_K33MO": {
+        "banneduntil": "2027/10/24",
+        "BanReason": "Underaged"
     }
 }
