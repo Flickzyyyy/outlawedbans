@@ -1018,5 +1018,9 @@
     "Landsan70": {
         "banneduntil": "2025/7/2",
         "BanReason": "RDM"
+    },
+    "shadeguy21": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "Soft A"
     }
 }
