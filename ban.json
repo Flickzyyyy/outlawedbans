@@ -973,7 +973,7 @@
     },
     "The.Toothpaste.Man": {
         "banneduntil": "2099/1/1",
-        "BanReason": "Alt"
+        "BanReason": "ALT"
     },
     "Djwyatt": {
         "banneduntil": "2025/7/2",
@@ -1132,6 +1132,10 @@
         "BanReason": "alt"
     },
     "novmbrs": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
+    },
+    "The_Toothpaste_Man": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
     }
