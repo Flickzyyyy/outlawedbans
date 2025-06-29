@@ -1086,5 +1086,9 @@
     "Bambino13157": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "Venomx3": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "Cop Targeting"
     }
 }
