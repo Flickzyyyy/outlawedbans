@@ -1090,5 +1090,9 @@
     "Venomx3": {
         "banneduntil": "2025/7/3",
         "BanReason": "Cop Targeting"
+    },
+    "Seven2Z": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "RDM"
     }
 }
