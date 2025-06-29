@@ -1062,5 +1062,9 @@
     "that_one_greman_guy1945": {
         "banneduntil": "2027/12/13",
         "BanReason": "underage/typed in username wrong"
+    },
+    "Daaaang": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "fixing ban"
     }
 }
