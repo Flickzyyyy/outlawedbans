@@ -1058,5 +1058,9 @@
     "will350": {
         "banneduntil": "2026/6/28",
         "BanReason": "Underaged"
+    },
+    "that_one_greman_guy1945": {
+        "banneduntil": "2027/12/13",
+        "BanReason": "underage/typed in username wrong"
     }
 }
