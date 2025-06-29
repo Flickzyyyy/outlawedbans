@@ -1050,5 +1050,9 @@
     "Cheerio911": {
         "banneduntil": "2025/7/6",
         "BanReason": "cop targetting + evasion"
+    },
+    "amanda.pierce.9216": {
+        "banneduntil": "2027/1/2",
+        "BanReason": "underage"
     }
 }
