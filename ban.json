@@ -1146,5 +1146,9 @@
     "Slasher226": {
         "banneduntil": "2025/7/2",
         "BanReason": "rdm"
+    },
+    "guyV1": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "RDM"
     }
 }
