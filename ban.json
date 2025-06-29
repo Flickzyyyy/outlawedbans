@@ -269,7 +269,7 @@
     },
     "LaShroomEnjoyer": {
         "banneduntil": "2099/1/1",
-        "BanReason": "hard r"
+        "BanReason": "alt"
     },
     "BabaYaga_of_pavlov": {
         "banneduntil": "2025/7/5",
@@ -1121,6 +1121,6 @@
     },
     "will351": {
         "banneduntil": "2099/1/1",
-        "BanReason": "alt"
+        "BanReason": "ALT"
     }
 }
