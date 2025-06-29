@@ -1054,5 +1054,9 @@
     "amanda.pierce.9216": {
         "banneduntil": "2027/1/2",
         "BanReason": "underage"
+    },
+    "will350": {
+        "banneduntil": "2026/6/28",
+        "BanReason": "Underaged"
     }
 }
