@@ -1062,5 +1062,9 @@
     "that_one_greman_guy1945": {
         "banneduntil": "2027/12/13",
         "BanReason": "underage/typed in username wrong"
+    },
+    "Episode.2AttackofTheClones": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
