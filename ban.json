@@ -1074,5 +1074,9 @@
     "Imtrashyoy": {
         "banneduntil": "2025/7/26",
         "BanReason": "soft a plus evasion"
+    },
+    "imamanofhonor": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
