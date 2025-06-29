@@ -1050,5 +1050,9 @@
     "killerboogers": {
         "banneduntil": "2025/7/6",
         "BanReason": "RDM + evasion"
+    },
+    "RichardsonPump69": {
+        "banneduntil": "2026/2/27",
+        "BanReason": "underaged"
     }
 }
