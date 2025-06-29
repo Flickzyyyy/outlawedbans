@@ -1046,5 +1046,9 @@
     "MightyGibbon": {
         "banneduntil": "2025/7/6",
         "BanReason": "cop targeting + evasion"
+    },
+    "killerboogers": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "RDM + evasion"
     }
 }
