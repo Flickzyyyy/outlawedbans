@@ -1122,5 +1122,9 @@
     "will351": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "Luffy_432": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
