@@ -1070,5 +1070,9 @@
     "BootieFcker34": {
         "banneduntil": "2099/1/1",
         "BanReason": "Inappropriate name"
+    },
+    "MightyGibbon": {
+        "banneduntil": "2025/7/6",
+        "BanReason": "cop targeting + evasion"
     }
 }
