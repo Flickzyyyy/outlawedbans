@@ -1158,5 +1158,9 @@
     "magick": {
         "banneduntil": "2025/7/13",
         "BanReason": "soft a"
+    },
+    "Hurricane2424": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "F Slur"
     }
 }
