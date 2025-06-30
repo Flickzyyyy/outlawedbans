@@ -1142,5 +1142,9 @@
     "evocableodin584": {
         "banneduntil": "2025/7/27",
         "BanReason": "Rdm + Slur Usage + Evading"
+    },
+    "abraham.vs.jfk": {
+        "banneduntil": "2025/7/14",
+        "BanReason": "Soft A"
     }
 }
