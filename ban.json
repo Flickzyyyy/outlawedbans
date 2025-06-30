@@ -1158,5 +1158,9 @@
     "creepyunc762": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "lightskin.general.certified.TU": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "RDM"
     }
 }
