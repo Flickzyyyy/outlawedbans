@@ -1170,5 +1170,9 @@
     "DockVrYT": {
         "banneduntil": "2025/7/13",
         "BanReason": "F slur"
+    },
+    "w-i-l-s-o-n": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "F Slur + Evasion"
     }
 }
