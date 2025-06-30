@@ -1162,5 +1162,9 @@
     "lightskin.general.certified.TU": {
         "banneduntil": "2025/7/4",
         "BanReason": "RDM"
+    },
+    "hypeisverycool": {
+        "banneduntil": "2000/4/24",
+        "BanReason": "Perma"
     }
 }
