@@ -1158,5 +1158,9 @@
     "lightskin.general.certified.TU": {
         "banneduntil": "2025/7/4",
         "BanReason": "RDM"
+    },
+    "Rosario22": {
+        "banneduntil": "2028/9/8",
+        "BanReason": "Underaged"
     }
 }
