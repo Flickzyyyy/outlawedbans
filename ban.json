@@ -1178,5 +1178,9 @@
     "jtw412": {
         "banneduntil": "2025/7/4",
         "BanReason": "RDM"
+    },
+    "DontFuccnKnowMe": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "raid caution"
     }
 }
