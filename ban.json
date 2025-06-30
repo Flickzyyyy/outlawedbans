@@ -1150,5 +1150,9 @@
     "guyV1": {
         "banneduntil": "2025/7/6",
         "BanReason": "RDM + Evading"
+    },
+    "SGT_Tounge": {
+        "banneduntil": "2025/7/2",
+        "BanReason": "rdm"
     }
 }
