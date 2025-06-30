@@ -1202,5 +1202,9 @@
     "skull220": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "zarikrishna": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "rdm plus evasion"
     }
 }
