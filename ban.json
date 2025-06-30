@@ -1154,5 +1154,9 @@
     "SGT_Tounge": {
         "banneduntil": "2025/7/2",
         "BanReason": "rdm"
+    },
+    "magick": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "soft a"
     }
 }
