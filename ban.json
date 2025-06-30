@@ -1174,5 +1174,9 @@
     "inotuna": {
         "banneduntil": "2025/7/4",
         "BanReason": "RDM"
+    },
+    "jtw412": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "RDM"
     }
 }
