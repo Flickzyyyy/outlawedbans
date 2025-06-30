@@ -1162,5 +1162,9 @@
     "Rosario22": {
         "banneduntil": "2027/9/8",
         "BanReason": "Underaged"
+    },
+    "Vamp1re13": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "RDM"
     }
 }
