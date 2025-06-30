@@ -1154,5 +1154,9 @@
     "bradley.22.2024": {
         "banneduntil": "2025/7/13",
         "BanReason": "soft a"
+    },
+    "creepyunc762": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
