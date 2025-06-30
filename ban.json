@@ -1170,5 +1170,9 @@
     "Weasel1315": {
         "banneduntil": "2025/7/3",
         "BanReason": "rdm"
+    },
+    "inotuna": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "RDM"
     }
 }
