@@ -1210,5 +1210,9 @@
     "ACHILLES_1911": {
         "banneduntil": "2025/7/28",
         "BanReason": "Homophobia + Evasion"
+    },
+    "BanhMigar": {
+        "banneduntil": "2025/7/3",
+        "BanReason": "Rdm clip"
     }
 }
