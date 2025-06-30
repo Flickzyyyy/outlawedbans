@@ -1214,5 +1214,9 @@
     "BanhMigar": {
         "banneduntil": "2025/7/3",
         "BanReason": "Rdm clip"
+    },
+    "Luna_plays903": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
