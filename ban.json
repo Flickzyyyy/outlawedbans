@@ -1160,7 +1160,11 @@
         "BanReason": "soft a"
     },
     "Hurricane2424": {
-        "banneduntil": "2025/7/27",
-        "BanReason": "F Slur + Evasion"
+        "banneduntil": "2025/7/13",
+        "BanReason": "F Slur"
+    },
+    "Tatertot.621667": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "Soft a"
     }
 }
