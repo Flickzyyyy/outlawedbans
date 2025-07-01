@@ -1226,5 +1226,9 @@
     "W-i-l-s-o-n": {
         "banneduntil": "2025/7/15",
         "BanReason": "ban decrease"
+    },
+    "soupmaestro": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "cop targeting + evasion"
     }
 }
