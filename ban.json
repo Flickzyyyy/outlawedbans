@@ -1214,5 +1214,9 @@
     "MrDreamie": {
         "banneduntil": "2025/7/8",
         "BanReason": "camping bank"
+    },
+    "Tray1": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underage"
     }
 }
