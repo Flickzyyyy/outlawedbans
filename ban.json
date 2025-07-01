@@ -1198,5 +1198,9 @@
     "Linux1776": {
         "banneduntil": "2025/7/15",
         "BanReason": "sexual misconduct"
+    },
+    "camel_nuts": {
+        "banneduntil": "2025/7/29",
+        "BanReason": "soft a evasion"
     }
 }
