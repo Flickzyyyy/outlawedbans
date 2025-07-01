@@ -1250,5 +1250,9 @@
     "betterphuckchuck": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "flipdinker": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
