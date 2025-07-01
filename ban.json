@@ -1202,5 +1202,9 @@
     "camel_nuts": {
         "banneduntil": "2025/7/29",
         "BanReason": "soft a evasion"
+    },
+    "Niska1211": {
+        "banneduntil": "2028/10/12",
+        "BanReason": "Underaged"
     }
 }
