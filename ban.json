@@ -1222,5 +1222,9 @@
     "Chris071415": {
         "banneduntil": "2029/1/1",
         "BanReason": "underage"
+    },
+    "W-i-l-s-o-n": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "ban decrease"
     }
 }
