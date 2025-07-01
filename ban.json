@@ -1206,5 +1206,9 @@
     "Niska1211": {
         "banneduntil": "2028/10/12",
         "BanReason": "Underaged"
+    },
+    "chris.779396": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
