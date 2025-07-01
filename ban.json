@@ -1254,5 +1254,9 @@
     "flipdinker": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "The.Toothpaste.Man2.0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
