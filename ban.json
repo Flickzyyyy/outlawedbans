@@ -1194,5 +1194,9 @@
     "Ice4ever": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Linux1776": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "sexual misconduct"
     }
 }
