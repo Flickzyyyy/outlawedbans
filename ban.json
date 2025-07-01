@@ -1230,5 +1230,9 @@
     "Dickanery": {
         "banneduntil": "2025/7/18",
         "BanReason": "Soft a and cop targeting"
+    },
+    "Godlyshrek": {
+        "banneduntil": "2025/7/1",
+        "BanReason": "Abusing suicide"
     }
 }
