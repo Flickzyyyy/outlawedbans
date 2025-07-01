@@ -1226,5 +1226,9 @@
     "Cheeseyfties": {
         "banneduntil": "2025/7/8",
         "BanReason": "Rdm and evasion"
+    },
+    "Dickanery": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "Soft a and cop targeting"
     }
 }
