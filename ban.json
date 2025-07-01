@@ -1222,5 +1222,9 @@
     "Ragermyles01": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Cheeseyfties": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "Rdm and evasion"
     }
 }
