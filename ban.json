@@ -1194,5 +1194,9 @@
     "cheese.Stick": {
         "banneduntil": "2025/7/16",
         "BanReason": "F Slur"
+    },
+    "Tickly-stick69": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "Rdm and evasion"
     }
 }
