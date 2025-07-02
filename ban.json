@@ -1218,5 +1218,9 @@
     "xcllz": {
         "banneduntil": "2025/7/4",
         "BanReason": "Rdm + Evading"
+    },
+    "L.you.cant.vote.kick.me": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "Harassment and Threats+"
     }
 }
