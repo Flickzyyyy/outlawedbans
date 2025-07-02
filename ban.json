@@ -1226,5 +1226,9 @@
     "kyssssbf": {
         "banneduntil": "2099/9/9",
         "BanReason": "Alt"
+    },
+    "dont.even.bother.lil.bro": {
+        "banneduntil": "2098/9/8",
+        "BanReason": "Alt"
     }
 }
