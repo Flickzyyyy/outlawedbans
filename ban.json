@@ -1238,5 +1238,9 @@
     "BOGARTT": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "nigmuncher67": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "name"
     }
 }
