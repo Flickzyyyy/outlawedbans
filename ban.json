@@ -1202,5 +1202,9 @@
     "doug21anikin": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "CosmicIAMMETA": {
+        "banneduntil": "2025/7/16",
+        "BanReason": "racial remarks"
     }
 }
