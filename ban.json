@@ -1254,5 +1254,9 @@
     "Retard_WithAGun": {
         "banneduntil": "2025/7/29",
         "BanReason": "racist remarks evasion"
+    },
+    "Arnbo478": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "spawn camping"
     }
 }
