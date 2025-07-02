@@ -1222,5 +1222,9 @@
     "L.you.cant.vote.kick.me": {
         "banneduntil": "2025/8/9",
         "BanReason": "Harassment and Threats+"
+    },
+    "kyssssbf": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "Alt"
     }
 }
