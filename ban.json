@@ -1182,5 +1182,9 @@
     "7258k": {
         "banneduntil": "2025/7/15",
         "BanReason": "f slur"
+    },
+    "NiceIceGigglerGigglerEchoRighc": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
