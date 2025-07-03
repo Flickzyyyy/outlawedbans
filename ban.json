@@ -1246,5 +1246,9 @@
     "Myname57_904": {
         "banneduntil": "2025/7/11",
         "BanReason": "RDM evasion"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "RDM evasion"
     }
 }
