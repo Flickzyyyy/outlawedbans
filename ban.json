@@ -1210,5 +1210,9 @@
     "HyperPE1806": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R ticket"
+    },
+    "N9neMob": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "RDM + Evasion"
     }
 }
