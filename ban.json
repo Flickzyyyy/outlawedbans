@@ -1234,5 +1234,9 @@
     "Ghost.rider2010": {
         "banneduntil": "2025/17",
         "BanReason": "Soft a"
+    },
+    "D_C7748": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "RDM clip"
     }
 }
