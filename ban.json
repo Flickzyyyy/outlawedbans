@@ -1262,5 +1262,9 @@
     "Hasledine": {
         "banneduntil": "2025/7/25",
         "BanReason": "sexual harassment and evasion"
+    },
+    "Raefe1": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "RDM evasion"
     }
 }
