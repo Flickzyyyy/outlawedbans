@@ -1222,5 +1222,9 @@
     "The006": {
         "banneduntil": "2025/7/17",
         "BanReason": "Racism"
+    },
+    "CMJ61780": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "RDM + Evasion"
     }
 }
