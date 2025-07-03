@@ -1182,5 +1182,9 @@
     "Landsan70": {
         "banneduntil": "2025/7/16",
         "BanReason": "F slur"
+    },
+    "Guy.named.Paul.Losobieski": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
