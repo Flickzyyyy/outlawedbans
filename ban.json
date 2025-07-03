@@ -1230,5 +1230,9 @@
     "vic.resnov": {
         "banneduntil": "2025/7/17",
         "BanReason": "f and n slur"
+    },
+    "Ghost.rider2010": {
+        "banneduntil": "2025/17",
+        "BanReason": "Soft a"
     }
 }
