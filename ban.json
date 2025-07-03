@@ -1214,5 +1214,9 @@
     "N9neMob": {
         "banneduntil": "2025/7/11",
         "BanReason": "RDM + Evasion"
+    },
+    "Koenjaan": {
+        "banneduntil": "2025/7/17",
+        "BanReason": "Racism"
     }
 }
