@@ -1238,5 +1238,9 @@
     "D_C7748": {
         "banneduntil": "2025/7/7",
         "BanReason": "RDM clip"
+    },
+    "cjrider3": {
+        "banneduntil": "2026/7/16",
+        "BanReason": "underage"
     }
 }
