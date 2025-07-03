@@ -1226,5 +1226,9 @@
     "CMJ61780": {
         "banneduntil": "2025/7/11",
         "BanReason": "RDM + Evasion"
+    },
+    "vic.resnov": {
+        "banneduntil": "2025/7/17",
+        "BanReason": "f and n slur"
     }
 }
