@@ -1206,5 +1206,9 @@
     "Scott.lane.127648": {
         "banneduntil": "2027/8/13",
         "BanReason": "Underage"
+    },
+    "HyperPE1806": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R ticket"
     }
 }
