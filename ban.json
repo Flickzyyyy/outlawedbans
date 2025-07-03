@@ -1250,5 +1250,9 @@
     "itx.Hubert": {
         "banneduntil": "2025/7/11",
         "BanReason": "RDM evasion"
+    },
+    "theSisterFister_x": {
+        "banneduntil": "2025/7/17",
+        "BanReason": "sexual misconduct (name)"
     }
 }
