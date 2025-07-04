@@ -1234,5 +1234,9 @@
     "Jahcoininvester": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Seerbye": {
+        "banneduntil": "2025/7/5",
+        "BanReason": "temp"
     }
 }
