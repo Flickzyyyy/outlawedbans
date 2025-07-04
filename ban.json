@@ -1230,5 +1230,9 @@
     "The_Aura_Thief": {
         "banneduntil": "2025/7/18",
         "BanReason": "Sexual remarks"
+    },
+    "Jahcoininvester": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
