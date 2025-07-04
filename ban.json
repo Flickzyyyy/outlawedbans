@@ -1286,5 +1286,9 @@
     "THEDOCKTOR": {
         "banneduntil": "2025/7/7",
         "BanReason": "RDM Ticket"
+    },
+    "hassle.doctrine": {
+        "banneduntil": "2025/7/31",
+        "BanReason": "f slur evasion"
     }
 }
