@@ -1214,5 +1214,9 @@
     "hassle.doctrine": {
         "banneduntil": "2025/8/4",
         "BanReason": "Ban Extension due to RDM Clip"
+    },
+    "StaticTester": {
+        "banneduntil": "2025/7/17",
+        "BanReason": "homophobic remarks"
     }
 }
