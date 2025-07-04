@@ -1266,5 +1266,9 @@
     "Nut_Swallower": {
         "banneduntil": "2025/7/31",
         "BanReason": "sexual misconduct (name) and RDM"
+    },
+    "Xiles23": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "reban"
     }
 }
