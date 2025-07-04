@@ -1282,5 +1282,9 @@
     "capmorg": {
         "banneduntil": "2025/7/17",
         "BanReason": "racial terms"
+    },
+    "THEDOCKTOR": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "RDM Ticket"
     }
 }
