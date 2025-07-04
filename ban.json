@@ -1278,5 +1278,9 @@
     "doomguy29.2022": {
         "banneduntil": "2025/7/7",
         "BanReason": "RDM"
+    },
+    "capmorg": {
+        "banneduntil": "2025/7/17",
+        "BanReason": "racial terms"
     }
 }
