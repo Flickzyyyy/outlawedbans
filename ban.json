@@ -1262,5 +1262,9 @@
     "bingusdingusthegreat1": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "haha.funny.ban": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
