@@ -1246,5 +1246,9 @@
     "bayjunker": {
         "banneduntil": "2025/7/9",
         "BanReason": "rdm"
+    },
+    "R1Pn1ck": {
+        "banneduntil": "2025/8/5",
+        "BanReason": "Sift a evasion"
     }
 }
