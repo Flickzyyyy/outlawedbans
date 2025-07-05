@@ -1242,5 +1242,9 @@
     "mehta.65331": {
         "banneduntil": "2025/7/9",
         "BanReason": "rdm"
+    },
+    "bayjunker": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "rdm"
     }
 }
