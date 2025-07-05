@@ -1258,5 +1258,9 @@
     "JAKEZXYS_R6": {
         "banneduntil": "2025/7/13",
         "BanReason": "Rdm and evasion"
+    },
+    "Lemonade_44": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
