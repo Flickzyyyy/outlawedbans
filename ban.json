@@ -1226,5 +1226,9 @@
     "Seven2Z": {
         "banneduntil": "2025/7/22",
         "BanReason": "RDM Ticket + Homophobia"
+    },
+    "Shogun423": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "raid"
     }
 }
