@@ -1238,5 +1238,9 @@
     "tbone623": {
         "banneduntil": "2025/7/13",
         "BanReason": "RDM + Evasion"
+    },
+    "mehta.65331": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "rdm"
     }
 }
