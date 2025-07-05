@@ -1250,5 +1250,9 @@
     "R1Pn1ck": {
         "banneduntil": "2025/8/5",
         "BanReason": "Sift a evasion"
+    },
+    "WalkingdeadSaS.is.the.Sigma": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
