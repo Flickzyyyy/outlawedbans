@@ -1234,5 +1234,9 @@
     "0MEEVH0": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "tbone623": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "RDM + Evasion"
     }
 }
