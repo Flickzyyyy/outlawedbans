@@ -1266,5 +1266,9 @@
     "haha.funny.ban": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "post.communism.mickey.mouse": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
