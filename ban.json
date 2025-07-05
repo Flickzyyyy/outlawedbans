@@ -1246,9 +1246,5 @@
     "bayjunker": {
         "banneduntil": "2025/7/9",
         "BanReason": "rdm"
-    },
-    "Bayjunker": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "unban"
     }
 }
