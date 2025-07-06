@@ -1270,5 +1270,9 @@
     "cheese1290": {
         "banneduntil": "2025/7/10",
         "BanReason": "RDM"
+    },
+    "zyrian45": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "Rdm"
     }
 }
