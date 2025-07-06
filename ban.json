@@ -1286,5 +1286,9 @@
     "sourgraped": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Bigboy287": {
+        "banneduntil": "2025/7/9",
+        "BanReason": "rdm"
     }
 }
