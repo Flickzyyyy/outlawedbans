@@ -1282,5 +1282,9 @@
     "Jnilla065": {
         "banneduntil": "2027/7/5",
         "BanReason": "underaged 11"
+    },
+    "sourgraped": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
