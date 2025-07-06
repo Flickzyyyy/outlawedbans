@@ -1238,5 +1238,9 @@
     "CrimsonOak": {
         "banneduntil": "2025/7/20",
         "BanReason": "sexual harassment"
+    },
+    "RG_92": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "Rdm and evasion"
     }
 }
