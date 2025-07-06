@@ -1242,5 +1242,9 @@
     "RG_92": {
         "banneduntil": "2025/7/13",
         "BanReason": "Rdm and evasion"
+    },
+    "MrCash2025": {
+        "banneduntil": "2025/7/7",
+        "BanReason": "Rdm Clip"
     }
 }
