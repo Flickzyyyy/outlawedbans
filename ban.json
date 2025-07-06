@@ -1246,5 +1246,9 @@
     "MrCash2025": {
         "banneduntil": "2025/7/7",
         "BanReason": "Rdm Clip"
+    },
+    "YeYeVR.1234": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "Mass RDM + Evading via Rdm + Suicide"
     }
 }
