@@ -1274,5 +1274,9 @@
     "zyrian45": {
         "banneduntil": "2025/7/7",
         "BanReason": "Rdm"
+    },
+    "Smoothsteel09.2025": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
