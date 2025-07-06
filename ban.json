@@ -1242,5 +1242,9 @@
     "RG_92": {
         "banneduntil": "2025/7/13",
         "BanReason": "Rdm and evasion"
+    },
+    "Mrnobody188sinofwrath": {
+        "banneduntil": "2000/7/2",
+        "BanReason": "Mass RDM (Didn\u2019t get Unbanned and he didn\u2019t mass RDM)"
     }
 }
