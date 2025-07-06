@@ -1250,5 +1250,9 @@
     "YeYeVR.1234": {
         "banneduntil": "2025/7/20",
         "BanReason": "Mass RDM + Evading via Rdm + Suicide"
+    },
+    "Femboy_xpowerlifter": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
