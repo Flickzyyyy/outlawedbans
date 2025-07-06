@@ -1286,5 +1286,9 @@
     "sourgraped": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "BlackJesus5150": {
+        "banneduntil": "2000/6/22",
+        "BanReason": "Sexual remarks (Didnt get unbanned)"
     }
 }
