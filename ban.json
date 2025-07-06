@@ -1274,5 +1274,9 @@
     "hinduism67": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "L.will": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
