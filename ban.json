@@ -1238,5 +1238,9 @@
     "BurnerRunning": {
         "banneduntil": "2025/7/15",
         "BanReason": "rdm evasion"
+    },
+    "Laufi505": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
