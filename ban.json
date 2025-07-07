@@ -1302,5 +1302,9 @@
     "Lantry": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r alternative"
+    },
+    "Voodafrm1300": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "sexual remarks + evasion"
     }
 }
