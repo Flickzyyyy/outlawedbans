@@ -1306,5 +1306,9 @@
     "Voodafrm1300": {
         "banneduntil": "2025/8/3",
         "BanReason": "sexual remarks + evasion"
+    },
+    "space.ghost.3": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "soft a"
     }
 }
