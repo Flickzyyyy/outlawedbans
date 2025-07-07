@@ -1246,5 +1246,9 @@
     "trampka1": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "PianoGuy124": {
+        "banneduntil": "2025/7/21",
+        "BanReason": "Mass rdm"
     }
 }
