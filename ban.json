@@ -1218,5 +1218,9 @@
     "trampke": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "nexusvr1012": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
