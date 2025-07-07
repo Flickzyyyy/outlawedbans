@@ -1282,5 +1282,9 @@
     "fireMUSTARDDDD": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Lado74": {
+        "banneduntil": "2025/7/14",
+        "BanReason": "rdm evasion"
     }
 }
