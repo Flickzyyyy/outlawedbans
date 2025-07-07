@@ -1294,5 +1294,9 @@
     "SWAMPGAMINGYT": {
         "banneduntil": "2025/7/21",
         "BanReason": "Sexual remarks towards players."
+    },
+    "potatr": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "Cop Targeting + Evading"
     }
 }
