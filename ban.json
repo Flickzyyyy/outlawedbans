@@ -1298,5 +1298,9 @@
     "potatr": {
         "banneduntil": "2025/7/9",
         "BanReason": "Cop Targeting + Evading"
+    },
+    "L4ZY_ONTOP": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "Cop Targeting + Evading"
     }
 }
