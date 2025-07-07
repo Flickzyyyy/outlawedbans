@@ -1278,5 +1278,9 @@
     "Igotyamister": {
         "banneduntil": "2025/7/11",
         "BanReason": "cop targeting"
+    },
+    "Gold_killa": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "RDM"
     }
 }
