@@ -1234,5 +1234,9 @@
     "Carsondagoat19w": {
         "banneduntil": "2025/7/21",
         "BanReason": "soft a"
+    },
+    "BurnerRunning": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "rdm evasion"
     }
 }
