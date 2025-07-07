@@ -1250,5 +1250,9 @@
     "PianoGuy124": {
         "banneduntil": "2025/7/21",
         "BanReason": "Mass rdm"
+    },
+    "officialChunkyMonkey": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "Rdm + evasion"
     }
 }
