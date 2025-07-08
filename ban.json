@@ -1298,5 +1298,9 @@
     "micky.mou": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "imthesheriff.2025": {
+        "banneduntil": "2025/7/21",
+        "BanReason": "Sexual harassment"
     }
 }
