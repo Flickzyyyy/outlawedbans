@@ -1290,5 +1290,9 @@
     "taco_awsome": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage (autocorrected last time)"
+    },
+    "goonerslop": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alr"
     }
 }
