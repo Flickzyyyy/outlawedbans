@@ -1314,5 +1314,9 @@
     "Aw6543": {
         "banneduntil": "2025/7/15",
         "BanReason": "RDM evasion"
+    },
+    "UpalGnom": {
+        "banneduntil": "2025/7/8",
+        "BanReason": "Rdm"
     }
 }
