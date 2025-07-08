@@ -1410,5 +1410,9 @@
     "doomguy29.2022": {
         "banneduntil": "2025/7/16",
         "BanReason": "Cop Targeting + Evasion"
+    },
+    "XVog": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "RDM"
     }
 }
