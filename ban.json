@@ -1318,5 +1318,9 @@
     "UpalGnom": {
         "banneduntil": "2025/7/8",
         "BanReason": "Rdm"
+    },
+    "Lebron_James420": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "RDM evasion"
     }
 }
