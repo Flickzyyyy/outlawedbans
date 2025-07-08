@@ -1314,5 +1314,9 @@
     "Vicetec": {
         "banneduntil": "2027/10/21",
         "BanReason": "undersge"
+    },
+    "Partygilla": {
+        "banneduntil": "2025/7/16",
+        "BanReason": "rdm+evasion"
     }
 }
