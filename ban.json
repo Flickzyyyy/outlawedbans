@@ -1378,5 +1378,9 @@
     "Xonic0": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R Clip"
+    },
+    "Fent_Bingus": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
