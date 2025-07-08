@@ -1322,5 +1322,9 @@
     "Lebron_James420": {
         "banneduntil": "2025/7/15",
         "BanReason": "RDM evasion"
+    },
+    "idksterk": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "RDM"
     }
 }
