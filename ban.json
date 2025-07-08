@@ -1426,5 +1426,9 @@
     "KentuckyFriedChicken24_7": {
         "banneduntil": "2025/7/13",
         "BanReason": "mass rdm"
+    },
+    "karsenkyle": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "RDM after warning"
     }
 }
