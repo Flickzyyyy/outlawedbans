@@ -1386,5 +1386,9 @@
     "glockgg": {
         "banneduntil": "2025/7/16",
         "BanReason": "RDM Clip Extension because there was another clip of Cop Targeting"
+    },
+    "hankypookie": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "cop targeting"
     }
 }
