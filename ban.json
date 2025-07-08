@@ -1434,5 +1434,9 @@
     "Vanilla_Moth": {
         "banneduntil": "2025/7/12",
         "BanReason": "RDM"
+    },
+    "MrNobody188SinOfWrath": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "excess bans(Rdm)"
     }
 }
