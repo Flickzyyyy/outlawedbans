@@ -1446,5 +1446,9 @@
     "VR.Ace123": {
         "banneduntil": "2025/7/13",
         "BanReason": "rdm"
+    },
+    "highfiver_on_tiktok": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "rdm"
     }
 }
