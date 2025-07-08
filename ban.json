@@ -1294,5 +1294,9 @@
     "goonerslop": {
         "banneduntil": "2099/1/1",
         "BanReason": "alr"
+    },
+    "micky.mou": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
