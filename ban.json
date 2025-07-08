@@ -1382,5 +1382,9 @@
     "Fent_Bingus": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "glockgg": {
+        "banneduntil": "2025/7/12",
+        "BanReason": "RDM Clip"
     }
 }
