@@ -1334,5 +1334,9 @@
     "JaaawBreaker": {
         "banneduntil": "2025/7/21",
         "BanReason": "homophobia"
+    },
+    "crispycharls": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "rdm"
     }
 }
