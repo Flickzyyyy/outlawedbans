@@ -1286,5 +1286,9 @@
     "taco_awesome": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage"
+    },
+    "taco_awsome": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage (autocorrected last time)"
     }
 }
