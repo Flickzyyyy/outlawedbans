@@ -1414,5 +1414,9 @@
     "XVog": {
         "banneduntil": "2025/7/12",
         "BanReason": "RDM"
+    },
+    "queerdo_2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "name"
     }
 }
