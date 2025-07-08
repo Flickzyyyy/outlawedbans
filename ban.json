@@ -1374,5 +1374,9 @@
     "thenextbigthing.55911": {
         "banneduntil": "2025/7/22",
         "BanReason": "f slur"
+    },
+    "Xonic0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R Clip"
     }
 }
