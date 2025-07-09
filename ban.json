@@ -1454,5 +1454,9 @@
     "SAR_vex": {
         "banneduntil": "2025/7/23",
         "BanReason": "Sexual acts"
+    },
+    "lisp.of.death.pig.man": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
