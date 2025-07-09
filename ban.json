@@ -1470,5 +1470,9 @@
     "Bruno24": {
         "banneduntil": "2025/7/13",
         "BanReason": "Rdm clip"
+    },
+    "heueubeveyeuehv": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
