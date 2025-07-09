@@ -1478,5 +1478,9 @@
     "netgds23": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "SkiptheoldWestTrapper": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underage"
     }
 }
