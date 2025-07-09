@@ -1490,5 +1490,9 @@
     "Ikirk565618": {
         "banneduntil": "2026/10/15",
         "BanReason": "Underage"
+    },
+    "lkirk565618": {
+        "banneduntil": "2026/10/15",
+        "BanReason": "Underage"
     }
 }
