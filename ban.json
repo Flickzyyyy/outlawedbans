@@ -1462,5 +1462,9 @@
     "BlackJesus5150": {
         "banneduntil": "2025/7/12",
         "BanReason": "Cop targeting"
+    },
+    "13silence13": {
+        "banneduntil": "2025/7/16",
+        "BanReason": "RDM+evasion"
     }
 }
