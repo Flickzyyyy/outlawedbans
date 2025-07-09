@@ -1414,5 +1414,9 @@
     "DrDingle.2025": {
         "banneduntil": "2025/7/16",
         "BanReason": "Rdm and evasion"
+    },
+    "OOSSE": {
+        "banneduntil": "2025/7/16",
+        "BanReason": "RDM + Evasion"
     }
 }
