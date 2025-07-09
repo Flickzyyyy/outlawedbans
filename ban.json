@@ -1478,5 +1478,9 @@
     "Flickzycangetdismeat": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "netgds23": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
