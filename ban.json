@@ -1466,5 +1466,9 @@
     "13silence13": {
         "banneduntil": "2025/7/16",
         "BanReason": "RDM+evasion"
+    },
+    "lumuu": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "Racist Remarks"
     }
 }
