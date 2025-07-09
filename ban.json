@@ -1454,5 +1454,9 @@
     "Swelly": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "wyattman014": {
+        "banneduntil": "2025/7/16",
+        "BanReason": "RDM + Evasion"
     }
 }
