@@ -1449,7 +1449,7 @@
     },
     "dirtyrottenpigs": {
         "banneduntil": "2099/1/1",
-        "BanReason": "Alt"
+        "BanReason": "alt"
     },
     "SAR_vex": {
         "banneduntil": "2025/7/23",
@@ -1457,7 +1457,7 @@
     },
     "lisp.of.death.pig.man": {
         "banneduntil": "2099/1/1",
-        "BanReason": "alt"
+        "BanReason": "Alt"
     },
     "R1ot34": {
         "banneduntil": "2025/7/13",
