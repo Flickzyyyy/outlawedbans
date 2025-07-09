@@ -1506,5 +1506,9 @@
     "CALEBTHETANK17": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitted to saying hard r"
+    },
+    "TheSlinggunner": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "Rdm"
     }
 }
