@@ -1426,5 +1426,9 @@
     "MR.Cow2": {
         "banneduntil": "2025/7/17",
         "BanReason": "Rdm"
+    },
+    "Cynic93": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "N word hard R"
     }
 }
