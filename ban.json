@@ -1518,5 +1518,9 @@
     "tactical_neon_turkey": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Lildemon69": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Sexual remarks"
     }
 }
