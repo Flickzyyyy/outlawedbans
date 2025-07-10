@@ -1554,5 +1554,9 @@
     "peace942": {
         "banneduntil": "2025/7/24",
         "BanReason": "derog"
+    },
+    "Ralphi244": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "pfp"
     }
 }
