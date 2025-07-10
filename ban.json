@@ -1510,5 +1510,9 @@
     "TheSlinggunner": {
         "banneduntil": "2025/7/11",
         "BanReason": "rdm decrease"
+    },
+    "Jaxson_451": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "rdm"
     }
 }
