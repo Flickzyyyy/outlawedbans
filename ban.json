@@ -1542,5 +1542,9 @@
     "bismo.funyuns": {
         "banneduntil": "2025/7/14",
         "BanReason": "RDM clip"
+    },
+    "OrdinaryTalen21": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "mass rdm"
     }
 }
