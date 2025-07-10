@@ -1562,5 +1562,9 @@
     "ruzzex9618": {
         "banneduntil": "2099/1/1",
         "BanReason": "excess bans."
+    },
+    "Jstdly": {
+        "banneduntil": "2025/7/14",
+        "BanReason": "Cop targeting"
     }
 }
