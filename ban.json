@@ -1550,5 +1550,9 @@
     "Allsight": {
         "banneduntil": "2025/7/18",
         "BanReason": "camping gun store"
+    },
+    "peace942": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "derog"
     }
 }
