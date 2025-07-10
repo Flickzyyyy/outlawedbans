@@ -1542,5 +1542,9 @@
     "MattMad13": {
         "banneduntil": "2025/7/13",
         "BanReason": "rdm+evasion"
+    },
+    "Red_Scout": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Racial remarks"
     }
 }
