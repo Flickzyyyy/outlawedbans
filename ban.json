@@ -1546,5 +1546,9 @@
     "Red_Scout": {
         "banneduntil": "2025/7/23",
         "BanReason": "Racial remarks"
+    },
+    "chicken_nugget334": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
