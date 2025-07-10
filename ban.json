@@ -1502,5 +1502,9 @@
     "Noahdon": {
         "banneduntil": "2027/10/7",
         "BanReason": "underaged"
+    },
+    "MeanLeprachaun": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "f slur, this player said the f slur during a hostage situation inside the hotel room when he was asked to drop a moonshine still."
     }
 }
