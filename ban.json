@@ -1534,5 +1534,9 @@
     "poppagoat.2024": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "GiJosie": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "Rdm and evasion"
     }
 }
