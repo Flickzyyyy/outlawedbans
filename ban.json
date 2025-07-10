@@ -1574,5 +1574,9 @@
     "trxpin.haze": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "gycka": {
+        "banneduntil": "2025/7/13",
+        "BanReason": "rdm"
     }
 }
