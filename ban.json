@@ -1550,5 +1550,9 @@
     "chicken_nugget334": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Noahdon": {
+        "banneduntil": "2027/10/7",
+        "BanReason": "underaged"
     }
 }
