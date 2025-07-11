@@ -1598,5 +1598,9 @@
     "AngrySmurf566": {
         "banneduntil": "2025/7/18",
         "BanReason": "Re-ban, it was camping."
+    },
+    "coke.caine": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "cop targeting"
     }
 }
