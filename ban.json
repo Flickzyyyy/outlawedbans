@@ -1554,5 +1554,9 @@
     "jaykayfos": {
         "banneduntil": "2026/7/10",
         "BanReason": "Underage"
+    },
+    "BruddaFowimbea": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "Sexual remarks"
     }
 }
