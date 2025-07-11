@@ -1566,5 +1566,9 @@
     "GangActivityFasho": {
         "banneduntil": "2025/8/8",
         "BanReason": "F slur and evasion"
+    },
+    "Luxuryportedgold": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "F slur"
     }
 }
