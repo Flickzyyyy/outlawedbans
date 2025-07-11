@@ -1622,5 +1622,9 @@
     "UpalGnom": {
         "banneduntil": "2025/7/18",
         "BanReason": "Cop targeting"
+    },
+    "sutter2": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "Sexual remarks + evasion"
     }
 }
