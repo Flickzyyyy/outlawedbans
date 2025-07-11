@@ -1610,5 +1610,9 @@
     "johnsonmcgeeee": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underaged"
+    },
+    "HouseofLord": {
+        "banneduntil": "2027/7/11",
+        "BanReason": "Underage"
     }
 }
