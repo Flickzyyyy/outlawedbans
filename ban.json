@@ -1602,5 +1602,9 @@
     "coke.caine": {
         "banneduntil": "2025/7/15",
         "BanReason": "cop targeting"
+    },
+    "kingblade.74484": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "Sexual remarks + evasion"
     }
 }
