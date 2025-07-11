@@ -1614,5 +1614,9 @@
     "HouseofLord": {
         "banneduntil": "2027/7/11",
         "BanReason": "Underage"
+    },
+    "Luke463": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
