@@ -1630,5 +1630,9 @@
     "tsmpebbles": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underaged"
+    },
+    "Odeman1234567": {
+        "banneduntil": "Rdm*2+Camping (Unban Didn't work)",
+        "BanReason": "2025/6/13"
     }
 }
