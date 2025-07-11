@@ -1606,5 +1606,9 @@
     "shortcircuit4": {
         "banneduntil": "2025/7/13",
         "BanReason": "rdm"
+    },
+    "Tabdacool": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "Sexual remarks"
     }
 }
