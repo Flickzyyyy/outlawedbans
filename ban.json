@@ -1632,7 +1632,7 @@
         "BanReason": "Underaged"
     },
     "Odeman1234567": {
-        "banneduntil": "Rdm*2+Camping (Unban Didn't work)",
-        "BanReason": "2025/6/13"
+        "banneduntil": "2025/6/13",
+        "BanReason": "Rdm*2+Camping (Unban Didn't work)"
     }
 }
