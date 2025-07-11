@@ -1562,5 +1562,9 @@
     "Silentassassin3697": {
         "banneduntil": "2025/7/19",
         "BanReason": "rdm plus evasion"
+    },
+    "GangActivityFasho": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "F slur and evasion"
     }
 }
