@@ -1630,5 +1630,9 @@
     "mmjlc2": {
         "banneduntil": "2025/7/14",
         "BanReason": "rdm"
+    },
+    "is.that.the.game.warden": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "Rdm + evasion"
     }
 }
