@@ -1634,5 +1634,9 @@
     "kurosushi": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "barry_berkman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
