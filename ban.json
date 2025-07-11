@@ -1618,5 +1618,9 @@
     "Biblecampvictim6699": {
         "banneduntil": "2025/7/18",
         "BanReason": "Cop targeting + evasion"
+    },
+    "UpalGnom": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "Cop targeting"
     }
 }
