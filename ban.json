@@ -1626,5 +1626,9 @@
     "sutter2": {
         "banneduntil": "2025/8/10",
         "BanReason": "Sexual remarks + evasion"
+    },
+    "mmjlc2": {
+        "banneduntil": "2025/7/14",
+        "BanReason": "rdm"
     }
 }
