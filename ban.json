@@ -1622,5 +1622,9 @@
     "USMC_O6": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "ghostneostar": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "rdm plus evasion"
     }
 }
