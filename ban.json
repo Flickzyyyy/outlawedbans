@@ -1618,5 +1618,9 @@
     "Biblecampvictim6699": {
         "banneduntil": "2025/7/18",
         "BanReason": "Cop targeting + evasion"
+    },
+    "toast25": {
+        "banneduntil": "2024/7/14",
+        "BanReason": "Cop targeting"
     }
 }
