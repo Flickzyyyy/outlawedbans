@@ -1586,5 +1586,9 @@
     "Rogskdu": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage"
+    },
+    "MrJoe345": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "Rdm and evasion"
     }
 }
