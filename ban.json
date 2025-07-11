@@ -1630,5 +1630,9 @@
     "tsmpebbles": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underaged"
+    },
+    "kurosushi": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
