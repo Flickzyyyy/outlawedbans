@@ -1626,5 +1626,9 @@
     "ghostneostar": {
         "banneduntil": "2025/7/19",
         "BanReason": "rdm plus evasion"
+    },
+    "tsmpebbles": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underaged"
     }
 }
