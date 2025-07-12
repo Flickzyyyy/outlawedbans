@@ -1610,5 +1610,9 @@
     "Monkeyeatbananna": {
         "banneduntil": "2025/7/15",
         "BanReason": "rdm"
+    },
+    "gabecolprate": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "Sexual harassment and evasion"
     }
 }
