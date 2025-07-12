@@ -1630,5 +1630,9 @@
     "spicy.shart.2025": {
         "banneduntil": "2025/7/26",
         "BanReason": "calling people gay"
+    },
+    "xeno_q": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "pedo"
     }
 }
