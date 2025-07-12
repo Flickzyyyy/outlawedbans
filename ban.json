@@ -1642,5 +1642,9 @@
     "Snobble": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Daaaang": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "homophobia plus evasion"
     }
 }
