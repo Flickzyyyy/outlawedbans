@@ -1606,5 +1606,9 @@
     "seth.dickfield": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Monkeyeatbananna": {
+        "banneduntil": "2025/7/15",
+        "BanReason": "rdm"
     }
 }
