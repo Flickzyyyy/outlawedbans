@@ -1606,5 +1606,9 @@
     "MusicMann11": {
         "banneduntil": "2025/7/21",
         "BanReason": "Rdm + evasion"
+    },
+    "Lw_bgt_blr": {
+        "banneduntil": "2027/8/12",
+        "BanReason": "underage"
     }
 }
