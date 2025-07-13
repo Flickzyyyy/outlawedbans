@@ -1598,5 +1598,9 @@
     "chaos_93": {
         "banneduntil": "2025/7/17",
         "BanReason": "Rdm"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "2025/7/21",
+        "BanReason": "Rdm + evasion"
     }
 }
