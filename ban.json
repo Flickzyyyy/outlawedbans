@@ -1614,5 +1614,9 @@
     "Richardblaze": {
         "banneduntil": "2025/7/21",
         "BanReason": "rdm plus evasion"
+    },
+    "DMLSolosAgain": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "Soft a clip"
     }
 }
