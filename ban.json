@@ -1658,5 +1658,9 @@
     "bkagg1018.2024": {
         "banneduntil": "2025/7/26",
         "BanReason": "Homophobia"
+    },
+    "happyduck1234": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
