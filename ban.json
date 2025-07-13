@@ -1670,5 +1670,9 @@
     "Ayden.canales.2024": {
         "banneduntil": "2032",
         "BanReason": "Admitted to being underaged in clip"
+    },
+    "zunnerrunner": {
+        "banneduntil": "2025/7/26",
+        "BanReason": "Sexual remarks"
     }
 }
