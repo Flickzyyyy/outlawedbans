@@ -1610,5 +1610,9 @@
     "Lw_bgt_blr": {
         "banneduntil": "2027/8/12",
         "BanReason": "underage"
+    },
+    "Richardblaze": {
+        "banneduntil": "2025/7/21",
+        "BanReason": "rdm plus evasion"
     }
 }
