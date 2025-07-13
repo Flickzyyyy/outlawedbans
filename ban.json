@@ -1662,5 +1662,9 @@
     "RadiantTapir9080": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Balisongthong": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Sexual remarks + evasion"
     }
 }
