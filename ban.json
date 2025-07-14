@@ -1666,5 +1666,9 @@
     "my.name.miky.mou": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "HZAZz": {
+        "banneduntil": "2025/7/28",
+        "BanReason": "Sexual remarks"
     }
 }
