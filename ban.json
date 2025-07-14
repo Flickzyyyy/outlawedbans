@@ -1630,5 +1630,9 @@
     "jaxon14.2025": {
         "banneduntil": "2025/7/21",
         "BanReason": "Rdm and evasion"
+    },
+    "band.o.mice": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "F slur"
     }
 }
