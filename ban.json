@@ -1642,5 +1642,9 @@
     "mileshunt": {
         "banneduntil": "2025/7/21",
         "BanReason": "Mass RDM"
+    },
+    "ysnvr6771": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "rdm clip"
     }
 }
