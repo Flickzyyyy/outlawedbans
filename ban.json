@@ -1634,5 +1634,9 @@
     "band.o.mice": {
         "banneduntil": "2025/7/27",
         "BanReason": "F slur"
+    },
+    "guygrabby": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "F slur"
     }
 }
