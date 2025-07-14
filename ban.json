@@ -1646,5 +1646,9 @@
     "Virtualvideogamer": {
         "banneduntil": "2025/7/27",
         "BanReason": "Sexual remarks + mass rdm"
+    },
+    "LingSingHickGer": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underaged"
     }
 }
