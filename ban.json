@@ -1630,5 +1630,9 @@
     "Christkot0.1": {
         "banneduntil": "2025/8/14",
         "BanReason": "Sexual remarks and evasion"
+    },
+    "Gold_killa": {
+        "banneduntil": "2025/7/17",
+        "BanReason": "Rdm"
     }
 }
