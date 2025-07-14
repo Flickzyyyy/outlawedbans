@@ -1650,5 +1650,9 @@
     "LingSingHickGer": {
         "banneduntil": "2028/1/1",
         "BanReason": "underaged"
+    },
+    "anettew56": {
+        "banneduntil": "2025/7/17",
+        "BanReason": "Staff targeting (authorized by will)"
     }
 }
