@@ -1662,5 +1662,9 @@
     "cola_the_outlaw": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "my.name.miky.mou": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
