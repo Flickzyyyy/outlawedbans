@@ -1646,5 +1646,9 @@
     "ysnvr6771": {
         "banneduntil": "2025/7/18",
         "BanReason": "rdm clip"
+    },
+    "479_unknown": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "rdm clip"
     }
 }
