@@ -1658,5 +1658,9 @@
     "JGRaps": {
         "banneduntil": "2025/7/18",
         "BanReason": "rdm"
+    },
+    "cola_the_outlaw": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
