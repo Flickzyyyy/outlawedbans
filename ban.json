@@ -1650,5 +1650,9 @@
     "479_unknown": {
         "banneduntil": "2025/7/18",
         "BanReason": "rdm clip"
+    },
+    "iXSupremeXi": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
