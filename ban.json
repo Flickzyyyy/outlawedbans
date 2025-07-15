@@ -1658,5 +1658,9 @@
     "palpitine2": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "NGB2": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "RDM"
     }
 }
