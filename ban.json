@@ -1698,5 +1698,9 @@
     "Westernpotato": {
         "banneduntil": "2025/7/18",
         "BanReason": "Rdm"
+    },
+    "XxSigmalordxX": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
