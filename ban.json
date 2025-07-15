@@ -1694,5 +1694,9 @@
     "Otter407": {
         "banneduntil": "2025/7/30",
         "BanReason": "RMD/Spawn camping"
+    },
+    "Westernpotato": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "Rdm"
     }
 }
