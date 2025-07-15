@@ -1654,5 +1654,9 @@
     "notanaltaccount3322": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "palpitine2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
