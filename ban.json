@@ -1666,5 +1666,9 @@
     "V1c_R": {
         "banneduntil": "2025/7/19",
         "BanReason": "cop targeting"
+    },
+    "ryann.33539": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "RDM"
     }
 }
