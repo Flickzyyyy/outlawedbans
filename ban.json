@@ -1646,5 +1646,9 @@
     "luke465": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "alja": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "rdm+evasion"
     }
 }
