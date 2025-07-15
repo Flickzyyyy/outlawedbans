@@ -1726,5 +1726,9 @@
     "gongaHawking": {
         "banneduntil": "2025/7/24",
         "BanReason": "Rdm and evasion"
+    },
+    "mccheese.2025": {
+        "banneduntil": "2025/7/29",
+        "BanReason": "f slur"
     }
 }
