@@ -1678,5 +1678,9 @@
     "LickMcCrevis": {
         "banneduntil": "2025/8/12",
         "BanReason": "f slur evasion"
+    },
+    "mr.bob12.0": {
+        "banneduntil": "2025/7/29",
+        "BanReason": "secual remarks"
     }
 }
