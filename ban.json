@@ -1686,5 +1686,9 @@
     "Simmons1": {
         "banneduntil": "2025/7/28",
         "BanReason": "F slur"
+    },
+    "ricky_pickle_fart": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "rdm"
     }
 }
