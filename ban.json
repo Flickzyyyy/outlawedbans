@@ -1722,5 +1722,9 @@
     "brayden1221": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "gongaHawking": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "Rdm and evasion"
     }
 }
