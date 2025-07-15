@@ -1642,5 +1642,9 @@
     "imamanofhonorLCF": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "luke456": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
