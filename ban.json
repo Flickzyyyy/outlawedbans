@@ -1742,5 +1742,9 @@
     "nexusvr10124": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "morgan766": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
