@@ -1706,5 +1706,9 @@
     "zackypanda": {
         "banneduntil": "2025/7/24",
         "BanReason": "Rdm and evasion"
+    },
+    "MR_BABYDELETER": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "rdm"
     }
 }
