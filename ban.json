@@ -1734,5 +1734,9 @@
     "Joelbbro": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "PuddleOfNut": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "Rdm*2 + Evading"
     }
 }
