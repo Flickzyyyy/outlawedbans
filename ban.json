@@ -1694,5 +1694,9 @@
     "cashmoney86": {
         "banneduntil": "2025/7/29",
         "BanReason": "Racist remarks"
+    },
+    "system1238": {
+        "banneduntil": "2027/7/26",
+        "BanReason": "underaged"
     }
 }
