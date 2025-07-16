@@ -1698,5 +1698,9 @@
     "system1238": {
         "banneduntil": "2027/7/26",
         "BanReason": "underaged"
+    },
+    "Grahamerslammer": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
