@@ -1750,5 +1750,9 @@
     "NOTGG1229MM": {
         "banneduntil": "2025/7/20",
         "BanReason": "RDM"
+    },
+    "tenderbartender": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
