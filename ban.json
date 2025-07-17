@@ -1842,5 +1842,9 @@
     "itx.huburt": {
         "banneduntil": "2025/7/19",
         "BanReason": "Rdm"
+    },
+    "itx.Harold": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "Rdm"
     }
 }
