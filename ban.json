@@ -1754,5 +1754,9 @@
     "solo.575695": {
         "banneduntil": "2025/7/21",
         "BanReason": "Rdm + Evading"
+    },
+    "DeviousDinglebear": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "rdm: shot three people right in front of the saloon. No words or anything said"
     }
 }
