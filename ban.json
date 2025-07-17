@@ -1790,5 +1790,9 @@
     "sterz12": {
         "banneduntil": "2099/9/09",
         "BanReason": "Hard R"
+    },
+    "P-51Escort": {
+        "banneduntil": "2025/7/21",
+        "BanReason": "Rdm"
     }
 }
