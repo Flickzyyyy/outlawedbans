@@ -1714,5 +1714,9 @@
     "Speedkills2818": {
         "banneduntil": "2025/7/18",
         "BanReason": "Rdm clip"
+    },
+    "diddyorganization": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "camping"
     }
 }
