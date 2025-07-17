@@ -1762,5 +1762,9 @@
     "m430.9": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r: walked in the gun store saying hard r\u2019s for sale multiple times"
+    },
+    "bomboclat.55305": {
+        "banneduntil": "2027/7/31",
+        "BanReason": "soft a: walking in the street calling people it"
     }
 }
