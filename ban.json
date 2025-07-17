@@ -1862,5 +1862,9 @@
     "Louis_berggman": {
         "banneduntil": "2025/7/31",
         "BanReason": "f slur"
+    },
+    "SexAmbassador": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
