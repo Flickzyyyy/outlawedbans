@@ -1786,5 +1786,9 @@
     "grzegorz.the.second": {
         "banneduntil": "2025/7/21",
         "BanReason": "Rdm Clip"
+    },
+    "sterz12": {
+        "banneduntil": "2099/9/09",
+        "BanReason": "Hard R"
     }
 }
