@@ -1758,5 +1758,9 @@
     "DeviousDinglebear": {
         "banneduntil": "2025/7/19",
         "BanReason": "rdm: shot three people right in front of the saloon. No words or anything said"
+    },
+    "m430.9": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r: walked in the gun store saying hard r\u2019s for sale multiple times"
     }
 }
