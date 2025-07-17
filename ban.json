@@ -1730,5 +1730,9 @@
     "Skulkye25": {
         "banneduntil": "2025/7/18",
         "BanReason": "rdm"
+    },
+    "BigMachoHombre": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "rdm+ evasion"
     }
 }
