@@ -1726,5 +1726,9 @@
     "Reef61008": {
         "banneduntil": "2025/7/18",
         "BanReason": "Rdm"
+    },
+    "MOB.PIRU": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "RDM"
     }
 }
