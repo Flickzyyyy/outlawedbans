@@ -1838,5 +1838,9 @@
     "itz.Huburt": {
         "banneduntil": "2025/7/19",
         "BanReason": "Rdm"
+    },
+    "itx.huburt": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "Rdm"
     }
 }
