@@ -1762,5 +1762,9 @@
     "notnegativemonkeyppsuace2229": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "couch.man": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "mass rdm. Check roosters log for context"
     }
 }
