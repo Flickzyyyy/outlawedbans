@@ -1746,5 +1746,9 @@
     "SharkE322": {
         "banneduntil": "2025/7/24",
         "BanReason": "Rdm and evasion"
+    },
+    "NOTGG1229MM": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "RDM"
     }
 }
