@@ -1766,5 +1766,9 @@
     "couch.man": {
         "banneduntil": "2025/7/23",
         "BanReason": "mass rdm. Check roosters log for context"
+    },
+    "Landsan70": {
+        "banneduntil": "2025/7/18",
+        "BanReason": "Rdm"
     }
 }
