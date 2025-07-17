@@ -1850,5 +1850,9 @@
     "Dark_Dragon1098": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm and evasion"
+    },
+    "Soviet.Onion1": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "rdm"
     }
 }
