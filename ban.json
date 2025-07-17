@@ -1734,5 +1734,9 @@
     "BigMachoHombre": {
         "banneduntil": "2025/7/24",
         "BanReason": "rdm+ evasion"
+    },
+    "Horror_story": {
+        "banneduntil": "2025/7/30",
+        "BanReason": "Sexual misconduct"
     }
 }
