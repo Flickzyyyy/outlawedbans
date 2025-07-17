@@ -1814,5 +1814,9 @@
     "notracist.myRussian": {
         "banneduntil": "2025/8/1",
         "BanReason": "F slur"
+    },
+    "Sqinkles": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage clip"
     }
 }
