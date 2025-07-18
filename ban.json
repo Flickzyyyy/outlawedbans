@@ -1890,5 +1890,9 @@
     "Jabs121": {
         "banneduntil": "2025/7/21",
         "BanReason": "Cop Targeting"
+    },
+    "Johanis9": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
