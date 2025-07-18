@@ -1842,5 +1842,9 @@
     "Billythekid1": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R Equivelant"
+    },
+    "stealth1255": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "Rdm"
     }
 }
