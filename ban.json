@@ -1902,5 +1902,9 @@
     "urban6373": {
         "banneduntil": "2025/7/19",
         "BanReason": "RDM"
+    },
+    "rigbyoftaborontt": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
