@@ -1894,5 +1894,9 @@
     "Alexanderhille": {
         "banneduntil": "2025/8/1",
         "BanReason": "Spawn camping and evasion"
+    },
+    "Johnbo098": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "RDM"
     }
 }
