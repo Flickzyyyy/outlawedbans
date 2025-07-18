@@ -1858,5 +1858,9 @@
     "Alex.The.Titan": {
         "banneduntil": "2025/7/20",
         "BanReason": "Rdm"
+    },
+    "joe.959760": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
