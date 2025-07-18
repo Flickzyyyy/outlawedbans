@@ -1878,5 +1878,9 @@
     "DutchVanDerLende142": {
         "banneduntil": "2025/7/19",
         "BanReason": "Cop targeting"
+    },
+    "NotRedhood": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "rdm"
     }
 }
