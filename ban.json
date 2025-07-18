@@ -1894,5 +1894,9 @@
     "Johanis9": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "supremeg.2025": {
+        "banneduntil": "2025/7/31",
+        "BanReason": "Mass RDM + Evading"
     }
 }
