@@ -1922,5 +1922,9 @@
     "uptown180": {
         "banneduntil": "2025/7/19",
         "BanReason": "Cop Targeting"
+    },
+    "CoinSock": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "cop targeting"
     }
 }
