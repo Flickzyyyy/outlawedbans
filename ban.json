@@ -1870,5 +1870,9 @@
     "hamger55": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm"
+    },
+    "lilwaters.2024": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "Rdm"
     }
 }
