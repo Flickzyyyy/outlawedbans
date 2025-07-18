@@ -1830,5 +1830,9 @@
     "AppleChips": {
         "banneduntil": "2025/8/1",
         "BanReason": "Sexual misconduct"
+    },
+    "make_a_wish_kid": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
