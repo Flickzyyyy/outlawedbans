@@ -1938,5 +1938,9 @@
     "ApalZuna": {
         "banneduntil": "2025/8/15",
         "BanReason": "Sexual Misconduct/Remarks + Evading"
+    },
+    "rumsickle": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "Rdm + Evading"
     }
 }
