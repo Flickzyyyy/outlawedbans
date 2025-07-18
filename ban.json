@@ -1882,9 +1882,5 @@
     "NotRedhood": {
         "banneduntil": "2025/7/20",
         "BanReason": "rdm"
-    },
-    "MOB.PIRU": {
-        "banneduntil": "2025/7/18",
-        "BanReason": "RDM"
     }
 }
