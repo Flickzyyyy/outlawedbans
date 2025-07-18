@@ -1826,5 +1826,9 @@
     "Shagen7": {
         "banneduntil": "2025/7/23",
         "BanReason": "camping gun store: hid behind the gun screen"
+    },
+    "whitemarksman": {
+        "banneduntil": "2025/7/4",
+        "BanReason": "rdm"
     }
 }
