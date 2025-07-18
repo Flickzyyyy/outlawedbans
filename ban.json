@@ -1882,5 +1882,9 @@
     "NotRedhood": {
         "banneduntil": "2025/7/20",
         "BanReason": "rdm"
+    },
+    "Louemn": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "Rdm"
     }
 }
