@@ -1898,5 +1898,9 @@
     "supremeg.2025": {
         "banneduntil": "2025/7/31",
         "BanReason": "Mass RDM + Evading"
+    },
+    "urban6373": {
+        "banneduntil": "2025/7/19",
+        "BanReason": "RDM"
     }
 }
