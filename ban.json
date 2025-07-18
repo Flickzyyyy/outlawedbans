@@ -1834,5 +1834,9 @@
     "make_a_wish_kid": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Karmabbv": {
+        "banneduntil": "2027/7/18",
+        "BanReason": "underage"
     }
 }
