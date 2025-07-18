@@ -1838,5 +1838,9 @@
     "Karmabbv": {
         "banneduntil": "2027/7/18",
         "BanReason": "underage"
+    },
+    "Billythekid1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R Equivelant"
     }
 }
