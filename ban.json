@@ -1846,5 +1846,9 @@
     "stealth1255": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm and evasion"
+    },
+    "vdark.2023": {
+        "banneduntil": "2025/8/1",
+        "BanReason": "soft a"
     }
 }
