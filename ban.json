@@ -1902,5 +1902,9 @@
     "Average_shooter": {
         "banneduntil": "2025/7/20",
         "BanReason": "Cop targeting"
+    },
+    "joe.959762": {
+        "banneduntil": "2099/9/09",
+        "BanReason": "Alt"
     }
 }
