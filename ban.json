@@ -1946,5 +1946,9 @@
     "Bill96": {
         "banneduntil": "2099/1/1",
         "BanReason": "(reason)"
+    },
+    "diddybluds24": {
+        "banneduntil": "2025/7/21",
+        "BanReason": "Rdm"
     }
 }
