@@ -1966,5 +1966,9 @@
     "Osama.bin.bowling": {
         "banneduntil": "2027/10/4",
         "BanReason": "Underage"
+    },
+    "Day.ruiner": {
+        "banneduntil": "2025/8/1",
+        "BanReason": "Sexual misconduct"
     }
 }
