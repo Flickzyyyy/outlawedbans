@@ -1930,5 +1930,9 @@
     "KJTOCREAMY": {
         "banneduntil": "2025/7/26",
         "BanReason": "Camping"
+    },
+    "Soviet.onion1": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "Cop Targeting"
     }
 }
