@@ -1958,5 +1958,9 @@
     "tamir8673": {
         "banneduntil": "2025/7/20",
         "BanReason": "rdm"
+    },
+    "Blosser.2023": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "RDM"
     }
 }
