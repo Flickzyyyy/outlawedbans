@@ -1962,5 +1962,9 @@
     "Blosser.2023": {
         "banneduntil": "2025/7/20",
         "BanReason": "RDM"
+    },
+    "Osama.bin.bowling": {
+        "banneduntil": "2027/10/4",
+        "BanReason": "Underage"
     }
 }
