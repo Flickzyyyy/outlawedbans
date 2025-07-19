@@ -2014,5 +2014,9 @@
     "Marlemstoop": {
         "banneduntil": "2025/7/20",
         "BanReason": "Rdm"
+    },
+    "xvog": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "rdm"
     }
 }
