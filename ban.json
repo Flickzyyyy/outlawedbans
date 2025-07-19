@@ -1970,5 +1970,9 @@
     "Day.ruiner": {
         "banneduntil": "2025/8/1",
         "BanReason": "Sexual misconduct"
+    },
+    "bigmac453": {
+        "banneduntil": "2026/6/14",
+        "BanReason": "Underage"
     }
 }
