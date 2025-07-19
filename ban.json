@@ -1998,5 +1998,9 @@
     "joe.959769": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "frogGuy135": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "Rdm and evasion"
     }
 }
