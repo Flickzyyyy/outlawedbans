@@ -1926,5 +1926,9 @@
     "Ustaymad": {
         "banneduntil": "2025/7/20",
         "BanReason": "Temp"
+    },
+    "KJTOCREAMY": {
+        "banneduntil": "2025/7/26",
+        "BanReason": "Camping"
     }
 }
