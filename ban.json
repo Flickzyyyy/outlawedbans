@@ -1898,5 +1898,9 @@
     "AdrianTheBOT25": {
         "banneduntil": "2025/7/26",
         "BanReason": "Camping Bank"
+    },
+    "EvilE02": {
+        "banneduntil": "2025/7/21",
+        "BanReason": "RDM"
     }
 }
