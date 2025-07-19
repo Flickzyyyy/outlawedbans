@@ -1982,5 +1982,9 @@
     "bryansped": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "BigTurkey1947": {
+        "banneduntil": "2025/7/20",
+        "BanReason": "Rdm"
     }
 }
