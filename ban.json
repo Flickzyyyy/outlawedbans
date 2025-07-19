@@ -1978,5 +1978,9 @@
     "mister_mouth": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "bryansped": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
