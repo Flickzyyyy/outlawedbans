@@ -1994,5 +1994,9 @@
     "BadAtGuitar11131": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "joe.959769": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
