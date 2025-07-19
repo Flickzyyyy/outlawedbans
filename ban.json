@@ -1974,5 +1974,9 @@
     "bigmac453": {
         "banneduntil": "2026/6/14",
         "BanReason": "Underage"
+    },
+    "mister_mouth": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
