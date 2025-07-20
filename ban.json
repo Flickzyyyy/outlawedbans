@@ -1954,5 +1954,9 @@
     "itx.Hubert": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm and evasion"
+    },
+    "xxxDonkeymanxxx": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt (it's Joe)"
     }
 }
