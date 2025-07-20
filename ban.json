@@ -1946,5 +1946,9 @@
     "CaptainArchimedes": {
         "banneduntil": "2025/7/22",
         "BanReason": "Cop Targeting"
+    },
+    "GhostGuyFr": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "RDM"
     }
 }
