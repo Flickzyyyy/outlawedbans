@@ -2006,5 +2006,9 @@
     "deniswillams": {
         "banneduntil": "2025/8/2",
         "BanReason": "homophobia"
+    },
+    "brojstypingshi": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
