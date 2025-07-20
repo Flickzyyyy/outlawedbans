@@ -1906,5 +1906,9 @@
     "VRGUY69000": {
         "banneduntil": "2025/7/22",
         "BanReason": "RDM"
+    },
+    "daboirock01": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "Rdm and evasion"
     }
 }
