@@ -1986,5 +1986,9 @@
     "Thehotdog": {
         "banneduntil": "2025/7/24",
         "BanReason": "Rdm and evasion"
+    },
+    "HabitablePlanet_5": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "RDM"
     }
 }
