@@ -1918,5 +1918,9 @@
     "sea_dad34": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "SUFFER_0": {
+        "banneduntil": "2025/8/20",
+        "BanReason": "Sexual misconduct, rdm and evasion"
     }
 }
