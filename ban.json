@@ -1974,5 +1974,9 @@
     "hudson.109975": {
         "banneduntil": "2025/7/22",
         "BanReason": "Rdm"
+    },
+    "spadesfade": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "Soft a"
     }
 }
