@@ -1950,5 +1950,9 @@
     "diddybluds24": {
         "banneduntil": "2025/7/21",
         "BanReason": "Rdm"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Rdm and evasion"
     }
 }
