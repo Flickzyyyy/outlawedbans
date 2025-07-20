@@ -2010,5 +2010,9 @@
     "brojstypingshi": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "ballzitch": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "rdm+evasion"
     }
 }
