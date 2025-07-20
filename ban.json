@@ -1998,5 +1998,9 @@
     "will_tism": {
         "banneduntil": "2025/7/27",
         "BanReason": "rdm+evasion"
+    },
+    "deniswilliams": {
+        "banneduntil": "2025/8/2",
+        "BanReason": "homophobia"
     }
 }
