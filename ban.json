@@ -1950,5 +1950,9 @@
     "JumpingBarnOwl6286": {
         "banneduntil": "2025/7/22",
         "BanReason": "Cop Targeting"
+    },
+    "rexdabest": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "RDM"
     }
 }
