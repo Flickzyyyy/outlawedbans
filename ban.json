@@ -2014,5 +2014,9 @@
     "ballzitch": {
         "banneduntil": "2025/7/27",
         "BanReason": "rdm+evasion"
+    },
+    "banana_man2030": {
+        "banneduntil": "2025/7/29",
+        "BanReason": "mass rdm evasion"
     }
 }
