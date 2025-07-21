@@ -1998,5 +1998,9 @@
     "Parejem3": {
         "banneduntil": "2025/8//4",
         "BanReason": "Racism"
+    },
+    "N.A.I.L": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "RDM"
     }
 }
