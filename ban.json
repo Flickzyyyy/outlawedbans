@@ -2026,5 +2026,9 @@
     "vectorgooder": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm"
+    },
+    "Wendt4": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "Rdm + evasion"
     }
 }
