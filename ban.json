@@ -1950,5 +1950,9 @@
     "skibler": {
         "banneduntil": "2025/8/3",
         "BanReason": "Mass RDM and evasion"
+    },
+    "FMK.Fredo121212": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "racism and evasion"
     }
 }
