@@ -1934,5 +1934,9 @@
     "nightmareonsection8": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "space_explorer.1": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "rdm plus evasion"
     }
 }
