@@ -1946,5 +1946,9 @@
     "Yeti51": {
         "banneduntil": "2025/8/4",
         "BanReason": "RDM Evasion and camping"
+    },
+    "skibler": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "Mass RDM and evasion"
     }
 }
