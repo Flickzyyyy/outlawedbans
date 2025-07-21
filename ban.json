@@ -2014,5 +2014,9 @@
     "Gwadlingg": {
         "banneduntil": "2025/8/4",
         "BanReason": "N word"
+    },
+    "HHR.Elliot": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
