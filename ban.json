@@ -2022,5 +2022,9 @@
     "Name: HHR.Elli0tt": {
         "banneduntil": "Date: 2099/1/1",
         "BanReason": "Reason: Hard R"
+    },
+    "vectorgooder": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Rdm"
     }
 }
