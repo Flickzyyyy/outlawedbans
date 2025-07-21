@@ -2018,5 +2018,9 @@
     "HHR.Elliot": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Name: HHR.Elli0tt": {
+        "banneduntil": "Date: 2099/1/1",
+        "BanReason": "Reason: Hard R"
     }
 }
