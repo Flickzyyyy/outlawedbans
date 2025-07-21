@@ -2042,5 +2042,9 @@
     "BoomBapGod": {
         "banneduntil": "2025/7/24",
         "BanReason": "Rdm + evasion"
+    },
+    "spbdemigodinnart": {
+        "banneduntil": "2027/7/20",
+        "BanReason": "underage"
     }
 }
