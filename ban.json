@@ -2038,5 +2038,9 @@
     "Bulierjet67": {
         "banneduntil": "2025/7/22",
         "BanReason": "Rdm"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "Rdm + evasion"
     }
 }
