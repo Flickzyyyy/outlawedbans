@@ -1990,5 +1990,9 @@
     "HabitablePlanet_5": {
         "banneduntil": "2025/7/22",
         "BanReason": "RDM"
+    },
+    "Pavlov.player.1": {
+        "banneduntil": "2025/8/20",
+        "BanReason": "Calling people gay and evasion"
     }
 }
