@@ -1944,7 +1944,7 @@
         "BanReason": "Rdm"
     },
     "Yeti51": {
-        "banneduntil": "RDM evasion camping",
-        "BanReason": "2025/8/4"
+        "banneduntil": "2025/8/4",
+        "BanReason": "RDM Evasion and camping"
     }
 }
