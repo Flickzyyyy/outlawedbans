@@ -1978,5 +1978,9 @@
     "PuckfuppetOG": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm"
+    },
+    "BobMouse23": {
+        "banneduntil": "2025/7/22",
+        "BanReason": "Ban decrease"
     }
 }
