@@ -2022,5 +2022,9 @@
     "YeYeVR.1234": {
         "banneduntil": "2025/8/3",
         "BanReason": "sexual misconduct"
+    },
+    "SharkSteel": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "Rdm + Evading"
     }
 }
