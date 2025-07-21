@@ -1930,5 +1930,9 @@
     "Johnnyamerican": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "nightmareonsection8": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
