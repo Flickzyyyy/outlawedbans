@@ -1926,5 +1926,9 @@
     "Xavier-tre": {
         "banneduntil": "2027/3/5",
         "BanReason": "underage"
+    },
+    "Johnnyamerican": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
