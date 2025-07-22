@@ -2070,5 +2070,9 @@
     "diddyshouse": {
         "banneduntil": "2026/6/15",
         "BanReason": "Underaged"
+    },
+    "redlobstercheddarbakedbiscuits": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Rdm"
     }
 }
