@@ -2050,5 +2050,9 @@
     "Benz115": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt account"
+    },
+    "ckrye11": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "rdm"
     }
 }
