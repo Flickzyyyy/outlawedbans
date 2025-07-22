@@ -2026,5 +2026,9 @@
     "five_guys": {
         "banneduntil": "2025/7/24",
         "BanReason": "RDM Clip"
+    },
+    "SCP_Overlord": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "Cop Targeting"
     }
 }
