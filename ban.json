@@ -1942,5 +1942,9 @@
     "chester_thicknut": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r clip"
+    },
+    "RipVanWrinkle25": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Rdm"
     }
 }
