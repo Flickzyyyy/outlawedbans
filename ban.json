@@ -2058,5 +2058,9 @@
     "YummyBananaYum": {
         "banneduntil": "2025/7/25",
         "BanReason": "Rdm + evading"
+    },
+    "Jefferyepsteinsgrandma": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Rdm"
     }
 }
