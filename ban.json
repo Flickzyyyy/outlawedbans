@@ -2014,5 +2014,9 @@
     "Popcorn12345": {
         "banneduntil": "2027/7/22",
         "BanReason": "Underage (11 with no Birthday)"
+    },
+    "N0CTYPH0N": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
