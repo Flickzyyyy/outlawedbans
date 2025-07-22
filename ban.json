@@ -2022,5 +2022,9 @@
     "xdbands8053": {
         "banneduntil": "2025/7/29",
         "BanReason": "RDM Clip (Camping Clip Added)"
+    },
+    "five_guys": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "RDM Clip"
     }
 }
