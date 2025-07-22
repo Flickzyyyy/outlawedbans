@@ -2046,5 +2046,9 @@
     "CrimsonOak": {
         "banneduntil": "2025/8/4",
         "BanReason": "spawn camping plus evasion"
+    },
+    "Benz115": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt account"
     }
 }
