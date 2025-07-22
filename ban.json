@@ -1994,5 +1994,9 @@
     "I69oldgranpas": {
         "banneduntil": "2099/1/1",
         "BanReason": "n word"
+    },
+    "Nmgood11": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "rdm"
     }
 }
