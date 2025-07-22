@@ -2050,5 +2050,9 @@
     "TheoGZ": {
         "banneduntil": "2025/7/26",
         "BanReason": "Rdm and evasion"
+    },
+    "Your_Pet": {
+        "banneduntil": "2025/7/26",
+        "BanReason": "Rdm and evasion"
     }
 }
