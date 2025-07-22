@@ -2030,5 +2030,9 @@
     "SCP_Overlord": {
         "banneduntil": "2025/7/24",
         "BanReason": "Cop Targeting"
+    },
+    "lil_oad423": {
+        "banneduntil": "2028/7/15",
+        "BanReason": "Underage"
     }
 }
