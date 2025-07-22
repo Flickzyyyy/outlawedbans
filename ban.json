@@ -1962,5 +1962,9 @@
     "Mr.lambert.2025": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm clip"
+    },
+    "crew.the.sig": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "Rdm"
     }
 }
