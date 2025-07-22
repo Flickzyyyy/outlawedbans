@@ -2054,5 +2054,9 @@
     "ckrye11": {
         "banneduntil": "2025/7/23",
         "BanReason": "rdm"
+    },
+    "YummyBananaYum": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "Rdm + evading"
     }
 }
