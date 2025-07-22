@@ -2042,5 +2042,9 @@
     "P-51Escort": {
         "banneduntil": "2025/7/25",
         "BanReason": "rdm plus evasion"
+    },
+    "CrimsonOak": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "spawn camping plus evasion"
     }
 }
