@@ -2038,5 +2038,9 @@
     "manofhonor": {
         "banneduntil": "2025/7/23",
         "BanReason": "Rdm clip"
+    },
+    "P-51Escort": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "rdm plus evasion"
     }
 }
