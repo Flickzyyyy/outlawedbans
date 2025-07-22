@@ -2034,5 +2034,9 @@
     "Ze0phytevr": {
         "banneduntil": "2026/8/17",
         "BanReason": "Underage"
+    },
+    "the_non_muggle": {
+        "banneduntil": "2025/7/24",
+        "BanReason": "RDM"
     }
 }
