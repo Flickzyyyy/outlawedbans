@@ -2014,5 +2014,9 @@
     "itx.Hubert": {
         "banneduntil": "2025/7/29",
         "BanReason": "rdm+evasion"
+    },
+    "Thaskibitistguy": {
+        "banneduntil": "2025/7/30",
+        "BanReason": "mass RDM"
     }
 }
