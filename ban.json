@@ -2046,5 +2046,9 @@
     "SlowRanger": {
         "banneduntil": "2025/7/27",
         "BanReason": "Spawn camping"
+    },
+    "Butterbean0622": {
+        "banneduntil": "2025/7/23",
+        "BanReason": "rdm"
     }
 }
