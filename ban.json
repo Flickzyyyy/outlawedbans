@@ -2070,5 +2070,9 @@
     "Slam09": {
         "banneduntil": "2025/7/25",
         "BanReason": "rdm"
+    },
+    "Peppersniffer1": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "rdm"
     }
 }
