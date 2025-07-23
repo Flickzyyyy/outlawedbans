@@ -2082,5 +2082,9 @@
     "texasroadhousebuns": {
         "banneduntil": "2025/7/24",
         "BanReason": "Rdm"
+    },
+    "cheese1290": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "Rdm and evasion"
     }
 }
