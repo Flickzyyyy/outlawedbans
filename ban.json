@@ -2042,5 +2042,9 @@
     "Phanton42026": {
         "banneduntil": "2035/7/27",
         "BanReason": "Rdm and evasion"
+    },
+    "SlowRanger": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "Spawn camping"
     }
 }
