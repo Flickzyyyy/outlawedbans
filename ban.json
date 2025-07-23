@@ -2054,5 +2054,9 @@
     "Jackish.the.wackish": {
         "banneduntil": "2025/7/25",
         "BanReason": "Rdm"
+    },
+    "Getbannedbygod": {
+        "banneduntil": "2025/8/5",
+        "BanReason": "soft a"
     }
 }
