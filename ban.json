@@ -2010,5 +2010,9 @@
     "ZADDYgav": {
         "banneduntil": "2025/8/7",
         "BanReason": "Slur Usage"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2025/7/29",
+        "BanReason": "rdm+evasion"
     }
 }
