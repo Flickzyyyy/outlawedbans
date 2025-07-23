@@ -2026,5 +2026,9 @@
     "couch.man": {
         "banneduntil": "2025/7/27",
         "BanReason": "Rdm + evasion"
+    },
+    "crew.the.sig": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "Rdm + evasion"
     }
 }
