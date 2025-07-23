@@ -1986,5 +1986,9 @@
     "HBOB10": {
         "banneduntil": "2025/7/27",
         "BanReason": "Rdm + evasion"
+    },
+    "Tockzik": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "rdm"
     }
 }
