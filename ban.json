@@ -1982,5 +1982,9 @@
     "Doc.Holliday74": {
         "banneduntil": "2025/7/25",
         "BanReason": "cop targeting"
+    },
+    "HBOB10": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "Rdm + evasion"
     }
 }
