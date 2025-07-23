@@ -2046,5 +2046,9 @@
     "SlowRanger": {
         "banneduntil": "2025/7/27",
         "BanReason": "Spawn camping"
+    },
+    "ryann.33539": {
+        "banneduntil": "2025/7/27",
+        "BanReason": "Rdm + evasion"
     }
 }
