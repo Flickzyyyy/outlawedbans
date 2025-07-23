@@ -2018,5 +2018,9 @@
     "Thaskibitistguy": {
         "banneduntil": "2025/8/6",
         "BanReason": "mass RDM and evasion"
+    },
+    "The_non_muggle": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
