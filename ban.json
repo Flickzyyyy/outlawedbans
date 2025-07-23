@@ -2070,5 +2070,9 @@
     "BatZoo": {
         "banneduntil": "2025/7/27",
         "BanReason": "Rdm and evasion"
+    },
+    "RoaringKing32": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "Rdm"
     }
 }
