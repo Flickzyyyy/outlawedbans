@@ -2058,5 +2058,9 @@
     "Getbannedbygod": {
         "banneduntil": "2025/8/5",
         "BanReason": "soft a"
+    },
+    "BlurfACE": {
+        "banneduntil": "2025/8/5",
+        "BanReason": "soft a"
     }
 }
