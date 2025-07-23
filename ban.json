@@ -2066,5 +2066,9 @@
     "elvis2024": {
         "banneduntil": "2025/7/24",
         "BanReason": "rdm"
+    },
+    "Slam09": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "rdm"
     }
 }
