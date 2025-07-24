@@ -2002,5 +2002,9 @@
     "C.L.O.V.E.R": {
         "banneduntil": "2025/7/26",
         "BanReason": "RDM"
+    },
+    "kevoevo": {
+        "banneduntil": "2025/8/6",
+        "BanReason": "Sexual Remarks"
     }
 }
