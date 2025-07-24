@@ -2010,5 +2010,9 @@
     "icantsayihwordhetrembutido": {
         "banneduntil": "2025/7/27",
         "BanReason": "Rdm/Evasion"
+    },
+    "The_Survivalist": {
+        "banneduntil": "2025/7/26",
+        "BanReason": "Rdm"
     }
 }
