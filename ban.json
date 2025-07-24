@@ -2118,5 +2118,9 @@
     "Snooz33": {
         "banneduntil": "2025/8/6",
         "BanReason": "Spawn camping plus evasion"
+    },
+    "soggysoup1": {
+        "banneduntil": "2025/7/25",
+        "BanReason": "rdm"
     }
 }
