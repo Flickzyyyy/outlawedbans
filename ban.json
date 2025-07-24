@@ -2050,5 +2050,9 @@
     "ajo.1": {
         "banneduntil": "Date:2025/8/21",
         "BanReason": "Reason: Racist Remarks and Evasion"
+    },
+    "Hulksmash_4ever": {
+        "banneduntil": "2025/8/21",
+        "BanReason": "Racism and Evasion"
     }
 }
