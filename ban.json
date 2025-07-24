@@ -2066,5 +2066,9 @@
     "Westernpotato": {
         "banneduntil": "2025/7/28",
         "BanReason": "cop targeting"
+    },
+    "sheards": {
+        "banneduntil": "2025/8/7",
+        "BanReason": "soft a"
     }
 }
