@@ -2062,5 +2062,9 @@
     "WEEN2428": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underaged"
+    },
+    "Westernpotato": {
+        "banneduntil": "2025/7/28",
+        "BanReason": "cop targeting"
     }
 }
