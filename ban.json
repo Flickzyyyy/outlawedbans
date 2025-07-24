@@ -2018,5 +2018,9 @@
     "Gubbyfr": {
         "banneduntil": "2025/8/21",
         "BanReason": "Spawn camping plus evasion"
+    },
+    "DOOMSLAYER48": {
+        "banneduntil": "2025/8/7",
+        "BanReason": "slur usage"
     }
 }
