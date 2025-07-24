@@ -2058,5 +2058,9 @@
     "GoodBoyReli": {
         "banneduntil": "2025/8/7",
         "BanReason": "F slur"
+    },
+    "WEEN2428": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underaged"
     }
 }
