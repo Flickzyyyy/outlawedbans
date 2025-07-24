@@ -2090,5 +2090,9 @@
     "BayHarborButch3.r": {
         "banneduntil": "2025/7/26",
         "BanReason": "Rdm"
+    },
+    "Thaskibitistguy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Rdm,Evasion,Cheats"
     }
 }
