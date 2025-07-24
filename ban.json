@@ -2034,5 +2034,9 @@
     "BBB.123master": {
         "banneduntil": "2025/7/28",
         "BanReason": "Rdm"
+    },
+    "Landsan70": {
+        "banneduntil": "Date:2025/7/28",
+        "BanReason": "Rdm"
     }
 }
