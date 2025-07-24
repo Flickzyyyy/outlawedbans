@@ -2042,5 +2042,9 @@
     "loger0482": {
         "banneduntil": "2025/8/1",
         "BanReason": "Camping bank"
+    },
+    "Skyman07": {
+        "banneduntil": "2025/8/21",
+        "BanReason": "F slur and Q slur"
     }
 }
