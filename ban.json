@@ -2074,5 +2074,9 @@
     "NOTGG1229MM": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Heavy9985": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
