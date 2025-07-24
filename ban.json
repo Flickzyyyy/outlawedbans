@@ -2120,7 +2120,7 @@
         "BanReason": "Spawn camping plus evasion"
     },
     "soggysoup1": {
-        "banneduntil": "2025/7/25",
-        "BanReason": "rdm"
+        "banneduntil": "2025/7/27",
+        "BanReason": "rdm plus evasion"
     }
 }
