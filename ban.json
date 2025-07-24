@@ -2014,5 +2014,9 @@
     "The_Survivalist": {
         "banneduntil": "2025/7/26",
         "BanReason": "Rdm"
+    },
+    "Gubbyfr": {
+        "banneduntil": "2025/8/21",
+        "BanReason": "Spawn camping plus evasion"
     }
 }
