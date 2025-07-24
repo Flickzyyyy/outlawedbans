@@ -2030,5 +2030,9 @@
     "o_l_a_f": {
         "banneduntil": "2025/8/7",
         "BanReason": "F slur"
+    },
+    "BBB.123master": {
+        "banneduntil": "2025/7/28",
+        "BanReason": "Rdm"
     }
 }
