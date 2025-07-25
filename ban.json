@@ -2066,5 +2066,9 @@
     "Monkeyeatbanana": {
         "banneduntil": "2025/8/1",
         "BanReason": "Spawn camping clip"
+    },
+    "REBORN._.Hypnotizd": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Racist Remarks"
     }
 }
