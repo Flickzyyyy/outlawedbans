@@ -2078,5 +2078,9 @@
     "Heavy9985": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "Mf.D00M_1": {
+        "banneduntil": "2025/8/24",
+        "BanReason": "Sexual remarks"
     }
 }
