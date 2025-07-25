@@ -2050,5 +2050,9 @@
     "jackattack0006": {
         "banneduntil": "2025/8/8",
         "BanReason": "f slur"
+    },
+    "JackoFarts10": {
+        "banneduntil": "2025/8/2",
+        "BanReason": "RDM and evasion"
     }
 }
