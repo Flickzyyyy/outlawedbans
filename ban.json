@@ -2090,5 +2090,9 @@
     "YummyBananaYum": {
         "banneduntil": "2025/8/2",
         "BanReason": "Rdm + evasion"
+    },
+    "Henry_kolman": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Racist Remarks"
     }
 }
