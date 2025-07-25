@@ -2034,5 +2034,9 @@
     "Wardens_cool": {
         "banneduntil": "2025/8/8",
         "BanReason": "F Slur"
+    },
+    "Monster.1": {
+        "banneduntil": "2025/8/7",
+        "BanReason": "Sexual Misconduct towards another player"
     }
 }
