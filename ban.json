@@ -2062,5 +2062,9 @@
     "babycheif.34": {
         "banneduntil": "2025/7/29",
         "BanReason": "Rdm"
+    },
+    "Monkeyeatbanana": {
+        "banneduntil": "2025/8/1",
+        "BanReason": "Spawn camping clip"
     }
 }
