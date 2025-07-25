@@ -2078,5 +2078,9 @@
     "AXOLTZ": {
         "banneduntil": "2025/8/8",
         "BanReason": "Antisemitism"
+    },
+    "POEY.PPK": {
+        "banneduntil": "2025/8/2",
+        "BanReason": "Rdm and evasion"
     }
 }
