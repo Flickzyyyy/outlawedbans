@@ -2006,5 +2006,9 @@
     "lucas764213": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "manofhonor": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
