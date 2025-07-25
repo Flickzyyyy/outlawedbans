@@ -2038,5 +2038,9 @@
     "Monster.1": {
         "banneduntil": "2025/8/7",
         "BanReason": "Sexual Misconduct towards another player"
+    },
+    "Penguin688": {
+        "banneduntil": "2025/7/28",
+        "BanReason": "rdm"
     }
 }
