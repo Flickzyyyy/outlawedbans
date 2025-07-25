@@ -2022,5 +2022,9 @@
     "twoounce": {
         "banneduntil": "2025/8/2",
         "BanReason": "cop targeting plus evasion"
+    },
+    "Trex1133": {
+        "banneduntil": "2025/8/1",
+        "BanReason": "Racist remarks"
     }
 }
