@@ -2058,5 +2058,9 @@
     "Shaggy_Fox": {
         "banneduntil": "2025/8/2",
         "BanReason": "RDM and evasion"
+    },
+    "babycheif.34": {
+        "banneduntil": "2025/7/29",
+        "BanReason": "Rdm"
     }
 }
