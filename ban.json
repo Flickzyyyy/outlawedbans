@@ -2086,5 +2086,9 @@
     "iLOVE_HER": {
         "banneduntil": "2025/7/31",
         "BanReason": "Cop targeting and Evasion"
+    },
+    "YummyBananaYum": {
+        "banneduntil": "2025/8/2",
+        "BanReason": "Rdm + evasion"
     }
 }
