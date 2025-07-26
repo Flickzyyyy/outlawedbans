@@ -2082,5 +2082,9 @@
     "phantom5590.2024": {
         "banneduntil": "Date:2025/8/8",
         "BanReason": "Discrimination(non racial)"
+    },
+    "midtownjpreston.2023": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Discrimination"
     }
 }
