@@ -2098,5 +2098,9 @@
     "petrock1246": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "TALONx": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "rdm plus evasion"
     }
 }
