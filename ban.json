@@ -2130,5 +2130,9 @@
     "guuuvr": {
         "banneduntil": "2025/8/9",
         "BanReason": "F slur"
+    },
+    "milkman.sigam": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "rdm plus evasion"
     }
 }
