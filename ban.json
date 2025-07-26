@@ -2086,5 +2086,9 @@
     "midtownjpreston.2023": {
         "banneduntil": "2025/8/8",
         "BanReason": "Discrimination"
+    },
+    "orphanagebomber": {
+        "banneduntil": "2025/7/29",
+        "BanReason": "Cop Targeting"
     }
 }
