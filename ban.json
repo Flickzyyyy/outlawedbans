@@ -2122,5 +2122,9 @@
     "lulblacky": {
         "banneduntil": "2025/8/3",
         "BanReason": "Camping"
+    },
+    "blosser.2023": {
+        "banneduntil": "2025/7/30",
+        "BanReason": "Rdm clip"
     }
 }
