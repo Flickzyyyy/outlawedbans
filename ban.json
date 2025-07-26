@@ -2126,5 +2126,9 @@
     "iputmorebricksinmybut": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "N.A.I.L": {
+        "banneduntil": "2025/8/2",
+        "BanReason": "Rdm + evasion"
     }
 }
