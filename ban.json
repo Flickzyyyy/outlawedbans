@@ -2130,5 +2130,9 @@
     "N.A.I.L": {
         "banneduntil": "2025/8/2",
         "BanReason": "Rdm + evasion"
+    },
+    "vrszxy.ocx": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "rdm+evasion"
     }
 }
