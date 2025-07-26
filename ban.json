@@ -2134,5 +2134,9 @@
     "vrszxy.ocx": {
         "banneduntil": "2025/8/8",
         "BanReason": "rdm+evasion"
+    },
+    "phantom5590.2024": {
+        "banneduntil": "Date:2025/8/8",
+        "BanReason": "Discrimination(non racial)"
     }
 }
