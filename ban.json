@@ -2102,5 +2102,9 @@
     "TALONx": {
         "banneduntil": "2025/8/3",
         "BanReason": "rdm plus evasion"
+    },
+    "butpoopoo": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
