@@ -2198,5 +2198,9 @@
     "NGB2": {
         "banneduntil": "2025/7/31",
         "BanReason": "Cop Targeting"
+    },
+    "niggle.piggle69": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "username"
     }
 }
