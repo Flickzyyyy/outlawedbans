@@ -2086,5 +2086,9 @@
     "Gdogok": {
         "banneduntil": "2025/8/11",
         "BanReason": "f slur report"
+    },
+    "RDRKILLERR": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "rdm with clip and evasion"
     }
 }
