@@ -2082,5 +2082,9 @@
     "msnuggetBrooki3s": {
         "banneduntil": "2025/7/31",
         "BanReason": "Rdm"
+    },
+    "Msnuggetbrooki3s": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "Unban"
     }
 }
