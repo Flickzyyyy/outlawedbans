@@ -2194,5 +2194,9 @@
     "xoticman": {
         "banneduntil": "2025/7/31",
         "BanReason": "RDM Clip"
+    },
+    "NGB2": {
+        "banneduntil": "2025/7/31",
+        "BanReason": "Cop Targeting"
     }
 }
