@@ -2174,5 +2174,9 @@
     "timzorrr.2022": {
         "banneduntil": "2025/8/2",
         "BanReason": "Cop Targeting and Evasion"
+    },
+    "pooflicker": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "F slur"
     }
 }
