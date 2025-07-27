@@ -2178,5 +2178,9 @@
     "pooflicker": {
         "banneduntil": "2025/8/10",
         "BanReason": "F slur"
+    },
+    "poofIicker": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "n word hard r"
     }
 }
