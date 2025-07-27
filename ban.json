@@ -2094,5 +2094,9 @@
     "24K.RT": {
         "banneduntil": "2025/8/9",
         "BanReason": "Sexual misconduct"
+    },
+    "ITS_me_BUCKIE": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
