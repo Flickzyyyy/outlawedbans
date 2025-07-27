@@ -2202,5 +2202,9 @@
     "niggle.piggle69": {
         "banneduntil": "2099/1/1",
         "BanReason": "username"
+    },
+    "Liggle.piggle69": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban, name changed"
     }
 }
