@@ -2166,5 +2166,9 @@
     "couch.man": {
         "banneduntil": "2025/8/3",
         "BanReason": "mass RDM"
+    },
+    "timzorr.2022": {
+        "banneduntil": "2025/8/2",
+        "BanReason": "Cop Targeting and Evasion"
     }
 }
