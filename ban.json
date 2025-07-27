@@ -2150,5 +2150,9 @@
     "JerZ0812": {
         "banneduntil": "2025/8/4",
         "BanReason": "Rdm and evasion"
+    },
+    "kanyewestisthegoat": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "Evasion and spawn camp"
     }
 }
