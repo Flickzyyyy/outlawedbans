@@ -2090,5 +2090,9 @@
     "RDRKILLERR": {
         "banneduntil": "2025/8/4",
         "BanReason": "rdm with clip and evasion"
+    },
+    "24K.RT": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "Sexual misconduct"
     }
 }
