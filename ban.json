@@ -2082,5 +2082,9 @@
     "msnuggetBrooki3s": {
         "banneduntil": "2025/7/31",
         "BanReason": "Rdm"
+    },
+    "Gdogok": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "f slur report"
     }
 }
