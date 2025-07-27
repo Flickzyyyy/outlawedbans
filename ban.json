@@ -2134,5 +2134,9 @@
     "easterpinkk": {
         "banneduntil": "2099/1/1",
         "BanReason": "Innapropriate pfp"
+    },
+    "Peppersniffer1": {
+        "banneduntil": "2025/7/31",
+        "BanReason": "Rdm clip"
     }
 }
