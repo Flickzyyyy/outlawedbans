@@ -2234,5 +2234,9 @@
     "4SDF": {
         "banneduntil": "2025/8/5",
         "BanReason": "rdm evasion"
+    },
+    "christianjones11": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "f slur"
     }
 }
