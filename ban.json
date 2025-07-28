@@ -2238,5 +2238,9 @@
     "christianjones11": {
         "banneduntil": "2025/8/11",
         "BanReason": "f slur"
+    },
+    "the_non_muggle": {
+        "banneduntil": "2025/8/1",
+        "BanReason": "Rdm"
     }
 }
