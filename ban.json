@@ -2270,5 +2270,9 @@
     "cheese1290": {
         "banneduntil": "2025/8/4",
         "BanReason": "spawn camping"
+    },
+    "aquamarener": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "Sexual Misconduct and rdm"
     }
 }
