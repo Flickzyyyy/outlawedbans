@@ -2242,5 +2242,9 @@
     "the_non_muggle": {
         "banneduntil": "2025/8/1",
         "BanReason": "Rdm"
+    },
+    "SlowRanger": {
+        "banneduntil": "2025/7/30",
+        "BanReason": "Abusing Suicide and Evasion"
     }
 }
