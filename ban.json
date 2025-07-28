@@ -2238,5 +2238,9 @@
     "CammyKam": {
         "banneduntil": "2025/8/4",
         "BanReason": "Rdm and evasion"
+    },
+    "Tockzik": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "Rdm and evasion"
     }
 }
