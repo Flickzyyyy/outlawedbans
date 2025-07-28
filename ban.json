@@ -2254,5 +2254,9 @@
     "AColonist": {
         "banneduntil": "2099/2/1",
         "BanReason": "alt"
+    },
+    "EzioAudItore": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "Sexual Misconduct"
     }
 }
