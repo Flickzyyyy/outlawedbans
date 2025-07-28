@@ -2250,5 +2250,9 @@
     "Leader.of.Diddy.party": {
         "banneduntil": "2099/1/1",
         "BanReason": "Evasion and inappropriate user"
+    },
+    "GoRedSox607": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "Sexual remarks"
     }
 }
