@@ -2226,5 +2226,9 @@
     "mc.shadow0216": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underaged"
+    },
+    "idk.752444": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "Racist remarks"
     }
 }
