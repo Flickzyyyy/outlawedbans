@@ -2266,5 +2266,9 @@
     "ZaydenIsBigBack": {
         "banneduntil": "2025/8/1",
         "BanReason": "Rdm"
+    },
+    "cheese1290": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "spawn camping"
     }
 }
