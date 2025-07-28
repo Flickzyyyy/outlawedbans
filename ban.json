@@ -2206,5 +2206,9 @@
     "Deth3850": {
         "banneduntil": "2025/8/10",
         "BanReason": "Soft A"
+    },
+    "adoftidiller": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Inappropriate Username/Alt"
     }
 }
