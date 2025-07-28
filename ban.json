@@ -2210,5 +2210,9 @@
     "Mickeypotato": {
         "banneduntil": "2025/8/24",
         "BanReason": "Sexual misconduct and evasion"
+    },
+    "Average_shooter": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "Using gay in derogatory way"
     }
 }
