@@ -2246,5 +2246,9 @@
     "SlowRanger": {
         "banneduntil": "2025/7/30",
         "BanReason": "Abusing Suicide and Evasion"
+    },
+    "SmellySniffer": {
+        "banneduntil": "2025/8/1",
+        "BanReason": "Cop targeting"
     }
 }
