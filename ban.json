@@ -2210,5 +2210,9 @@
     "adoftidiller": {
         "banneduntil": "2099/1/1",
         "BanReason": "Inappropriate Username/Alt"
+    },
+    "skipfree": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "Racism"
     }
 }
