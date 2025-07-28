@@ -2230,5 +2230,9 @@
     "FluffyJR224": {
         "banneduntil": "2025/8/10",
         "BanReason": "Slur Usage(soft a)"
+    },
+    "4SDF": {
+        "banneduntil": "2025/8/5",
+        "BanReason": "rdm evasion"
     }
 }
