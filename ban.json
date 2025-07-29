@@ -66,5 +66,9 @@
     "DreiBoSqueezy": {
         "banneduntil": "2025/8/16",
         "BanReason": "F-slur and evasion"
+    },
+    "tttoast45": {
+        "banneduntil": "2025/8/6",
+        "BanReason": "Rdm+Evasion"
     }
 }
