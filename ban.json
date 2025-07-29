@@ -38,5 +38,9 @@
     "Louis_berggman": {
         "banneduntil": "2099/1/1",
         "BanReason": "alting"
+    },
+    "ace.of.spade": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Rdm and Evasion"
     }
 }
