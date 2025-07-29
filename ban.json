@@ -2278,5 +2278,9 @@
     "WHAMS07": {
         "banneduntil": "2025/8/11",
         "BanReason": "Racism"
+    },
+    "lebron_glazer": {
+        "banneduntil": "2025/8/29",
+        "BanReason": "Sexual remarks and evasion"
     }
 }
