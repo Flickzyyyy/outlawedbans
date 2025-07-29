@@ -98,5 +98,9 @@
     "ElGATOGRANDE12": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitted to Alting(further investigation pending)"
+    },
+    "gageprice02": {
+        "banneduntil": "2025/8/6",
+        "BanReason": "Camping/Cop Targeting+Evasion"
     }
 }
