@@ -94,5 +94,9 @@
     "minelegodead": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "ElGATOGRANDE12": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitted to Alting(further investigation pending)"
     }
 }
