@@ -158,5 +158,9 @@
     "PU55Y_SL4Y3R": {
         "banneduntil": "2025/8/4",
         "BanReason": "RDM"
+    },
+    "B33FSANDWICH": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Mass rdm and evasion"
     }
 }
