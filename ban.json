@@ -102,5 +102,9 @@
     "gageprice02": {
         "banneduntil": "2025/8/6",
         "BanReason": "Camping/Cop Targeting+Evasion"
+    },
+    "Frosty_Man17": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Spawn camp and evasion"
     }
 }
