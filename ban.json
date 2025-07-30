@@ -134,5 +134,9 @@
     "redlobstercheddarbakedbiscuits": {
         "banneduntil": "2025/8/12",
         "BanReason": "Repeated sexual comments"
+    },
+    "P0RKSANDWICH": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
