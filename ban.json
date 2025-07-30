@@ -162,5 +162,9 @@
     "ihatecertainpeople": {
         "banneduntil": "2099/1/1",
         "BanReason": "Extreme Racism(Hard R)"
+    },
+    "Dirtbikesburapp": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "Sexual acts"
     }
 }
