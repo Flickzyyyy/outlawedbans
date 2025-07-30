@@ -246,5 +246,9 @@
     "anettew56": {
         "banneduntil": "2099/1/1",
         "BanReason": "Excessive Bans(5)"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "Cop Targeting"
     }
 }
