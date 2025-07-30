@@ -150,5 +150,9 @@
     "playboy.em": {
         "banneduntil": "2025/8/3",
         "BanReason": "Rdm clip"
+    },
+    "krazy_Texan": {
+        "banneduntil": "2025/8/6",
+        "BanReason": "Cop Targeting/Evasion"
     }
 }
