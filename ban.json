@@ -222,5 +222,9 @@
     "CROSS3D_07": {
         "banneduntil": "2025/8/2",
         "BanReason": "Rdm(left before I could warn)"
+    },
+    "crew.the.sig": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "Rdm clip"
     }
 }
