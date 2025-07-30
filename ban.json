@@ -238,5 +238,9 @@
     "RLV_FLOWCI": {
         "banneduntil": "2025/8/13",
         "BanReason": "Racist Remarks"
+    },
+    "Mud_1": {
+        "banneduntil": "2025/8/6",
+        "BanReason": "Cop Targeting and Evasion"
     }
 }
