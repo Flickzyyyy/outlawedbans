@@ -250,5 +250,9 @@
     "roadwarrior2.0": {
         "banneduntil": "2025/8/3",
         "BanReason": "Cop Targeting"
+    },
+    "god21hi": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "RDM"
     }
 }
