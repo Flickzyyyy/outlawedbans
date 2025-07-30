@@ -138,5 +138,9 @@
     "P0RKSANDWICH": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "HUD2K11": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "RDM"
     }
 }
