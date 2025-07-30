@@ -142,5 +142,9 @@
     "HUD2K11": {
         "banneduntil": "2025/8/3",
         "BanReason": "RDM"
+    },
+    "Yk_Maui": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Racist Remarks"
     }
 }
