@@ -298,5 +298,9 @@
     "racoon.vrtt": {
         "banneduntil": "2028/3/20",
         "BanReason": "Underaged (10)"
+    },
+    "gongo1990": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
