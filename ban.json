@@ -378,5 +378,9 @@
     "theEatTheRichKiller": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Andrewthgoat": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "Soft a"
     }
 }
