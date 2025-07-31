@@ -410,5 +410,9 @@
     "bidensniffsme009": {
         "banneduntil": "2025/8/8",
         "BanReason": "rdm+evasion"
+    },
+    "Jack__Marston": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
