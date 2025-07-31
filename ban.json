@@ -386,5 +386,9 @@
     "EGO_StussyWarrior": {
         "banneduntil": "2025/8/7",
         "BanReason": "camping"
+    },
+    "StrangeTurtle": {
+        "banneduntil": "2025/8/27",
+        "BanReason": "Racial Slurs(Soft A) + Evasion"
     }
 }
