@@ -326,5 +326,9 @@
     "beanbrother3744": {
         "banneduntil": "2028/10/4",
         "BanReason": "Underage(10Y/O)"
+    },
+    "minongang": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Rdm and evasion"
     }
 }
