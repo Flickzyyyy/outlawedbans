@@ -254,5 +254,9 @@
     "god21hi": {
         "banneduntil": "2025/8/3",
         "BanReason": "RDM"
+    },
+    "BlakePaterno2012": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "Underaged (10 years old)"
     }
 }
