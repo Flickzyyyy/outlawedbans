@@ -262,5 +262,9 @@
     "Hufeee": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Dutch_vandertwin": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "Soft a equivalent"
     }
 }
