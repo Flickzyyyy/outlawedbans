@@ -434,5 +434,9 @@
     "Groovy_Cat": {
         "banneduntil": "2025/8/13",
         "BanReason": "Spawn camp rdm and evasion"
+    },
+    "King_Glizzy54": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Rdm and evasion"
     }
 }
