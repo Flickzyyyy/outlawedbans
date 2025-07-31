@@ -414,5 +414,9 @@
     "Jack__Marston": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "Ghandi973": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "Anti Semitic comments"
     }
 }
