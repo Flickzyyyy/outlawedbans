@@ -402,5 +402,9 @@
     "8COLDCHIMICHANGASFORBREAKFAST": {
         "banneduntil": "2025/8/6",
         "BanReason": "RDM AND EVASION"
+    },
+    "Jack_Marston": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "soft a"
     }
 }
