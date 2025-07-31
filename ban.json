@@ -258,5 +258,9 @@
     "BlakePaterno2012": {
         "banneduntil": "2029/1/1",
         "BanReason": "Underaged (10 years old)"
+    },
+    "Hufeee": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
