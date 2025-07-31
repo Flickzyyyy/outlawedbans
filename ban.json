@@ -278,5 +278,9 @@
     "paging.the.dr": {
         "banneduntil": "2025/8/14",
         "BanReason": "Slur Usage + Rdm"
+    },
+    "michaelcball": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "Rdm + Slur Usage"
     }
 }
