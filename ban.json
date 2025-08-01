@@ -502,5 +502,9 @@
     "highfiver_on_tiktok": {
         "banneduntil": "2025/8/9",
         "BanReason": "rdm plus evasion"
+    },
+    "VR.Ace123": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "mass RDM plus evasion"
     }
 }
