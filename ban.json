@@ -530,5 +530,9 @@
     "Underthrone999": {
         "banneduntil": "2025/8/15",
         "BanReason": "homophobic remarks"
+    },
+    "AllTipNoShlong": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "Rdm and Evasion"
     }
 }
