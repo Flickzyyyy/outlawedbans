@@ -474,5 +474,9 @@
     "LT.BeatThatHo": {
         "banneduntil": "2025/8/14",
         "BanReason": "soft a"
+    },
+    "GingRDeadMan": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "Rdm"
     }
 }
