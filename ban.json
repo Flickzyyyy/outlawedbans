@@ -542,5 +542,9 @@
     "SRGD1": {
         "banneduntil": "2025/8/15",
         "BanReason": "Sexual Remarks"
+    },
+    "Rogue_eacn": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
