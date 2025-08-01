@@ -462,5 +462,9 @@
     "rskinner2": {
         "banneduntil": "2025/8/14",
         "BanReason": "Racial Slurs(Soft A)"
+    },
+    "fryedeggs": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "RDM"
     }
 }
