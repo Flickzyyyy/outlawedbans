@@ -506,5 +506,9 @@
     "VR.Ace123": {
         "banneduntil": "2025/8/15",
         "BanReason": "mass RDM plus evasion"
+    },
+    "The_Peoples_Pirate": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard e"
     }
 }
