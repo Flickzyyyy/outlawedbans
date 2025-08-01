@@ -466,5 +466,9 @@
     "fryedeggs": {
         "banneduntil": "2025/8/8",
         "BanReason": "RDM+EVASION"
+    },
+    "R1skt4ker": {
+        "banneduntil": "2025/8/28",
+        "BanReason": "Sexual harrassment and evasion"
     }
 }
