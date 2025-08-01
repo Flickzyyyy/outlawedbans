@@ -534,5 +534,9 @@
     "AllTipNoShlong": {
         "banneduntil": "2025/8/9",
         "BanReason": "Rdm and Evasion"
+    },
+    "All4Sk1nNoTip": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "Rdm and Evasion"
     }
 }
