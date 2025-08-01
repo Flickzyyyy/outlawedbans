@@ -550,5 +550,9 @@
     "tunechi123": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "RDM+EVASION"
     }
 }
