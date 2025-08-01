@@ -446,5 +446,9 @@
     "Belo_Serious": {
         "banneduntil": "2025/8/14",
         "BanReason": "camping and evasion"
+    },
+    "jayb0y": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "rem"
     }
 }
