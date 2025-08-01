@@ -454,5 +454,9 @@
     "mrchill11": {
         "banneduntil": "2025/8/3",
         "BanReason": "rdm"
+    },
+    "LazyPandaPerson": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitted to Alting"
     }
 }
