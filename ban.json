@@ -514,5 +514,9 @@
     "Ninjago_official": {
         "banneduntil": "2025/8/4",
         "BanReason": "RDM"
+    },
+    "Sawman1977": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
