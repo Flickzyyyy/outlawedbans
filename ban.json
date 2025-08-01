@@ -478,5 +478,9 @@
     "GingRDeadMan": {
         "banneduntil": "2025/8/4",
         "BanReason": "Rdm"
+    },
+    "Venomx3": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "rdm and evasion"
     }
 }
