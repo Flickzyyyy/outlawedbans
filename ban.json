@@ -498,5 +498,9 @@
     "12bucks": {
         "banneduntil": "2025/8/28",
         "BanReason": "sexual harrassment and evasion"
+    },
+    "highfiver_on_tiktok": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "rdm plus evasion"
     }
 }
