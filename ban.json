@@ -554,5 +554,9 @@
     "BoomBapGod": {
         "banneduntil": "2025/8/9",
         "BanReason": "RDM+EVASION"
+    },
+    "PickleKing": {
+        "banneduntil": "2025/8/4",
+        "BanReason": "RDM/ Evasion"
     }
 }
