@@ -558,5 +558,9 @@
     "PickleKing": {
         "banneduntil": "2025/8/4",
         "BanReason": "RDM/ Evasion"
+    },
+    "straight.667843": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
