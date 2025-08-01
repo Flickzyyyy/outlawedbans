@@ -482,5 +482,9 @@
     "Venomx3": {
         "banneduntil": "2025/8/8",
         "BanReason": "rdm and evasion"
+    },
+    "ricky2sticky": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "Soft a"
     }
 }
