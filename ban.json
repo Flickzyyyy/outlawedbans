@@ -562,5 +562,9 @@
     "straight.667843": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "b1234b": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "rdm+evasion"
     }
 }
