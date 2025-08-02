@@ -574,5 +574,9 @@
     "MMrwhaleE": {
         "banneduntil": "2025/8/3",
         "BanReason": "Bullying"
+    },
+    "Skelleon": {
+        "banneduntil": "2025/8/28",
+        "BanReason": "Sexual Remarks and Evasion"
     }
 }
