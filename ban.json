@@ -448,8 +448,8 @@
         "BanReason": "rdm and evasion"
     },
     "ricky2sticky": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "Alt"
+        "banneduntil": "2025/8/14",
+        "BanReason": "Soft a"
     },
     "NATO.BEAST": {
         "banneduntil": "2025/8/14",
@@ -578,5 +578,9 @@
     "Teen_Of_Vr": {
         "banneduntil": "2025/8/9",
         "BanReason": "Mass rdm"
+    },
+    "dump50": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
