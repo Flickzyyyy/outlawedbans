@@ -576,11 +576,7 @@
         "BanReason": "Bullying"
     },
     "Skelleon": {
-        "banneduntil": "2025/8/28",
-        "BanReason": "Sexual Remarks and Evasion"
-    },
-    "Skelleo": {
-        "banneduntil": "2025/8/28",
-        "BanReason": "Sexual Remarks and Evasion"
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban,(wrong name)"
     }
 }
