@@ -566,5 +566,9 @@
     "b1234b": {
         "banneduntil": "2025/8/15",
         "BanReason": "rdm+evasion"
+    },
+    "NoLooseEnds": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "N Word Baiting"
     }
 }
