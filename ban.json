@@ -570,5 +570,9 @@
     "NoLooseEnds": {
         "banneduntil": "2025/8/15",
         "BanReason": "N Word Baiting"
+    },
+    "MMrwhaleE": {
+        "banneduntil": "2025/8/3",
+        "BanReason": "Bullying"
     }
 }
