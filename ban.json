@@ -558,5 +558,9 @@
     "speed_shiter": {
         "banneduntil": "2025/8/16",
         "BanReason": "Racism"
+    },
+    "lucas1341": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
