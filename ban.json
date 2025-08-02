@@ -602,5 +602,9 @@
     "james1018.2024": {
         "banneduntil": "2025/8/10",
         "BanReason": "Rdm and evasion"
+    },
+    "zupelli": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
