@@ -574,5 +574,9 @@
     "dutchvanderlinde1899ihaveaplan": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Teen_Of_Vr": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Mass rdm"
     }
 }
