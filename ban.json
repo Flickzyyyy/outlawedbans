@@ -638,5 +638,9 @@
     "captain.of.deeez": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "captainofdeeez": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
