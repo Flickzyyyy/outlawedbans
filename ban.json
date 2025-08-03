@@ -622,5 +622,9 @@
     "Bob_monky_banana": {
         "banneduntil": "2025/8/30",
         "BanReason": "Sexual misconduct plus evasion"
+    },
+    "D1.ShiFty": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
