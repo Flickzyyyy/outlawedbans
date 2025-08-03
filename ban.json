@@ -634,5 +634,9 @@
     "djmuhenergy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "captain.of.deeez": {
+        "banneduntil": "3030/1/1",
+        "BanReason": "Alt"
     }
 }
