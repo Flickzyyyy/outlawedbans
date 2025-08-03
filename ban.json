@@ -726,5 +726,9 @@
     "hhaaiinness": {
         "banneduntil": "2025/8/11",
         "BanReason": "rdm + evasion"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "Rdm(multiple offenses)"
     }
 }
