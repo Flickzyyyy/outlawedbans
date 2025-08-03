@@ -654,5 +654,9 @@
     "mileshunt": {
         "banneduntil": "2025/8/10",
         "BanReason": "mass rdm: this player walked into the gun store aimlessly. He then proceeded to shoot 5 people, attempting to shoot a sixth. However, I shoot him before he has the chance to do so. I then pull him into an admin sits, he was being immature, immediately hostile and argumentative. I informed him that five, or more people constituted a ban for mass Rdm, and I informed him he\u2019d be receiving a week ban for mass Rdm. He was screaming until I banned him through RCON."
+    },
+    "Player5": {
+        "banneduntil": "2025/8/17",
+        "BanReason": "Racism"
     }
 }
