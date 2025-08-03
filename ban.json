@@ -734,5 +734,9 @@
     "genral_so": {
         "banneduntil": "2025/8/31",
         "BanReason": "Sexual Harassment and Evasion"
+    },
+    "DisabledToddler": {
+        "banneduntil": "2025/8/17",
+        "BanReason": "Homophobia"
     }
 }
