@@ -618,5 +618,9 @@
     "u_cant_touch_me": {
         "banneduntil": "2025/8/9",
         "BanReason": "camping"
+    },
+    "Bob_monky_banana": {
+        "banneduntil": "2025/8/30",
+        "BanReason": "Sexual misconduct plus evasion"
     }
 }
