@@ -618,5 +618,9 @@
     "buglight12344321": {
         "banneduntil": "2099/1/1",
         "BanReason": "Extreme Racism(Hard R)"
+    },
+    "0_jacknife_0": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "Rdm+Evasion"
     }
 }
