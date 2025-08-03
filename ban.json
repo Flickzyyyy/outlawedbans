@@ -604,7 +604,7 @@
         "BanReason": "rdm plus evasion"
     },
     "nutsucker_face": {
-        "banneduntil": "2025/8/16",
-        "BanReason": "F slur(POSSIBLE ALT)"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
