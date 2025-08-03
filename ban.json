@@ -702,5 +702,9 @@
     "james33.812141": {
         "banneduntil": "2025/8/10",
         "BanReason": "camping"
+    },
+    "CanvasOfPutin": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
