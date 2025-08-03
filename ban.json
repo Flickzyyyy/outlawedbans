@@ -674,5 +674,9 @@
     "Nt0503": {
         "banneduntil": "2025/8/11",
         "BanReason": "Rdm and evasion"
+    },
+    "Oceanic997steel": {
+        "banneduntil": "2025/8/17",
+        "BanReason": "homophonic remarks"
     }
 }
