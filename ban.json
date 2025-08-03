@@ -730,5 +730,9 @@
     "roadwarrior2.0": {
         "banneduntil": "2025/8/11",
         "BanReason": "Rdm(multiple offenses)"
+    },
+    "genral_so": {
+        "banneduntil": "2025/8/31",
+        "BanReason": "Sexual Harassment and Evasion"
     }
 }
