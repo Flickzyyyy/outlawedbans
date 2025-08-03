@@ -610,5 +610,9 @@
     "DuckRyanHai": {
         "banneduntil": "2025/8/16",
         "BanReason": "n word soft A"
+    },
+    "model.x.5000": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "camping"
     }
 }
