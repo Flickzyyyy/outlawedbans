@@ -606,5 +606,9 @@
     "zupelli": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "DuckRyanHai": {
+        "banneduntil": "2025/8/16",
+        "BanReason": "n word soft A"
     }
 }
