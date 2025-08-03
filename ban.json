@@ -658,5 +658,9 @@
     "Player5": {
         "banneduntil": "2025/8/17",
         "BanReason": "Racism"
+    },
+    "Jack_fartson": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "Rdm and evasion"
     }
 }
