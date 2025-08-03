@@ -642,5 +642,9 @@
     "captainofdeeez": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "vrbroreality": {
+        "banneduntil": "2025/8/7",
+        "BanReason": "Rdm"
     }
 }
