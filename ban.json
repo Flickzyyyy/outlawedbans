@@ -614,5 +614,9 @@
     "model.x.5000": {
         "banneduntil": "2025/8/9",
         "BanReason": "camping"
+    },
+    "u_cant_touch_me": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "camping"
     }
 }
