@@ -666,5 +666,9 @@
     "Jack_fartston": {
         "banneduntil": "2025/8/11",
         "BanReason": "rdm and evasion"
+    },
+    "Jack_maner": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
