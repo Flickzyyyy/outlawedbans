@@ -622,5 +622,9 @@
     "D1.ShiFty": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "KingGodzilla357": {
+        "banneduntil": "2028/7/30",
+        "BanReason": "underage"
     }
 }
