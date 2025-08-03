@@ -706,5 +706,9 @@
     "CanvasOfPutin": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Walker98654": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "RDM and evasion"
     }
 }
