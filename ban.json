@@ -622,5 +622,9 @@
     "0_jacknife_0": {
         "banneduntil": "2025/8/10",
         "BanReason": "Rdm+Evasion"
+    },
+    "TupacShakurGeeked": {
+        "banneduntil": "2025/8/11",
+        "BanReason": "rdm plus evasion"
     }
 }
