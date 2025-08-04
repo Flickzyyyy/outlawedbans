@@ -830,5 +830,9 @@
     "ThatGuyLaneOG": {
         "banneduntil": "2025/8/12",
         "BanReason": "Cop targeting and evasion"
+    },
+    "Partybanana1": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "Rdm"
     }
 }
