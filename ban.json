@@ -778,5 +778,9 @@
     "Siribot0": {
         "banneduntil": "2025/8/18",
         "BanReason": "n word baiting"
+    },
+    "happymapz": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Rdm and evasion"
     }
 }
