@@ -834,5 +834,9 @@
     "Partybanana1": {
         "banneduntil": "2025/8/8",
         "BanReason": "Rdm"
+    },
+    "sagepatriot": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "F slur"
     }
 }
