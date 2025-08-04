@@ -822,5 +822,9 @@
     "MMrwhaleE": {
         "banneduntil": "2025/8/12",
         "BanReason": "Rdm and evasion"
+    },
+    "Yemmach": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
