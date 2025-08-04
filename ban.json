@@ -802,5 +802,9 @@
     "JohnAdamBerggman": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "taho5": {
+        "banneduntil": "2025/8/8",
+        "BanReason": "rdm"
     }
 }
