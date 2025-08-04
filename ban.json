@@ -750,5 +750,9 @@
     "MasterCoye": {
         "banneduntil": "2025/8/12",
         "BanReason": "Rdm and evasion"
+    },
+    "slipslider475": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underage without giving me an exact birthday"
     }
 }
