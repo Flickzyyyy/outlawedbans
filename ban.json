@@ -806,5 +806,9 @@
     "taho5": {
         "banneduntil": "2025/8/8",
         "BanReason": "rdm"
+    },
+    "walkemdownw.40": {
+        "banneduntil": "2099/1/2",
+        "BanReason": "Alt"
     }
 }
