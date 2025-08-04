@@ -762,5 +762,9 @@
     "alexemmons": {
         "banneduntil": "2026/4/6",
         "BanReason": "under age"
+    },
+    "HUD2K11": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "rdm plus evasion"
     }
 }
