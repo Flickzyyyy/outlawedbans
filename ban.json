@@ -806,5 +806,9 @@
     "walkemdownw.40": {
         "banneduntil": "2099/1/2",
         "BanReason": "Alt"
+    },
+    "g2cdemon": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
