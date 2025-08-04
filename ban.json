@@ -758,5 +758,9 @@
     "Random_IRA_guy": {
         "banneduntil": "2025/8/15",
         "BanReason": "Cop targeting and Evasion"
+    },
+    "ghost13223": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "Underaged told me he was 10 and  left before I can ask for his birthday"
     }
 }
