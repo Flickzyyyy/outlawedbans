@@ -774,5 +774,9 @@
     "james.156727": {
         "banneduntil": "2025/8/8",
         "BanReason": "Rdm clip"
+    },
+    "Siribot0": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "n word baiting"
     }
 }
