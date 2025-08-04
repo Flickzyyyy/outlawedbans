@@ -770,5 +770,9 @@
     "A9mmShotgun": {
         "banneduntil": "2025/8/12",
         "BanReason": "Killed 2 players without any known reason, and stay majority of the time and left during admin 2x"
+    },
+    "tony.montana420": {
+        "banneduntil": "2025/8/7",
+        "BanReason": "rdm"
     }
 }
