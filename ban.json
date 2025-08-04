@@ -794,5 +794,9 @@
     "Seadragon626": {
         "banneduntil": "2025/8/18",
         "BanReason": "mass rdm + evasion"
+    },
+    "Lock3d.Rhino": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
