@@ -782,5 +782,9 @@
     "happymapz": {
         "banneduntil": "2025/8/12",
         "BanReason": "Rdm and evasion"
+    },
+    "sweet_tea_is_good": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "raid suspension"
     }
 }
