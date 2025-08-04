@@ -842,5 +842,9 @@
     "Pl3b_Rex": {
         "banneduntil": "2025/8/8",
         "BanReason": "Rdm"
+    },
+    "PI3b_Rex": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "adding evasion to punishment: when I pulled him and told him what he did he left the game instantly and before I could put in the ban swamp did so I\u2019m just adding the evasion charge."
     }
 }
