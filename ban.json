@@ -1010,5 +1010,9 @@
     "2o2a": {
         "banneduntil": "2025/8/9",
         "BanReason": "RDM"
+    },
+    "beat_bop09": {
+        "banneduntil": "2025/8/7",
+        "BanReason": "Lowered ban."
     }
 }
