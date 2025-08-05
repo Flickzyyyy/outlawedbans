@@ -966,5 +966,9 @@
     "crew.the.sig": {
         "banneduntil": "2025/8/19",
         "BanReason": "F slur"
+    },
+    "cam.2024": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "RDM/EVASION"
     }
 }
