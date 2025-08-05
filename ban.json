@@ -998,5 +998,9 @@
     "cooked56.98": {
         "banneduntil": "2025/8/9",
         "BanReason": "Rdm"
+    },
+    "appal2000": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
