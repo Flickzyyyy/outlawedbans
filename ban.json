@@ -910,5 +910,9 @@
     "Electro445": {
         "banneduntil": "2025/8/18",
         "BanReason": "Sexual remark"
+    },
+    "Ceaser11": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "rdm"
     }
 }
