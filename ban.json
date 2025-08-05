@@ -870,5 +870,9 @@
     "i.sounded.once.yes": {
         "banneduntil": "2025/8/18",
         "BanReason": "Anti Semitic comment"
+    },
+    "LandonSzyme": {
+        "banneduntil": "2025/8/16",
+        "BanReason": "ban decrease"
     }
 }
