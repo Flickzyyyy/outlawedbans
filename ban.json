@@ -934,5 +934,9 @@
     "zstrike1": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Zuke21": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "rdm evasion"
     }
 }
