@@ -942,5 +942,9 @@
     "xaiverskye1": {
         "banneduntil": "2025/8/19",
         "BanReason": "n word soft a"
+    },
+    "yoda.01": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
