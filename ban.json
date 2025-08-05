@@ -970,5 +970,9 @@
     "cam.2024": {
         "banneduntil": "2025/8/13",
         "BanReason": "RDM/EVASION"
+    },
+    "L2bitgamer": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "RDM/EVASION"
     }
 }
