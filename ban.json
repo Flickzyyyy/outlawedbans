@@ -982,5 +982,9 @@
     "Rehhhh": {
         "banneduntil": "2025/8/7",
         "BanReason": "RDM(shortened, check logs)"
+    },
+    "tweakersfemboy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
