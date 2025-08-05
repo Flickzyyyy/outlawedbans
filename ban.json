@@ -1006,5 +1006,9 @@
     "balps": {
         "banneduntil": "2025/8/13",
         "BanReason": "Rdm and evasion"
+    },
+    "2o2a": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "RDM"
     }
 }
