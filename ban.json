@@ -946,5 +946,9 @@
     "yoda.01": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Icezzx": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r in clip"
     }
 }
