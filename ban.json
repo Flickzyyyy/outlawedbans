@@ -854,5 +854,9 @@
     "Monkeyeatbananna": {
         "banneduntil": "2025/8/8",
         "BanReason": "RDM"
+    },
+    "johnporkston": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "sexual misconduct"
     }
 }
