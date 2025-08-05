@@ -938,5 +938,9 @@
     "zstrike1": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "The_non_muggle": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
