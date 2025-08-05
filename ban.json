@@ -890,5 +890,9 @@
     "LittleDaddyMac": {
         "banneduntil": "2025/8/8",
         "BanReason": "Rdm"
+    },
+    "Otter407": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
