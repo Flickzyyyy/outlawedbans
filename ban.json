@@ -1058,5 +1058,9 @@
     "Manhatten_Flash": {
         "banneduntil": "2025/8/19",
         "BanReason": "sexual misconduct"
+    },
+    "cj.sharkbee": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
