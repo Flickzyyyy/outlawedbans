@@ -1078,5 +1078,9 @@
     "gangmumbers": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "n1wit": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "spawn camping"
     }
 }
