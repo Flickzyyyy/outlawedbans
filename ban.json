@@ -1082,5 +1082,9 @@
     "Anyoneulike": {
         "banneduntil": "2025/8/10",
         "BanReason": "rdm"
+    },
+    "rtj1610": {
+        "banneduntil": "2027/8/6",
+        "BanReason": "Underage"
     }
 }
