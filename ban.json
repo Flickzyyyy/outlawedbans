@@ -1086,5 +1086,9 @@
     "rtj1610": {
         "banneduntil": "2027/8/6",
         "BanReason": "Underage"
+    },
+    "Mafia_Johnson": {
+        "banneduntil": "2025/8/16",
+        "BanReason": "rdm and evasion"
     }
 }
