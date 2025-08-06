@@ -1090,5 +1090,9 @@
     "Mafia_Johnson": {
         "banneduntil": "2025/8/16",
         "BanReason": "rdm and evasion"
+    },
+    "DamnBoy420": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "DIdnt get unbanned"
     }
 }
