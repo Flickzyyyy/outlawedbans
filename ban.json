@@ -1066,5 +1066,9 @@
     "HilterNatesHiggers": {
         "banneduntil": "2099/1/1",
         "BanReason": "Racist, username"
+    },
+    "Rejoiceth.All.Creation": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r clip"
     }
 }
