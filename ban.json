@@ -1130,5 +1130,9 @@
     "hoponthedeek": {
         "banneduntil": "2025/9/3",
         "BanReason": "Sexual remarks and evasion"
+    },
+    "Banana_man2030": {
+        "banneduntil": "2022/1/1",
+        "BanReason": "Unban"
     }
 }
