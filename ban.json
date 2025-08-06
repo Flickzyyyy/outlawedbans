@@ -1054,5 +1054,9 @@
     "sandwhichlord": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitted To Alting"
+    },
+    "Bakedpotato1300": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "rdm + evasion"
     }
 }
