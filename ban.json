@@ -1062,5 +1062,9 @@
     "Dogwitahat": {
         "banneduntil": "2025/8/19",
         "BanReason": "Sexual Remarks and Camping"
+    },
+    "Wanted_Rosina": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "Camping"
     }
 }
