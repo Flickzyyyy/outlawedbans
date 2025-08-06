@@ -1126,5 +1126,9 @@
     "DonDiGiorno": {
         "banneduntil": "2025/8/10",
         "BanReason": "Rdm"
+    },
+    "hoponthedeek": {
+        "banneduntil": "2025/9/3",
+        "BanReason": "Sexual remarks and evasion"
     }
 }
