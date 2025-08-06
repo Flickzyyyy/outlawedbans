@@ -1066,5 +1066,9 @@
     "Wanted_Rosina": {
         "banneduntil": "2025/8/13",
         "BanReason": "Camping"
+    },
+    "ImpostorBrady": {
+        "banneduntil": "2025/8/9",
+        "BanReason": "rdm"
     }
 }
