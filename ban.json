@@ -1154,5 +1154,9 @@
     "shadow2414": {
         "banneduntil": "2025/8/14",
         "BanReason": "Rdm and evasion"
+    },
+    "zombieswayer": {
+        "banneduntil": "2025/8/20",
+        "BanReason": "Homophobia"
     }
 }
