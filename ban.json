@@ -1162,5 +1162,9 @@
     "FaZe_Fag101": {
         "banneduntil": "2099/1/1",
         "BanReason": "name"
+    },
+    "misterboneypantsguy": {
+        "banneduntil": "2025/8/10",
+        "BanReason": "RDM"
     }
 }
