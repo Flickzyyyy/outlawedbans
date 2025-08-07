@@ -1142,5 +1142,9 @@
     "SimplyBlizzard": {
         "banneduntil": "2030/1/1",
         "BanReason": "underage"
+    },
+    "brian_moser_1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
