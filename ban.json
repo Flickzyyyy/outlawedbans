@@ -1138,5 +1138,9 @@
     "Reaper_builder": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r report from blazer"
+    },
+    "AP.Adolf_Tripler": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "just look at the name"
     }
 }
