@@ -1142,5 +1142,9 @@
     "AP.Adolf_Tripler": {
         "banneduntil": "2099/1/1",
         "BanReason": "just look at the name"
+    },
+    "retro_racer16": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
