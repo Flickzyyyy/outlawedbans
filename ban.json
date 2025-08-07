@@ -1158,5 +1158,9 @@
     "gun.dealer1.2025": {
         "banneduntil": "2025/8/15",
         "BanReason": "rdm + evasion"
+    },
+    "happymapz": {
+        "banneduntil": "2025/9/4",
+        "BanReason": "sexual remarks + evasion"
     }
 }
