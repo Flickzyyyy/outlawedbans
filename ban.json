@@ -1158,5 +1158,9 @@
     "zombieswayer": {
         "banneduntil": "2025/8/20",
         "BanReason": "Homophobia"
+    },
+    "FaZe_Fag101": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "name"
     }
 }
