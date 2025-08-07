@@ -1154,5 +1154,9 @@
     "chino3507": {
         "banneduntil": "2025/8/15",
         "BanReason": "rdm + evasi\u00f3n"
+    },
+    "gun.dealer1.2025": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "rdm + evasion"
     }
 }
