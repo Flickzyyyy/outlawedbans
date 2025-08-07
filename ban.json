@@ -1146,5 +1146,9 @@
     "brian_moser_1": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "the_clwn": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "rdm + evasi\u00f3n"
     }
 }
