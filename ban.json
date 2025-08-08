@@ -1178,5 +1178,9 @@
     "terraspark.2025": {
         "banneduntil": "2025/8/21",
         "BanReason": "Racism(Soft A)"
+    },
+    "levy125": {
+        "banneduntil": "2025/9/4",
+        "BanReason": "Derog and evasion"
     }
 }
