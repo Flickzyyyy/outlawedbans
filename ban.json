@@ -1162,5 +1162,9 @@
     "happymapz": {
         "banneduntil": "2025/9/4",
         "BanReason": "sexual remarks + evasion"
+    },
+    "ForGetTheTax": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
