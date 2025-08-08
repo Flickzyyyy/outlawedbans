@@ -1122,5 +1122,9 @@
     "HMP.Cademan71": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage"
+    },
+    "Avenger0216": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "Camping(killing me in spawn twice)"
     }
 }
