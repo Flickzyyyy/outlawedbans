@@ -1182,5 +1182,9 @@
     "levy125": {
         "banneduntil": "2025/9/4",
         "BanReason": "Derog and evasion"
+    },
+    "2585": {
+        "banneduntil": "2025/9/7",
+        "BanReason": "Racist remarks + evasion"
     }
 }
