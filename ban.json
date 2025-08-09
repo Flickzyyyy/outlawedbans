@@ -1102,5 +1102,9 @@
     "Mustang1549": {
         "banneduntil": "2025/8/22",
         "BanReason": "Derogatory words"
+    },
+    "Fuzzytomcat": {
+        "banneduntil": "2025/8/23",
+        "BanReason": "Derog"
     }
 }
