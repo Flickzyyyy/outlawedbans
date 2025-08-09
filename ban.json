@@ -1146,5 +1146,9 @@
     "GayStripper": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "I_Hate_Nigears": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt and name"
     }
 }
