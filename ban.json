@@ -1122,5 +1122,9 @@
     "zigzagonvr": {
         "banneduntil": "2025/8/12",
         "BanReason": "Rdm"
+    },
+    "lacedwithahanger": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Rdm"
     }
 }
