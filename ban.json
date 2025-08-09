@@ -1146,5 +1146,9 @@
     "GayStripper": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "jclll": {
+        "banneduntil": "2025/7/16",
+        "BanReason": "Rdm + evasion"
     }
 }
