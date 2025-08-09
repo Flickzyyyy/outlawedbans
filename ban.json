@@ -1106,5 +1106,9 @@
     "Fuzzytomcat": {
         "banneduntil": "2025/8/23",
         "BanReason": "Derog"
+    },
+    "IAmJohnHelldiver": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Rdm"
     }
 }
