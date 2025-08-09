@@ -1130,5 +1130,9 @@
     "huluhulu0310": {
         "banneduntil": "2025/8/21",
         "BanReason": "Sexual remarks"
+    },
+    "heimebrent": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "RDM and Evasion(allegedly had a reason to leave, due to the shortened ban)"
     }
 }
