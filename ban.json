@@ -1110,5 +1110,9 @@
     "IAmJohnHelldiver": {
         "banneduntil": "2025/8/12",
         "BanReason": "Rdm"
+    },
+    "CheesyAnalCanal": {
+        "banneduntil": "2025/9/9",
+        "BanReason": "Sexual remarks and evasion + name?"
     }
 }
