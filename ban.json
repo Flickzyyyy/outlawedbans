@@ -1118,5 +1118,9 @@
     "Tacobell_OP": {
         "banneduntil": "2025/8/12",
         "BanReason": "Rdm"
+    },
+    "zigzagonvr": {
+        "banneduntil": "2025/8/12",
+        "BanReason": "Rdm"
     }
 }
