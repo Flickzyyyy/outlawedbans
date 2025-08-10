@@ -1154,5 +1154,9 @@
     "ZipKid": {
         "banneduntil": "2099/1/1",
         "BanReason": "Underage, but said he got banned for the same thing before in this server(Alting)"
+    },
+    "AstroidLoki747": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "Rdm clip"
     }
 }
