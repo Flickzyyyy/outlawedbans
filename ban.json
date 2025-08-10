@@ -1146,5 +1146,9 @@
     "h0opboy": {
         "banneduntil": "2025/8/23",
         "BanReason": "n word baiting"
+    },
+    "ZipKid": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "Unbanned"
     }
 }
