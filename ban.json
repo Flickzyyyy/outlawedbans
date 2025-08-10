@@ -1186,5 +1186,9 @@
     "BourbonMorgan": {
         "banneduntil": "2025/8/13",
         "BanReason": "Rdm clip (re ban)"
+    },
+    "BeerMorgan": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "Rdm warning + cop targeting"
     }
 }
