@@ -1182,5 +1182,9 @@
     "andresthe3": {
         "banneduntil": "2028/7/11",
         "BanReason": "underage"
+    },
+    "BourbonMorgan": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "Rdm clip (re ban)"
     }
 }
