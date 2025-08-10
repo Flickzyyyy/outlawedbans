@@ -1158,5 +1158,9 @@
     "sebb_a": {
         "banneduntil": "2099/1/1",
         "BanReason": "Perm"
+    },
+    "YellowBebber556": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "Rdm"
     }
 }
