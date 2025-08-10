@@ -1178,5 +1178,9 @@
     "KMB11": {
         "banneduntil": "2025/8/24",
         "BanReason": "rasist remarks"
+    },
+    "andresthe3": {
+        "banneduntil": "2028/7/11",
+        "BanReason": "underage"
     }
 }
