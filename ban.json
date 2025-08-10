@@ -1162,5 +1162,9 @@
     "Darth.Zero": {
         "banneduntil": "2025/8/17",
         "BanReason": "Cop Targeting X2 Evasion"
+    },
+    "monkeyeatbananna": {
+        "banneduntil": "2025/8/17",
+        "BanReason": "Cop Targeting(extension due to multiple bans for the same thing)"
     }
 }
