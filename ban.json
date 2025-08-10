@@ -1166,5 +1166,9 @@
     "monkeyeatbananna": {
         "banneduntil": "2025/8/17",
         "BanReason": "Cop Targeting(extension due to multiple bans for the same thing)"
+    },
+    "jmdevitt.070502": {
+        "banneduntil": "2025/8/17",
+        "BanReason": "Rdm and evasion"
     }
 }
