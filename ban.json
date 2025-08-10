@@ -1154,5 +1154,9 @@
     "bucketb0y": {
         "banneduntil": "2025/8/13",
         "BanReason": "Rdm clip"
+    },
+    "sebb_a": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Perm"
     }
 }
