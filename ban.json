@@ -1150,5 +1150,9 @@
     "Idroppedgrandmasashez": {
         "banneduntil": "2026/1/1",
         "BanReason": "Underage"
+    },
+    "bucketb0y": {
+        "banneduntil": "2025/8/13",
+        "BanReason": "Rdm clip"
     }
 }
