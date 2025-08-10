@@ -1166,5 +1166,9 @@
     "BourbanMorgan": {
         "banneduntil": "2025/8/13",
         "BanReason": "Rdm"
+    },
+    "Tobyvr74": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "Rdm and evasion"
     }
 }
