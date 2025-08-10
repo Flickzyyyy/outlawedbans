@@ -1190,5 +1190,9 @@
     "BeerMorgan": {
         "banneduntil": "2025/8/14",
         "BanReason": "Rdm warning + cop targeting"
+    },
+    "PunishedBuster": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "Cop Targeting and evasion"
     }
 }
