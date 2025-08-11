@@ -1194,5 +1194,9 @@
     "PunishedBuster": {
         "banneduntil": "2025/8/18",
         "BanReason": "Cop Targeting and evasion"
+    },
+    "UFODWELLER": {
+        "banneduntil": "2025/8/14",
+        "BanReason": "rdm"
     }
 }
