@@ -1178,5 +1178,9 @@
     "MG425": {
         "banneduntil": "2025/8/15",
         "BanReason": "rdm"
+    },
+    "ee42001": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "rdm"
     }
 }
