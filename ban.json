@@ -1182,5 +1182,9 @@
     "ee42001": {
         "banneduntil": "2025/8/15",
         "BanReason": "rdm"
+    },
+    "Jim_Milton5606": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
