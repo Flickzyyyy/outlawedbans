@@ -1174,5 +1174,9 @@
     "INSPECTOR_GADGET_209": {
         "banneduntil": "2025/8/18",
         "BanReason": "Mass Rdm"
+    },
+    "MG425": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "rdm"
     }
 }
