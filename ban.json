@@ -1198,5 +1198,9 @@
     "the_toastiest_g": {
         "banneduntil": "2025/9/1",
         "BanReason": "soft a/ f slur: This player was also playing Simon says, someone got in his way and he said move soft a, from there the staff proceeded with immediate action. He then called me the f slur after informing him of his ban."
+    },
+    "GhostGuyFr": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt: this player was originally banned for Rdm on a player, he then joined in on his other account."
     }
 }
