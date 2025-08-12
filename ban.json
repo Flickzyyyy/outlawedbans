@@ -250,5 +250,9 @@
     "pooflicker": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "ITS_me_BUCKIE": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
