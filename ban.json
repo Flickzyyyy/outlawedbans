@@ -54,5 +54,9 @@
     "GayStripper": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "CaptianArgus": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
