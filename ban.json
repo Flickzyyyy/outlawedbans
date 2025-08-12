@@ -62,5 +62,9 @@
     "moisturizerjuice": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r clip."
+    },
+    "RadiantTapir9080": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
