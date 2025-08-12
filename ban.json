@@ -79,8 +79,12 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Soft a in profile pic, plus inappropriate name"
     },
-    "Lantry": {
+    "micky.mou": {
         "banneduntil": "2099/1/1",
-        "BanReason": "hard r alternative"
+        "BanReason": "alt"
+    },
+    "Laufi505": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
