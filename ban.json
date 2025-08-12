@@ -74,5 +74,9 @@
     "retro_racer16": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Reaper_builder": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r report from blazer"
     }
 }
