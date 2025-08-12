@@ -110,5 +110,9 @@
     "Tommy_Angelo": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "appal2000": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
