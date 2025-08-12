@@ -130,5 +130,9 @@
     "Yemmach": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "JohnAdamBerggman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
