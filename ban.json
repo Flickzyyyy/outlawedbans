@@ -34,5 +34,9 @@
     "GhO51_b07": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "GhostGuyFr": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt: this player was originally banned for Rdm on a player, he then joined in on his other account."
     }
 }
