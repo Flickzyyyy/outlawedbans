@@ -10,5 +10,9 @@
     "CALISAINT.XIV.209": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "tactical_neon_turkey": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
