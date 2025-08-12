@@ -158,5 +158,9 @@
     "skull220": {
         "banneduntil": "2099/1/1",
         "BanReason": "Motive : He walked in the gun store repeating the n word"
+    },
+    "help_me_pleas": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Motive : I got a report that he said the hard R so I asked him and he said it."
     }
 }
