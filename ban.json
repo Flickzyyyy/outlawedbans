@@ -358,5 +358,9 @@
     "joe.959762": {
         "banneduntil": "2099/9/09",
         "BanReason": "Alt"
+    },
+    "joe.959760": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
