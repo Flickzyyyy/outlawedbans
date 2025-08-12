@@ -38,5 +38,9 @@
     "GhostGuyFr": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt: this player was originally banned for Rdm on a player, he then joined in on his other account."
+    },
+    "ZipKid": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Underage, but said he got banned for the same thing before in this server(Alting)"
     }
 }
