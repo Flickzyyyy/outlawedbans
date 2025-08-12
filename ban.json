@@ -150,5 +150,9 @@
     "Handsanitizerdrinker": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Ice4ever": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
