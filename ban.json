@@ -58,5 +58,9 @@
     "sebb_a": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "MasterCoye": {
+        "banneduntil": "2025/8/26",
+        "BanReason": "sexual misconduct"
     }
 }
