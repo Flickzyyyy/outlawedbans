@@ -322,5 +322,9 @@
     "sea_dad34": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "BritishAmerican1776": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
