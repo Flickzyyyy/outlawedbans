@@ -122,5 +122,9 @@
     "Icezzx": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r in clip"
+    },
+    "zstrike1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
