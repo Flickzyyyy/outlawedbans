@@ -298,5 +298,9 @@
     "I69oldgranpas": {
         "banneduntil": "2099/1/1",
         "BanReason": "n word"
+    },
+    "I.eat.Schizo": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
