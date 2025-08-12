@@ -122,5 +122,9 @@
     "sourgraped": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "maushold": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
