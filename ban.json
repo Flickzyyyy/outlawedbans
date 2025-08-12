@@ -102,5 +102,9 @@
     "thuggawhite": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "sandwhichlord": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitted To Alting"
     }
 }
