@@ -106,5 +106,9 @@
     "sandwhichlord": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitted To Alting"
+    },
+    "Tommy_Angelo": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
