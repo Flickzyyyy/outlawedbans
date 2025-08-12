@@ -66,5 +66,9 @@
     "Alexis15606": {
         "banneduntil": "2099/1/1",
         "BanReason": "reban"
+    },
+    "zupeIIi": {
+        "banneduntil": "2028/12/21",
+        "BanReason": "underage"
     }
 }
