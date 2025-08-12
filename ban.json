@@ -70,5 +70,9 @@
     "seth.dickfield": {
         "banneduntil": "2099/1/1",
         "BanReason": "RDM + Evasion + Alt"
+    },
+    "Snobble": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
