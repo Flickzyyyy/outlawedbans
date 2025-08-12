@@ -38,5 +38,9 @@
     "spicy.shart.2025": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "lilwaters.2024": {
+        "banneduntil": "2025/8/25",
+        "BanReason": "Sexual Remarks"
     }
 }
