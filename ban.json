@@ -214,5 +214,9 @@
     "010101010101110001101011h": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "thecheeseman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
