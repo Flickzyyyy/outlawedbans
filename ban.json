@@ -182,5 +182,9 @@
     "DR.Frothy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r (video clip)"
+    },
+    "Snoop_DoGG": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
