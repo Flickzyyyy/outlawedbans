@@ -186,5 +186,9 @@
     "Snoop_DoGG": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "ImBlindedVR": {
+        "banneduntil": "2099/8/26",
+        "BanReason": "f slur"
     }
 }
