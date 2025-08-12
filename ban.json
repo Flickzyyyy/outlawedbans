@@ -230,5 +230,9 @@
     "zdenka2205": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r (clip)"
+    },
+    "adoftidiller": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Inappropriate Username/Alt"
     }
 }
