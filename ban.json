@@ -14,5 +14,9 @@
     "broskispilldabenzs": {
         "banneduntil": "2027/7/25",
         "BanReason": "underage"
+    },
+    "nuttinbut": {
+        "banneduntil": "2099/10/6",
+        "BanReason": "n word"
     }
 }
