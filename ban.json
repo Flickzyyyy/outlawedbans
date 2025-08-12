@@ -346,5 +346,9 @@
     "mister_mouth": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "joe.959764": {
+        "banneduntil": "2099/9/09",
+        "BanReason": "Alt"
     }
 }
