@@ -30,5 +30,9 @@
     "Topmexican2009": {
         "banneduntil": "2099/10/7",
         "BanReason": "n word"
+    },
+    "GhO51_b07": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
