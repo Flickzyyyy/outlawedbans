@@ -98,5 +98,9 @@
     "fireMUSTARDDDD": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Smoothsteel09.2025": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
