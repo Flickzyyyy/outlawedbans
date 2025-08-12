@@ -174,5 +174,9 @@
     "tunechi123": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Rogue_eacn": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
