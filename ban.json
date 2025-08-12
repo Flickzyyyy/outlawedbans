@@ -210,5 +210,9 @@
     "1_bee_keeper_1": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "010101010101110001101011h": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
