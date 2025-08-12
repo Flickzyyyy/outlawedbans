@@ -198,5 +198,9 @@
     "Jack__Marston": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "theEatTheRichKiller": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
