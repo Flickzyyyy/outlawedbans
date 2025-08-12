@@ -290,5 +290,9 @@
     "crackerphobick": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Dannng": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "reban"
     }
 }
