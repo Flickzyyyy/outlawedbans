@@ -1218,5 +1218,9 @@
     "SaltyGlazers": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "fisharcaol": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Will told me to perm ban."
     }
 }
