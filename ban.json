@@ -194,5 +194,9 @@
     "Astoifo4": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Jack__Marston": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
