@@ -1234,5 +1234,9 @@
     "Testicle_slayer72": {
         "banneduntil": "2099/1/1",
         "BanReason": "N word hard r"
+    },
+    "Dripped_Frost": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
