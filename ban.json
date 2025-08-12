@@ -146,5 +146,9 @@
     "coroncae": {
         "banneduntil": "2099/9/9",
         "BanReason": "Hard R"
+    },
+    "Handsanitizerdrinker": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
