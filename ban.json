@@ -166,5 +166,9 @@
     "Lil_BEANER19 0": {
         "banneduntil": "2099/1/1",
         "BanReason": "Racial name"
+    },
+    "flipdinker": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
