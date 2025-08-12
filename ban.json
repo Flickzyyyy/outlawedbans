@@ -254,5 +254,9 @@
     "ITS_me_BUCKIE": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Link365": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
