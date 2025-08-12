@@ -54,5 +54,9 @@
     "mr.lambert.2025": {
         "banneduntil": "2025/8/16",
         "BanReason": "Rdm clip"
+    },
+    "sebb_a": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
