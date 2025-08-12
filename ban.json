@@ -202,5 +202,9 @@
     "Episode.1.PhantomMenace": {
         "banneduntil": "2099/1/1",
         "BanReason": "Used an alt"
+    },
+    "y2kNeat": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Motive : Called me the hard R while robbing me."
     }
 }
