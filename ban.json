@@ -182,5 +182,9 @@
     "LazyPandaPerson": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitted to Alting"
+    },
+    "diddyorganization": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r clip"
     }
 }
