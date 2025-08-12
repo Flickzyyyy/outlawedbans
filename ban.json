@@ -1246,5 +1246,9 @@
     "Floppy_4skin": {
         "banneduntil": "2099/5/15",
         "BanReason": "n word"
+    },
+    "Koirey": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "hard r"
     }
 }
