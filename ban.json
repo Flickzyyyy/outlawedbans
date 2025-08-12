@@ -166,5 +166,9 @@
     "lucas1341": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "FLICKLANDO": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
