@@ -1210,5 +1210,9 @@
     "TugginPigz": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "FwungaFella": {
+        "banneduntil": "2025/8/19",
+        "BanReason": "RDM + Evasion"
     }
 }
