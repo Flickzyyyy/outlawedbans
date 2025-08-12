@@ -270,5 +270,9 @@
     "getclapped1289": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "petrock1246": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
