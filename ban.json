@@ -150,5 +150,9 @@
     "buglight12344321": {
         "banneduntil": "2099/1/1",
         "BanReason": "Extreme Racism(Hard R)"
+    },
+    "nutsucker_face": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
