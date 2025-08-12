@@ -14,5 +14,9 @@
     "tactical_neon_turkey": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "CALEBTHETANK17": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitted to saying hard r"
     }
 }
