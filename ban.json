@@ -54,5 +54,9 @@
     "thenatzisarecuming": {
         "banneduntil": "2099/1/1",
         "BanReason": "Inappropriate name"
+    },
+    "desquiciada2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
