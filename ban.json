@@ -1113,7 +1113,7 @@
     },
     "bucketb0y": {
         "banneduntil": "2025/8/13",
-        "BanReason": "Rdm Clip"
+        "BanReason": "Rdm clip"
     },
     "sebb_a": {
         "banneduntil": "2099/1/1",
@@ -1214,5 +1214,9 @@
     "FwungaFella": {
         "banneduntil": "2025/8/19",
         "BanReason": "RDM + Evasion"
+    },
+    "SaltyGlazers": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
