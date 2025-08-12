@@ -294,5 +294,9 @@
     "Bilibili_hen_ku_de_jia_huo": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "I69oldgranpas": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "n word"
     }
 }
