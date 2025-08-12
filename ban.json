@@ -278,5 +278,9 @@
     "lucas764213": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Underthrone99": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban"
     }
 }
