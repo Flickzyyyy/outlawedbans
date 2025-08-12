@@ -181,7 +181,7 @@
     },
     "DR.Frothy": {
         "banneduntil": "2099/1/1",
-        "BanReason": "Motive : In a ticket Pepsi sent he was chasing him asking him to say \"it\" again. Then he said the HARD R."
+        "BanReason": "Hard r (video clip)"
     },
     "Snoop_DoGG": {
         "banneduntil": "2099/1/1",
@@ -230,5 +230,9 @@
     "Nicolai2026": {
         "banneduntil": "2099/1/1",
         "BanReason": "raid suspision and rdm"
+    },
+    "picklepounder": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
