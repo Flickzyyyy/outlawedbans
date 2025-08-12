@@ -66,5 +66,9 @@
     "RadiantTapir9080": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "seth.dickfield": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "RDM + Evasion + Alt"
     }
 }
