@@ -74,5 +74,9 @@
     "Snobble": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "barry_berkman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
