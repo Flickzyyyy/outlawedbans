@@ -118,5 +118,9 @@
     "premaritalthroating": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "sourgraped": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
