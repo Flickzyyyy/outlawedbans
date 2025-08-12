@@ -206,5 +206,9 @@
     "y2kNeat": {
         "banneduntil": "2099/1/1",
         "BanReason": "Motive : Called me the hard R while robbing me."
+    },
+    "1_bee_keeper_1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
