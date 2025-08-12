@@ -62,5 +62,9 @@
     "FatherAdolf_Nitler": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "ForGetTheTax": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
