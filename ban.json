@@ -198,5 +198,9 @@
     "imamanofhonor": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Episode.1.PhantomMenace": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Used an alt"
     }
 }
