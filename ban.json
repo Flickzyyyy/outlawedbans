@@ -463,8 +463,12 @@
         "banneduntil": "2027/7/26",
         "BanReason": "underaged"
     },
-    "bigmac453": {
-        "banneduntil": "2026/6/14",
+    "Osama.bin.bowling": {
+        "banneduntil": "2027/10/4",
         "BanReason": "Underage"
+    },
+    "Mat_hew": {
+        "banneduntil": "2025/10/13",
+        "BanReason": "Underaged"
     }
 }
