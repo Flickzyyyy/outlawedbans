@@ -250,5 +250,9 @@
     "CLUMZY7": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "groomderbomb": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
