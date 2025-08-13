@@ -462,5 +462,9 @@
     "system1238": {
         "banneduntil": "2027/7/26",
         "BanReason": "underaged"
+    },
+    "Osama.bin.bowling": {
+        "banneduntil": "2027/10/4",
+        "BanReason": "Underage"
     }
 }
