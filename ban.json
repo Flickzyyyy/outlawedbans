@@ -554,5 +554,9 @@
     "Daaaang": {
         "banneduntil": "2099/1/1",
         "BanReason": "reban"
+    },
+    "DrDingle.2025": {
+        "banneduntil": "2025/8/27",
+        "BanReason": "Sexual Content"
     }
 }
