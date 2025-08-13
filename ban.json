@@ -434,5 +434,9 @@
     "Jayd3n3112": {
         "banneduntil": "2025/7/31",
         "BanReason": "underaged"
+    },
+    "SkiptheoldWestTrapper": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underage"
     }
 }
