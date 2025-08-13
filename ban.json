@@ -270,5 +270,9 @@
     "krezi_wimp": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "SlimeSlimy2.0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
