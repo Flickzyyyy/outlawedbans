@@ -254,5 +254,9 @@
     "TheSDB": {
         "banneduntil": "2099/1/1",
         "BanReason": "admited to alting."
+    },
+    "PaulJMiller": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Motive : This is the ALT acc which also got banned for RDM. Flickzy IP checked both of these."
     }
 }
