@@ -486,5 +486,9 @@
     "lil_oad423": {
         "banneduntil": "2028/7/15",
         "BanReason": "Underage"
+    },
+    "DexterFlexer7": {
+        "banneduntil": "2028/7/22",
+        "BanReason": "underage"
     }
 }
