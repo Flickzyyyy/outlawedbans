@@ -294,5 +294,9 @@
     "Floppy_4skin": {
         "banneduntil": "2099/5/15",
         "BanReason": "n word"
+    },
+    "mr.Poleg": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
