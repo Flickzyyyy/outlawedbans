@@ -438,5 +438,9 @@
     "Noahdon": {
         "banneduntil": "2027/10/7",
         "BanReason": "underaged"
+    },
+    "johnsonmcgeeee": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underaged"
     }
 }
