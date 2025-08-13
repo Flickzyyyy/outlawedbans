@@ -378,5 +378,9 @@
     "hhnjvf": {
         "banneduntil": "2028/5/24",
         "BanReason": "Underaged"
+    },
+    "nuggetwisdom.2022": {
+        "banneduntil": "2027/2/5",
+        "BanReason": "underaged"
     }
 }
