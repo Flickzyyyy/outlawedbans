@@ -550,5 +550,9 @@
     "Fuzzytomcat": {
         "banneduntil": "2025/8/23",
         "BanReason": "Using gay in a derogatory way(reban)"
+    },
+    "Daaaang": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "reban"
     }
 }
