@@ -310,5 +310,9 @@
     "BetaTv": {
         "banneduntil": "2025/8/16",
         "BanReason": "rdm evasion"
+    },
+    "Red_Scout": {
+        "banneduntil": "2025/8/26",
+        "BanReason": "slur baiting"
     }
 }
