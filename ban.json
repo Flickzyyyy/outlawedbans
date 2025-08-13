@@ -318,5 +318,9 @@
     "t_greeno": {
         "banneduntil": "2025/8/26",
         "BanReason": "sexual remarks"
+    },
+    "BayHarborButch3.r": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
