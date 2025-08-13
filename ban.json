@@ -322,5 +322,9 @@
     "BayHarborButch3.r": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R(reban)"
+    },
+    "Cooch_sniffer": {
+        "banneduntil": "2025/8/24",
+        "BanReason": "Underage"
     }
 }
