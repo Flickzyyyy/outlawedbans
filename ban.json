@@ -586,5 +586,9 @@
     "sidehustle24": {
         "banneduntil": "2025/8/27",
         "BanReason": "sexual remarks"
+    },
+    "KKK.RICK6RIMES": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "username"
     }
 }
