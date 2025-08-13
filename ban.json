@@ -266,5 +266,9 @@
     "John_Marston_rdr2": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "krezi_wimp": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
