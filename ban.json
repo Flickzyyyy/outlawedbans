@@ -478,5 +478,9 @@
     "miller222333": {
         "banneduntil": "2027/7/20",
         "BanReason": "underage"
+    },
+    "Xavier-tre": {
+        "banneduntil": "2027/3/5",
+        "BanReason": "underage"
     }
 }
