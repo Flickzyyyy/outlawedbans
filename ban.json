@@ -494,5 +494,9 @@
     "Rammaboys3": {
         "banneduntil": "2027/7/27",
         "BanReason": "underage"
+    },
+    "mc.shadow0216": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Underaged"
     }
 }
