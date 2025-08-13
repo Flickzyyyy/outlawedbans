@@ -306,5 +306,9 @@
     "Kjsmith1234": {
         "banneduntil": "2026/5/16",
         "BanReason": "Underage"
+    },
+    "BetaTv": {
+        "banneduntil": "2025/8/16",
+        "BanReason": "rdm evasion"
     }
 }
