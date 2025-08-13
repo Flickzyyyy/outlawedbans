@@ -430,5 +430,9 @@
     "5statjay": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "Vicetec": {
+        "banneduntil": "2027/10/21",
+        "BanReason": "underage"
     }
 }
