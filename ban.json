@@ -546,5 +546,9 @@
     "clover.vines": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r: called me the hard r while on horse back riding behind me. I shot him to get his name, he then left the admin sit."
+    },
+    "Fuzzytomcat": {
+        "banneduntil": "2025/8/23",
+        "BanReason": "Using gay in a derogatory way(reban)"
     }
 }
