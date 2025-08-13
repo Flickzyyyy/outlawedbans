@@ -558,5 +558,9 @@
     "DrDingle.2025": {
         "banneduntil": "2025/8/27",
         "BanReason": "Sexual Content"
+    },
+    "stevenrobards": {
+        "banneduntil": "2025/8/21",
+        "BanReason": "RDM + Evasion"
     }
 }
