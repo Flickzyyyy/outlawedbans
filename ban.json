@@ -438,5 +438,9 @@
     "lkirk565618": {
         "banneduntil": "2026/10/15",
         "BanReason": "Underage"
+    },
+    "Noahdon": {
+        "banneduntil": "2027/10/7",
+        "BanReason": "underaged"
     }
 }
