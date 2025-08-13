@@ -458,5 +458,9 @@
     "Bald_Cowboy1897": {
         "banneduntil": "2026/2/18",
         "BanReason": "Underaged"
+    },
+    "system1238": {
+        "banneduntil": "2027/7/26",
+        "BanReason": "underaged"
     }
 }
