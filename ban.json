@@ -326,5 +326,9 @@
     "Cooch_sniffer": {
         "banneduntil": "2025/8/24",
         "BanReason": "Underage"
+    },
+    "Jaden.nguyen1020": {
+        "banneduntil": "2028/9/25",
+        "BanReason": "Underage"
     }
 }
