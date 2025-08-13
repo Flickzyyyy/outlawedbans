@@ -298,5 +298,9 @@
     "mr.Poleg": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "chino3507": {
+        "banneduntil": "2025/8/26",
+        "BanReason": "Soft A"
     }
 }
