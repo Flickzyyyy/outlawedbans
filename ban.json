@@ -450,5 +450,9 @@
     "Lw_bgt_blr": {
         "banneduntil": "2027/8/12",
         "BanReason": "underage"
+    },
+    "LingSingHickGer": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underaged"
     }
 }
