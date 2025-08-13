@@ -526,5 +526,9 @@
     "andresthe3": {
         "banneduntil": "2028/7/11",
         "BanReason": "underage"
+    },
+    "ZipKid": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "Underage"
     }
 }
