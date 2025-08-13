@@ -443,12 +443,12 @@
         "banneduntil": "2026/1/1",
         "BanReason": "Underaged"
     },
-    "HouseofLord": {
-        "banneduntil": "2027/7/11",
-        "BanReason": "Underage"
+    "tsmpebbles": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underaged"
     },
-    "Ayden.canales.2024": {
-        "banneduntil": "2032/1/1",
-        "BanReason": "Admitted to being underaged in clip"
+    "Lw_bgt_blr": {
+        "banneduntil": "2027/8/12",
+        "BanReason": "underage"
     }
 }
