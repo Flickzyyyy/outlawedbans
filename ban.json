@@ -290,5 +290,9 @@
     "TSF_biggechessl": {
         "banneduntil": "2099/1/1",
         "BanReason": "Motive : I pulled him for RDM and Will was there and he checked and found out it was an alt account."
+    },
+    "Floppy_4skin": {
+        "banneduntil": "2099/5/15",
+        "BanReason": "n word"
     }
 }
