@@ -234,5 +234,9 @@
     "picklepounder": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Louis_berggman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r report"
     }
 }
