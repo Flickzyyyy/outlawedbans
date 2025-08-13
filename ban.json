@@ -259,8 +259,12 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Motive : This is the ALT acc which also got banned for RDM. Flickzy IP checked both of these."
     },
-    "Ace._Vr": {
+    "John_J_Miller": {
         "banneduntil": "2099/1/1",
-        "BanReason": "Hard r and evasion"
+        "BanReason": "Motive : Originally got banned for saying the F Slur. Other acc was an ALT."
+    },
+    "John_Marston_rdr2": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
