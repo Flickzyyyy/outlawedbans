@@ -622,5 +622,9 @@
     "MOB.PIRU": {
         "banneduntil": "2025/8/28",
         "BanReason": "Racist Remarks"
+    },
+    "Death_frompufferfish": {
+        "banneduntil": "2025/8/22",
+        "BanReason": "rdm + evasion"
     }
 }
