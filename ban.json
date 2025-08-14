@@ -602,5 +602,9 @@
     "CoolDude425": {
         "banneduntil": "2025/9/11",
         "BanReason": "Sexual Remarks+Evasion"
+    },
+    "Gobler3000": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "rdm"
     }
 }
