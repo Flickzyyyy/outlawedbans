@@ -662,5 +662,9 @@
     "mr.mankster": {
         "banneduntil": "2027/4/13",
         "BanReason": "underage"
+    },
+    "Baby6769": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "Underage without birthday"
     }
 }
