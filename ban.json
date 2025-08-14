@@ -618,5 +618,9 @@
     "Tom_bradybad54": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "MOB.PIRU": {
+        "banneduntil": "2025/8/28",
+        "BanReason": "Racist Remarks"
     }
 }
