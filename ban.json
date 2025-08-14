@@ -606,5 +606,9 @@
     "Gobler3000": {
         "banneduntil": "2025/8/15",
         "BanReason": "rdm"
+    },
+    "Neonapple.2024": {
+        "banneduntil": "2025/8/15",
+        "BanReason": "rdm"
     }
 }
