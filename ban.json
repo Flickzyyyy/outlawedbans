@@ -650,5 +650,9 @@
     "Jirbie": {
         "banneduntil": "2025/8/28",
         "BanReason": "Sexual misconduct"
+    },
+    "devilechiken": {
+        "banneduntil": "2028/8/28",
+        "BanReason": "sexual remarks"
     }
 }
