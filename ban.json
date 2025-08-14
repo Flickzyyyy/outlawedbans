@@ -666,5 +666,9 @@
     "Baby6769": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage without birthday"
+    },
+    "Battle.droid": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "He was permanently banned"
     }
 }
