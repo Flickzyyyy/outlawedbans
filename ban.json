@@ -626,5 +626,9 @@
     "Death_frompufferfish": {
         "banneduntil": "2025/8/22",
         "BanReason": "rdm + evasion"
+    },
+    "Dark_Dragon1098": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "Rdm"
     }
 }
