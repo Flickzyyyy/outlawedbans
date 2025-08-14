@@ -614,5 +614,9 @@
     "GlowingOrca5980": {
         "banneduntil": "2032/1/1",
         "BanReason": "Underage"
+    },
+    "Tom_bradybad54": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
