@@ -786,5 +786,9 @@
     "FallenChungus": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "glitch.1100101": {
+        "banneduntil": "2025/8/29",
+        "BanReason": "sexual misconduct via clip"
     }
 }
