@@ -706,5 +706,9 @@
     "Psycho_15": {
         "banneduntil": "2025/8/28",
         "BanReason": "Soft A"
+    },
+    "cheespuffs": {
+        "banneduntil": "2025/8/28",
+        "BanReason": "sexual remarks"
     }
 }
