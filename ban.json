@@ -822,5 +822,9 @@
     "SurroundedbyBalls03": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r (reban)"
+    },
+    "Syphoin": {
+        "banneduntil": "2025/8/29",
+        "BanReason": "Soft a"
     }
 }
