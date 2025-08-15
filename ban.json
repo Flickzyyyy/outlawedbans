@@ -830,5 +830,9 @@
     "aXpFusiion": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage without date"
+    },
+    "shuddenhappen": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
