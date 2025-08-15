@@ -762,5 +762,9 @@
     "Georgia994": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage"
+    },
+    "FunnyCrasher": {
+        "banneduntil": "2025/8/29",
+        "BanReason": "Sexual Misconduct"
     }
 }
