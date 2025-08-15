@@ -722,5 +722,9 @@
     "TheTerm17": {
         "banneduntil": "2025/9/24",
         "BanReason": "Racist Remarks+Sexual Harassment"
+    },
+    "FrothySeamanBeardTheGoonBot": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
