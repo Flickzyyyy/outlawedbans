@@ -690,5 +690,9 @@
     "RothchildDescendant": {
         "banneduntil": "2025/9/14",
         "BanReason": "Soft a and evasion"
+    },
+    "sussyjamaica": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Spam hard r"
     }
 }
