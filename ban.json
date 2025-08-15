@@ -794,5 +794,9 @@
     "mrluck12364": {
         "banneduntil": "2026/6/20",
         "BanReason": "underage"
+    },
+    "GHOSTYBEAMZ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
