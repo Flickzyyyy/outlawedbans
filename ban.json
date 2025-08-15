@@ -818,5 +818,9 @@
     "YellowBebber556": {
         "banneduntil": "2025/8/19",
         "BanReason": "rdm"
+    },
+    "SurroundedbyBalls03": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r (reban)"
     }
 }
