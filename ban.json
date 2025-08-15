@@ -826,5 +826,9 @@
     "Syphoin": {
         "banneduntil": "2025/8/29",
         "BanReason": "Soft a"
+    },
+    "Mistermeep21": {
+        "banneduntil": "2028/1/28",
+        "BanReason": "underaged"
     }
 }
