@@ -742,5 +742,9 @@
     "BeerMorgan": {
         "banneduntil": "2020/1/1",
         "BanReason": "unban"
+    },
+    "BourbonMorgan": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unabn"
     }
 }
