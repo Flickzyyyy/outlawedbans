@@ -802,5 +802,9 @@
     "jreeder331": {
         "banneduntil": "2025/8/29",
         "BanReason": "Derog"
+    },
+    "boofyL": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
