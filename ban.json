@@ -710,5 +710,9 @@
     "cheespuffs": {
         "banneduntil": "2025/8/28",
         "BanReason": "sexual remarks"
+    },
+    "Jabs121": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "Rdm"
     }
 }
