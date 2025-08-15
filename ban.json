@@ -682,5 +682,9 @@
     "num13478": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "penguinghost": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underage"
     }
 }
