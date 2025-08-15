@@ -686,5 +686,9 @@
     "penguinghost": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "RothchildDescendant": {
+        "banneduntil": "2025/9/14",
+        "BanReason": "Soft a and evasion"
     }
 }
