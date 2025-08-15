@@ -826,5 +826,9 @@
     "Mistermeep21": {
         "banneduntil": "2028/1/28",
         "BanReason": "underaged"
+    },
+    "aXpFusiion": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "Underage without date"
     }
 }
