@@ -806,5 +806,9 @@
     "boofyL": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Gunner124": {
+        "banneduntil": "2028/10/19",
+        "BanReason": "underage"
     }
 }
