@@ -670,5 +670,9 @@
     "Battle.droid": {
         "banneduntil": "2099/1/1",
         "BanReason": "He was permanently banned"
+    },
+    "Num13478": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
