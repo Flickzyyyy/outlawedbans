@@ -838,5 +838,9 @@
     "kingtutkoopa": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Hypnotizd": {
+        "banneduntil": "2025/8/19",
+        "BanReason": "RDM"
     }
 }
