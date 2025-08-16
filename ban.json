@@ -894,5 +894,9 @@
     "JonesBois": {
         "banneduntil": "2025/8/30",
         "BanReason": "Racism"
+    },
+    "secsuh.phender": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "name"
     }
 }
