@@ -850,5 +850,9 @@
     "CanvasOfPutin": {
         "banneduntil": "2025/8/29",
         "BanReason": "Sexual Remarks"
+    },
+    "Obiertr": {
+        "banneduntil": "2028/2/14",
+        "BanReason": "Underage(gave month but not day)"
     }
 }
