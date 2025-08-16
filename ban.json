@@ -846,5 +846,9 @@
     "b1234b": {
         "banneduntil": "2025/8/29",
         "BanReason": "F slur"
+    },
+    "CanvasOfPutin": {
+        "banneduntil": "2025/8/29",
+        "BanReason": "Sexual Remarks"
     }
 }
