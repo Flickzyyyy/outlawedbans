@@ -842,5 +842,9 @@
     "Hypnotizd": {
         "banneduntil": "2025/8/19",
         "BanReason": "RDM"
+    },
+    "b1234b": {
+        "banneduntil": "2025/8/29",
+        "BanReason": "F slur"
     }
 }
