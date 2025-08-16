@@ -870,5 +870,9 @@
     "cc.841811": {
         "banneduntil": "2025/8/24",
         "BanReason": "Rdm and evasion"
+    },
+    "Seerbye": {
+        "banneduntil": "2025/8/20",
+        "BanReason": "Rdm Clip"
     }
 }
