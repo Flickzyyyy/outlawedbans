@@ -854,5 +854,9 @@
     "Obiertr": {
         "banneduntil": "2028/2/14",
         "BanReason": "Underage(gave month but not day)"
+    },
+    "Peenur_Weenur": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name(Agreed to change it)"
     }
 }
