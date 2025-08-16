@@ -842,9 +842,5 @@
     "Hypnotizd": {
         "banneduntil": "2025/8/19",
         "BanReason": "RDM"
-    },
-    "BourbonMorgan": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "Unban"
     }
 }
