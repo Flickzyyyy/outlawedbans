@@ -1006,5 +1006,9 @@
     "chino.moreno12345": {
         "banneduntil": "2025/8/30",
         "BanReason": "Derogatory"
+    },
+    "Alexifons2013": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "Underage"
     }
 }
