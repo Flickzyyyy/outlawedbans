@@ -966,5 +966,9 @@
     "lance.fr": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage"
+    },
+    "c_i": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R, F Slur,"
     }
 }
