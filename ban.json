@@ -902,5 +902,9 @@
     "badmanjack.2024": {
         "banneduntil": "2025/8/25",
         "BanReason": "Rdm and evasion"
+    },
+    "HughJanus555": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
