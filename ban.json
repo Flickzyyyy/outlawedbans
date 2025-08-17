@@ -1022,5 +1022,9 @@
     "Billybob": {
         "banneduntil": "2099/2/1",
         "BanReason": "test"
+    },
+    "greenapple.2024": {
+        "banneduntil": "2025/9/1",
+        "BanReason": "Camping and evasion"
     }
 }
