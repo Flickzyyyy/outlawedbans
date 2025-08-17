@@ -1050,5 +1050,9 @@
     "saiyenOculus": {
         "banneduntil": "2025/8/22",
         "BanReason": "rdm"
+    },
+    "muckerman.2022": {
+        "banneduntil": "2025/8/27",
+        "BanReason": "mass rdm evasion"
     }
 }
