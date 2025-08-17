@@ -910,5 +910,9 @@
     "Seinorbustanut_245": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name and attempted evasion"
+    },
+    "Curly_1345": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitting to alting and underage"
     }
 }
