@@ -982,5 +982,9 @@
     "cool_seb": {
         "banneduntil": "2099/1/1",
         "BanReason": "Permanently banned(alt)"
+    },
+    "huddyDAGOATGYAT": {
+        "banneduntil": "2026/12/31",
+        "BanReason": "Underage(12)"
     }
 }
