@@ -962,5 +962,9 @@
     "porkchopin": {
         "banneduntil": "2025/8/30",
         "BanReason": "Antisemetic"
+    },
+    "lance.fr": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage"
     }
 }
