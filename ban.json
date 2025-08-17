@@ -1030,5 +1030,9 @@
     "neonapple.2024": {
         "banneduntil": "2025/9/1",
         "BanReason": "Camping and evasion"
+    },
+    "2585": {
+        "banneduntil": "2025/9/2",
+        "BanReason": "Rdm and evasion second time offender"
     }
 }
