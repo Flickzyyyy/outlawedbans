@@ -1010,5 +1010,9 @@
     "Alexifons2013": {
         "banneduntil": "2026/5/4",
         "BanReason": "Underage"
+    },
+    "hoponthejeans": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
