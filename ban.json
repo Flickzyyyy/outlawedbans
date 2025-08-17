@@ -1026,5 +1026,9 @@
     "greenapple.2024": {
         "banneduntil": "2025/9/1",
         "BanReason": "Camping and evasion"
+    },
+    "neonapple.2024": {
+        "banneduntil": "2025/9/1",
+        "BanReason": "Camping and evasion"
     }
 }
