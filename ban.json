@@ -914,5 +914,9 @@
     "Curly_1345": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitting to alting and underage"
+    },
+    "Curly_boy1345": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "admittint to alting, rdm, underage"
     }
 }
