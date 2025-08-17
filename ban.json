@@ -906,5 +906,9 @@
     "HughJanus555": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "Seinorbustanut_245": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name and attempted evasion"
     }
 }
