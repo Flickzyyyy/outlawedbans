@@ -978,5 +978,9 @@
     "RFKSBRAINW0RM": {
         "banneduntil": "2025/8/30",
         "BanReason": "Sexual Misconduct"
+    },
+    "cool_seb": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Permanently banned(alt)"
     }
 }
