@@ -1054,5 +1054,9 @@
     "muckerman.2022": {
         "banneduntil": "2025/8/27",
         "BanReason": "mass rdm evasion"
+    },
+    "BeerMorgan": {
+        "banneduntil": "2025/8/21",
+        "BanReason": "Rdm"
     }
 }
