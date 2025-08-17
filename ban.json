@@ -1046,5 +1046,9 @@
     "vrbroreality": {
         "banneduntil": "2025/8/31",
         "BanReason": "continued rule breaks"
+    },
+    "saiyenOculus": {
+        "banneduntil": "2025/8/22",
+        "BanReason": "rdm"
     }
 }
