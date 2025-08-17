@@ -1022,5 +1022,9 @@
     "Billybob": {
         "banneduntil": "2099/2/1",
         "BanReason": "test"
+    },
+    "IGLOO_NINJA": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "test"
     }
 }
