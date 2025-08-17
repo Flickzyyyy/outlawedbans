@@ -898,5 +898,9 @@
     "secsuh.phender": {
         "banneduntil": "2099/1/1",
         "BanReason": "name"
+    },
+    "badmanjack.2024": {
+        "banneduntil": "2025/8/25",
+        "BanReason": "Rdm and evasion"
     }
 }
