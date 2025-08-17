@@ -1042,5 +1042,9 @@
     "JAKEZXYS_R6": {
         "banneduntil": "2025/8/31",
         "BanReason": "f slur: this player originally said it on lawman porch, and then he continuously repeated it in the admin sit."
+    },
+    "vrbroreality": {
+        "banneduntil": "2025/8/31",
+        "BanReason": "continued rule breaks"
     }
 }
