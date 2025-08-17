@@ -934,5 +934,9 @@
     "special_needs45": {
         "banneduntil": "2025/8/24",
         "BanReason": "rdm and evasion"
+    },
+    "NeonWren9140": {
+        "banneduntil": "2025/8/18",
+        "BanReason": "Rdm"
     }
 }
