@@ -1018,5 +1018,9 @@
     "chickenslayer.2023": {
         "banneduntil": "2025/8/25",
         "BanReason": "Cop targeting and evasion"
+    },
+    "Billybob": {
+        "banneduntil": "2099/2/1",
+        "BanReason": "test"
     }
 }
