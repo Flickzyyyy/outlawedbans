@@ -1110,5 +1110,9 @@
     "joesky13": {
         "banneduntil": "2025/9/1",
         "BanReason": "Sexual misconduct"
+    },
+    "GunSmoke01": {
+        "banneduntil": "2025/8/26",
+        "BanReason": "Rdm and evasion"
     }
 }
