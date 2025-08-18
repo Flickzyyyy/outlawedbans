@@ -1086,5 +1086,9 @@
     "KTMkidE5": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage(10)"
+    },
+    "Williamgardener": {
+        "banneduntil": "2025/8/21",
+        "BanReason": "Rdm"
     }
 }
