@@ -1090,5 +1090,9 @@
     "Williamgardener": {
         "banneduntil": "2025/8/21",
         "BanReason": "Rdm"
+    },
+    "Williamgarderer": {
+        "banneduntil": "2025/8/21",
+        "BanReason": "Rdm"
     }
 }
