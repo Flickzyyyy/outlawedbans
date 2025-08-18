@@ -1114,5 +1114,9 @@
     "GunSmoke01": {
         "banneduntil": "2025/8/26",
         "BanReason": "Rdm and evasion"
+    },
+    "cheddarbob1008": {
+        "banneduntil": "2025/9/1",
+        "BanReason": "Racist remarks"
     }
 }
