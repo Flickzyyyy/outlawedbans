@@ -1094,5 +1094,9 @@
     "nigboicheese": {
         "banneduntil": "2099/1/1",
         "BanReason": "name"
+    },
+    "Kelsey.3008": {
+        "banneduntil": "2025/9/1",
+        "BanReason": "Sexual misconduct"
     }
 }
