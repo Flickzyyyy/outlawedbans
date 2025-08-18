@@ -1058,5 +1058,9 @@
     "BeerMorgan": {
         "banneduntil": "2025/8/21",
         "BanReason": "Rdm"
+    },
+    "TM47": {
+        "banneduntil": "2025/9/17",
+        "BanReason": "Sexual misconduct and evasion"
     }
 }
