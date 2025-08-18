@@ -1074,5 +1074,9 @@
     "Hhjhfh": {
         "banneduntil": "2025/8/31",
         "BanReason": "Sexual misconduct"
+    },
+    "minipeckaking": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
