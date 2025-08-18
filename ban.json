@@ -1098,5 +1098,9 @@
     "nigboicheese": {
         "banneduntil": "2099/1/1",
         "BanReason": "name"
+    },
+    "WilliamGardener": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "unban"
     }
 }
