@@ -1078,5 +1078,9 @@
     "minipeckaking": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "moneymitch.2005": {
+        "banneduntil": "2025/8/25",
+        "BanReason": "Rdm plus evasion"
     }
 }
