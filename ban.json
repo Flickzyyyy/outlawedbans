@@ -1056,8 +1056,8 @@
         "BanReason": "mass rdm evasion"
     },
     "BeerMorgan": {
-        "banneduntil": "2025/8/21",
-        "BanReason": "Rdm"
+        "banneduntil": "2025/8/25",
+        "BanReason": "Rdm (doubled time)"
     },
     "TM47": {
         "banneduntil": "2025/9/17",
