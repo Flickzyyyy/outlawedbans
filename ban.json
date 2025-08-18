@@ -1082,5 +1082,9 @@
     "moneymitch.2005": {
         "banneduntil": "2025/8/25",
         "BanReason": "Rdm plus evasion"
+    },
+    "KTMkidE5": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "Underage(10)"
     }
 }
