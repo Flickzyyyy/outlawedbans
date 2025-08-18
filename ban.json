@@ -1102,5 +1102,9 @@
     "kniger": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "Sloonam": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
