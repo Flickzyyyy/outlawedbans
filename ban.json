@@ -1098,5 +1098,9 @@
     "natedawwg26": {
         "banneduntil": "2025/8/30",
         "BanReason": "Sexual misconduct"
+    },
+    "kniger": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
