@@ -755,10 +755,6 @@
         "banneduntil": "2099/2/1",
         "BanReason": "test"
     },
-    "greenapple.2024": {
-        "banneduntil": "2025/9/1",
-        "BanReason": "Camping and evasion"
-    },
     "2585": {
         "banneduntil": "2025/9/2",
         "BanReason": "Rdm and evasion second time offender"
@@ -803,24 +799,8 @@
         "banneduntil": "2099/1/1",
         "BanReason": "name"
     },
-    "Kelsey.3008": {
-        "banneduntil": "2025/9/1",
-        "BanReason": "Sexual misconduct"
-    },
     "Suck4buck": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
-    },
-    "joesky13": {
-        "banneduntil": "2025/9/1",
-        "BanReason": "Sexual misconduct"
-    },
-    "cheddarbob1008": {
-        "banneduntil": "2025/9/1",
-        "BanReason": "Racist remarks"
-    },
-    "TechGumpy": {
-        "banneduntil": "2025/9/1",
-        "BanReason": "Sexual misconduct"
     }
 }
