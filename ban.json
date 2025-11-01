@@ -2,5 +2,9 @@
     "Flick": {
         "banneduntil": "2099/1/1",
         "BanReason": "Nuking"
+    },
+    "Rip.van.winkle2024": {
+        "banneduntil": "2025/7/10",
+        "BanReason": "killing 2 admins in admin sit"
     }
 }
