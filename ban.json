@@ -2,5 +2,9 @@
     "Flick": {
         "banneduntil": "2099/1/1",
         "BanReason": "Nuking"
+    },
+    "vrakna": {
+        "banneduntil": "2999/5/4",
+        "BanReason": "Hard R"
     }
 }
