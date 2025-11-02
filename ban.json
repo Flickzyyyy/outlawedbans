@@ -78,5 +78,9 @@
     "BOT_Bill": {
         "banneduntil": "2025/11/10",
         "BanReason": "Rdm+Evasion"
+    },
+    "K3M0": {
+        "banneduntil": "2025/11/6",
+        "BanReason": "rdm and evasion"
     }
 }
