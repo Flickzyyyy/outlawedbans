@@ -38,5 +38,9 @@
     "dhawk62": {
         "banneduntil": "2025/11/2",
         "BanReason": "RDM"
+    },
+    "Sk1n_Eater": {
+        "banneduntil": "2025/11/4",
+        "BanReason": "RDM"
     }
 }
