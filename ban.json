@@ -62,5 +62,9 @@
     "I_Eat_Crayons6769": {
         "banneduntil": "2999/11/6",
         "BanReason": "Hard R Evasion"
+    },
+    "Jadielleft": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "Soft a + Evasion"
     }
 }
