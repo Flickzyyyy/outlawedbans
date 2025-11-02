@@ -66,5 +66,9 @@
     "WAC2023": {
         "banneduntil": "RDM",
         "BanReason": "2025/11/3"
+    },
+    "Rip.van.winkle2024": {
+        "banneduntil": "2025/7/11",
+        "BanReason": "killing 2 admins in admin sit"
     }
 }
