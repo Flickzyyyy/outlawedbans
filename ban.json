@@ -58,5 +58,9 @@
     "lil1k360": {
         "banneduntil": "2999/7/3",
         "BanReason": "hard R"
+    },
+    "OutLaw.Rdot": {
+        "banneduntil": "2025/11/3",
+        "BanReason": "RDM"
     }
 }
