@@ -58,5 +58,9 @@
     "OutLaw.Rdot": {
         "banneduntil": "2025/11/3",
         "BanReason": "RDM"
+    },
+    "Smallbogdan": {
+        "banneduntil": "RDM",
+        "BanReason": "2025/11/3"
     }
 }
