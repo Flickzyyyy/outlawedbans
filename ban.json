@@ -42,5 +42,9 @@
     "Sk1n_Eater": {
         "banneduntil": "2025/11/4",
         "BanReason": "RDM"
+    },
+    "Panic1221": {
+        "banneduntil": "RDM",
+        "BanReason": "2025/11/3"
     }
 }
