@@ -26,5 +26,9 @@
     "gtomx10yt": {
         "banneduntil": "2025/11/8",
         "BanReason": "Mass RDM"
+    },
+    "blosser.2023": {
+        "banneduntil": "2025/11/4",
+        "BanReason": "RDM"
     }
 }
