@@ -74,5 +74,9 @@
     "CometWomet69": {
         "banneduntil": "2025/11/15",
         "BanReason": "Mass RDM"
+    },
+    "BOT_Bill": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "Rdm+Evasion"
     }
 }
