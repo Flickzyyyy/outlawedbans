@@ -54,5 +54,9 @@
     "WAC2023": {
         "banneduntil": "RDM",
         "BanReason": "2025/10/31"
+    },
+    "zzzalexzzz.r": {
+        "banneduntil": "2025/11/6",
+        "BanReason": "RDM, Evasion by leaving"
     }
 }
