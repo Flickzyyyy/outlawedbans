@@ -46,5 +46,9 @@
     "Panic1221": {
         "banneduntil": "RDM",
         "BanReason": "2025/11/3"
+    },
+    "Whip.n.nae.nae": {
+        "banneduntil": "2025/11/8",
+        "BanReason": "RDM x2 evading admin sit"
     }
 }
