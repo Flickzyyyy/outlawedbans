@@ -82,5 +82,9 @@
     "K3M0": {
         "banneduntil": "2025/11/6",
         "BanReason": "rdm and evasion"
+    },
+    "vrsxy.oxcz": {
+        "banneduntil": "2025/11/9",
+        "BanReason": "mass rdm"
     }
 }
