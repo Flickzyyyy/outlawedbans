@@ -106,5 +106,9 @@
     "SOT.2BrothersUnited": {
         "banneduntil": "2027/11/4",
         "BanReason": "Underage"
+    },
+    "Hoop2tuff": {
+        "banneduntil": "2025/11/8",
+        "BanReason": "RDM"
     }
 }
