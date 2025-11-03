@@ -90,5 +90,9 @@
     "WhyNotIt": {
         "banneduntil": "2999/11/8",
         "BanReason": "n word hard r"
+    },
+    "FFA_Zerk": {
+        "banneduntil": "2025/11/9",
+        "BanReason": "harrasment and erp"
     }
 }
