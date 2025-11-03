@@ -110,5 +110,9 @@
     "Hoop2tuff": {
         "banneduntil": "2025/11/8",
         "BanReason": "RDM"
+    },
+    "killswch": {
+        "banneduntil": "2025/11/4",
+        "BanReason": "RDM"
     }
 }
