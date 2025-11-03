@@ -102,5 +102,9 @@
     "asda_supermarket": {
         "banneduntil": "2999/11/4",
         "BanReason": "Nword hard R"
+    },
+    "SOT.2BrothersUnited": {
+        "banneduntil": "2027/11/4",
+        "BanReason": "Underage"
     }
 }
