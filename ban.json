@@ -98,5 +98,9 @@
     "levi2089.2024": {
         "banneduntil": "2027/11/4",
         "BanReason": "Underage"
+    },
+    "asda_supermarket": {
+        "banneduntil": "2999/11/4",
+        "BanReason": "Nword hard R"
     }
 }
