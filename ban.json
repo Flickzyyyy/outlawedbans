@@ -90,5 +90,9 @@
     "FFA_Zerk": {
         "banneduntil": "2025/11/9",
         "BanReason": "harrasment and erp"
+    },
+    "femboy.nipple.twister": {
+        "banneduntil": "2025/11/4",
+        "BanReason": "RDM"
     }
 }
