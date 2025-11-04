@@ -186,5 +186,9 @@
     "Gentlemen_1945": {
         "banneduntil": "2025/11/10",
         "BanReason": "RDM. Evasion"
+    },
+    "EBGDITB": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "mass rdm"
     }
 }
