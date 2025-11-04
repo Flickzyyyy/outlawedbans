@@ -114,5 +114,9 @@
     "killswch": {
         "banneduntil": "2025/11/4",
         "BanReason": "RDM"
+    },
+    "FluffySurgenfish6021": {
+        "banneduntil": "2026/11/2",
+        "BanReason": "underage"
     }
 }
