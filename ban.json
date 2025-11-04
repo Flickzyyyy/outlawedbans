@@ -178,5 +178,9 @@
     "Cocaine.daddy": {
         "banneduntil": "2025/11/17",
         "BanReason": "F Slur"
+    },
+    "YAKK.2x": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
