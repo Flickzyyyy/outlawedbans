@@ -162,5 +162,9 @@
     "mkhyt ": {
         "banneduntil": "2027",
         "BanReason": "Underage"
+    },
+    "franjory ": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "mass rdm"
     }
 }
