@@ -146,5 +146,9 @@
     "JackoFarts10": {
         "banneduntil": "2025/11/10",
         "BanReason": "RDM and evasion"
+    },
+    "Khanfartbutt": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "ERP"
     }
 }
