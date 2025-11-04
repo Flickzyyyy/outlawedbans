@@ -158,5 +158,9 @@
     "legend322": {
         "banneduntil": "2029/11/1",
         "BanReason": "underage"
+    },
+    "mkhyt ": {
+        "banneduntil": "2027",
+        "BanReason": "Underage"
     }
 }
