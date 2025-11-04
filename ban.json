@@ -190,5 +190,9 @@
     "EBGDITB": {
         "banneduntil": "2025/11/10",
         "BanReason": "mass rdm"
+    },
+    "AgentKellerman": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R and a Variety of Other Slurs"
     }
 }
