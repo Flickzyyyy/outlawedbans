@@ -178,5 +178,9 @@
     "Daaaang": {
         "banneduntil": "2025/11/14",
         "BanReason": "mass RDM and Evasion"
+    },
+    "orange.juice.42": {
+        "banneduntil": "2025/11/4",
+        "BanReason": "rdm"
     }
 }
