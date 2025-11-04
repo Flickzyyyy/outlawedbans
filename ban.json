@@ -182,5 +182,9 @@
     "orange.juice.42": {
         "banneduntil": "2025/11/4",
         "BanReason": "rdm"
+    },
+    "Gentlemen_1945": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "RDM. Evasion"
     }
 }
