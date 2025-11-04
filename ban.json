@@ -142,5 +142,9 @@
     "MichaelCorvette": {
         "banneduntil": "2025/11/13",
         "BanReason": "4x RDM and Evasion"
+    },
+    "JackoFarts10": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "RDM and evasion"
     }
 }
