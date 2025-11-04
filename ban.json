@@ -182,5 +182,9 @@
     "Viledrkness04": {
         "banneduntil": "2999/1/1",
         "BanReason": "Nword"
+    },
+    "Drunclejo": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Mass RDM, evasion"
     }
 }
