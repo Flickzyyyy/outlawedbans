@@ -150,5 +150,9 @@
     "Khanfartbutt": {
         "banneduntil": "2025/11/17",
         "BanReason": "ERP"
+    },
+    "KnuckleGmr": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Under Age"
     }
 }
