@@ -130,5 +130,9 @@
     "Xverse17": {
         "banneduntil": "2025/11/14",
         "BanReason": "Mass RDM"
+    },
+    "EmeraldTree": {
+        "banneduntil": "2025/11/7",
+        "BanReason": "1x RDM Evasion"
     }
 }
