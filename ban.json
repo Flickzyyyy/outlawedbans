@@ -222,5 +222,9 @@
     "killer.a": {
         "banneduntil": "2999/1/1",
         "BanReason": "Hard R"
+    },
+    "WISFITmumbo ": {
+        "banneduntil": "2999/1/1",
+        "BanReason": "Hard R"
     }
 }
