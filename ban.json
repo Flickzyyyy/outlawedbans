@@ -230,5 +230,9 @@
     "VEC_Gravity": {
         "banneduntil": "2025/11/9",
         "BanReason": "RDM + Evasion"
+    },
+    "TheKid1422": {
+        "banneduntil": "2027/5/11",
+        "BanReason": "being under the age"
     }
 }
