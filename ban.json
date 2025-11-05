@@ -238,5 +238,9 @@
     "yoboitriple": {
         "banneduntil": "2027/11/5",
         "BanReason": "being underage"
+    },
+    "yoboitripIe": {
+        "banneduntil": "2027/11/5",
+        "BanReason": "being underage"
     }
 }
