@@ -226,5 +226,9 @@
     "fatahhgayguy": {
         "banneduntil": "2025/11/25",
         "BanReason": "f-slur"
+    },
+    "VEC_Gravity": {
+        "banneduntil": "2025/11/9",
+        "BanReason": "RDM + Evasion"
     }
 }
