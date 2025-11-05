@@ -198,5 +198,9 @@
     "Bigphrog": {
         "banneduntil": "2099/11/6",
         "BanReason": "Nword hard R evasion"
+    },
+    "user.432276": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R evasion"
     }
 }
