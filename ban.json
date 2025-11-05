@@ -202,5 +202,9 @@
     "user.432276": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R evasion"
+    },
+    "PeterButtPlug": {
+        "banneduntil": "2025/11/11",
+        "BanReason": "called someone a \u201cdirty jew\u201d"
     }
 }
