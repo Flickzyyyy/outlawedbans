@@ -266,5 +266,9 @@
     "blade.406894": {
         "banneduntil": "2025/11/12",
         "BanReason": "RDM AND EVASION"
+    },
+    "not.better.1": {
+        "banneduntil": "2999/12/12",
+        "BanReason": "Nword"
     }
 }
