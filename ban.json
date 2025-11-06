@@ -246,5 +246,9 @@
     "\u2705 Ban logged for Philiesglegost1": {
         "banneduntil": "\ud83d\udcc5 2025/11/10",
         "BanReason": "\ud83d\udcdd Rdm,running from admin sit,killing while in spawn."
+    },
+    "Luke.Sanders123": {
+        "banneduntil": "2026/11/5",
+        "BanReason": "underage"
     }
 }
