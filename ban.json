@@ -266,5 +266,9 @@
     "C_J_12": {
         "banneduntil": "2025/11/11",
         "BanReason": "Rdm and evasion"
+    },
+    "lCreditl": {
+        "banneduntil": "2999/11/11",
+        "BanReason": "hard r"
     }
 }
