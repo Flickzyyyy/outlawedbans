@@ -270,5 +270,9 @@
     "lCreditl": {
         "banneduntil": "2999/11/11",
         "BanReason": "hard r"
+    },
+    "chickenman445": {
+        "banneduntil": "2025/11/7",
+        "BanReason": "rdm"
     }
 }
