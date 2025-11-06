@@ -242,5 +242,9 @@
     "ALWAYSBUMPIN": {
         "banneduntil": "2025/11/6",
         "BanReason": "RDM"
+    },
+    "Philiesglegost1": {
+        "banneduntil": "2025/11/4",
+        "BanReason": ",running from admin sit,killing while in spawn."
     }
 }
