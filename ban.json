@@ -238,5 +238,9 @@
     "yoboitripIe": {
         "banneduntil": "2027/11/5",
         "BanReason": "being underage"
+    },
+    "ALWAYSBUMPIN": {
+        "banneduntil": "2025/11/6",
+        "BanReason": "RDM"
     }
 }
