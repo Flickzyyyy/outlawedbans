@@ -298,5 +298,9 @@
     "mocharapsycho": {
         "banneduntil": "2027/11/12",
         "BanReason": "underage"
+    },
+    "TMWace": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "5x RDM"
     }
 }
