@@ -274,5 +274,9 @@
     "a.random.dude.596412": {
         "banneduntil": "2025/11/11",
         "BanReason": "rdm and evasion"
+    },
+    "Seerbye": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "3x RDM, Evasion"
     }
 }
