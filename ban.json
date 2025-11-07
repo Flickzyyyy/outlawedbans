@@ -286,5 +286,9 @@
     "Hypnotizd": {
         "banneduntil": "2025/11/9",
         "BanReason": "RDM"
+    },
+    "dihlicker": {
+        "banneduntil": "2025/11/7",
+        "BanReason": "rdm"
     }
 }
