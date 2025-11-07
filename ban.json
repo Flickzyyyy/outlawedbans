@@ -306,5 +306,9 @@
     "\u2705 Ban logged for TMWace": {
         "banneduntil": "\ud83d\udcc5 2025/11/20",
         "BanReason": "\ud83d\udcdd 5x RDM"
+    },
+    "Chriscool234": {
+        "banneduntil": "2027/11/11",
+        "BanReason": "underage"
     }
 }
