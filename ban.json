@@ -278,5 +278,9 @@
     "Hypnotizd": {
         "banneduntil": "2025/11/9",
         "BanReason": "RDM"
+    },
+    "yaelthenoob": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "5x RDM evasion and killing spawn"
     }
 }
