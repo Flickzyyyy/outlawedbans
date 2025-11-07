@@ -270,5 +270,9 @@
     "not.better.1": {
         "banneduntil": "2999/12/12",
         "BanReason": "Nword"
+    },
+    "a.random.dude.596412": {
+        "banneduntil": "2025/11/11",
+        "BanReason": "rdm and evasion"
     }
 }
