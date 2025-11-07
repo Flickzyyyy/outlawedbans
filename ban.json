@@ -95,10 +95,6 @@
         "banneduntil": "2025/11/14",
         "BanReason": "Mass RDM"
     },
-    "EmeraldTree": {
-        "banneduntil": "2025/11/7",
-        "BanReason": "1x RDM Evasion"
-    },
     "redneck111o": {
         "banneduntil": "2025/11/20",
         "BanReason": "veijhvracidt"
@@ -251,10 +247,6 @@
         "banneduntil": "2999/11/11",
         "BanReason": "hard r"
     },
-    "chickenman445": {
-        "banneduntil": "2025/11/7",
-        "BanReason": "rdm"
-    },
     "blackmater": {
         "banneduntil": "2999/11/11",
         "BanReason": "n word hard r"
@@ -286,9 +278,5 @@
     "Hypnotizd": {
         "banneduntil": "2025/11/9",
         "BanReason": "RDM"
-    },
-    "dihlicker": {
-        "banneduntil": "2025/11/7",
-        "BanReason": "rdm"
     }
 }
