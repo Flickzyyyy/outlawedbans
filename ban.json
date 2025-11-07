@@ -286,5 +286,9 @@
     "GoofyAhhMax": {
         "banneduntil": "2999/12/4",
         "BanReason": "hard r"
+    },
+    "Link365": {
+        "banneduntil": "2025/11/14",
+        "BanReason": "RDMed me twice and left in middle of admin sit"
     }
 }
