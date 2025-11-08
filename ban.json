@@ -346,5 +346,9 @@
     "Cawthy_Smith": {
         "banneduntil": "2099/6/7",
         "BanReason": "Hard R"
+    },
+    "coferland": {
+        "banneduntil": "2026/6/12",
+        "BanReason": "under age"
     }
 }
