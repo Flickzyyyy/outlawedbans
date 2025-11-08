@@ -378,5 +378,9 @@
     "BlixsIsAMeme": {
         "banneduntil": "2025/11/22",
         "BanReason": "Mass RDM + Evasion"
+    },
+    "WhisketsWasHere": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "Mass RDM + Evasion"
     }
 }
