@@ -358,5 +358,9 @@
     "m.m.r.p": {
         "banneduntil": "2025/11/22",
         "BanReason": "camping and evasion"
+    },
+    "Fox_p": {
+        "banneduntil": "2025/11/9",
+        "BanReason": "rdm"
     }
 }
