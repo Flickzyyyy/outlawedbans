@@ -326,5 +326,9 @@
     "OliveGardenPastaAndSaladBar": {
         "banneduntil": "2025/11/9",
         "BanReason": "2x RDM"
+    },
+    "Itzathos": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "3x RDM"
     }
 }
