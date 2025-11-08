@@ -338,5 +338,9 @@
     "nutmaster647.2025": {
         "banneduntil": "2025/11/12",
         "BanReason": "RDM + Evading"
+    },
+    "okbuddydoge": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "mass Rdm and evasion"
     }
 }
