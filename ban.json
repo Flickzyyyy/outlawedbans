@@ -330,5 +330,9 @@
     "amplejuiced_fr": {
         "banneduntil": "2066/6/7",
         "BanReason": "Hard R and F Slur"
+    },
+    "Dublts": {
+        "banneduntil": "2099/4/8",
+        "BanReason": "N word soft a 4x, hard R 3x, f slur 2x, Being a nazi"
     }
 }
