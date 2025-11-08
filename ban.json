@@ -362,5 +362,9 @@
     "Fox_p": {
         "banneduntil": "2025/11/9",
         "BanReason": "rdm"
+    },
+    "myneckhurt": {
+        "banneduntil": "2025/11/11",
+        "BanReason": "RDM, Cop baiting"
     }
 }
