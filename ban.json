@@ -326,5 +326,9 @@
     "Charlie060713": {
         "banneduntil": "2027/6/7",
         "BanReason": "underage"
+    },
+    "amplejuiced_fr": {
+        "banneduntil": "2066/6/7",
+        "BanReason": "Hard R and F Slur"
     }
 }
