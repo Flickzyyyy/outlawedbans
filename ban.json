@@ -342,5 +342,9 @@
     "okbuddydoge": {
         "banneduntil": "2025/11/22",
         "BanReason": "mass Rdm and evasion"
+    },
+    "Cawthy_Smith": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "Hard R"
     }
 }
