@@ -374,5 +374,9 @@
     "teamugs": {
         "banneduntil": "2025/11/15",
         "BanReason": "RDM, evasion"
+    },
+    "BlixsIsAMeme": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "Mass RDM + Evasion"
     }
 }
