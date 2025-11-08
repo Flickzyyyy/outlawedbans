@@ -382,5 +382,9 @@
     "WhisketsWasHere": {
         "banneduntil": "2025/11/22",
         "BanReason": "Mass RDM + Evasion"
+    },
+    "MythVr_2024": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "abusing suicide with menu + evasion"
     }
 }
