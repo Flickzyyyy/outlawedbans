@@ -350,5 +350,9 @@
     "coferland": {
         "banneduntil": "2026/6/12",
         "BanReason": "under age"
+    },
+    "finesse_mafia": {
+        "banneduntil": "2025/12/9",
+        "BanReason": "racism slur baiting and evasion"
     }
 }
