@@ -322,5 +322,9 @@
     "BaconisGOATED": {
         "banneduntil": "2027/11/11",
         "BanReason": "underage"
+    },
+    "OliveGardenPastaAndSaladBar": {
+        "banneduntil": "2025/11/9",
+        "BanReason": "2x RDM"
     }
 }
