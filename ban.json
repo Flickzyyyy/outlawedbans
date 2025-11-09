@@ -394,5 +394,9 @@
     "Wanted_Rosina": {
         "banneduntil": "2025/11/16",
         "BanReason": "Mass RDM"
+    },
+    "BourbonMorgan": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "RDM on a officer"
     }
 }
