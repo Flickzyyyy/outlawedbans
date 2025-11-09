@@ -390,5 +390,9 @@
     "CLUMZY7": {
         "banneduntil": "2025/11/11",
         "BanReason": "RDM"
+    },
+    "Wanted_Rosina": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "Mass RDM"
     }
 }
