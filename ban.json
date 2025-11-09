@@ -438,5 +438,9 @@
     "Krypticccc": {
         "banneduntil": "2025/11/15",
         "BanReason": "COP TARGETING/EVASION"
+    },
+    "dimin": {
+        "banneduntil": "2026/11/9",
+        "BanReason": "underage"
     }
 }
