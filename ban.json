@@ -398,5 +398,9 @@
     "BourbonMorgan": {
         "banneduntil": "2025/11/10",
         "BanReason": "RDM on a officer"
+    },
+    "BeerMorgan": {
+        "banneduntil": "2025/11/11",
+        "BanReason": "Cop targeting"
     }
 }
