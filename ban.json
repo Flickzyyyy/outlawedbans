@@ -406,5 +406,9 @@
     "sniperman64": {
         "banneduntil": "2025/11/12",
         "BanReason": "RDMed two cops"
+    },
+    "MR_MORGAN_28": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "RDM and Evasion"
     }
 }
