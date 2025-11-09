@@ -450,5 +450,9 @@
     "StephanBandera ": {
         "banneduntil": "2999/11/30",
         "BanReason": "Nword"
+    },
+    "antonio.montana.279749": {
+        "banneduntil": "2027/11/30",
+        "BanReason": "Underage"
     }
 }
