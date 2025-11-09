@@ -446,5 +446,9 @@
     "cj.sharkbee": {
         "banneduntil": "2025/11/30",
         "BanReason": "Soft A"
+    },
+    "StephanBandera ": {
+        "banneduntil": "2999/11/30",
+        "BanReason": "Nword"
     }
 }
