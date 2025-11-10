@@ -454,5 +454,9 @@
     "irsss2001ww1": {
         "banneduntil": "2025/11/16",
         "BanReason": "Cop targeting and Mass RDM"
+    },
+    "FireStorm10101": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "mass rdm and evasion (drained bros bank account too)"
     }
 }
