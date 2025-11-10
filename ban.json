@@ -474,5 +474,9 @@
     "BB_Vr15": {
         "banneduntil": "2026/11/2",
         "BanReason": "Underage (Lawman App)"
+    },
+    "milk.is.a.femboy": {
+        "banneduntil": "2025/11/13",
+        "BanReason": "RDM"
     }
 }
