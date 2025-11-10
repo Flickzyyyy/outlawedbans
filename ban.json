@@ -470,5 +470,9 @@
     "meq.aj": {
         "banneduntil": "2025/11/10",
         "BanReason": "rdm/cop targeting"
+    },
+    "yannab32": {
+        "banneduntil": "2025/12/9",
+        "BanReason": "soft a and evasion"
     }
 }
