@@ -462,5 +462,9 @@
     "BatZoo": {
         "banneduntil": "2025/11/24",
         "BanReason": "Mass RDM Evasion"
+    },
+    "Strangefox": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
