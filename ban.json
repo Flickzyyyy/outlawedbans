@@ -470,5 +470,9 @@
     "new.aj": {
         "banneduntil": "2025/11/10",
         "BanReason": "rdm/cop targeting"
+    },
+    "meq.aj": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "rdm/cop targeting"
     }
 }
