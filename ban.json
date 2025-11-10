@@ -462,5 +462,9 @@
     "Azzaxel": {
         "banneduntil": "2025/11/10",
         "BanReason": "abuse of suicide menu/leave menu"
+    },
+    "RothschildDescendant": {
+        "banneduntil": "2025/11/12",
+        "BanReason": "RDM"
     }
 }
