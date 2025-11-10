@@ -470,5 +470,9 @@
     "Figgle.piggle69": {
         "banneduntil": "2025/11/20",
         "BanReason": "RDM"
+    },
+    "BB_Vr15": {
+        "banneduntil": "2026/11/2",
+        "BanReason": "Underage (Lawman App)"
     }
 }
