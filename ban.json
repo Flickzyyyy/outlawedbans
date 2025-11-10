@@ -486,5 +486,9 @@
     "jacob92112": {
         "banneduntil": "2025/11/19",
         "BanReason": "RDM and evasion"
+    },
+    "TheCareTaker00": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "Cop Targeting"
     }
 }
