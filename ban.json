@@ -324,8 +324,8 @@
         "BanReason": "Mass RDM + Evasion"
     },
     "CLUMZY7": {
-        "banneduntil": "2025/11/11",
-        "BanReason": "RDM"
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban - Timezone made the ban time longer than intended"
     },
     "BeerMorgan": {
         "banneduntil": "2025/11/14",
