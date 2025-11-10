@@ -450,5 +450,9 @@
     "random.romanian.communist": {
         "banneduntil": "2025/11/14",
         "BanReason": "Cop Targeting + Evading"
+    },
+    "irsss2001ww1": {
+        "banneduntil": "2025/11/13",
+        "BanReason": "Cop targeting and RDM"
     }
 }
