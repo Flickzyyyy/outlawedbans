@@ -474,5 +474,9 @@
     "yannab32": {
         "banneduntil": "2025/12/9",
         "BanReason": "soft a and evasion"
+    },
+    "Dooperama": {
+        "banneduntil": "2025/11/11",
+        "BanReason": "rdm"
     }
 }
