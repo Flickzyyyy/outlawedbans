@@ -486,5 +486,9 @@
     "MTGunslinger497": {
         "banneduntil": "2025/11/12",
         "BanReason": "RDMing and Cop targeting"
+    },
+    "Straight.Teeth.Enjoyer": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "cop targeting and evading admin sit"
     }
 }
