@@ -446,5 +446,9 @@
     "space.ghost.3": {
         "banneduntil": "2025/11/23",
         "BanReason": "soft a"
+    },
+    "random.romanian.communist": {
+        "banneduntil": "2025/11/14",
+        "BanReason": "Cop Targeting + Evading"
     }
 }
