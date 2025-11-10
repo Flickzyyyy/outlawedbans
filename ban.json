@@ -478,5 +478,9 @@
     "milk.is.a.femboy": {
         "banneduntil": "2025/11/13",
         "BanReason": "RDM/Coptargeting"
+    },
+    "Vamp1re.2": {
+        "banneduntil": "2025/11/21",
+        "BanReason": "2x RDM and evasion (Already had a warn)"
     }
 }
