@@ -478,5 +478,9 @@
     "Vamp1re.2": {
         "banneduntil": "2025/11/21",
         "BanReason": "2x RDM and evasion (Already had a warn)"
+    },
+    "LT_Ghostt": {
+        "banneduntil": "2025/11/12",
+        "BanReason": "RDMing a cop I have clip proof"
     }
 }
