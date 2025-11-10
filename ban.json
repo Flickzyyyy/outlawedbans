@@ -360,8 +360,8 @@
         "BanReason": "RDM"
     },
     "Wanted_Rosina": {
-        "banneduntil": "2025/11/16",
-        "BanReason": "Mass RDM"
+        "banneduntil": "2000/1/1",
+        "BanReason": "Unban"
     },
     "BourbonMorgan": {
         "banneduntil": "2025/11/10",
