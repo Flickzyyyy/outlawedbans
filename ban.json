@@ -494,5 +494,9 @@
     "boii777": {
         "banneduntil": "2999/11/1",
         "BanReason": "Hard R"
+    },
+    "Dexter_MorganBayHarborGoonr": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "Coptargeting"
     }
 }
