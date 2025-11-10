@@ -458,5 +458,9 @@
     "FireStorm10101": {
         "banneduntil": "2025/11/22",
         "BanReason": "mass rdm and evasion (drained bros bank account too)"
+    },
+    "BatZoo": {
+        "banneduntil": "2025/11/24",
+        "BanReason": "Mass RDM Evasion"
     }
 }
