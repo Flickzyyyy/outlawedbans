@@ -458,5 +458,9 @@
     "Daaaang": {
         "banneduntil": "2025/11/12",
         "BanReason": "cop targeting/RDM"
+    },
+    "Azzaxel": {
+        "banneduntil": "2025/11/10",
+        "BanReason": "abuse of suicide menu/leave menu"
     }
 }
