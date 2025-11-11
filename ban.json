@@ -510,5 +510,9 @@
     "Papercut404": {
         "banneduntil": "2025/11/13",
         "BanReason": "CopTargeting"
+    },
+    "GingRDeadMan": {
+        "banneduntil": "2025/11/12",
+        "BanReason": "Abusing Suicide and Evading"
     }
 }
