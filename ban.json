@@ -558,5 +558,9 @@
     "Freedneptune": {
         "banneduntil": "2025/11/13",
         "BanReason": "RDM"
+    },
+    "WISFITmumbo": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "hard R"
     }
 }
