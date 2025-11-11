@@ -566,5 +566,9 @@
     "Neggaballs2653": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "PizzaGuy21": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "RDM & Evasion"
     }
 }
