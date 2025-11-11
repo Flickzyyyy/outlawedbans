@@ -562,5 +562,9 @@
     "WISFITmumbo": {
         "banneduntil": "2099/6/7",
         "BanReason": "hard R"
+    },
+    "Neggaballs2653": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
