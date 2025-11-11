@@ -530,5 +530,9 @@
     "Pizzaman223": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitting to Alting"
+    },
+    "JamesPorchIII": {
+        "banneduntil": "2088/11/12",
+        "BanReason": "ERP, Alting"
     }
 }
