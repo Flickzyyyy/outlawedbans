@@ -526,5 +526,9 @@
     "Wanted_Rosina": {
         "banneduntil": "2025/11/13",
         "BanReason": "Cop Targeting"
+    },
+    "Pizzaman223": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitting to Alting"
     }
 }
