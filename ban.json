@@ -622,5 +622,9 @@
     "MARSOC_Eagle0372": {
         "banneduntil": "2025/11/18",
         "BanReason": "camping"
+    },
+    "ANTHONYISLINK": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "RDM+Evasion"
     }
 }
