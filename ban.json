@@ -514,5 +514,9 @@
     "GingRDeadMan": {
         "banneduntil": "2025/11/12",
         "BanReason": "Abusing Suicide and Evading"
+    },
+    "moisturizerjuice": {
+        "banneduntil": "2025/11/12",
+        "BanReason": "Cop Targeting"
     }
 }
