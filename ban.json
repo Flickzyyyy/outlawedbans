@@ -570,5 +570,9 @@
     "PizzaGuy21": {
         "banneduntil": "2025/11/15",
         "BanReason": "RDM & Evasion"
+    },
+    "deepdeepdeep": {
+        "banneduntil": "2025/12/11",
+        "BanReason": "Mass RDM"
     }
 }
