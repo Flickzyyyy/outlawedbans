@@ -610,5 +610,9 @@
     "Bigmac406": {
         "banneduntil": "2025/11/17",
         "BanReason": "RDM X3"
+    },
+    "johnnyamerican2.0": {
+        "banneduntil": "2025/11/14",
+        "BanReason": "Cop targeting"
     }
 }
