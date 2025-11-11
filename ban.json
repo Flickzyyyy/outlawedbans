@@ -538,5 +538,9 @@
     "PorchMonkey67": {
         "banneduntil": "2099/1/1",
         "BanReason": "Pedophilia/Erp"
+    },
+    "Boundful": {
+        "banneduntil": "2025/11/24",
+        "BanReason": "ERP"
     }
 }
