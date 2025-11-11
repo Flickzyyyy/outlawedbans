@@ -546,5 +546,9 @@
     "donald_dump_1234": {
         "banneduntil": "2027/9/9",
         "BanReason": "Underage"
+    },
+    "cola456759": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "ERP"
     }
 }
