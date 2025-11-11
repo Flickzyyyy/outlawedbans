@@ -586,5 +586,9 @@
     "Mr.Waffles3": {
         "banneduntil": "2025/11/13",
         "BanReason": "RDM & Evasion"
+    },
+    "netgds23": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "RDM & Evasion"
     }
 }
