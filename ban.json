@@ -522,5 +522,9 @@
     "porchchimp41": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Wanted_Rosina": {
+        "banneduntil": "2025/11/13",
+        "BanReason": "Cop Targeting"
     }
 }
