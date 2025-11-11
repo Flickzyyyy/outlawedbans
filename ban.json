@@ -546,5 +546,9 @@
     "StricktlySkyZ": {
         "banneduntil": "2025/11/14",
         "BanReason": "RDM + Evasion"
+    },
+    "Mythical_M": {
+        "banneduntil": "2025/11/24",
+        "BanReason": "ERP"
     }
 }
