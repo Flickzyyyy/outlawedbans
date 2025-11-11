@@ -506,5 +506,9 @@
     "Edge_master2818": {
         "banneduntil": "2025/11/13",
         "BanReason": "CopTargeting"
+    },
+    "Papercut404": {
+        "banneduntil": "2025/11/13",
+        "BanReason": "CopTargeting"
     }
 }
