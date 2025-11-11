@@ -518,5 +518,9 @@
     "moisturizerjuice": {
         "banneduntil": "2025/11/12",
         "BanReason": "Cop Targeting(Clip)"
+    },
+    "porchchimp41": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
