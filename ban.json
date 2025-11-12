@@ -598,5 +598,9 @@
     "ICreditI": {
         "banneduntil": "2025/11/20",
         "BanReason": "mass cop targeting"
+    },
+    "bokbok11": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "N word baiting after being told to stop"
     }
 }
