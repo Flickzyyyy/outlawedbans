@@ -630,5 +630,9 @@
     "Marshmalone12": {
         "banneduntil": "2099/11/23",
         "BanReason": "Hard R"
+    },
+    "Cooplegoman": {
+        "banneduntil": "2025/11/12",
+        "BanReason": "rdm"
     }
 }
