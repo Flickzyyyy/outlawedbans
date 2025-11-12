@@ -594,5 +594,9 @@
     "alawi285": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "ICreditI": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "mass cop targeting"
     }
 }
