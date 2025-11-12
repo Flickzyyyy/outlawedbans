@@ -614,5 +614,9 @@
     "DapperPizza0356": {
         "banneduntil": "2025/12/3",
         "BanReason": "RACISM AND EVADING"
+    },
+    "WNP_42": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "CopTargeting"
     }
 }
