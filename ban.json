@@ -602,5 +602,9 @@
     "bokbok11": {
         "banneduntil": "2025/11/20",
         "BanReason": "N word baiting after being told to stop"
+    },
+    "Gamma_Jack_60": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "Hard R"
     }
 }
