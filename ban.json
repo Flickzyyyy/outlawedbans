@@ -610,5 +610,9 @@
     "/": {
         "banneduntil": "s",
         "BanReason": "s"
+    },
+    "DapperPizza0356": {
+        "banneduntil": "2025/12/7",
+        "BanReason": "Racism and Evading"
     }
 }
