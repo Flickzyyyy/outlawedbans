@@ -642,5 +642,9 @@
     "Hammer3309": {
         "banneduntil": "2025/11/25",
         "BanReason": "Nword/RDM"
+    },
+    "evictedd ": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "rdm and evasion"
     }
 }
