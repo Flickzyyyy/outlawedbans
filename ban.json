@@ -654,5 +654,9 @@
     "fightme1221": {
         "banneduntil": "2025/11/16",
         "BanReason": "ERP"
+    },
+    "imtrashyoy": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "Rdm + evasion"
     }
 }
