@@ -606,5 +606,9 @@
     "Gamma_Jack_60": {
         "banneduntil": "2099/6/7",
         "BanReason": "Hard R"
+    },
+    "/": {
+        "banneduntil": "s",
+        "BanReason": "s"
     }
 }
