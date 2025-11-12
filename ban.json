@@ -638,5 +638,9 @@
     "Mann_witha_Pan ": {
         "banneduntil": "2025/11/12",
         "BanReason": "rdm"
+    },
+    "Hammer3309": {
+        "banneduntil": "2025/11/25",
+        "BanReason": "Nword/RDM"
     }
 }
