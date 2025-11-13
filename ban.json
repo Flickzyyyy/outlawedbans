@@ -622,5 +622,9 @@
     "MOE_BRO": {
         "banneduntil": "2025/11/17",
         "BanReason": "Cop Targetting"
+    },
+    "SuckoMisty": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "RDM/COP TARGETING/EVASION"
     }
 }
