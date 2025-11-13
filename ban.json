@@ -650,5 +650,9 @@
     "ManRay ": {
         "banneduntil": "2025/11/18",
         "BanReason": "RDM/Evasion"
+    },
+    "mrbrownstone1986": {
+        "banneduntil": "2025/11/13",
+        "BanReason": "rdml"
     }
 }
