@@ -670,5 +670,9 @@
     "GET2BIRDSSTONEDATONCE": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "RandomDudeIDK": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "rdm + evasion"
     }
 }
