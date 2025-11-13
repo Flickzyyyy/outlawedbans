@@ -706,5 +706,9 @@
     "PJNova1": {
         "banneduntil": "2025/11/17",
         "BanReason": "Evasion"
+    },
+    "johnny.sins.2025": {
+        "banneduntil": "2025/11/27",
+        "BanReason": "sexual harassment"
     }
 }
