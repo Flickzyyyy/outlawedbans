@@ -690,5 +690,9 @@
     "Money.Mason": {
         "banneduntil": "2025/11/16",
         "BanReason": "cop targeting + rdm + evasion"
+    },
+    "JackMarston1914": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
