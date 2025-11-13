@@ -646,5 +646,9 @@
     "HUD2K11": {
         "banneduntil": "2025/11/16",
         "BanReason": "rdm and evasion"
+    },
+    "ManRay ": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "RDM/Evasion"
     }
 }
