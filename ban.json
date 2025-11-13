@@ -690,5 +690,9 @@
     "jaykayfos": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage"
+    },
+    "im.bad420": {
+        "banneduntil": "2065/11/2",
+        "BanReason": "Hard R, F slur"
     }
 }
