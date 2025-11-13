@@ -642,5 +642,9 @@
     "Ivampirel": {
         "banneduntil": "2050/11/26",
         "BanReason": "Saying ERP stuff to a minor"
+    },
+    "HUD2K11": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "rdm and evasion"
     }
 }
