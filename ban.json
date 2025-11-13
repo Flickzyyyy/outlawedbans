@@ -718,5 +718,9 @@
     "aParalyzedHuman": {
         "banneduntil": "2025/11/20",
         "BanReason": "RDM + Evasion"
+    },
+    "cheesemobile": {
+        "banneduntil": "2025/11/27",
+        "BanReason": "sexual harassment and evasion"
     }
 }
