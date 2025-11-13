@@ -634,5 +634,9 @@
     "Fuzzytomcat1": {
         "banneduntil": "2025/11/16",
         "BanReason": "Multiple warns for RDM and cop targeting + Ban increase"
+    },
+    "localfemb0y ": {
+        "banneduntil": "2025/11/13",
+        "BanReason": "rdm and warns"
     }
 }
