@@ -702,5 +702,9 @@
     "godhead": {
         "banneduntil": "2067/11/14",
         "BanReason": "Pedophilia"
+    },
+    "PJNova1": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "Evasion"
     }
 }
