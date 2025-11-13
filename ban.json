@@ -654,5 +654,9 @@
     "JackMarston1914": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "EliteRussian": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
