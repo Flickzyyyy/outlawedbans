@@ -658,5 +658,9 @@
     "ttymoney": {
         "banneduntil": "2067/11/14",
         "BanReason": "Hard r"
+    },
+    "KingIvan2024": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "F Slur"
     }
 }
