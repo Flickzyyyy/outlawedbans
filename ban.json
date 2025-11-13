@@ -730,5 +730,9 @@
     "BlakePaterno2012": {
         "banneduntil": "2025/11/14",
         "BanReason": "RDM"
+    },
+    "raptorvegas": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "Hard R"
     }
 }
