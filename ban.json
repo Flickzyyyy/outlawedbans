@@ -726,5 +726,9 @@
     "Preston080312": {
         "banneduntil": "2025/11/17",
         "BanReason": "rdm + evasion"
+    },
+    "BlakePaterno2012": {
+        "banneduntil": "2025/11/14",
+        "BanReason": "RDM"
     }
 }
