@@ -654,5 +654,9 @@
     "mrbrownstone1986": {
         "banneduntil": "2025/11/13",
         "BanReason": "rdml"
+    },
+    "ttymoney": {
+        "banneduntil": "2067/11/14",
+        "BanReason": "Hard r"
     }
 }
