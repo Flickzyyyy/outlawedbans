@@ -666,5 +666,9 @@
     "WokWizard88": {
         "banneduntil": "2025/11/16",
         "BanReason": "Cop Targeting"
+    },
+    "lilwaters.2024": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "RDM + Evasion"
     }
 }
