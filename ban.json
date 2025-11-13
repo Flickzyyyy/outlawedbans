@@ -714,5 +714,9 @@
     "Melanie1234684": {
         "banneduntil": "2025/11/15",
         "BanReason": "rdm"
+    },
+    "aParalyzedHuman": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "RDM + Evasion"
     }
 }
