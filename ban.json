@@ -658,5 +658,9 @@
     "EliteRussian": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "CJMc21.21": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "Mass RDM"
     }
 }
