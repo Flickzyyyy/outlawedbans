@@ -686,5 +686,9 @@
     "frederick.the.greatking ": {
         "banneduntil": "2025/11/17",
         "BanReason": "RDM Evasion"
+    },
+    "jaykayfos": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage"
     }
 }
