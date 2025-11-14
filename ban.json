@@ -710,5 +710,9 @@
     "QTCosmickill": {
         "banneduntil": "2099/11/27",
         "BanReason": "Hard R and f slur"
+    },
+    "kxzy_kobe": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "rdm"
     }
 }
