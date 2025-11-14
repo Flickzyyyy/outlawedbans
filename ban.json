@@ -746,5 +746,9 @@
     "Beyondstoned": {
         "banneduntil": "2025/11/20",
         "BanReason": "RDM+ Evasion"
+    },
+    "CasualP990": {
+        "banneduntil": "2025/11/28",
+        "BanReason": "ERPing with a house"
     }
 }
