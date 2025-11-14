@@ -754,5 +754,9 @@
     "Kidault": {
         "banneduntil": "2025/11/15",
         "BanReason": "rdm"
+    },
+    "Goerge_Floyd": {
+        "banneduntil": "2045/11/12",
+        "BanReason": "Hard R"
     }
 }
