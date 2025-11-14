@@ -758,5 +758,9 @@
     "Goerge_Floyd": {
         "banneduntil": "2045/11/12",
         "BanReason": "Hard R"
+    },
+    "Nut_Rider": {
+        "banneduntil": "2028/11/23",
+        "BanReason": "RDM+ telling a minor to do weird shit"
     }
 }
