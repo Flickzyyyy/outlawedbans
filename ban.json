@@ -734,5 +734,9 @@
     "Khymobero": {
         "banneduntil": "2025/11/18",
         "BanReason": "ban evade"
+    },
+    "Z4IN.505": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "RDM + Evasion"
     }
 }
