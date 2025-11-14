@@ -770,5 +770,9 @@
     "Underthrone99": {
         "banneduntil": "2025/11/28",
         "BanReason": "f slur"
+    },
+    "ZombieXBoss": {
+        "banneduntil": "2025/11/28",
+        "BanReason": "said the F slur"
     }
 }
