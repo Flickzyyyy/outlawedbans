@@ -746,5 +746,9 @@
     "Bloom363": {
         "banneduntil": "2025/11/27",
         "BanReason": "f slur"
+    },
+    "Osama.Bin.Liftin": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "hard R"
     }
 }
