@@ -762,5 +762,9 @@
     "Yeti51": {
         "banneduntil": "2025/11/20",
         "BanReason": "References to Racist groups."
+    },
+    "Cam.20245": {
+        "banneduntil": "2025/11/14",
+        "BanReason": "cop targeting"
     }
 }
