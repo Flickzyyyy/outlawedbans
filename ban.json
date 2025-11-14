@@ -778,5 +778,9 @@
     "Kaydenplayz19": {
         "banneduntil": "2026/11/14",
         "BanReason": "underage"
+    },
+    "Evil.Stickman": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "ban evasion"
     }
 }
