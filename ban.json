@@ -730,5 +730,9 @@
     "Ben.the.german.goat": {
         "banneduntil": "2025/11/15",
         "BanReason": "RDM off video report"
+    },
+    "Khymobero": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "ban evade"
     }
 }
