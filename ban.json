@@ -758,5 +758,9 @@
     "LandonSzyme": {
         "banneduntil": "2025/11/14",
         "BanReason": "rdm"
+    },
+    "Yeti51": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "References to Racist groups."
     }
 }
