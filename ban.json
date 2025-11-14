@@ -786,5 +786,9 @@
     "Scarface986": {
         "banneduntil": "2025/11/16",
         "BanReason": "had a previous warning and then RDMed"
+    },
+    "KhamzatchimzevUfc": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "alting"
     }
 }
