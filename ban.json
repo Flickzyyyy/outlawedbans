@@ -734,5 +734,9 @@
     "raptorvegas": {
         "banneduntil": "2099/6/7",
         "BanReason": "Hard R"
+    },
+    "Monskov ": {
+        "banneduntil": "2067/11/14",
+        "BanReason": "Hard R"
     }
 }
