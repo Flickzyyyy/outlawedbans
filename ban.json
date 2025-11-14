@@ -714,5 +714,9 @@
     "kxzy_kobe": {
         "banneduntil": "2025/11/15",
         "BanReason": "rdm"
+    },
+    "thekillerfortnite": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "RDM"
     }
 }
