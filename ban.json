@@ -750,5 +750,9 @@
     "CasualP990": {
         "banneduntil": "2025/11/28",
         "BanReason": "ERPing with a house"
+    },
+    "Kidault": {
+        "banneduntil": "2025/11/15",
+        "BanReason": "rdm"
     }
 }
