@@ -774,5 +774,9 @@
     "KnowClapzz": {
         "banneduntil": "RDM",
         "BanReason": "2025/11/16"
+    },
+    "QTCosmickill": {
+        "banneduntil": "2025/11/27",
+        "BanReason": "F slur"
     }
 }
