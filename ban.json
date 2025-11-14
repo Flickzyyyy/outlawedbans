@@ -782,5 +782,9 @@
     "Evil.Stickman": {
         "banneduntil": "2025/11/18",
         "BanReason": "ban evasion"
+    },
+    "Scarface986": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "had a previous warning and then RDMed"
     }
 }
