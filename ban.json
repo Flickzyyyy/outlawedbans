@@ -834,5 +834,9 @@
     "RothchildDescendant": {
         "banneduntil": "2025/11/19",
         "BanReason": "rdm + evasi\u00f3n"
+    },
+    "P3R20N1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
