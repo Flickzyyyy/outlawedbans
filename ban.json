@@ -830,5 +830,9 @@
     "BeerMorgan": {
         "banneduntil": "2025/11/29",
         "BanReason": "Mass RDM+Evasion"
+    },
+    "RothchildDescendant": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "rdm + evasi\u00f3n"
     }
 }
