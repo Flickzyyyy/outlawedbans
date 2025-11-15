@@ -806,5 +806,9 @@
     "KissMyAR": {
         "banneduntil": "2025/11/22",
         "BanReason": "mass rdm"
+    },
+    "Anders_WG": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "rdm"
     }
 }
