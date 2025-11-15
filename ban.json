@@ -766,5 +766,9 @@
     "eew.64854": {
         "banneduntil": "2025/11/16",
         "BanReason": "fail rp"
+    },
+    "Lop901": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "soft a"
     }
 }
