@@ -818,5 +818,9 @@
     "Quixgta": {
         "banneduntil": "2025/11/16",
         "BanReason": "rdm"
+    },
+    "boycraftable": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "Evasion"
     }
 }
