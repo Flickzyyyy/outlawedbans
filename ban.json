@@ -794,5 +794,9 @@
     "DonaldTrumpGaming": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "The_Mandalorian_Din_Djarin": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
