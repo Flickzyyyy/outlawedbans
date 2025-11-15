@@ -826,5 +826,9 @@
     "U1i": {
         "banneduntil": "2025/11/17",
         "BanReason": "RDM"
+    },
+    "McSpiezy": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "RDM"
     }
 }
