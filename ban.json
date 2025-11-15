@@ -842,5 +842,9 @@
     "Thomasskyri0211": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Caramoul02": {
+        "banneduntil": "2025/8/19",
+        "BanReason": "RDM AND EVASION"
     }
 }
