@@ -866,5 +866,9 @@
     "polk ": {
         "banneduntil": "2025/11/25",
         "BanReason": "camping and evasion"
+    },
+    "ebuckner4": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "rdm and evasion"
     }
 }
