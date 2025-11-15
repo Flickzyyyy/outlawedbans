@@ -870,5 +870,9 @@
     "ebuckner4": {
         "banneduntil": "2025/11/19",
         "BanReason": "rdm and evasion"
+    },
+    "GoodyMoB901": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "Rdm + evasi\u00f3n"
     }
 }
