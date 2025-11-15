@@ -814,5 +814,9 @@
     "Ace35266": {
         "banneduntil": "2025/11/16",
         "BanReason": "cop targeting"
+    },
+    "Quixgta": {
+        "banneduntil": "2025/11/16",
+        "BanReason": "rdm"
     }
 }
