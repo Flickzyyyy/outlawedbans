@@ -822,5 +822,9 @@
     "Rogue1658": {
         "banneduntil": "2025/11/18",
         "BanReason": "ban evasion"
+    },
+    "U1i": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "RDM"
     }
 }
