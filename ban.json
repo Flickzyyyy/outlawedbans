@@ -826,5 +826,9 @@
     "ArthurMorgan_Afraid ": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "BeerMorgan": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "Mass RDM+Evasion"
     }
 }
