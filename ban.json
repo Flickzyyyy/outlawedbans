@@ -822,5 +822,9 @@
     "boycraftable": {
         "banneduntil": "2025/11/18",
         "BanReason": "Evasion"
+    },
+    "ArthurMorgan_Afraid ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
