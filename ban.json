@@ -782,5 +782,9 @@
     "karsenkyle": {
         "banneduntil": "2025/11/18",
         "BanReason": "RDM"
+    },
+    "NeonWren9140": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "cop targeting"
     }
 }
