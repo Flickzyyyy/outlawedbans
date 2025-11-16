@@ -906,5 +906,9 @@
     "gus3269": {
         "banneduntil": "2025/11/17",
         "BanReason": "RDM"
+    },
+    "Jackson2755": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "ban evasion"
     }
 }
