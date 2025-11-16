@@ -894,5 +894,9 @@
     "SithWarrior219": {
         "banneduntil": "2099/6/7",
         "BanReason": "Hard R"
+    },
+    "MJAT": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "RDM+ evasion"
     }
 }
