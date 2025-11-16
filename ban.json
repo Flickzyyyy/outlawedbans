@@ -850,5 +850,9 @@
     "1997.The.Book.Of.Larry": {
         "banneduntil": "2025/11/20",
         "BanReason": "RDM AND EVASION/FURTHER INVESTIGATION PENDING"
+    },
+    "deisel": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
