@@ -898,5 +898,9 @@
     "MJAT": {
         "banneduntil": "2025/11/22",
         "BanReason": "RDM+ evasion"
+    },
+    "poIk": {
+        "banneduntil": "2025/11/25",
+        "BanReason": "camping and evasion"
     }
 }
