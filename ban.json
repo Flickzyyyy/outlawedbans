@@ -914,5 +914,9 @@
     "theBaconHarborButcher": {
         "banneduntil": "2056/6/4",
         "BanReason": "Saying outrageous shit"
+    },
+    "nonosiwa.2025": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "rdm"
     }
 }
