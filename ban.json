@@ -894,5 +894,9 @@
     "KanyelsMyDad530": {
         "banneduntil": "2025/11/22",
         "BanReason": "evasion and RDM"
+    },
+    "BourbonMorgan": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "Cop targeting"
     }
 }
