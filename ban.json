@@ -866,5 +866,9 @@
     "globaltweakerrr": {
         "banneduntil": "2025/11/19",
         "BanReason": "RDM x2 - Ticket"
+    },
+    "deisel": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Camping & RDM - Ticket"
     }
 }
