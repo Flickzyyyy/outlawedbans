@@ -898,5 +898,9 @@
     "random.romanian.communist": {
         "banneduntil": "2025/11/19",
         "BanReason": "RDM after warning"
+    },
+    "conormcregor_2worldchamp": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "ban evasion"
     }
 }
