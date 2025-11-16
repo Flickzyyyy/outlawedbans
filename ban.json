@@ -930,5 +930,9 @@
     "Jayden.08": {
         "banneduntil": "2025/11/20",
         "BanReason": "evaion"
+    },
+    "jaydenh.08": {
+        "banneduntil": "2025/11/23",
+        "BanReason": "RDM+Evasion"
     }
 }
