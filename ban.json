@@ -954,5 +954,9 @@
     "5Chickens": {
         "banneduntil": "2025/11/17",
         "BanReason": "RDM(left game without evading)"
+    },
+    "BAUBER": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
