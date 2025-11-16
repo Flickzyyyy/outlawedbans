@@ -910,5 +910,9 @@
     "Jackson2755": {
         "banneduntil": "2025/11/20",
         "BanReason": "ban evasion"
+    },
+    "theBaconHarborButcher": {
+        "banneduntil": "2056/6/4",
+        "BanReason": "Saying outrageous shit"
     }
 }
