@@ -898,5 +898,9 @@
     "MJAT": {
         "banneduntil": "2025/11/22",
         "BanReason": "RDM+ evasion"
+    },
+    "jakewilson.2022": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "Evasion"
     }
 }
