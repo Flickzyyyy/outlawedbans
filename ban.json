@@ -834,5 +834,9 @@
     "Vybz": {
         "banneduntil": "2025/11/21",
         "BanReason": "RDM+evasion"
+    },
+    "DrDingle.2025": {
+        "banneduntil": "2025/11/28",
+        "BanReason": "RDM"
     }
 }
