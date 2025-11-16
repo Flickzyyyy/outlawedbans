@@ -922,5 +922,9 @@
     "\u2705 Ban logged for Skibidicumrocket696741": {
         "banneduntil": "\ud83d\udcc5 2025/11/20",
         "BanReason": "\ud83d\udcdd ban evasion"
+    },
+    "SkibidiCumRocket696741": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "ban evasion"
     }
 }
