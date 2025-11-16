@@ -830,5 +830,9 @@
     "pornographyman38": {
         "banneduntil": "2099/11/15",
         "BanReason": "name change"
+    },
+    "Vybz": {
+        "banneduntil": "2025/11/21",
+        "BanReason": "RDM+evasion"
     }
 }
