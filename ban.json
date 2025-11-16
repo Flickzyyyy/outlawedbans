@@ -886,5 +886,9 @@
     "Husk.gambleing.cat": {
         "banneduntil": "2025/12/4",
         "BanReason": "erp, ban evasion, rdm"
+    },
+    "Notchar29": {
+        "banneduntil": "2025/11/23",
+        "BanReason": "mass RDM"
     }
 }
