@@ -902,5 +902,9 @@
     "Human3000": {
         "banneduntil": "2025/11/29",
         "BanReason": "mass Rdm and evasion"
+    },
+    "gus3269": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "RDM"
     }
 }
