@@ -902,5 +902,9 @@
     "conormcregor_2worldchamp": {
         "banneduntil": "2025/11/20",
         "BanReason": "ban evasion"
+    },
+    "bobby._.925": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "RDM"
     }
 }
