@@ -822,5 +822,9 @@
     "ABRAMSP50": {
         "banneduntil": "2025/11/20",
         "BanReason": "evasion and RDM"
+    },
+    "Gavin2010": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "RDM"
     }
 }
