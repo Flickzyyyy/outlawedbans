@@ -818,5 +818,9 @@
     "nonosiwa.2025": {
         "banneduntil": "2025/11/18",
         "BanReason": "rdm"
+    },
+    "ABRAMSP50": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "evasion and RDM"
     }
 }
