@@ -862,5 +862,9 @@
     "Old_SodacanIV": {
         "banneduntil": "2025/11/20",
         "BanReason": "ban evasion"
+    },
+    "globaltweakerrr": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "RDM x2 - Ticket"
     }
 }
