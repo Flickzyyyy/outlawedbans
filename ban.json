@@ -870,5 +870,9 @@
     "deisel": {
         "banneduntil": "2025/11/26",
         "BanReason": "Camping & RDM - Ticket"
+    },
+    "YummyBananaYum": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "RDM+Evasion"
     }
 }
