@@ -898,5 +898,9 @@
     "poIk": {
         "banneduntil": "2025/11/25",
         "BanReason": "camping and evasion"
+    },
+    "Human3000": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "mass Rdm and evasion"
     }
 }
