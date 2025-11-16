@@ -826,5 +826,9 @@
     "Gavin2010": {
         "banneduntil": "2025/11/17",
         "BanReason": "RDM"
+    },
+    "pornographyman38": {
+        "banneduntil": "2099/11/15",
+        "BanReason": "name change"
     }
 }
