@@ -874,5 +874,9 @@
     "YummyBananaYum": {
         "banneduntil": "2025/11/22",
         "BanReason": "RDM+Evasion"
+    },
+    "hitmangod8979": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "rdm off video report"
     }
 }
