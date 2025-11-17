@@ -938,5 +938,9 @@
     "roadwarrior2.0": {
         "banneduntil": "2025/11/18",
         "BanReason": "rdm"
+    },
+    "LeandroMaci": {
+        "banneduntil": "2027/11/18",
+        "BanReason": "under age + Rdm"
     }
 }
