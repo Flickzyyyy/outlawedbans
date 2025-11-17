@@ -906,5 +906,9 @@
     "nignot.67": {
         "banneduntil": "2099/6/7",
         "BanReason": "alt accounts"
+    },
+    "tigger.hunter.359207": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "alt abuse previous name nignot"
     }
 }
