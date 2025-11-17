@@ -898,5 +898,9 @@
     "ryann.33539": {
         "banneduntil": "2025/11/18",
         "BanReason": "RDM off video report"
+    },
+    "CCC_xsith": {
+        "banneduntil": "2025/11/21",
+        "BanReason": "evasion"
     }
 }
