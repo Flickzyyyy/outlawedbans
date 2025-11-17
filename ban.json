@@ -990,5 +990,9 @@
     "Dimasman": {
         "banneduntil": "2025/11/20",
         "BanReason": "rdm"
+    },
+    "ryann.33539": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "RDM off video report"
     }
 }
