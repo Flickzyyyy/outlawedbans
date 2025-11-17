@@ -934,5 +934,9 @@
     "DontFuccnKnowMe": {
         "banneduntil": "2025/11/18",
         "BanReason": "rdm"
+    },
+    "roadwarrior2.0": {
+        "banneduntil": "2025/11/18",
+        "BanReason": "rdm"
     }
 }
