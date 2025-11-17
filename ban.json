@@ -974,5 +974,9 @@
     "funsize_NotAnAlt123": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "yungmurf": {
+        "banneduntil": "2025/11/23",
+        "BanReason": "Mass RDM"
     }
 }
