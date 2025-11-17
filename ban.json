@@ -918,5 +918,9 @@
     "Worcestershire_sauce2214": {
         "banneduntil": "2025/11/18",
         "BanReason": "rdm"
+    },
+    "blosser.2023": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "rdm / spawn killing"
     }
 }
