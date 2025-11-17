@@ -902,5 +902,9 @@
     "CCC_xsith": {
         "banneduntil": "2025/11/21",
         "BanReason": "evasion"
+    },
+    "nignot.67": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "alt accounts"
     }
 }
