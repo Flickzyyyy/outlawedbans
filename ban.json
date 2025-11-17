@@ -958,5 +958,9 @@
     "BAUBER": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "LT_Ghostt": {
+        "banneduntil": "2025/11/17",
+        "BanReason": "rdm"
     }
 }
