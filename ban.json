@@ -910,5 +910,9 @@
     "tigger.hunter.359207": {
         "banneduntil": "2099/6/7",
         "BanReason": "alt abuse previous name nignot"
+    },
+    "Klay_Nhat_Phan": {
+        "banneduntil": "2028/10/22",
+        "BanReason": "undersge"
     }
 }
