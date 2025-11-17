@@ -986,5 +986,9 @@
     "stinkstarman39": {
         "banneduntil": "2025/11/18",
         "BanReason": "evasion"
+    },
+    "Dimasman": {
+        "banneduntil": "2025/11/20",
+        "BanReason": "rdm"
     }
 }
