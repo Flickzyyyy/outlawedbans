@@ -970,5 +970,9 @@
     "GOOBERJD": {
         "banneduntil": "2025/11/20",
         "BanReason": "RDM and Evading"
+    },
+    "funsize_NotAnAlt123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
