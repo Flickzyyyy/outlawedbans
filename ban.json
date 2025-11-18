@@ -962,5 +962,9 @@
     "moisturizerjuice": {
         "banneduntil": "2099/11/22",
         "BanReason": "Hard R+Evasion"
+    },
+    "gman12466": {
+        "banneduntil": "2026/6/7",
+        "BanReason": "Underage(12)"
     }
 }
