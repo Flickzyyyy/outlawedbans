@@ -946,5 +946,9 @@
     "Adolf.Hitler": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Adolf.H1tler": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
