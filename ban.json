@@ -982,5 +982,9 @@
     "UTC_LastOne": {
         "banneduntil": "2099/11/31",
         "BanReason": "Hard R"
+    },
+    "SGT.Pickles7274": {
+        "banneduntil": "2025/11/24",
+        "BanReason": "mass rdm"
     }
 }
