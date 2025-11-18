@@ -942,5 +942,9 @@
     "Orange_vr34": {
         "banneduntil": "2025/12/3",
         "BanReason": "f slur and rdm"
+    },
+    "pewpewzoey": {
+        "banneduntil": "2025/11/21",
+        "BanReason": "RDM"
     }
 }
