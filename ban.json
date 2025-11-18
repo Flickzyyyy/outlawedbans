@@ -918,5 +918,9 @@
     "scotland09.2022": {
         "banneduntil": "2025/11/20",
         "BanReason": "cop targeting"
+    },
+    "irvsecretaffairzz": {
+        "banneduntil": "2058/11/11",
+        "BanReason": "hard r"
     }
 }
