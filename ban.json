@@ -958,5 +958,9 @@
     "fathom.man.67": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT account"
+    },
+    "moisturizerjuice": {
+        "banneduntil": "2099/11/22",
+        "BanReason": "Hard R+Evasion"
     }
 }
