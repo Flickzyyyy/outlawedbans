@@ -954,5 +954,9 @@
     "Z8TR4": {
         "banneduntil": "2025/11/20",
         "BanReason": "rdm"
+    },
+    "Adolf_._H1tler": {
+        "banneduntil": "2099/6/7",
+        "BanReason": "hard r and alt"
     }
 }
