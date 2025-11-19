@@ -938,5 +938,9 @@
     "ratman2022": {
         "banneduntil": "2026/6/25",
         "BanReason": "underage"
+    },
+    "Meiki1.0": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "RDM"
     }
 }
