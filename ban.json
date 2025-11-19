@@ -982,5 +982,9 @@
     "cam.20245": {
         "banneduntil": "2025/12/1",
         "BanReason": "mass rdm + evasion"
+    },
+    "nicobiaggio1649": {
+        "banneduntil": "2025/11/23",
+        "BanReason": "rdm + evasion"
     }
 }
