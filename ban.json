@@ -950,5 +950,9 @@
     "Parcano": {
         "banneduntil": "2025/11/22",
         "BanReason": "rdm and evasion"
+    },
+    "MrNobody188": {
+        "banneduntil": "2025/11/19",
+        "BanReason": "Rdm"
     }
 }
