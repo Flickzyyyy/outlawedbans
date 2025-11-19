@@ -978,5 +978,9 @@
     "Rustenjoyer1": {
         "banneduntil": "2037/11/11",
         "BanReason": "rape"
+    },
+    "cam.20245": {
+        "banneduntil": "2025/12/1",
+        "BanReason": "mass rdm + evasion"
     }
 }
