@@ -958,5 +958,9 @@
     "dirtbiker14": {
         "banneduntil": "2099/1/1",
         "BanReason": "Nword Hard R"
+    },
+    "Greenmus": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "Evasion"
     }
 }
