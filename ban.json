@@ -922,5 +922,9 @@
     "big.boy.bald": {
         "banneduntil": "2088/6/7",
         "BanReason": "alt abusing"
+    },
+    "HotQusadilla": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "Cop Targeting"
     }
 }
