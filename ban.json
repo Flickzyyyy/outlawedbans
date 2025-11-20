@@ -966,5 +966,9 @@
     "blosser.2023": {
         "banneduntil": "2025/11/22",
         "BanReason": "Cop Targeting"
+    },
+    "jaivr12": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R Clip"
     }
 }
