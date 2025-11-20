@@ -894,5 +894,9 @@
     "garderer.2025": {
         "banneduntil": "2025/12/2",
         "BanReason": "Bullying"
+    },
+    "arthur.morgan_AKA_blacklung": {
+        "banneduntil": "2025/11/22",
+        "BanReason": "rdm via clip"
     }
 }
