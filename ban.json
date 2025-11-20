@@ -878,5 +878,9 @@
     "Britishamerican1776": {
         "banneduntil": "2025/11/25",
         "BanReason": "RDM + Evasion"
+    },
+    "Omni_Sapien": {
+        "banneduntil": "2025/11/21",
+        "BanReason": "RDM(left game before sit so shorter ban time)"
     }
 }
