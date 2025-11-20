@@ -886,5 +886,9 @@
     "throatertippy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt and F Slur"
+    },
+    "F.F.A.dino": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
