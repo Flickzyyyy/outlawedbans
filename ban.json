@@ -882,5 +882,9 @@
     "Omni_Sapien": {
         "banneduntil": "2025/11/21",
         "BanReason": "RDM(left game before sit so shorter ban time)"
+    },
+    "throatertippy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt and F Slur"
     }
 }
