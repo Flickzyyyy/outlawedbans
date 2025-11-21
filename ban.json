@@ -906,5 +906,9 @@
     "manofhonor": {
         "banneduntil": "2025/11/23",
         "BanReason": "Cop targeting"
+    },
+    "Infamous_johnny_sins": {
+        "banneduntil": "2025/12/3",
+        "BanReason": "Racism"
     }
 }
