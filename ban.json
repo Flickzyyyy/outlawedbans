@@ -922,5 +922,9 @@
     "diklickzyy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual Name + F Slur"
+    },
+    "Oman_23": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "Underage"
     }
 }
