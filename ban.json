@@ -894,5 +894,9 @@
     "Anders_WG": {
         "banneduntil": "2025/11/24",
         "BanReason": "Cop Targeting"
+    },
+    "jr418": {
+        "banneduntil": "2029/8/2",
+        "BanReason": "Underage"
     }
 }
