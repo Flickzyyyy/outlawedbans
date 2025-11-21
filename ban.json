@@ -902,5 +902,9 @@
     "Glacierpuhh99": {
         "banneduntil": "2025/11/26",
         "BanReason": "Cop Targeting and Evasion"
+    },
+    "manofhonor": {
+        "banneduntil": "2025/11/23",
+        "BanReason": "Cop targeting"
     }
 }
