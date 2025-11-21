@@ -926,5 +926,9 @@
     "Oman_23": {
         "banneduntil": "2026/5/13",
         "BanReason": "Underage"
+    },
+    "nerbybird": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Cop Targeting + Evasion"
     }
 }
