@@ -890,5 +890,9 @@
     "Notchar29": {
         "banneduntil": "2027/9/7",
         "BanReason": "Underage"
+    },
+    "Anders_WG": {
+        "banneduntil": "2025/11/24",
+        "BanReason": "Cop Targeting"
     }
 }
