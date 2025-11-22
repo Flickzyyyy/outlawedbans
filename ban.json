@@ -906,5 +906,9 @@
     "JMONEY539": {
         "banneduntil": "2099/11/23",
         "BanReason": "Hard R"
+    },
+    "JMONEY529": {
+        "banneduntil": "2099/11/23",
+        "BanReason": "Hard R"
     }
 }
