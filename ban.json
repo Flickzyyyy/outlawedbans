@@ -846,5 +846,9 @@
     "kaynebro.2023": {
         "banneduntil": "2028/11/11",
         "BanReason": "hard r"
+    },
+    "Doomsday77": {
+        "banneduntil": "2047/11/11",
+        "BanReason": "hard r"
     }
 }
