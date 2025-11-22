@@ -902,5 +902,9 @@
     "Owlsandturtles": {
         "banneduntil": "2026/6/7",
         "BanReason": "Underage(Evaded once age was asked)"
+    },
+    "JMONEY539": {
+        "banneduntil": "2099/11/23",
+        "BanReason": "Hard R"
     }
 }
