@@ -882,5 +882,9 @@
     "Methinator": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Draken00": {
+        "banneduntil": "2025/12/6",
+        "BanReason": "F slur"
     }
 }
