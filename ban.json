@@ -878,5 +878,9 @@
     "peanutbuttershitter": {
         "banneduntil": "2025/11/30",
         "BanReason": "Evasion 2x"
+    },
+    "Methinator": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
