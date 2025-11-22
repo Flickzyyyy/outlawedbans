@@ -842,5 +842,9 @@
     "Rhg9898": {
         "banneduntil": "2027/11/22",
         "BanReason": "Underage"
+    },
+    "kaynebro.2023": {
+        "banneduntil": "2028/11/11",
+        "BanReason": "hard r"
     }
 }
