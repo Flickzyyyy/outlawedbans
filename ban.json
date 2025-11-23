@@ -934,5 +934,9 @@
     "sandranegrete123.": {
         "banneduntil": "2026/11/10",
         "BanReason": "Underage"
+    },
+    "YummyBanana Yum": {
+        "banneduntil": "2025/11/30",
+        "BanReason": "Cop targeting/evasion"
     }
 }
