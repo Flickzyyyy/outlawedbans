@@ -942,5 +942,9 @@
     "Doorknob": {
         "banneduntil": "2025/11/27",
         "BanReason": "RDM and Evasion"
+    },
+    "moneymitch.2005": {
+        "banneduntil": "2025/12/07",
+        "BanReason": "Soft a(not casual)"
     }
 }
