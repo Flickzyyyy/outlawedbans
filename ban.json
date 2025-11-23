@@ -946,5 +946,9 @@
     "moneymitch.2005": {
         "banneduntil": "2025/12/07",
         "BanReason": "Soft a(not casual)"
+    },
+    "Dick.Penis": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
