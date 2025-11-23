@@ -926,5 +926,9 @@
     "blosser.2023": {
         "banneduntil": "2025/11/26",
         "BanReason": "Cop Targeting/Camping"
+    },
+    "MARSOC_Eagle0372": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Cop Targeting and Evasion"
     }
 }
