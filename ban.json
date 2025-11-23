@@ -950,5 +950,9 @@
     "Dick.Penis": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Latebb78": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Rdm clip"
     }
 }
