@@ -942,5 +942,9 @@
     "RandomDudeIDK": {
         "banneduntil": "2025/11/29",
         "BanReason": "Spawn Camping Lawmen"
+    },
+    "Batteryeater76": {
+        "banneduntil": "2025/11/25",
+        "BanReason": "Cop targeting"
     }
 }
