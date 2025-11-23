@@ -930,5 +930,9 @@
     "PJNoval": {
         "banneduntil": "2025/11/25",
         "BanReason": "Rdm clip"
+    },
+    "PJNova1": {
+        "banneduntil": "2025/11/25",
+        "BanReason": "Spelt name wrong"
     }
 }
