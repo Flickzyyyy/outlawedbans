@@ -954,5 +954,9 @@
     "karsenkyle": {
         "banneduntil": "2025/11/25",
         "BanReason": "Rdm(appeal awaiting)"
+    },
+    "blosser.2023": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Cop Targeting/Camping"
     }
 }
