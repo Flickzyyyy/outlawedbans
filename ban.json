@@ -938,5 +938,9 @@
     "YummyBanana Yum": {
         "banneduntil": "2025/11/30",
         "BanReason": "Cop targeting/evasion"
+    },
+    "Doorknob": {
+        "banneduntil": "2025/11/27",
+        "BanReason": "RDM and Evasion"
     }
 }
