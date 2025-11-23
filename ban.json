@@ -946,5 +946,9 @@
     "Batteryeater76": {
         "banneduntil": "2025/11/25",
         "BanReason": "Cop targeting"
+    },
+    "ZKerwood904": {
+        "banneduntil": "2025/12/06",
+        "BanReason": "Spawn camping cops and evasion"
     }
 }
