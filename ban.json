@@ -918,5 +918,9 @@
     "auuuuhgghhuau": {
         "banneduntil": "2099/6/7",
         "BanReason": "hard R"
+    },
+    "Pyro_BOT": {
+        "banneduntil": "2025/11/24",
+        "BanReason": "RDM - ticket"
     }
 }
