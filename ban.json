@@ -938,5 +938,9 @@
     "krolpz": {
         "banneduntil": "2025/11/23",
         "BanReason": "Rdm clip"
+    },
+    "RandomDudeIDK": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "Spawn Camping Lawmen"
     }
 }
