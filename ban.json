@@ -970,5 +970,9 @@
     "capt_sailfish": {
         "banneduntil": "2037/11/11",
         "BanReason": "hard r"
+    },
+    "eew.64854": {
+        "banneduntil": "2067/11/30",
+        "BanReason": "n word hard r"
     }
 }
