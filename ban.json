@@ -966,5 +966,9 @@
     "Wanted_Rosina": {
         "banneduntil": "2025/11/26",
         "BanReason": "Cop targeting"
+    },
+    "capt_sailfish": {
+        "banneduntil": "2037/11/11",
+        "BanReason": "hard r"
     }
 }
