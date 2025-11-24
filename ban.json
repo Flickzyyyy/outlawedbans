@@ -954,5 +954,9 @@
     "BourbonMorgan": {
         "banneduntil": "2025/11/26",
         "BanReason": "Cop Targeting - Report"
+    },
+    "Joseph7360": {
+        "banneduntil": "2025/11/28",
+        "BanReason": "Cop Targeting & Evasion"
     }
 }
