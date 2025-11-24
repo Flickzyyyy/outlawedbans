@@ -950,5 +950,9 @@
     "Deathdoesthings": {
         "banneduntil": "2025/11/27",
         "BanReason": "RDM off video report"
+    },
+    "BourbonMorgan": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Cop Targeting - Report"
     }
 }
