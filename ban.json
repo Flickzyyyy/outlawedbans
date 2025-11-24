@@ -958,5 +958,9 @@
     "random.romanian.communist": {
         "banneduntil": "2025/11/30",
         "BanReason": "Rdm and evasion"
+    },
+    "vegasnig.2025": {
+        "banneduntil": "2025/12/14",
+        "BanReason": "Sexual harassment and evasion"
     }
 }
