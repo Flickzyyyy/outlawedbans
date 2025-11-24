@@ -954,5 +954,9 @@
     "Latebb78": {
         "banneduntil": "2025/11/26",
         "BanReason": "Rdm clip"
+    },
+    "random.romanian.communist": {
+        "banneduntil": "2025/11/30",
+        "BanReason": "Rdm and evasion"
     }
 }
