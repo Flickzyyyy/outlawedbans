@@ -962,5 +962,9 @@
     "vegasnig.2025": {
         "banneduntil": "2025/12/14",
         "BanReason": "Sexual harassment and evasion"
+    },
+    "Wanted_Rosina": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Rdm"
     }
 }
