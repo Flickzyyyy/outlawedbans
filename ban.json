@@ -986,5 +986,9 @@
     "lxightlok": {
         "banneduntil": "2025/11/27",
         "BanReason": "rdm"
+    },
+    "femboy_hunter": {
+        "banneduntil": "2034/11/12",
+        "BanReason": "Hard R"
     }
 }
