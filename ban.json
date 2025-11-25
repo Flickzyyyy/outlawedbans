@@ -974,5 +974,9 @@
     "The.Jelquer": {
         "banneduntil": "2025/12/2",
         "BanReason": "Mass RDM"
+    },
+    "SoRa_AcRe": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "RDM - Report"
     }
 }
