@@ -970,5 +970,9 @@
     "Sujistui": {
         "banneduntil": "2025/12/9",
         "BanReason": "F Slur"
+    },
+    "ULYSSES23": {
+        "banneduntil": "2025/12/9",
+        "BanReason": "Slur Baiting"
     }
 }
