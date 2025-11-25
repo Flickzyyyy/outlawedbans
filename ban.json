@@ -1002,5 +1002,9 @@
     "karsenkyle": {
         "banneduntil": "2025/12/8",
         "BanReason": "Mass RDM - Ban extension"
+    },
+    "MR.monkey415": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "Cop Targeting and left game before sit"
     }
 }
