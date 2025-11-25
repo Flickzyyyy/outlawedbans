@@ -990,5 +990,9 @@
     "femboy_hunter": {
         "banneduntil": "2034/11/12",
         "BanReason": "Hard R"
+    },
+    "ajo.1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R Clip"
     }
 }
