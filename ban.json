@@ -982,5 +982,9 @@
     "WokWizard88": {
         "banneduntil": "2025/11/26",
         "BanReason": "RDM - Ticket"
+    },
+    "cannonball462": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
