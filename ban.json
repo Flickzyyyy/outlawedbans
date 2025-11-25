@@ -974,5 +974,9 @@
     "ULYSSES23": {
         "banneduntil": "2025/12/9",
         "BanReason": "Slur Baiting"
+    },
+    "gabe.horn": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
