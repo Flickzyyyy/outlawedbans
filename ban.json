@@ -978,5 +978,9 @@
     "gabe.horn": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "CARTOONZ0078989": {
+        "banneduntil": "2025/11/26",
+        "BanReason": "rdm"
     }
 }
