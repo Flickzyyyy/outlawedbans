@@ -962,5 +962,9 @@
     "jim.caeason": {
         "banneduntil": "2025/12/1",
         "BanReason": "Spawn Camping"
+    },
+    "TypicaIFuN": {
+        "banneduntil": "2025/12/1",
+        "BanReason": "Spawn Camping"
     }
 }
