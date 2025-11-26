@@ -1002,5 +1002,9 @@
     "220Monster": {
         "banneduntil": "2025/11/29",
         "BanReason": "rdm"
+    },
+    "EvankNight3617": {
+        "banneduntil": "2025/11/27",
+        "BanReason": "rdm"
     }
 }
