@@ -974,5 +974,9 @@
     "Smallbogdan": {
         "banneduntil": "2025/12/1",
         "BanReason": "Spawn Camping"
+    },
+    "The.The": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
