@@ -978,5 +978,9 @@
     "The.The": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "TypicalFuN": {
+        "banneduntil": "2025/12/1",
+        "BanReason": "Ban redo - player was in game"
     }
 }
