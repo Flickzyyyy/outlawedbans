@@ -1022,5 +1022,9 @@
     "BoogieDownsyndrome": {
         "banneduntil": "2025/12/9",
         "BanReason": "Mass RDM"
+    },
+    "skeeter_boy": {
+        "banneduntil": "2025/12/9",
+        "BanReason": "Mass rdm and evasion"
     }
 }
