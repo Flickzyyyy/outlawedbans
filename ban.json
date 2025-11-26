@@ -986,5 +986,9 @@
     "sticky_tip23": {
         "banneduntil": "2025/11/30",
         "BanReason": "RDM & Evasion"
+    },
+    "def.not.caleb": {
+        "banneduntil": "2025/12/10",
+        "BanReason": "sexual harassment"
     }
 }
