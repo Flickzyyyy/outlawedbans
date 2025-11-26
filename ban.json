@@ -970,5 +970,9 @@
     "Boundful": {
         "banneduntil": "2025/12/1",
         "BanReason": "Spawn Camping"
+    },
+    "Smallbogdan": {
+        "banneduntil": "2025/12/1",
+        "BanReason": "Spawn Camping"
     }
 }
