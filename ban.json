@@ -998,5 +998,9 @@
     "PianoGuy124": {
         "banneduntil": "2025/11/30",
         "BanReason": "Cop Targeting & Evasion"
+    },
+    "220Monster": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "rdm"
     }
 }
