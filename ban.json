@@ -1014,5 +1014,9 @@
     "themanhimself0282.2025": {
         "banneduntil": "2025/12/1",
         "BanReason": "Mass RDM"
+    },
+    "ManRay": {
+        "banneduntil": "2025/28/25",
+        "BanReason": "RDM"
     }
 }
