@@ -982,5 +982,9 @@
     "TypicalFuN": {
         "banneduntil": "2025/12/1",
         "BanReason": "Ban redo - player was in game"
+    },
+    "sticky_tip23": {
+        "banneduntil": "2025/11/30",
+        "BanReason": "RDM & Evasion"
     }
 }
