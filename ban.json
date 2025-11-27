@@ -1014,5 +1014,9 @@
     "Xverse17": {
         "banneduntil": "2025/11/29",
         "BanReason": "Rdm clip (re-ban)"
+    },
+    "drunken.monkey999": {
+        "banneduntil": "2027/3/4",
+        "BanReason": "Underaged"
     }
 }
