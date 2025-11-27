@@ -1018,5 +1018,9 @@
     "drunken.monkey999": {
         "banneduntil": "2027/3/4",
         "BanReason": "Underaged"
+    },
+    "komodo.well": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "RDM"
     }
 }
