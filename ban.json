@@ -1010,5 +1010,9 @@
     "Gentlemen_1945": {
         "banneduntil": "2025/11/29",
         "BanReason": "RDM"
+    },
+    "Xverse17": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "Rdm (clip)"
     }
 }
