@@ -1046,5 +1046,9 @@
     "tophtheblindbandit": {
         "banneduntil": "2025/12/3",
         "BanReason": "RDM + Evasion"
+    },
+    "Drunclejo": {
+        "banneduntil": "2025/11/31",
+        "BanReason": "RDM"
     }
 }
