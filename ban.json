@@ -1026,5 +1026,9 @@
     "VIP.monkey4321567": {
         "banneduntil": "2025/12/2",
         "BanReason": "RDM & Evasion"
+    },
+    "CoffeeC4": {
+        "banneduntil": "2025/12/2",
+        "BanReason": "RDM x3"
     }
 }
