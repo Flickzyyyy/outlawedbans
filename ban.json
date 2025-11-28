@@ -1026,5 +1026,9 @@
     "Bean1_Soup1": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Coolbean43045": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "Rdm Clip"
     }
 }
