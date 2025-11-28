@@ -1022,5 +1022,9 @@
     "Flickzer": {
         "banneduntil": "2025/11/30",
         "BanReason": "RDM"
+    },
+    "Bean1_Soup1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
