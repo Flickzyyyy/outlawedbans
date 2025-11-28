@@ -1030,5 +1030,9 @@
     "CoffeeC4": {
         "banneduntil": "2025/12/2",
         "BanReason": "RDM x3"
+    },
+    "u_as_dro": {
+        "banneduntil": "2025/12/12",
+        "BanReason": "Racial Slurs"
     }
 }
