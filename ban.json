@@ -1054,5 +1054,9 @@
     "austinlbennett": {
         "banneduntil": "2025/11/31",
         "BanReason": "RDM"
+    },
+    "OrangeJuice5666": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
