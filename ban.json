@@ -1050,5 +1050,9 @@
     "Drunclejo": {
         "banneduntil": "2025/11/31",
         "BanReason": "RDM"
+    },
+    "austinlbennett": {
+        "banneduntil": "2025/11/31",
+        "BanReason": "RDM"
     }
 }
