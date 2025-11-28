@@ -1022,5 +1022,9 @@
     "dunder.bunder7": {
         "banneduntil": "2025/11/29",
         "BanReason": "RDM / Cop Targeting - Evasion"
+    },
+    "VIP.monkey4321567": {
+        "banneduntil": "2025/12/2",
+        "BanReason": "RDM & Evasion"
     }
 }
