@@ -1046,5 +1046,9 @@
     "Mr.SeamanBeard": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "John.Martson": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
