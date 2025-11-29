@@ -1066,5 +1066,9 @@
     "CARTOONZOO78989": {
         "banneduntil": "2025/12/4",
         "BanReason": "mass RDM/ camping off video report"
+    },
+    "chinesetoetag": {
+        "banneduntil": "2037/11/11",
+        "BanReason": "hard r"
     }
 }
