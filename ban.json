@@ -1050,5 +1050,9 @@
     "trev87.2023": {
         "banneduntil": "2028/11/29",
         "BanReason": "Underaged"
+    },
+    "broschbro": {
+        "banneduntil": "2025/12/4",
+        "BanReason": "mass RDM/ camping off video report"
     }
 }
