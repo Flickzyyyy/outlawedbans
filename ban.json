@@ -1070,5 +1070,9 @@
     "BourbonMorgan": {
         "banneduntil": "2025/12/1",
         "BanReason": "Ban Extension for Cop Targeting clip"
+    },
+    "nosyyyy": {
+        "banneduntil": "2025/12/4",
+        "BanReason": "RDM, and then shooting people in spawn"
     }
 }
