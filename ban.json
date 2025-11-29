@@ -1018,5 +1018,9 @@
     "Moose15": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage(ban reput in because he was 10)"
+    },
+    "krolp": {
+        "banneduntil": "2025/12/11",
+        "BanReason": "Racism"
     }
 }
