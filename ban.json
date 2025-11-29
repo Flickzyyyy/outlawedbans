@@ -1034,5 +1034,9 @@
     "PJNova1": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "chicken_thong": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
