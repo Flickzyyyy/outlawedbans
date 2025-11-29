@@ -1058,5 +1058,9 @@
     "blosser.2023": {
         "banneduntil": "2025/12/4",
         "BanReason": "mass RDM/ camping off video report"
+    },
+    "SlammedByTen": {
+        "banneduntil": "2025/12/4",
+        "BanReason": "mass RDM/ camping off video report"
     }
 }
