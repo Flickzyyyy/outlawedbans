@@ -1066,5 +1066,9 @@
     "frogGuy135": {
         "banneduntil": "2025/11/29",
         "BanReason": "RDM"
+    },
+    "BourbonMorgan": {
+        "banneduntil": "2025/11/30",
+        "BanReason": "RDM Clip"
     }
 }
