@@ -1014,5 +1014,9 @@
     "nosyyyy": {
         "banneduntil": "2025/12/4",
         "BanReason": "RDM, and then shooting people in spawn"
+    },
+    "Moose15": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage"
     }
 }
