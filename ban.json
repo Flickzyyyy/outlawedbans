@@ -1042,5 +1042,9 @@
     "diddy.the.DEMOLISHER69420.67": {
         "banneduntil": "2025/12/5",
         "BanReason": "RDM+Evasion"
+    },
+    "Lashed0": {
+        "banneduntil": "2025/12/1",
+        "BanReason": "RDM Ticket"
     }
 }
