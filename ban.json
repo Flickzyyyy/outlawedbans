@@ -1022,5 +1022,9 @@
     "krolp": {
         "banneduntil": "2025/12/11",
         "BanReason": "Racism"
+    },
+    "krolpz": {
+        "banneduntil": "2025/12/11",
+        "BanReason": "Racism"
     }
 }
