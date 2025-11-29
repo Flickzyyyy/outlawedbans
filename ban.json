@@ -1030,5 +1030,9 @@
     "jordanbentley1001": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage(11)"
+    },
+    "PJNova1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
