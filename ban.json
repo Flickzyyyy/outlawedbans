@@ -1062,5 +1062,9 @@
     "caseohslilbro": {
         "banneduntil": "2025/12/12",
         "BanReason": "f slur"
+    },
+    "frogGuy135": {
+        "banneduntil": "2025/11/29",
+        "BanReason": "RDM"
     }
 }
