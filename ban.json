@@ -1074,5 +1074,9 @@
     "Flawless_X": {
         "banneduntil": "2025/12/4",
         "BanReason": "Cop targeting"
+    },
+    "Quixgta": {
+        "banneduntil": "2025/12/6",
+        "BanReason": "cop targeting"
     }
 }
