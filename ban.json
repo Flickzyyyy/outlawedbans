@@ -1078,5 +1078,9 @@
     "tw1xy3": {
         "banneduntil": "2067/6/7",
         "BanReason": "Hard R"
+    },
+    "goonbros2": {
+        "banneduntil": "2025/11/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
