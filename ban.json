@@ -1078,5 +1078,9 @@
     "Quixgta": {
         "banneduntil": "2025/12/6",
         "BanReason": "cop targeting"
+    },
+    "SillyIndividual": {
+        "banneduntil": "2025/12/2",
+        "BanReason": "Rdm"
     }
 }
