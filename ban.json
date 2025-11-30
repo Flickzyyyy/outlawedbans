@@ -1070,5 +1070,9 @@
     "Punicletickle": {
         "banneduntil": "2025/12/3",
         "BanReason": "RDM clip"
+    },
+    "Flawless_X": {
+        "banneduntil": "2025/12/4",
+        "BanReason": "Cop targeting"
     }
 }
