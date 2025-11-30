@@ -1086,5 +1086,9 @@
     "JumpingPufferfish6143": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage(11)"
+    },
+    "PasteMaster": {
+        "banneduntil": "2025/12/6",
+        "BanReason": "Mass Rdm"
     }
 }
