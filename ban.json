@@ -215,17 +215,9 @@
         "banneduntil": "2026/3/1",
         "BanReason": "Underage(12)"
     },
-    "kingthe8": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "CopTargetijg/RDM"
-    },
     "dimin": {
         "banneduntil": "2026/11/9",
         "BanReason": "underage"
-    },
-    "cj.sharkbee": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "Soft A"
     },
     "StephanBandera ": {
         "banneduntil": "2999/11/30",
@@ -691,10 +683,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
     },
-    "peanutbuttershitter": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "Evasion 2x"
-    },
     "Methinator": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
@@ -743,10 +731,6 @@
         "banneduntil": "2026/11/10",
         "BanReason": "Underage"
     },
-    "YummyBanana Yum": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "Cop targeting/evasion"
-    },
     "moneymitch.2005": {
         "banneduntil": "2025/12/07",
         "BanReason": "Soft a(not casual)"
@@ -754,10 +738,6 @@
     "Dick.Penis": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
-    },
-    "random.romanian.communist": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "Rdm and evasion"
     },
     "vegasnig.2025": {
         "banneduntil": "2025/12/14",
@@ -895,17 +875,9 @@
         "banneduntil": "2025/12/1",
         "BanReason": "Ban redo - player was in game"
     },
-    "sticky_tip23": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "RDM & Evasion"
-    },
     "def.not.caleb": {
         "banneduntil": "2025/12/10",
         "BanReason": "sexual harassment"
-    },
-    "PianoGuy124": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "Cop Targeting & Evasion"
     },
     "EvankNight3617": {
         "banneduntil": "2067/11/27",
@@ -966,10 +938,6 @@
     "John.Martson": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
-    },
-    "Flickzer": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "RDM"
     },
     "Bean1_Soup1": {
         "banneduntil": "2099/1/1",
@@ -1078,9 +1046,5 @@
     "tw1xy3": {
         "banneduntil": "2067/6/7",
         "BanReason": "Hard R"
-    },
-    "goonbros2": {
-        "banneduntil": "2025/11/30",
-        "BanReason": "RDM/Cop Targeting"
     }
 }
