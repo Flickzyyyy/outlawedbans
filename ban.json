@@ -1070,5 +1070,9 @@
     "chinesetoetag": {
         "banneduntil": "2037/11/11",
         "BanReason": "hard r"
+    },
+    "SmallTatertots": {
+        "banneduntil": "2025/12/1",
+        "BanReason": "Rdm clip"
     }
 }
