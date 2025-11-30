@@ -1054,5 +1054,9 @@
     "Wiseman2021": {
         "banneduntil": "2026/12/01",
         "BanReason": "underage evasion, never specified age so i just gave a year"
+    },
+    "Pyro_BOT": {
+        "banneduntil": "2025/12/13",
+        "BanReason": "f slur"
     }
 }
