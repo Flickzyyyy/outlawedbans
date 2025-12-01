@@ -1146,5 +1146,9 @@
     "CARTOONZ0078989": {
         "banneduntil": "2025/12/13",
         "BanReason": "F slur"
+    },
+    "Wanted_Rosina": {
+        "banneduntil": "2025/12/2",
+        "BanReason": "Rdm"
     }
 }
