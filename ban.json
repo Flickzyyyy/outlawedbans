@@ -1134,5 +1134,9 @@
     "BBoys24": {
         "banneduntil": "2025/12/7",
         "BanReason": "Spawn Camping"
+    },
+    "Rosario": {
+        "banneduntil": "2027/12/1",
+        "BanReason": "Underage"
     }
 }
