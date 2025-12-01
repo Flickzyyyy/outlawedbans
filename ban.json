@@ -1114,5 +1114,9 @@
     "Adot4179": {
         "banneduntil": "2026/2/1",
         "BanReason": "Underage"
+    },
+    "manofhonor": {
+        "banneduntil": "2025/12/7",
+        "BanReason": "Spawn Camping"
     }
 }
