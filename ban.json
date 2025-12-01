@@ -1126,5 +1126,9 @@
     "sword.256664": {
         "banneduntil": "2025/12/7",
         "BanReason": "Spawn Camping"
+    },
+    "dullllish": {
+        "banneduntil": "2025/12/7",
+        "BanReason": "spawn camping"
     }
 }
