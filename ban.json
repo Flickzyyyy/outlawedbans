@@ -1122,5 +1122,9 @@
     "Sky_F0rged": {
         "banneduntil": "2025/12/7",
         "BanReason": "Spawn Camping"
+    },
+    "sword.256664": {
+        "banneduntil": "2025/12/7",
+        "BanReason": "Spawn Camping"
     }
 }
