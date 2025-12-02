@@ -1062,5 +1062,9 @@
     "JaxHami": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "KidewVr": {
+        "banneduntil": "2025/12/16",
+        "BanReason": "F Slur"
     }
 }
