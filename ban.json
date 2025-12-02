@@ -1086,5 +1086,9 @@
     "kingthe8": {
         "banneduntil": "2025/12/8",
         "BanReason": "Spawn Camping Clip"
+    },
+    "RothchildDescendant": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
