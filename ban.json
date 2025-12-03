@@ -1086,5 +1086,9 @@
     "TheFallingEclipse": {
         "banneduntil": "2067/11/2",
         "BanReason": "hard r"
+    },
+    "1660ti": {
+        "banneduntil": "2025/12/6",
+        "BanReason": "RDM"
     }
 }
