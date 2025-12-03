@@ -1126,5 +1126,9 @@
     "dunder.bunder7": {
         "banneduntil": "2025/12/3",
         "BanReason": "rdm"
+    },
+    "TheFallingEclipse": {
+        "banneduntil": "2067/11/2",
+        "BanReason": "hard r"
     }
 }
