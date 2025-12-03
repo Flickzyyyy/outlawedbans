@@ -1102,5 +1102,9 @@
     "TheFlyingRGamer": {
         "banneduntil": "2025/12/6",
         "BanReason": "RDM"
+    },
+    "FuzzyTomcat1": {
+        "banneduntil": "2025/12/5",
+        "BanReason": "Cop Targeting"
     }
 }
