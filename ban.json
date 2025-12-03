@@ -1122,5 +1122,9 @@
     "thfjb": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "dunder.bunder7": {
+        "banneduntil": "2025/12/3",
+        "BanReason": "rdm"
     }
 }
