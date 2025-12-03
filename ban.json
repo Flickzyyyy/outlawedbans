@@ -1102,5 +1102,9 @@
     "skelators": {
         "banneduntil": "2029/3/8",
         "BanReason": "Underage (10 year old)"
+    },
+    "NoodleboyVR486": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
