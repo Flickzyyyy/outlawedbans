@@ -1094,5 +1094,9 @@
     "Baconaten": {
         "banneduntil": "2025/12/17",
         "BanReason": "Camping and Evading"
+    },
+    "GreenSkies13": {
+        "banneduntil": "2025/12/17",
+        "BanReason": "Camping and Evading"
     }
 }
