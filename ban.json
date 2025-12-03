@@ -1098,5 +1098,9 @@
     "komodo.well": {
         "banneduntil": "2025/12/16",
         "BanReason": "Mass RDM + Evading"
+    },
+    "TheFlyingRGamer": {
+        "banneduntil": "2025/12/6",
+        "BanReason": "RDM"
     }
 }
