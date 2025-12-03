@@ -1114,5 +1114,9 @@
     "Neon9112": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "markismessi1": {
+        "banneduntil": "2025/12/5",
+        "BanReason": "RDM"
     }
 }
