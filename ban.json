@@ -1094,5 +1094,9 @@
     "goonbros3": {
         "banneduntil": "2025/12/9",
         "BanReason": "Mass rdm"
+    },
+    "komodo.well": {
+        "banneduntil": "2025/12/16",
+        "BanReason": "Mass RDM + Evading"
     }
 }
