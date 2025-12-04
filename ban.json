@@ -1146,5 +1146,9 @@
     "Omni_Sapien": {
         "banneduntil": "2025/12/8",
         "BanReason": "Rdm + ban evasion"
+    },
+    "Skip_The_Hunter": {
+        "banneduntil": "2026/9/16",
+        "BanReason": "underage (12 year old)"
     }
 }
