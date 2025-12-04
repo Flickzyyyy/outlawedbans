@@ -1122,5 +1122,9 @@
     "Skip_The_Hunter": {
         "banneduntil": "2026/9/16",
         "BanReason": "underage (12 year old)"
+    },
+    "diddyhimself": {
+        "banneduntil": "2099/12/4",
+        "BanReason": "Hard R"
     }
 }
