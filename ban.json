@@ -1134,5 +1134,9 @@
     "WalterWhitenut": {
         "banneduntil": "2099/12/11",
         "BanReason": "Hard r and soft and and rdm"
+    },
+    "defnotFinn": {
+        "banneduntil": "2025/12/7",
+        "BanReason": "rdm after a verbal warning and leaving sit"
     }
 }
