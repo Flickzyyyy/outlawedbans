@@ -1190,5 +1190,9 @@
     "Odellclan": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "GJG1": {
+        "banneduntil": "2025/12/10",
+        "BanReason": "CAMPING/ RDM"
     }
 }
