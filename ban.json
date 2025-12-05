@@ -1178,5 +1178,9 @@
     "grifterslob": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "grifterslop": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
