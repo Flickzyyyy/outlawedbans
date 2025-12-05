@@ -1182,5 +1182,9 @@
     "zProfiles": {
         "banneduntil": "2099/12/7",
         "BanReason": "racism+hard r"
+    },
+    "Gun.slinger": {
+        "banneduntil": "2025/12/8",
+        "BanReason": "RDM2 people in front of me and then left the admin sit"
     }
 }
