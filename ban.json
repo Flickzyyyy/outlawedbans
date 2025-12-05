@@ -1202,5 +1202,9 @@
     "RohanSteel": {
         "banneduntil": "2025/12/9",
         "BanReason": "Rdm+Evasion"
+    },
+    "Z4IN.67": {
+        "banneduntil": "2099/12/5",
+        "BanReason": "Hard r"
     }
 }
