@@ -1178,5 +1178,9 @@
     "Gentlemen_1945": {
         "banneduntil": "2025/12/7",
         "BanReason": "warning and then rdm"
+    },
+    "zProfiles": {
+        "banneduntil": "2099/12/7",
+        "BanReason": "racism+hard r"
     }
 }
