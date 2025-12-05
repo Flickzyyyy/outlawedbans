@@ -1186,5 +1186,9 @@
     "Ihate4aud1o": {
         "banneduntil": "2025/12/10",
         "BanReason": "Rdm and evasion"
+    },
+    "Odellclan": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
