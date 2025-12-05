@@ -1174,5 +1174,9 @@
     "hotel.businessman": {
         "banneduntil": "2025/12/10",
         "BanReason": "Rdm and evasion"
+    },
+    "grifterslob": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
