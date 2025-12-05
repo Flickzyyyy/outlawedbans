@@ -1154,5 +1154,9 @@
     "mooooooooooo000000000000000000": {
         "banneduntil": "2025/12/7",
         "BanReason": "RDM"
+    },
+    "michael.is.better.than.don": {
+        "banneduntil": "2099/12/4",
+        "BanReason": "Hard r"
     }
 }
