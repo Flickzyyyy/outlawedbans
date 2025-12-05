@@ -1190,5 +1190,9 @@
     "cheese1290": {
         "banneduntil": "2025/12/28",
         "BanReason": "Mass Rdm+Evasion"
+    },
+    "Batteryeater76": {
+        "banneduntil": "2025/12/5",
+        "BanReason": "rdm"
     }
 }
