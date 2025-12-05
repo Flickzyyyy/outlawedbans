@@ -1182,5 +1182,9 @@
     "grifterslop": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Ihate4aud1o": {
+        "banneduntil": "2025/12/10",
+        "BanReason": "Rdm and evasion"
     }
 }
