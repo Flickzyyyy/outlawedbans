@@ -1166,5 +1166,9 @@
     "Wickland": {
         "banneduntil": "2025/12/6",
         "BanReason": "rdm"
+    },
+    "ironkidthebeast": {
+        "banneduntil": "2025/12/8",
+        "BanReason": "RDM"
     }
 }
