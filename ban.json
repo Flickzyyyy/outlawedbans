@@ -1266,5 +1266,9 @@
     "Khymobero": {
         "banneduntil": "2025/12/11",
         "BanReason": "Rdm+evasion"
+    },
+    "dan.63": {
+        "banneduntil": "2099/12/6",
+        "BanReason": "Hard r+fixing time"
     }
 }
