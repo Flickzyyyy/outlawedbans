@@ -1234,5 +1234,9 @@
     "Excessive81205": {
         "banneduntil": "2025/12/10",
         "BanReason": "RDM + Evasion"
+    },
+    "zehang.yu.2024": {
+        "banneduntil": "2067/11/11",
+        "BanReason": "hard r"
     }
 }
