@@ -1238,5 +1238,9 @@
     "SpineNibbler": {
         "banneduntil": "2025/12/10",
         "BanReason": "Rdm+Evasion"
+    },
+    "ilymuggs": {
+        "banneduntil": "2099/12/6",
+        "BanReason": "hard r"
     }
 }
