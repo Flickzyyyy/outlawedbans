@@ -1206,5 +1206,9 @@
     "Z4IN.67": {
         "banneduntil": "2099/12/5",
         "BanReason": "Hard r"
+    },
+    "bigbackslave": {
+        "banneduntil": "2027/4/16",
+        "BanReason": "underage"
     }
 }
