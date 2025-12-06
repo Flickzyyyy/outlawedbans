@@ -1226,5 +1226,9 @@
     "NeonWrenViktor6745": {
         "banneduntil": "2099/12/5",
         "BanReason": "Alting"
+    },
+    "Pre.March.14": {
+        "banneduntil": "2027/12/5",
+        "BanReason": "underage"
     }
 }
