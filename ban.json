@@ -1218,5 +1218,9 @@
     "nignog223p": {
         "banneduntil": "2099/12/5",
         "BanReason": "Underage"
+    },
+    "Coolchip2.0": {
+        "banneduntil": "2025/12/9",
+        "BanReason": "Rdm+Evade"
     }
 }
