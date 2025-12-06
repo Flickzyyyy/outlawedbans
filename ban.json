@@ -1278,5 +1278,9 @@
     "Horror_story": {
         "banneduntil": "2025/12/10",
         "BanReason": "Rdm"
+    },
+    "GeorgeStayPuft": {
+        "banneduntil": "2025/12/7",
+        "BanReason": "RDM CLIP"
     }
 }
