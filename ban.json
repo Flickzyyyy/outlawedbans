@@ -1274,5 +1274,9 @@
     "Richardbaze": {
         "banneduntil": "2025/12/21",
         "BanReason": "mass rdm+evasion"
+    },
+    "Horror_story": {
+        "banneduntil": "2025/12/10",
+        "BanReason": "Rdm"
     }
 }
