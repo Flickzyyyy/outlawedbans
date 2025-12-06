@@ -1214,5 +1214,9 @@
     "koreeDOOM": {
         "banneduntil": "2025/12/7",
         "BanReason": "rdm via clip"
+    },
+    "nignog223p": {
+        "banneduntil": "2099/12/5",
+        "BanReason": "Underage"
     }
 }
