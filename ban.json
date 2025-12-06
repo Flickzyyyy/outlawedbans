@@ -1234,5 +1234,9 @@
     "Ghost6866": {
         "banneduntil": "2099/12/6",
         "BanReason": "hard r"
+    },
+    "SpineNibbler": {
+        "banneduntil": "2025/12/10",
+        "BanReason": "Rdm+Evasion"
     }
 }
