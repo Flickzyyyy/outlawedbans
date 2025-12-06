@@ -1206,5 +1206,9 @@
     "Millie31": {
         "banneduntil": "2025/12/10",
         "BanReason": "Rdm x2 (also messed up date)"
+    },
+    "random.romanian.communist": {
+        "banneduntil": "2025/12/8",
+        "BanReason": "Rdm"
     }
 }
