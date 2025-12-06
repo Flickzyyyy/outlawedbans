@@ -1230,5 +1230,9 @@
     "Pre.March.14": {
         "banneduntil": "2027/12/5",
         "BanReason": "underage"
+    },
+    "Excessive81205": {
+        "banneduntil": "2025/12/10",
+        "BanReason": "RDM + Evasion"
     }
 }
