@@ -1302,5 +1302,9 @@
     "DOCHOLLIDAY84": {
         "banneduntil": "2025/12/14",
         "BanReason": "Mass rdm"
+    },
+    "tatan1234": {
+        "banneduntil": "2025/12/11",
+        "BanReason": "Rdm"
     }
 }
