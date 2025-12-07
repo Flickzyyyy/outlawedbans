@@ -1310,5 +1310,9 @@
     "Jay.is.teething": {
         "banneduntil": "2025/12/11",
         "BanReason": "Rdm+evasion"
+    },
+    "MusleyCoe": {
+        "banneduntil": "2025/12/12",
+        "BanReason": "Rdm+Evasion"
     }
 }
