@@ -1314,5 +1314,9 @@
     "moslecore ": {
         "banneduntil": "2025/12/8",
         "BanReason": "RDM killed someone while in a riot"
+    },
+    "Zack7247": {
+        "banneduntil": "2026/12/7",
+        "BanReason": "Underage"
     }
 }
