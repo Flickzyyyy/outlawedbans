@@ -1274,5 +1274,9 @@
     "MrSuitThe1st": {
         "banneduntil": "2025/12/11",
         "BanReason": "RDM+Evasion"
+    },
+    "DeerBeingInterviewed9072": {
+        "banneduntil": "2099/11/23",
+        "BanReason": "Hard R + Slur baiting"
     }
 }
