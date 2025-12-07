@@ -1306,5 +1306,9 @@
     "tatan1234": {
         "banneduntil": "2025/12/9",
         "BanReason": "Abuse with menu(fix)"
+    },
+    "Jay.is.teething": {
+        "banneduntil": "2025/12/11",
+        "BanReason": "Rdm+evasion"
     }
 }
