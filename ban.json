@@ -1310,5 +1310,9 @@
     "bigni99r67": {
         "banneduntil": "2099/12/23",
         "BanReason": "racism"
+    },
+    "moslecore ": {
+        "banneduntil": "2025/12/8",
+        "BanReason": "RDM killed someone while in a riot"
     }
 }
