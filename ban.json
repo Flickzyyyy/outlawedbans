@@ -1294,5 +1294,9 @@
     "habib.6980000": {
         "banneduntil": "2025/12/14",
         "BanReason": "Harrasment"
+    },
+    "habib.698000": {
+        "banneduntil": "2025/12/14",
+        "BanReason": "Harrasment*Fix"
     }
 }
