@@ -1310,5 +1310,9 @@
     "grapegroda": {
         "banneduntil": "2025/12/23",
         "BanReason": "f slur"
+    },
+    "THELASTMASTERwins": {
+        "banneduntil": "2025/12/22",
+        "BanReason": "sexual harassment"
     }
 }
