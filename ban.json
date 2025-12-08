@@ -1290,5 +1290,9 @@
     "Soprano411": {
         "banneduntil": "2099/12/7",
         "BanReason": "Sexual harassment towards minor"
+    },
+    "BourbonMorgan": {
+        "banneduntil": "2025/12/23",
+        "BanReason": "Rdm(exsisve bans)"
     }
 }
