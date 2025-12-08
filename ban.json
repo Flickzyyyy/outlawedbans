@@ -1318,5 +1318,9 @@
     "woltyzer": {
         "banneduntil": "2099/12/7",
         "BanReason": "sexual harassment towards a minor"
+    },
+    "YOU.KNOW.VIKTOR": {
+        "banneduntil": "2025/12/10",
+        "BanReason": "rdm clip"
     }
 }
