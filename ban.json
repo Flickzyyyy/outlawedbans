@@ -1330,5 +1330,9 @@
     "Machiavellian_Man": {
         "banneduntil": "2025/12/11",
         "BanReason": "Rdm"
+    },
+    "jimbojr953": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
