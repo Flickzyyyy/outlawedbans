@@ -1362,5 +1362,9 @@
     "1988-Ford-F150": {
         "banneduntil": "2099/12/8",
         "BanReason": "Sexual harassment towards a minor"
+    },
+    "adolf.drippler.24102": {
+        "banneduntil": "2099/12/8",
+        "BanReason": "NSFW pfp"
     }
 }
