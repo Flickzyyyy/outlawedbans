@@ -1358,5 +1358,9 @@
     "Personn_T": {
         "banneduntil": "2025/12/23",
         "BanReason": "Sexual Harassment"
+    },
+    "Jjswx": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
