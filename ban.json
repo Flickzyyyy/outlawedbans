@@ -1346,5 +1346,9 @@
     "Quixgta": {
         "banneduntil": "2025/12/13",
         "BanReason": "Cop Targeting"
+    },
+    "peashoota_jr": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT Jimmy Bob"
     }
 }
