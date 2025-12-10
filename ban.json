@@ -1378,5 +1378,9 @@
     "DESTROYERGREY8": {
         "banneduntil": "2025/12/13",
         "BanReason": "rdm and evasion"
+    },
+    "billthekid1870": {
+        "banneduntil": "2025/12/12",
+        "BanReason": "rdm+ evasion"
     }
 }
