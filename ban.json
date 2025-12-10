@@ -1307,10 +1307,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "ANOTHER FUCKING ALT"
     },
-    "MrNobody188": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "Unban(appealed)"
-    },
     "1988-Ford-F150": {
         "banneduntil": "2099/12/8",
         "BanReason": "Sexual harassment towards a minor"
@@ -1346,9 +1342,5 @@
     "crazyjimmybob69": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
-    },
-    "MrNobody187": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "Unban"
     }
 }
