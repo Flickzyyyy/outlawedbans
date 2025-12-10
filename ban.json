@@ -1350,5 +1350,9 @@
     "peashoota_jr": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT Jimmy Bob"
+    },
+    "sword.256664": {
+        "banneduntil": "2025/12/23",
+        "BanReason": "Sexual Harassment"
     }
 }
