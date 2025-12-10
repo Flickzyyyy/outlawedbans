@@ -1354,5 +1354,9 @@
     "Yeraz.002": {
         "banneduntil": "2025/12/14",
         "BanReason": "Rdm+Evasion"
+    },
+    "broschbro": {
+        "banneduntil": "2099/12/10",
+        "BanReason": "Hard R"
     }
 }
