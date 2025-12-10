@@ -1318,5 +1318,9 @@
     "KillingPunk1234": {
         "banneduntil": "2025/12/14",
         "BanReason": "Rdm+Evasion"
+    },
+    "OperatorClippy": {
+        "banneduntil": "2025/12/13",
+        "BanReason": "RDM Clip"
     }
 }
