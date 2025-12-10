@@ -1358,5 +1358,9 @@
     "broschbro": {
         "banneduntil": "2099/12/10",
         "BanReason": "Hard R"
+    },
+    "Psycho2000": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "Underaged"
     }
 }
