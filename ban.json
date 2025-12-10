@@ -1322,5 +1322,9 @@
     "OperatorClippy": {
         "banneduntil": "2025/12/13",
         "BanReason": "Cop Targeting Clip"
+    },
+    "Cptwimp1": {
+        "banneduntil": "2025/12/13",
+        "BanReason": "Spawn Camping"
     }
 }
