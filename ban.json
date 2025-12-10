@@ -1374,5 +1374,9 @@
     "C.J.O": {
         "banneduntil": "2099/12/12",
         "BanReason": "hard r"
+    },
+    "DESTROYERGREY8": {
+        "banneduntil": "2025/12/13",
+        "BanReason": "rdm and evasion"
     }
 }
