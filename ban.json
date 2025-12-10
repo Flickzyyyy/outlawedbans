@@ -1362,5 +1362,9 @@
     "Psycho2000": {
         "banneduntil": "2029/1/1",
         "BanReason": "Underaged"
+    },
+    "Hammer3309": {
+        "banneduntil": "2025/12/13",
+        "BanReason": "Rdm"
     }
 }
