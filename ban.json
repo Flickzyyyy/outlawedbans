@@ -1382,5 +1382,9 @@
     "billthekid1870": {
         "banneduntil": "2025/12/12",
         "BanReason": "rdm+ evasion"
+    },
+    "music.man2011": {
+        "banneduntil": "2099/12/12",
+        "BanReason": "hard R"
     }
 }
