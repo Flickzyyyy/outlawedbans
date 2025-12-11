@@ -1350,5 +1350,9 @@
     "NOIMNOTVIKTOR": {
         "banneduntil": "2025/12/18",
         "BanReason": "rdm and evasion"
+    },
+    "billythekid1870": {
+        "banneduntil": "2025/12/16",
+        "BanReason": "rdm and killing during sit"
     }
 }
