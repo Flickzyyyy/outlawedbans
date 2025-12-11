@@ -1378,5 +1378,9 @@
     "kirbusss": {
         "banneduntil": "2025/12/14",
         "BanReason": "RDM AND EVASION"
+    },
+    "FTOPLAYA": {
+        "banneduntil": "2025/12/24",
+        "BanReason": "Soft A, and harassment."
     }
 }
