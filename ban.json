@@ -1374,5 +1374,9 @@
     "Tayvenator09": {
         "banneduntil": "2099/12/16",
         "BanReason": "hard r"
+    },
+    "DwindleFleaFlyer": {
+        "banneduntil": "2025/12/14",
+        "BanReason": "rdm"
     }
 }
