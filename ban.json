@@ -1394,5 +1394,9 @@
     "bradley_pony": {
         "banneduntil": "2026/1/12",
         "BanReason": "Rdm+soft a +evasion"
+    },
+    "d.01.b": {
+        "banneduntil": "2026/12/12",
+        "BanReason": "12 years old"
     }
 }
