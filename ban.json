@@ -1378,5 +1378,9 @@
     "DwindleFleaFlyer": {
         "banneduntil": "2025/12/14",
         "BanReason": "rdm"
+    },
+    "parker.912739": {
+        "banneduntil": "2025/12/26",
+        "BanReason": "F-slur"
     }
 }
