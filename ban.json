@@ -1398,5 +1398,9 @@
     "destroyerava": {
         "banneduntil": "2026/8/1",
         "BanReason": "Underage(12)"
+    },
+    "Xverse17": {
+        "banneduntil": "2025/12/18",
+        "BanReason": "Mass rdm"
     }
 }
