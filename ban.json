@@ -1410,5 +1410,9 @@
     "walnut_the_destroyer": {
         "banneduntil": "2099/12/13",
         "BanReason": "Hard r"
+    },
+    "weirdboy12": {
+        "banneduntil": "2026/12/13",
+        "BanReason": "underage (12)"
     }
 }
