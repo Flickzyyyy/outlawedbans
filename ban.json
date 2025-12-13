@@ -1418,5 +1418,9 @@
     "Gentlemen_1945": {
         "banneduntil": "2025/12/14",
         "BanReason": "abusing suicide  +evasion"
+    },
+    "boycraftable": {
+        "banneduntil": "2025/12/15",
+        "BanReason": "RDM"
     }
 }
