@@ -1398,5 +1398,9 @@
     "d.01.b": {
         "banneduntil": "2026/12/12",
         "BanReason": "12 years old"
+    },
+    "mcflopper13.2025": {
+        "banneduntil": "2025/12/17",
+        "BanReason": "Rdm+Evasion"
     }
 }
