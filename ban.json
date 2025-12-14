@@ -1462,5 +1462,9 @@
     "monkey_chicken": {
         "banneduntil": "2025/12/18",
         "BanReason": "rdm+Evasion"
+    },
+    "LickMcCrevis": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "F-Slur+Evasion"
     }
 }
