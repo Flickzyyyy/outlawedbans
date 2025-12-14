@@ -1438,5 +1438,9 @@
     "Thatchman.2013": {
         "banneduntil": "2026/12/14",
         "BanReason": "underage"
+    },
+    "zombiechamp2334": {
+        "banneduntil": "2025/12/18",
+        "BanReason": "Rdm+Evasion"
     }
 }
