@@ -1458,5 +1458,9 @@
     "SpikyAlpaca9693": {
         "banneduntil": "2099/1/1",
         "BanReason": "Extreme Racism"
+    },
+    "monkey_chicken": {
+        "banneduntil": "2025/12/18",
+        "BanReason": "rdm+Evasion"
     }
 }
