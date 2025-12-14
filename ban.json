@@ -1434,5 +1434,9 @@
     "bluefox.1178": {
         "banneduntil": "2025/12/15",
         "BanReason": "RDM - Ticket"
+    },
+    "CALISAINT.209": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "tried to demonstrate someone saying the hard r by saying it himself"
     }
 }
