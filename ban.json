@@ -1422,5 +1422,9 @@
     "556_AP_FMJ": {
         "banneduntil": "2025/12/18",
         "BanReason": "Rdm+Evasion"
+    },
+    "wildhockeyplayer.202424": {
+        "banneduntil": "2026/12/13",
+        "BanReason": "Underage(12)"
     }
 }
