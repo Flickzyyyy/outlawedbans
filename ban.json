@@ -1418,5 +1418,9 @@
     "ArkGoesCrazy": {
         "banneduntil": "2025/12/28",
         "BanReason": "Mass rdm+Evasion"
+    },
+    "556_AP_FMJ": {
+        "banneduntil": "2025/12/18",
+        "BanReason": "Rdm+Evasion"
     }
 }
