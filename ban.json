@@ -1430,5 +1430,9 @@
     "DundleFlipFlapper": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting"
+    },
+    "bluefox.1178": {
+        "banneduntil": "2025/12/15",
+        "BanReason": "RDM - Ticket"
     }
 }
