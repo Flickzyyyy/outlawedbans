@@ -1450,5 +1450,9 @@
     "Z4IN_202": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "triple_peashoota": {
+        "banneduntil": "2099/12/14",
+        "BanReason": "Alt account"
     }
 }
