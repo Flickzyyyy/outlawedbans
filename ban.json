@@ -1446,5 +1446,9 @@
     "bokbok11": {
         "banneduntil": "2025/12/28",
         "BanReason": "f slur"
+    },
+    "Z4IN_202": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
