@@ -1418,5 +1418,9 @@
     "applesauce33": {
         "banneduntil": "2099/12/14",
         "BanReason": "hard r spam"
+    },
+    "jax2022.39242": {
+        "banneduntil": "2025/12/18",
+        "BanReason": "rdm+evasion"
     }
 }
