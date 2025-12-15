@@ -1466,5 +1466,9 @@
     "mason.lucas.114969": {
         "banneduntil": "2027/12/15",
         "BanReason": "ubderage(11)"
+    },
+    "roantheterrible": {
+        "banneduntil": "2026/12/15",
+        "BanReason": "Underage(12)"
     }
 }
