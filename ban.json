@@ -1458,5 +1458,9 @@
     "drzoomboss635": {
         "banneduntil": "2026/1/1",
         "BanReason": "N-Word soft A + RDM (Ticket)"
+    },
+    "Bluestonecreater": {
+        "banneduntil": "2025/12/19",
+        "BanReason": "Rdm+Evasion"
     }
 }
