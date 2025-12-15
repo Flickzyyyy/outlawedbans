@@ -1462,5 +1462,9 @@
     "LickMcCrevis": {
         "banneduntil": "2026/1/1",
         "BanReason": "F-Slur+Evasion"
+    },
+    "Drca38": {
+        "banneduntil": "2025/12/19",
+        "BanReason": "rdm+evasion"
     }
 }
