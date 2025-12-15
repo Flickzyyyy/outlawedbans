@@ -1470,5 +1470,9 @@
     "PickleKing": {
         "banneduntil": "2025/12/15",
         "BanReason": "rdm (clip)"
+    },
+    "triple_soilder285": {
+        "banneduntil": "2099/12/15",
+        "BanReason": "alting"
     }
 }
