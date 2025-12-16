@@ -1454,5 +1454,9 @@
     "Arsenal_24": {
         "banneduntil": "2025/12/18",
         "BanReason": "RDM"
+    },
+    "zombiechamp2334": {
+        "banneduntil": "2025/12/22",
+        "BanReason": "Mass Rdm"
     }
 }
