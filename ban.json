@@ -1470,5 +1470,9 @@
     "roantheterrible": {
         "banneduntil": "2026/12/15",
         "BanReason": "Underage(12)"
+    },
+    "RickyDickyDooDah_Grimez": {
+        "banneduntil": "2025/12/19",
+        "BanReason": "RDM/EVASION"
     }
 }
