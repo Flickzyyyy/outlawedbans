@@ -1458,5 +1458,9 @@
     "zombiechamp2334": {
         "banneduntil": "2025/12/22",
         "BanReason": "Mass Rdm"
+    },
+    "DingleFlipFlipper": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "Soft a"
     }
 }
