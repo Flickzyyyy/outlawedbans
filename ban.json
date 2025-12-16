@@ -1478,5 +1478,9 @@
     "RickyDickyDooDah_Grimes": {
         "banneduntil": "2025/12/19",
         "BanReason": "RDM/EVASION"
+    },
+    "RickyDickyDooDah__Grimes": {
+        "banneduntil": "2025/12/19",
+        "BanReason": "RDM/EVASION"
     }
 }
