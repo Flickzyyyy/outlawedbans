@@ -1470,5 +1470,9 @@
     "DiddleFlintFracker": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "themostrapedmanever": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
