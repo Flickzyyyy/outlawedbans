@@ -1494,5 +1494,9 @@
     "Britishamerican1776": {
         "banneduntil": "2025/12/20",
         "BanReason": "RDM"
+    },
+    "Ipzvx.": {
+        "banneduntil": "2025/12/21",
+        "BanReason": "Rdm and evasion"
     }
 }
