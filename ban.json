@@ -1486,5 +1486,9 @@
     "AOD_TJ": {
         "banneduntil": "2025/12/30",
         "BanReason": "F SLUR"
+    },
+    "FreakyYN_300BC": {
+        "banneduntil": "2025/12/20",
+        "BanReason": "RDM"
     }
 }
