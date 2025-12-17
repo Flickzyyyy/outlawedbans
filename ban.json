@@ -1490,5 +1490,9 @@
     "dsliding": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT BOYS"
+    },
+    "ennword.elric": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT BOYS"
     }
 }
