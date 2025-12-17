@@ -1474,5 +1474,9 @@
     "themostrapedmanever": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "coroncae": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R Clip"
     }
 }
