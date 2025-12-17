@@ -1490,5 +1490,9 @@
     "FreakyYN_300BC": {
         "banneduntil": "2025/12/20",
         "BanReason": "RDM"
+    },
+    "Britishamerican1776": {
+        "banneduntil": "2025/12/20",
+        "BanReason": "RDM"
     }
 }
