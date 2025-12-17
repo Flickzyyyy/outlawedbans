@@ -1466,5 +1466,9 @@
     "DwindleFleaFlyer ": {
         "banneduntil": "2026/1/14",
         "BanReason": "Alt Double + 2 Weeks for Soft A"
+    },
+    "DiddleFlintFracker": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alr"
     }
 }
