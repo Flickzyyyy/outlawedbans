@@ -1486,5 +1486,9 @@
     "sos.kial ": {
         "banneduntil": "2026/7/9",
         "BanReason": "under age"
+    },
+    "carman828": {
+        "banneduntil": "2099/12/11",
+        "BanReason": "said hard R in his own Player Report\ud83d\ude2d"
     }
 }
