@@ -1498,5 +1498,9 @@
     "Ipzvx.": {
         "banneduntil": "2025/12/21",
         "BanReason": "Rdm and evasion"
+    },
+    "HudMoney": {
+        "banneduntil": "2025/12/20",
+        "BanReason": "RDM Clip"
     }
 }
