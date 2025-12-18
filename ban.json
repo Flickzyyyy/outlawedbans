@@ -1502,5 +1502,9 @@
     "HudMoney": {
         "banneduntil": "2025/12/20",
         "BanReason": "RDM Clip"
+    },
+    "scorpo687": {
+        "banneduntil": "2028/5/6",
+        "BanReason": "RDM Clip"
     }
 }
