@@ -1494,5 +1494,9 @@
     "MJAT": {
         "banneduntil": "2025/12/20",
         "BanReason": "RDM CLIP"
+    },
+    "Fuzzytomcat": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
