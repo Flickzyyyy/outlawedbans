@@ -1498,5 +1498,9 @@
     "Fuzzytomcat": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "Leader_of_the_cool_kids_klan": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Racist Name"
     }
 }
