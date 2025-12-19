@@ -1534,5 +1534,9 @@
     "roadwarrior2.01": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "FALCON.667": {
+        "banneduntil": "2025/12/21",
+        "BanReason": "RDM CLIP"
     }
 }
