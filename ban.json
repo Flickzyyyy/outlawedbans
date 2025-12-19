@@ -1327,10 +1327,6 @@
         "banneduntil": "2026/1/1",
         "BanReason": "F-Slur+Evasion"
     },
-    "Drca38": {
-        "banneduntil": "2025/12/19",
-        "BanReason": "rdm+evasion"
-    },
     "triple_soilder285": {
         "banneduntil": "2099/12/15",
         "BanReason": "alting"
@@ -1351,10 +1347,6 @@
         "banneduntil": "2026/1/1",
         "BanReason": "N-Word soft A + RDM (Ticket)"
     },
-    "Bluestonecreater": {
-        "banneduntil": "2025/12/19",
-        "BanReason": "Rdm+Evasion"
-    },
     "mason.lucas.114969": {
         "banneduntil": "2027/12/15",
         "BanReason": "ubderage(11)"
@@ -1362,18 +1354,6 @@
     "roantheterrible": {
         "banneduntil": "2026/12/15",
         "BanReason": "Underage(12)"
-    },
-    "RickyDickyDooDah_Grimez": {
-        "banneduntil": "2025/12/19",
-        "BanReason": "RDM/EVASION"
-    },
-    "RickyDickyDooDah_Grimes": {
-        "banneduntil": "2025/12/19",
-        "BanReason": "RDM/EVASION"
-    },
-    "RickyDickyDooDah__Grimes": {
-        "banneduntil": "2025/12/19",
-        "BanReason": "RDM/EVASION"
     },
     "Y_u_mad_210": {
         "banneduntil": "2025/12/29",
@@ -1506,9 +1486,5 @@
     "AmericanDADDY": {
         "banneduntil": "2025/12/21",
         "BanReason": "rdm+eavison"
-    },
-    "SlowRanger": {
-        "banneduntil": "2025/12/19",
-        "BanReason": "Abusing Suicide"
     }
 }
