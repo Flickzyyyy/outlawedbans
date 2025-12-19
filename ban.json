@@ -1502,5 +1502,9 @@
     "Leader_of_the_cool_kids_klan": {
         "banneduntil": "2099/1/1",
         "BanReason": "Racist Name"
+    },
+    "lesolarjr": {
+        "banneduntil": "2028/12/18",
+        "BanReason": "Underaged Clip"
     }
 }
