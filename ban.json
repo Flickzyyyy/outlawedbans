@@ -1502,5 +1502,9 @@
     "lesolarjr": {
         "banneduntil": "2028/12/18",
         "BanReason": "Underaged Clip"
+    },
+    "AmericanDADDY": {
+        "banneduntil": "2025/12/21",
+        "BanReason": "rdm+eavison"
     }
 }
