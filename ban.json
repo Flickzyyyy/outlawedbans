@@ -1506,5 +1506,9 @@
     "AmericanDADDY": {
         "banneduntil": "2025/12/21",
         "BanReason": "rdm+eavison"
+    },
+    "SlowRanger": {
+        "banneduntil": "2025/12/19",
+        "BanReason": "Abusing Suicide"
     }
 }
