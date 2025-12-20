@@ -1586,5 +1586,9 @@
     "cam_skattebo": {
         "banneduntil": "2028/5/1",
         "BanReason": "underage (10)"
+    },
+    "blosser.2023": {
+        "banneduntil": "2025/12/11",
+        "BanReason": "RDM"
     }
 }
