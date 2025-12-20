@@ -1550,5 +1550,9 @@
     "Quigley67": {
         "banneduntil": "2099/12/12",
         "BanReason": "Alt"
+    },
+    "soursplash": {
+        "banneduntil": "2026/12/15",
+        "BanReason": "underage"
     }
 }
