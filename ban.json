@@ -1578,5 +1578,9 @@
     "Clixe0_0": {
         "banneduntil": "2025/12/25",
         "BanReason": "Cop Targeting + Evasion"
+    },
+    "Batteryeater76": {
+        "banneduntil": "2025/12/25",
+        "BanReason": "Cop Targeting + Evasion"
     }
 }
