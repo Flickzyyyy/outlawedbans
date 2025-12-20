@@ -1590,5 +1590,9 @@
     "blosser.2023": {
         "banneduntil": "2025/12/21",
         "BanReason": "RDM"
+    },
+    "LeeMulaa": {
+        "banneduntil": "2099/12/12",
+        "BanReason": "hard r"
     }
 }
