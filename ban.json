@@ -1554,5 +1554,9 @@
     "soursplash": {
         "banneduntil": "2026/12/15",
         "BanReason": "underage"
+    },
+    "Bigoilyfeet": {
+        "banneduntil": "2025/12/24",
+        "BanReason": "Rdm and evasion"
     }
 }
