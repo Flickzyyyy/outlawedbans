@@ -1554,5 +1554,9 @@
     "OFFICER_DOAKS": {
         "banneduntil": "2025/12/23",
         "BanReason": "rdm + evasion"
+    },
+    "EricOrwell61": {
+        "banneduntil": "2099/12/16",
+        "BanReason": "Hard r"
     }
 }
