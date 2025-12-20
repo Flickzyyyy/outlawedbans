@@ -1582,5 +1582,9 @@
     "Batteryeater76": {
         "banneduntil": "2025/12/25",
         "BanReason": "Cop Targeting + Evasion"
+    },
+    "cam_skattebo": {
+        "banneduntil": "2028/5/1",
+        "BanReason": "underage (10)"
     }
 }
