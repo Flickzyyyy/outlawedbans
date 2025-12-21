@@ -1610,5 +1610,9 @@
     "littlemonkeymj": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage(10)"
+    },
+    "Eggman46": {
+        "banneduntil": "2025/12/21",
+        "BanReason": "rdm (clip)"
     }
 }
