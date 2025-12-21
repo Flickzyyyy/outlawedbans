@@ -1650,5 +1650,9 @@
     "Auzzy33": {
         "banneduntil": "2099/12/20",
         "BanReason": "hard r"
+    },
+    "Topingojake": {
+        "banneduntil": "2027/12/20",
+        "BanReason": "underage"
     }
 }
