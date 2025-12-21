@@ -1606,5 +1606,9 @@
     "SamRahmes": {
         "banneduntil": "2025/12/25",
         "BanReason": "Rdm+Evasion"
+    },
+    "littlemonkeymj": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underage(10)"
     }
 }
