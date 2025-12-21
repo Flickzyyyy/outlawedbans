@@ -1626,5 +1626,9 @@
     "john.2579": {
         "banneduntil": "2025/12/23",
         "BanReason": "RDM Clip"
+    },
+    "femboyvox": {
+        "banneduntil": "2025/12/27",
+        "BanReason": "mass rdm"
     }
 }
