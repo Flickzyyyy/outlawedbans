@@ -1602,5 +1602,9 @@
     "YellowBebber555": {
         "banneduntil": "2025/12/23",
         "BanReason": "RDM Clip"
+    },
+    "SamRahmes": {
+        "banneduntil": "2025/12/25",
+        "BanReason": "Rdm+Evasion"
     }
 }
