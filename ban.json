@@ -1598,5 +1598,9 @@
     "corbnutz": {
         "banneduntil": "2026/1/3",
         "BanReason": "Sexual Harassment"
+    },
+    "RiskyFakka": {
+        "banneduntil": "2025/12/25",
+        "BanReason": "Rdm and evasion"
     }
 }
