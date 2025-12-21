@@ -1602,5 +1602,9 @@
     "plsdontshoot": {
         "banneduntil": "2025/12/22",
         "BanReason": "Rdm clip"
+    },
+    "YellowBebber555": {
+        "banneduntil": "2025/12/23",
+        "BanReason": "RDM Clip"
     }
 }
