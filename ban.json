@@ -1698,5 +1698,9 @@
     "xsynti": {
         "banneduntil": "2025/12/23",
         "BanReason": "Rdm Clip"
+    },
+    "Auslander12": {
+        "banneduntil": "2025/12/25",
+        "BanReason": "RDM AND EVASION"
     }
 }
