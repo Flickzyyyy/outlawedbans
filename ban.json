@@ -1694,5 +1694,9 @@
     "47563836hr64": {
         "banneduntil": "2026/1/6",
         "BanReason": "Racism"
+    },
+    "Tacticaltoilet32": {
+        "banneduntil": "2026/1/5",
+        "BanReason": "Doxxing Threats"
     }
 }
