@@ -1682,5 +1682,9 @@
     "Ghost685": {
         "banneduntil": "2099/11/12",
         "BanReason": "ERPing with a minor and evasion"
+    },
+    "jamieharvs": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "Slur baiting with soft a"
     }
 }
