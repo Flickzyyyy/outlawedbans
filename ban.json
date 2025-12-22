@@ -1710,5 +1710,9 @@
     "pandaman2772": {
         "banneduntil": "2025/12/25",
         "BanReason": "Cop Targeting"
+    },
+    "filionnaire": {
+        "banneduntil": "2025/12/23",
+        "BanReason": "rdm"
     }
 }
