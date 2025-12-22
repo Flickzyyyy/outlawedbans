@@ -1686,5 +1686,9 @@
     "jamieharvs": {
         "banneduntil": "2026/1/6",
         "BanReason": "Slur baiting with soft a"
+    },
+    "Xandercon1": {
+        "banneduntil": "2099/12/11",
+        "BanReason": "Under age"
     }
 }
