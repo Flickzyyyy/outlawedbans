@@ -1702,5 +1702,9 @@
     "Carrott12": {
         "banneduntil": "2027/12/22",
         "BanReason": "Underaged"
+    },
+    "Silverteq1": {
+        "banneduntil": "2025/12/25",
+        "BanReason": "Cop Targeting"
     }
 }
