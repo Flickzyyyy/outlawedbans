@@ -1678,5 +1678,9 @@
     "Dybalav24602": {
         "banneduntil": "2025/12/29",
         "BanReason": "spawn camping"
+    },
+    "Ghost685": {
+        "banneduntil": "2099/11/12",
+        "BanReason": "ERPing with a minor and evasion"
     }
 }
