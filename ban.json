@@ -1722,5 +1722,9 @@
     "47563836hr64364674746": {
         "banneduntil": "2099/12/15",
         "BanReason": "Alting"
+    },
+    "ShadowX41921": {
+        "banneduntil": "2025/12/23",
+        "BanReason": "RDM (Clip)"
     }
 }
