@@ -1698,5 +1698,9 @@
     "Tacticaltoilet32": {
         "banneduntil": "2026/1/5",
         "BanReason": "Doxxing Threats"
+    },
+    "Carrott12": {
+        "banneduntil": "2027/12/22",
+        "BanReason": "Underaged"
     }
 }
