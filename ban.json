@@ -1694,5 +1694,9 @@
     "Gordo211": {
         "banneduntil": "2098/11/11",
         "BanReason": "hard r"
+    },
+    "xsynti": {
+        "banneduntil": "2025/12/23",
+        "BanReason": "Rdm Clip"
     }
 }
