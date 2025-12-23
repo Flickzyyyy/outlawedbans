@@ -1742,5 +1742,9 @@
     "chill_r4p1st": {
         "banneduntil": "2099/11/12",
         "BanReason": "Name"
+    },
+    "DontFuccnKnowMe": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "RDM + Evasion"
     }
 }
