@@ -1734,5 +1734,9 @@
     "MJAT": {
         "banneduntil": "2025/12/24",
         "BanReason": "RDM - Ticket"
+    },
+    "Sebika13": {
+        "banneduntil": "2026/12/23",
+        "BanReason": "underage"
     }
 }
