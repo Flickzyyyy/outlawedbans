@@ -1674,5 +1674,9 @@
     "samonkors": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Garret9090": {
+        "banneduntil": "2025/12/26",
+        "BanReason": "Cop Targeting"
     }
 }
