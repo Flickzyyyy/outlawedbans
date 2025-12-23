@@ -1702,5 +1702,9 @@
     "classyman": {
         "banneduntil": "2026/01/5",
         "BanReason": "Anti semitism"
+    },
+    "wex_dog": {
+        "banneduntil": "2026/01/9",
+        "BanReason": "Anti-Semitism + Evasion"
     }
 }
