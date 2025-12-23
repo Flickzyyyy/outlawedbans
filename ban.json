@@ -1678,5 +1678,9 @@
     "Garret9090": {
         "banneduntil": "2025/12/26",
         "BanReason": "Cop Targeting"
+    },
+    "MalteserShip": {
+        "banneduntil": "2025/12/31",
+        "BanReason": "Cop Targeting + Evading"
     }
 }
