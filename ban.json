@@ -1722,5 +1722,9 @@
     "bbgun567.2025": {
         "banneduntil": "2025/12/25",
         "BanReason": "Rdm"
+    },
+    "lil.niggq": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
