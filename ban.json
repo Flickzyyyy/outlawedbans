@@ -1762,5 +1762,9 @@
     "Baba42.27K": {
         "banneduntil": "2026/1/5",
         "BanReason": "F Slur"
+    },
+    "samonkors": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
