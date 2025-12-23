@@ -1742,5 +1742,9 @@
     "random.romanian.communist": {
         "banneduntil": "2025/12/26",
         "BanReason": "Rdm And Evasion"
+    },
+    "duck_42": {
+        "banneduntil": "2025/12/24",
+        "BanReason": "RDM - Ticket"
     }
 }
