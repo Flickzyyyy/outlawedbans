@@ -1710,5 +1710,9 @@
     "Chill.bro": {
         "banneduntil": "2025/12/24",
         "BanReason": "RDM via clip"
+    },
+    "ecoroket27": {
+        "banneduntil": "2099/12/11",
+        "BanReason": "Hard R"
     }
 }
