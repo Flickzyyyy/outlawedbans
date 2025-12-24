@@ -1790,5 +1790,9 @@
     "nugget_anderson": {
         "banneduntil": "2033/10/10",
         "BanReason": "hard r"
+    },
+    "Lowkenuinlycooked": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "rdm+evasion"
     }
 }
