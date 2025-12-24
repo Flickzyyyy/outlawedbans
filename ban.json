@@ -1798,5 +1798,9 @@
     "AngloGermanic67Blud": {
         "banneduntil": "2099/1/1",
         "BanReason": "That boi an alt"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2025/12/26",
+        "BanReason": "RDM"
     }
 }
