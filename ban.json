@@ -1770,5 +1770,9 @@
     "luckyduck99999": {
         "banneduntil": "2098/1/1",
         "BanReason": "ALTING, alt of luckyduck9999"
+    },
+    "luckyduck9999": {
+        "banneduntil": "2025/12/25",
+        "BanReason": "doubled ban"
     }
 }
