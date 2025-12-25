@@ -1822,5 +1822,9 @@
     "Gentlemen_1945": {
         "banneduntil": "2025/12/28",
         "BanReason": "RDM Clip"
+    },
+    "yourasharma": {
+        "banneduntil": "2026/1/8",
+        "BanReason": "Mass RDM and evasion"
     }
 }
