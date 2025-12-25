@@ -1830,5 +1830,9 @@
     "blow_the_rex": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt (admitted in clip)"
+    },
+    "SnugglySniper ": {
+        "banneduntil": "2025/12/28",
+        "BanReason": "RDM"
     }
 }
