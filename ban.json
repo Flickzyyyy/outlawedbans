@@ -1834,5 +1834,9 @@
     "devilechiken": {
         "banneduntil": "2025/12/30",
         "BanReason": "rdm+evasion"
+    },
+    "big_dumbo": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "rdm+evasion"
     }
 }
