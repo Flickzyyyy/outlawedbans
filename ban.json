@@ -1802,5 +1802,9 @@
     "SUBS7827": {
         "banneduntil": "2026/12/28",
         "BanReason": "RDM+Evasion"
+    },
+    "fnaffan.2015 ": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage(116"
     }
 }
