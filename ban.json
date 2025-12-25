@@ -1798,5 +1798,9 @@
     "JJB0Y": {
         "banneduntil": "2026/1/8",
         "BanReason": "F slur"
+    },
+    "SUBS7827": {
+        "banneduntil": "2026/12/28",
+        "BanReason": "RDM+Evasion"
     }
 }
