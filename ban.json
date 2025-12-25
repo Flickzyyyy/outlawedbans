@@ -1822,5 +1822,9 @@
     "murphy.408260": {
         "banneduntil": "1/24/2026",
         "BanReason": "soft a + evasion"
+    },
+    "ghostLH": {
+        "banneduntil": "12/29/2025",
+        "BanReason": "rdm+evasion"
     }
 }
