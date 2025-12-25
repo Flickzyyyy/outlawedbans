@@ -1790,5 +1790,9 @@
     "HJCardz": {
         "banneduntil": "2025/12/29",
         "BanReason": "rdm + evasion"
+    },
+    "JJBOY": {
+        "banneduntil": "2026/1/8",
+        "BanReason": "F slur"
     }
 }
