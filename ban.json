@@ -1826,5 +1826,9 @@
     "yourasharma": {
         "banneduntil": "2026/1/8",
         "BanReason": "Mass RDM and evasion"
+    },
+    "Lattomact": {
+        "banneduntil": "2025/12/26",
+        "BanReason": "RDM (Clip)"
     }
 }
