@@ -1818,5 +1818,9 @@
     "ilikecats.16770": {
         "banneduntil": "2025/12/26",
         "BanReason": "rdm"
+    },
+    "Batteryeater76": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "Freedom"
     }
 }
