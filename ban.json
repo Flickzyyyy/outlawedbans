@@ -1786,5 +1786,9 @@
     "blow_the_rex": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt (admitted in clip)"
+    },
+    "HJCardz": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "rdm + evasion"
     }
 }
