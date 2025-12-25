@@ -1826,5 +1826,9 @@
     "ghostLH": {
         "banneduntil": "12/29/2025",
         "BanReason": "rdm+evasion"
+    },
+    "blow_the_rex": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt (admitted in clip)"
     }
 }
