@@ -1934,5 +1934,9 @@
     "SovietUnion2.0": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual harassment to a minor"
+    },
+    "applesauce351": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "rdm plus evasion"
     }
 }
