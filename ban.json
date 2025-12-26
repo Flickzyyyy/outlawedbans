@@ -1938,5 +1938,9 @@
     "applesauce351": {
         "banneduntil": "2025/12/30",
         "BanReason": "rdm plus evasion"
+    },
+    "Henryhill55": {
+        "banneduntil": "2099/12/11",
+        "BanReason": "Hard R"
     }
 }
