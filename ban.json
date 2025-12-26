@@ -1878,5 +1878,9 @@
     "SlammedByTen": {
         "banneduntil": "2025/12/29",
         "BanReason": "Rdm and ban evading"
+    },
+    "Eggman46": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "Rdm + evasion"
     }
 }
