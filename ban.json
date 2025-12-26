@@ -1918,5 +1918,9 @@
     "Bvfree": {
         "banneduntil": "2026/1/9",
         "BanReason": "Camping + Evasion"
+    },
+    "diovanni222": {
+        "banneduntil": "2099/11/11",
+        "BanReason": "Rape"
     }
 }
