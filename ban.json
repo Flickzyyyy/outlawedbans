@@ -1970,5 +1970,9 @@
     "JosephVII": {
         "banneduntil": "2099/1/2",
         "BanReason": "Mass RDM"
+    },
+    "Joseph": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "Mass RDM"
     }
 }
