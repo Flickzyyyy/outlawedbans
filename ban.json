@@ -1946,5 +1946,9 @@
     "bigbeanbean5000": {
         "banneduntil": "2025/12/31",
         "BanReason": "rdm+evasion"
+    },
+    "RedPonch1792": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "rdm plus evasion"
     }
 }
