@@ -1978,9 +1978,5 @@
     "Glass_Bass": {
         "banneduntil": "2025/12/28",
         "BanReason": "Rdm"
-    },
-    "pop3xan": {
-        "banneduntil": "2025/1/26",
-        "BanReason": "F-slur + evasion"
     }
 }
