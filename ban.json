@@ -1942,5 +1942,9 @@
     "Henryhill55": {
         "banneduntil": "2099/12/11",
         "BanReason": "Hard R"
+    },
+    "bigbeanbean5000": {
+        "banneduntil": "2025/12/31",
+        "BanReason": "rdm+evasion"
     }
 }
