@@ -1966,5 +1966,9 @@
     "ryan_gosling_lover": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual harassment to a minor"
+    },
+    "JosephVII": {
+        "banneduntil": "2099/1/2",
+        "BanReason": "Mass RDM"
     }
 }
