@@ -1918,5 +1918,9 @@
     "Bvfree": {
         "banneduntil": "2026/1/9",
         "BanReason": "Camping + Evasion"
+    },
+    "Deannagbrownlee": {
+        "banneduntil": "2025/1/6",
+        "BanReason": "sexual harassment and evasion"
     }
 }
