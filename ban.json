@@ -1930,5 +1930,9 @@
     "P99Security99D": {
         "banneduntil": "2025/12/30",
         "BanReason": "RDM + Evasion"
+    },
+    "SovietUnion2.0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Sexual harassment to a minor"
     }
 }
