@@ -1862,5 +1862,9 @@
     "3SM2025NOV": {
         "banneduntil": "2025/12/29",
         "BanReason": "RDM+ Evasion"
+    },
+    "gigigihellboy648": {
+        "banneduntil": "2025/12/27",
+        "BanReason": "RDM"
     }
 }
