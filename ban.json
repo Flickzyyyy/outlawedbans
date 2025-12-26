@@ -1894,5 +1894,9 @@
     "measurpanas": {
         "banneduntil": "2026/1/25",
         "BanReason": "F slur and evasion + rdm"
+    },
+    "cohgkl": {
+        "banneduntil": "2027/12/25",
+        "BanReason": "underaged"
     }
 }
