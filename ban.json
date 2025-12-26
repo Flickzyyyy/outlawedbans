@@ -1898,5 +1898,9 @@
     "SAP_VVV": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "Miami9009": {
+        "banneduntil": "2025/12/27",
+        "BanReason": "RDM"
     }
 }
