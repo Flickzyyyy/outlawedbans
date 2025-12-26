@@ -1914,5 +1914,9 @@
     "pashapamit": {
         "banneduntil": "2025/12/29",
         "BanReason": "rdm and evasion"
+    },
+    "pashapamiit": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "rdm and evasion"
     }
 }
