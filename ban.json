@@ -1918,5 +1918,9 @@
     "pashapamiit": {
         "banneduntil": "2025/12/29",
         "BanReason": "rdm and evasion"
+    },
+    "jacob92112": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
