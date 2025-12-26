@@ -1962,5 +1962,9 @@
     "flxlen": {
         "banneduntil": "2025/12/30",
         "BanReason": "Rdm + Evasion"
+    },
+    "ryan_gosling_lover": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Sexual harassment to a minor"
     }
 }
