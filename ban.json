@@ -1922,5 +1922,9 @@
     "diovanni222": {
         "banneduntil": "2099/11/11",
         "BanReason": "Rape"
+    },
+    "Rezzfully": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "Mass RDM"
     }
 }
