@@ -1890,5 +1890,9 @@
     "Goku.millo ": {
         "banneduntil": "2029/12/25",
         "BanReason": "underage"
+    },
+    "B3BAUMER": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "Rdm + evasion"
     }
 }
