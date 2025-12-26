@@ -1974,5 +1974,9 @@
     "Joseph": {
         "banneduntil": "2026/1/2",
         "BanReason": "Mass RDM"
+    },
+    "gate3254": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "Mass rdm+Evasion"
     }
 }
