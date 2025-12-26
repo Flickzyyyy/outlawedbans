@@ -1910,5 +1910,9 @@
     "GreenDay4life": {
         "banneduntil": "2025/12/30",
         "BanReason": "rdm+evasion"
+    },
+    "pashapamit": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "rdm and evasion"
     }
 }
