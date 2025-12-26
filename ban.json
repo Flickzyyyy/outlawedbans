@@ -1926,5 +1926,9 @@
     "Vicious30": {
         "banneduntil": "2026/1/2",
         "BanReason": "Mass rdm"
+    },
+    "measurpanas": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "F slur and evasion + rdm"
     }
 }
