@@ -1978,5 +1978,9 @@
     "SadAhhLuhFrog": {
         "banneduntil": "2026/1/2",
         "BanReason": "F slur plus rdm"
+    },
+    "1_bee_keeper_1": {
+        "banneduntil": "2026/1/10",
+        "BanReason": "F-slur"
     }
 }
