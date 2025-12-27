@@ -2038,5 +2038,9 @@
     "BraindeadBoner": {
         "banneduntil": "2026/1/2",
         "BanReason": "Alt (ban doubled)"
+    },
+    "BraaiindeadBoner": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
