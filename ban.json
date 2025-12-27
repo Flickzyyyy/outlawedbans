@@ -1986,5 +1986,9 @@
     "juc3e": {
         "banneduntil": "2025/12/30",
         "BanReason": "RDM AND EVASION"
+    },
+    "ChickenHombe2014": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "UNDERAGE(11)"
     }
 }
