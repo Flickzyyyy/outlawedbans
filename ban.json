@@ -2002,5 +2002,9 @@
     "lattiemaco": {
         "banneduntil": "2025/12/30",
         "BanReason": "rdm-evasion"
+    },
+    "BIBBOY": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "RDM PLUS EVASION"
     }
 }
