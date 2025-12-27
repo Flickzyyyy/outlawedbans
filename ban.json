@@ -2022,5 +2022,9 @@
     "EvSOADrum26": {
         "banneduntil": "2025/12/28",
         "BanReason": "RDM"
+    },
+    "f14tomcat.k": {
+        "banneduntil": "2025/12/28",
+        "BanReason": "Rdm (clip)"
     }
 }
