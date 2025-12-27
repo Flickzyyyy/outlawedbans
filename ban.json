@@ -2026,5 +2026,9 @@
     "f14tomcat.k": {
         "banneduntil": "2025/12/28",
         "BanReason": "Rdm (clip)"
+    },
+    "RipXxxTenTestcle": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
