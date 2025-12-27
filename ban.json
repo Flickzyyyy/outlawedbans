@@ -2018,5 +2018,9 @@
     "Braindeadboner": {
         "banneduntil": "2026/1/3",
         "BanReason": "Mass rdm"
+    },
+    "RipXxxTenTesticle": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "rdm plus evasion"
     }
 }
