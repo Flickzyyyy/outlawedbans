@@ -1982,5 +1982,9 @@
     "1_bee_keeper_1": {
         "banneduntil": "2026/1/10",
         "BanReason": "F-slur"
+    },
+    "Blue_M_30": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
