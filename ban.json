@@ -2006,5 +2006,9 @@
     "BIBBOY": {
         "banneduntil": "2025/12/30",
         "BanReason": "RDM PLUS EVASION"
+    },
+    "dovakhin.2023": {
+        "banneduntil": "2025/12/28",
+        "BanReason": "Rdm"
     }
 }
