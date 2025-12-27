@@ -2046,5 +2046,9 @@
     "drunkidiot": {
         "banneduntil": "2025/12/31",
         "BanReason": "RDM AND EVASION"
+    },
+    "asher012": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD T"
     }
 }
