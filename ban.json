@@ -2006,5 +2006,9 @@
     "Whyareweeaulting": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r plus alting"
+    },
+    "Whyareweultin": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r plus alting"
     }
 }
