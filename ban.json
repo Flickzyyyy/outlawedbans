@@ -2002,5 +2002,9 @@
     "Theadminssaidinosaynword": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Whyareweeaulting": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r plus alting"
     }
 }
