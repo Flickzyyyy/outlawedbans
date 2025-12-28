@@ -2034,5 +2034,9 @@
     "goldenjed": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "viktorvaughn.has.slow.teamates": {
+        "banneduntil": "2099/12/11",
+        "BanReason": "hard r"
     }
 }
