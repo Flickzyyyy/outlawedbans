@@ -2066,5 +2066,9 @@
     "Omni_Sapien": {
         "banneduntil": "2026/1/4",
         "BanReason": "MASS RDM"
+    },
+    "w_good": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "MASS RDM AND EVASION"
     }
 }
