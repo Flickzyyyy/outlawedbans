@@ -2114,5 +2114,9 @@
     "LederhosenLover": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt Account"
+    },
+    "ilikegatorade": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "Spawn Camp and Evasion"
     }
 }
