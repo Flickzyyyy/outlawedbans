@@ -2074,5 +2074,9 @@
     "Jstdly": {
         "banneduntil": "2025/12/29",
         "BanReason": "Rdm"
+    },
+    "parker.912739": {
+        "banneduntil": "2025/12/31",
+        "BanReason": "Rdm + evasion"
     }
 }
