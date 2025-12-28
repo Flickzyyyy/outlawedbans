@@ -2050,5 +2050,9 @@
     "D13G0V5WR1D": {
         "banneduntil": "2025/12/31",
         "BanReason": "Rdm plus evasion"
+    },
+    "Bumpthis": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
