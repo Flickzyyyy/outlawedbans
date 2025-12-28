@@ -2122,5 +2122,9 @@
     "JustDewi": {
         "banneduntil": "2025/12/29",
         "BanReason": "RDM"
+    },
+    "kekepepe": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "F slur"
     }
 }
