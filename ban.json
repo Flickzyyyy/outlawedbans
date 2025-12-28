@@ -2130,5 +2130,9 @@
     "boredmuffin": {
         "banneduntil": "2026/1/11",
         "BanReason": "F-Slur"
+    },
+    "circularsaw44": {
+        "banneduntil": "2025/1/30",
+        "BanReason": "RDM"
     }
 }
