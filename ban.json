@@ -2070,5 +2070,9 @@
     "w_good": {
         "banneduntil": "2026/1/11",
         "BanReason": "MASS RDM AND EVASION"
+    },
+    "bigclapy": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "F Slur usage"
     }
 }
