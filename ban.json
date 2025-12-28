@@ -2094,5 +2094,9 @@
     "The.Jelquer": {
         "banneduntil": "2026/1/1",
         "BanReason": "Rdm + Evasion"
+    },
+    "brambora": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "RDM + Roleplaying as the KKK"
     }
 }
