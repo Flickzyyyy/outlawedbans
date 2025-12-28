@@ -2030,5 +2030,9 @@
     "viktorvaughn.has.slow.teamate": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r plus rdm"
+    },
+    "goldenjed": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
