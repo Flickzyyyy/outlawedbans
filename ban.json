@@ -2074,5 +2074,9 @@
     "bigclapy": {
         "banneduntil": "2026/1/11",
         "BanReason": "F Slur usage"
+    },
+    "gobbersobby64": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt of neonwren"
     }
 }
