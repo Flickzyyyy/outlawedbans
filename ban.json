@@ -2146,5 +2146,9 @@
     "SYNCZ": {
         "banneduntil": "2025/12/30",
         "BanReason": "Rdm"
+    },
+    "Drunkmiku": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "RDM"
     }
 }
