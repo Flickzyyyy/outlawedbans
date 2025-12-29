@@ -2102,5 +2102,9 @@
     "vindin24": {
         "banneduntil": "2026/1/2",
         "BanReason": "RDM + Evasion"
+    },
+    "Blacklung648": {
+        "banneduntil": "2026/1/5",
+        "BanReason": "Mass RDM"
     }
 }
