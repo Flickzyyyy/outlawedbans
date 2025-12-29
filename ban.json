@@ -2090,5 +2090,9 @@
     "DragonToro": {
         "banneduntil": "2026/1/2",
         "BanReason": "Col Targeting+ Evasion"
+    },
+    "GeneralRose": {
+        "banneduntil": "2099/12/11",
+        "BanReason": "Hard R"
     }
 }
