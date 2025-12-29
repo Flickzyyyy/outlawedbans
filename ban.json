@@ -2158,5 +2158,9 @@
     "TheGhostRanger": {
         "banneduntil": "2025/12/29",
         "BanReason": "Rdm"
+    },
+    "bigguysponge": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "RDM"
     }
 }
