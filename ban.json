@@ -2086,5 +2086,9 @@
     "YellowBebber555": {
         "banneduntil": "2025/12/30",
         "BanReason": "Rdm clip"
+    },
+    "DragonToro": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "Col Targeting+ Evasion"
     }
 }
