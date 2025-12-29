@@ -2142,5 +2142,9 @@
     "KG277": {
         "banneduntil": "2026/1/1",
         "BanReason": "RDM PLUS EVASION"
+    },
+    "SYNCZ": {
+        "banneduntil": "2025/12/30",
+        "BanReason": "Rdm"
     }
 }
