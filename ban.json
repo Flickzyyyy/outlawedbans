@@ -2154,5 +2154,9 @@
     "Chief1012": {
         "banneduntil": "2025/12/31",
         "BanReason": "Rem"
+    },
+    "TheGhostRanger": {
+        "banneduntil": "2025/12/29",
+        "BanReason": "Rdm"
     }
 }
