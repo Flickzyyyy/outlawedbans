@@ -2106,5 +2106,9 @@
     "Blacklung648": {
         "banneduntil": "2026/1/5",
         "BanReason": "Mass RDM"
+    },
+    "CuteSubmisiveFemboy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
