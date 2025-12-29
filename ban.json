@@ -2098,5 +2098,9 @@
     "Sir_Pentious_VR": {
         "banneduntil": "2026/1/12",
         "BanReason": "Mass RDM + Evasion"
+    },
+    "vindin24": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "RDM + Evasion"
     }
 }
