@@ -2094,5 +2094,9 @@
     "GeneralRose": {
         "banneduntil": "2099/12/11",
         "BanReason": "Hard R"
+    },
+    "Sir_Pentious_VR": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "Mass RDM + Evasion"
     }
 }
