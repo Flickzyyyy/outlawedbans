@@ -2134,5 +2134,9 @@
     "CJ.VT.S": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Surroundedbyballs03": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "Cop Targeting"
     }
 }
