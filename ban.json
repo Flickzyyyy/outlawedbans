@@ -2074,5 +2074,9 @@
     "joseph_tovo": {
         "banneduntil": "2026/1/3",
         "BanReason": "RDM PLUS EVASION"
+    },
+    "Stightguy": {
+        "banneduntil": "2025/12/31",
+        "BanReason": "Rdm"
     }
 }
