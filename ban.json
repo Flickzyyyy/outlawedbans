@@ -2122,5 +2122,9 @@
     "DukeNukem.1": {
         "banneduntil": "2025/12/30",
         "BanReason": "rdm"
+    },
+    "beeeeber123": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "Mass rdm plus evasion"
     }
 }
