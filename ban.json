@@ -2130,5 +2130,9 @@
     "DutchGermanic": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "CJ.VT.S": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
