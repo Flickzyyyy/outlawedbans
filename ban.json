@@ -2090,5 +2090,9 @@
     "adolfsponglah1": {
         "banneduntil": "2026/1/2",
         "BanReason": "Innapropriate behaviour"
+    },
+    "DutchAryan": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
