@@ -2126,5 +2126,9 @@
     "beeeeber123": {
         "banneduntil": "2026/1/9",
         "BanReason": "Mass rdm plus evasion"
+    },
+    "DutchGermanic": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
