@@ -2158,5 +2158,9 @@
     "OhioMangoJewCasinoOwner": {
         "banneduntil": "2025/12/31",
         "BanReason": "Rdm"
+    },
+    "lord.jit": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Pedophilia"
     }
 }
