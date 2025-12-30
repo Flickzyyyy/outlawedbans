@@ -2082,5 +2082,9 @@
     "its_johnny_cox_throw_em_up": {
         "banneduntil": "2025/12/31",
         "BanReason": "Rdm clip"
+    },
+    "childofCALAMITY": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "RDM Clip"
     }
 }
