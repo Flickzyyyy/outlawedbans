@@ -2094,5 +2094,9 @@
     "DutchAryan": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "WhyMooseBullyMehALT": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r plus alting"
     }
 }
