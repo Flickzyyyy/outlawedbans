@@ -2114,5 +2114,9 @@
     "ragebaitsuccessful": {
         "banneduntil": "2026/1/3",
         "BanReason": "RDM"
+    },
+    "Stalkerr": {
+        "banneduntil": "2026/1/7",
+        "BanReason": "Mass RDM"
     }
 }
