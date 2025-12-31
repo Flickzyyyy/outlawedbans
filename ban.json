@@ -2118,5 +2118,9 @@
     "PirateKing2008": {
         "banneduntil": "2026/1/3",
         "BanReason": "RDM"
+    },
+    "StrightGuy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Sexual harassment to a minor"
     }
 }
