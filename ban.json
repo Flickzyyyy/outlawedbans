@@ -2158,5 +2158,9 @@
     "John.Raiden": {
         "banneduntil": "2099/12/3",
         "BanReason": "hard r"
+    },
+    "StrightGuy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Sexual harassment to a minor"
     }
 }
