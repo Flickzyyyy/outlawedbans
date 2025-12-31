@@ -2122,5 +2122,9 @@
     "suck.my": {
         "banneduntil": "2025/12/31",
         "BanReason": "Abusing Suicide"
+    },
+    "Batteryeater76": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Sexual Harassment to a Minor"
     }
 }
