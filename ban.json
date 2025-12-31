@@ -2118,5 +2118,9 @@
     "drjgamer.2024": {
         "banneduntil": "2026/1/1",
         "BanReason": "Rdm"
+    },
+    "suck.my": {
+        "banneduntil": "2025/12/31",
+        "BanReason": "Abusing Suicide"
     }
 }
