@@ -2130,5 +2130,9 @@
     "Elijah09089": {
         "banneduntil": "2026/1/1",
         "BanReason": "Abusing suicide in jail X2"
+    },
+    "rickyspanish.is.banished": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
