@@ -2138,5 +2138,9 @@
     "WokeyDPronounz": {
         "banneduntil": "2026/3/3",
         "BanReason": "rdm+f slur+racial remarks"
+    },
+    "lord.jitt": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
