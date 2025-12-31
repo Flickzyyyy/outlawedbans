@@ -2102,5 +2102,9 @@
     "StrightGuy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual harassment to a minor"
+    },
+    "Boundful": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Rdm"
     }
 }
