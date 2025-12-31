@@ -2142,5 +2142,9 @@
     "lord.jitt": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "kidnamedfinger308": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "RDM"
     }
 }
