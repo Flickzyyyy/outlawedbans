@@ -2142,5 +2142,9 @@
     "Budgie_Lov3r": {
         "banneduntil": "2099/12/12",
         "BanReason": "hard r"
+    },
+    "speed_shiter": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "Spawn Camping"
     }
 }
