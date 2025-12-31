@@ -2154,5 +2154,9 @@
     "izlove67": {
         "banneduntil": "2099/1/1",
         "BanReason": "ALT"
+    },
+    "John.Raiden": {
+        "banneduntil": "2099/12/3",
+        "BanReason": "hard r"
     }
 }
