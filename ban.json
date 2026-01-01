@@ -2194,5 +2194,9 @@
     "whatthesigma123ttf": {
         "banneduntil": "2026/1/2",
         "BanReason": "rdm"
+    },
+    "SigmaPeet": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
