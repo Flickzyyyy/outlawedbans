@@ -2146,5 +2146,9 @@
     "Namoly": {
         "banneduntil": "2026/1/13",
         "BanReason": "mass RDM"
+    },
+    "RFKSBRAINW0RM": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "Rdm"
     }
 }
