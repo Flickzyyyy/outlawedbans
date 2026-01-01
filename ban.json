@@ -2214,5 +2214,9 @@
     "Fwenreturns": {
         "banneduntil": "2026/1/3",
         "BanReason": "Ban Extension"
+    },
+    "vexta_1208": {
+        "banneduntil": "2026/1/3",
+        "BanReason": "RDM"
     }
 }
