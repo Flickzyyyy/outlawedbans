@@ -2182,5 +2182,9 @@
     "Ghost.0491": {
         "banneduntil": "2026/1/2",
         "BanReason": "rdm"
+    },
+    "Namoly": {
+        "banneduntil": "2026/1/13",
+        "BanReason": "mass RDM"
     }
 }
