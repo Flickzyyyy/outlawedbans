@@ -2202,5 +2202,9 @@
     "Budgi3_Lov3r ": {
         "banneduntil": "2099/1/1",
         "BanReason": "Pedophilia"
+    },
+    "Flapcoin": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "Make a Ticket (RDM Clip)"
     }
 }
