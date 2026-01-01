@@ -2174,5 +2174,9 @@
     "Theguardian2007": {
         "banneduntil": "2026/1/4",
         "BanReason": "Rdm+Evasion"
+    },
+    "random.romanian.communist": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "rdm"
     }
 }
