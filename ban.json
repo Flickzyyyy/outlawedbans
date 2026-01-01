@@ -2182,5 +2182,9 @@
     "Candostuff2": {
         "banneduntil": "2026/1/15",
         "BanReason": "Sexual harassment"
+    },
+    "Doc_holl1day": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
