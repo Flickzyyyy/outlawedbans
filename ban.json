@@ -2162,5 +2162,9 @@
     "Wartrooper_2.0": {
         "banneduntil": "2026/1/2",
         "BanReason": "rdm"
+    },
+    "Andrew.11": {
+        "banneduntil": "2026/1/5",
+        "BanReason": "rdm+evasion"
     }
 }
