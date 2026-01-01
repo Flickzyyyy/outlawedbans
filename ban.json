@@ -2150,5 +2150,9 @@
     "RFKSBRAINW0RM": {
         "banneduntil": "2026/1/2",
         "BanReason": "Rdm"
+    },
+    "pezzzz123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
