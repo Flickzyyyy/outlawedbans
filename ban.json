@@ -2178,5 +2178,9 @@
     "random.romanian.communist": {
         "banneduntil": "2026/1/2",
         "BanReason": "rdm"
+    },
+    "Ghost.0491": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "rdm"
     }
 }
