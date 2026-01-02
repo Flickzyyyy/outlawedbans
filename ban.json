@@ -2206,5 +2206,9 @@
     "mr.bom102311": {
         "banneduntil": "2026/1/4",
         "BanReason": "RDM"
+    },
+    "XDYouJustGotKilledByWonderBrea": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "Rdm and evasion"
     }
 }
