@@ -2234,5 +2234,9 @@
     "DeadGoblin": {
         "banneduntil": "2026/1/6",
         "BanReason": "rdm+evasion"
+    },
+    "DoggyDooDoo": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "rdm+evasion"
     }
 }
