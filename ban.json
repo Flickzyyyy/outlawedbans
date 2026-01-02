@@ -2202,5 +2202,9 @@
     "gathsah": {
         "banneduntil": "2026/1/4",
         "BanReason": "RDM"
+    },
+    "mr.bom102311": {
+        "banneduntil": "2026/1/4",
+        "BanReason": "RDM"
     }
 }
