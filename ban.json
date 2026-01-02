@@ -2198,5 +2198,9 @@
     "THEYFWJAY.999.2024": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "gathsah": {
+        "banneduntil": "2026/1/4",
+        "BanReason": "RDM"
     }
 }
