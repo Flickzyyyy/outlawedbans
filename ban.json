@@ -2190,5 +2190,9 @@
     "santacuhlause": {
         "banneduntil": "2026/2/1",
         "BanReason": "Soft a+ evasion"
+    },
+    "phoenix.1045": {
+        "banneduntil": "2099/12/12",
+        "BanReason": "hard r"
     }
 }
