@@ -2238,5 +2238,9 @@
     "Z4IN_09": {
         "banneduntil": "2026/1/6",
         "BanReason": "Rdm and evasion"
+    },
+    "olimac.174027": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "Cop Targeting & Evasion"
     }
 }
