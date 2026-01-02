@@ -2238,5 +2238,9 @@
     "DoggyDooDoo": {
         "banneduntil": "2026/1/6",
         "BanReason": "rdm+evasion"
+    },
+    "GTTSOperator": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "rdm"
     }
 }
