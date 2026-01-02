@@ -2230,5 +2230,9 @@
     "uncolorednote65": {
         "banneduntil": "2026/1/15",
         "BanReason": "F Slur"
+    },
+    "DeadGoblin": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "rdm+evasion"
     }
 }
