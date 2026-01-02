@@ -2222,5 +2222,9 @@
     "MOYAAAAAA": {
         "banneduntil": "2026/1/5",
         "BanReason": "RDM and Evasion"
+    },
+    "tumg": {
+        "banneduntil": "2026/1/2",
+        "BanReason": "rdm (clip"
     }
 }
