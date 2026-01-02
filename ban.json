@@ -2242,5 +2242,9 @@
     "olimac.174027": {
         "banneduntil": "2026/1/6",
         "BanReason": "Cop Targeting & Evasion"
+    },
+    "Jstdly": {
+        "banneduntil": "2026/1/5",
+        "BanReason": "RDM reput in+increase due to coming back and RDMing"
     }
 }
