@@ -2226,5 +2226,9 @@
     "tumg": {
         "banneduntil": "2026/1/2",
         "BanReason": "rdm (clip"
+    },
+    "uncolorednote65": {
+        "banneduntil": "2026/1/15",
+        "BanReason": "F Slur"
     }
 }
