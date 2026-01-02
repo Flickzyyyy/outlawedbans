@@ -2174,5 +2174,9 @@
     "coolestman4": {
         "banneduntil": "2026/1/6",
         "BanReason": "rdm+evasion"
+    },
+    "zzzalexzzz.r": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
