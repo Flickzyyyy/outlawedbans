@@ -2258,5 +2258,9 @@
     "NMJAnton": {
         "banneduntil": "2026/1/26",
         "BanReason": "F Slur + Evasion"
+    },
+    "son_of_sparta_644": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "RDM + Evasion"
     }
 }
