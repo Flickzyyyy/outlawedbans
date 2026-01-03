@@ -2202,5 +2202,9 @@
     "SYNCZ": {
         "banneduntil": "2026/1/5",
         "BanReason": "COP TARGETING"
+    },
+    "SurroundedbyBalls03": {
+        "banneduntil": "2026/1/5",
+        "BanReason": "RDM"
     }
 }
