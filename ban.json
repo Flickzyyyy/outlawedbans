@@ -2262,5 +2262,9 @@
     "llouro11": {
         "banneduntil": "2026/1/7",
         "BanReason": "RDM + Evasion"
+    },
+    "devilechiken": {
+        "banneduntil": "2026/1/5",
+        "BanReason": "RDM"
     }
 }
