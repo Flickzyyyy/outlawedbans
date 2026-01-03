@@ -2254,5 +2254,9 @@
     "jamielee123": {
         "banneduntil": "2030/12/12",
         "BanReason": "Underaged"
+    },
+    "Adolf_Painter": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "RDM"
     }
 }
