@@ -2258,5 +2258,9 @@
     "son_of_sparta_644": {
         "banneduntil": "2026/1/6",
         "BanReason": "RDM + Evasion"
+    },
+    "sir.edge": {
+        "banneduntil": "2026/1/4",
+        "BanReason": "RDM"
     }
 }
