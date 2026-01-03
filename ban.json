@@ -2258,5 +2258,9 @@
     "Adolf_Painter": {
         "banneduntil": "2026/1/6",
         "BanReason": "RDM"
+    },
+    "llouro11": {
+        "banneduntil": "2026/1/7",
+        "BanReason": "RDM + Evasion"
     }
 }
