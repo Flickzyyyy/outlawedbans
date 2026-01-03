@@ -2190,5 +2190,9 @@
     "Fllckzyyy": {
         "banneduntil": "2099/11/11",
         "BanReason": "Staff impersonation"
+    },
+    "Hinkle2001": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "RDM"
     }
 }
