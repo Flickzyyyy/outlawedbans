@@ -2226,5 +2226,9 @@
     "crashout1234": {
         "banneduntil": "2026/1/6",
         "BanReason": "cop targeting"
+    },
+    "emansowea": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
