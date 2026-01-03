@@ -2250,5 +2250,9 @@
     "star_platinum.17": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "jamielee123": {
+        "banneduntil": "2030/12/12",
+        "BanReason": "Underaged"
     }
 }
