@@ -2246,5 +2246,9 @@
     "camw11": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "D1squeaker": {
+        "banneduntil": "2026/4/1",
+        "BanReason": "Underage"
     }
 }
