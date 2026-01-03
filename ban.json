@@ -2266,5 +2266,9 @@
     "devilechiken": {
         "banneduntil": "2026/1/5",
         "BanReason": "RDM"
+    },
+    "xXBxmb_ThreatXx": {
+        "banneduntil": "2026/1/4",
+        "BanReason": "RDM"
     }
 }
