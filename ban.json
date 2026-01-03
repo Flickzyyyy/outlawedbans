@@ -2238,5 +2238,9 @@
     "divinebogg ": {
         "banneduntil": "2099/12/12",
         "BanReason": "alt"
+    },
+    "The.Baba.YagaJW": {
+        "banneduntil": "2026/2/3",
+        "BanReason": "soft a + evasion"
     }
 }
