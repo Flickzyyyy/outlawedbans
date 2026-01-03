@@ -2242,5 +2242,9 @@
     "The.Baba.YagaJW": {
         "banneduntil": "2026/2/3",
         "BanReason": "soft a + evasion"
+    },
+    "camw11": {
+        "banneduntil": "2028/1/1",
+        "BanReason": "underage"
     }
 }
