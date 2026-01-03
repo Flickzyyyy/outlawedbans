@@ -2198,5 +2198,9 @@
     "maxlMuS_Prlme": {
         "banneduntil": "2026/1/7",
         "BanReason": "rdm plus evasion"
+    },
+    "SYNCZ": {
+        "banneduntil": "2026/1/5",
+        "BanReason": "COP TARGETING"
     }
 }
