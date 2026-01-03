@@ -2214,5 +2214,9 @@
     "Jobamacoma2": {
         "banneduntil": "2026/1/6",
         "BanReason": "Rdm plus evasion"
+    },
+    "Simply_Unknown": {
+        "banneduntil": "2026/1/7",
+        "BanReason": "Rdm+ evasion"
     }
 }
