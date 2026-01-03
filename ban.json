@@ -2222,5 +2222,9 @@
     "devlinx.2026": {
         "banneduntil": "2026/1/24",
         "BanReason": "sexual harassment +Evasion"
+    },
+    "crashout1234": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "cop targeting"
     }
 }
