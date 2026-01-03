@@ -2262,5 +2262,9 @@
     "sir.edge": {
         "banneduntil": "2026/1/4",
         "BanReason": "RDM"
+    },
+    "MrSuitThe1st": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "rdm and evasion"
     }
 }
