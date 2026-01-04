@@ -2270,5 +2270,9 @@
     "peanutz": {
         "banneduntil": "2026/1/17",
         "BanReason": "Racist Remarks"
+    },
+    "Chance.family2023": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "RDM"
     }
 }
