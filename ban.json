@@ -2294,5 +2294,9 @@
     "xXBoBXx": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "Zhiigo22": {
+        "banneduntil": "2099/12/12",
+        "BanReason": "Hard r"
     }
 }
