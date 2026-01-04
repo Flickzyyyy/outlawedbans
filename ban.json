@@ -2274,5 +2274,9 @@
     "Chance.family2023": {
         "banneduntil": "2026/1/6",
         "BanReason": "RDM"
+    },
+    "Jonescj24": {
+        "banneduntil": "2026/1/7",
+        "BanReason": "RDM AND EVASION"
     }
 }
