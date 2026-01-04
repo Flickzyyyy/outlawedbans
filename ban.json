@@ -2314,5 +2314,9 @@
     "TonyMontanolli": {
         "banneduntil": "2026/1/8",
         "BanReason": "rdm plus evasion"
+    },
+    "circularsaw44": {
+        "banneduntil": "2026/1/8",
+        "BanReason": "rdm+Evasion"
     }
 }
