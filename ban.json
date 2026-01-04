@@ -2282,5 +2282,9 @@
     "JerwyQt": {
         "banneduntil": "2026/1/10",
         "BanReason": "Mass Rdm"
+    },
+    "Infamous_MONKE": {
+        "banneduntil": "2026/1/8",
+        "BanReason": "Rdm+Evasion"
     }
 }
