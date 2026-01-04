@@ -2338,5 +2338,9 @@
     "UrBoiGavin": {
         "banneduntil": "2026/1/8",
         "BanReason": "rdm + evasion"
+    },
+    "FALCON.667": {
+        "banneduntil": "2026/1/7",
+        "BanReason": "RDM via clip"
     }
 }
