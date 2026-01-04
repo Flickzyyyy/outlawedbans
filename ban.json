@@ -2286,5 +2286,9 @@
     "Infamous_MONKE": {
         "banneduntil": "2026/1/8",
         "BanReason": "Rdm+Evasion"
+    },
+    "yurrboyaaron": {
+        "banneduntil": "2026/1/6",
+        "BanReason": "Rdm"
     }
 }
