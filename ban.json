@@ -2266,5 +2266,9 @@
     "Nos_ChefHat": {
         "banneduntil": "2028/1/1",
         "BanReason": "Underage"
+    },
+    "peanutz": {
+        "banneduntil": "2026/1/17",
+        "BanReason": "Racist Remarks"
     }
 }
