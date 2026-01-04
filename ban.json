@@ -2294,5 +2294,9 @@
     "Fintexmex": {
         "banneduntil": "2026/1/17",
         "BanReason": "F slur"
+    },
+    "JJScooter1": {
+        "banneduntil": "2026/8/3",
+        "BanReason": "Underaged"
     }
 }
