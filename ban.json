@@ -2310,5 +2310,9 @@
     "borax_nerd2022": {
         "banneduntil": "2032/1/1",
         "BanReason": "underage(7)"
+    },
+    "TonyMontanolli": {
+        "banneduntil": "2026/1/8",
+        "BanReason": "rdm plus evasion"
     }
 }
