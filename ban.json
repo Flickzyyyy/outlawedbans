@@ -2362,5 +2362,9 @@
     "dexter.69": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt (Lord jit)"
+    },
+    "ConBlade": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
