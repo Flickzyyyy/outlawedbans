@@ -2322,5 +2322,9 @@
     "pete_6": {
         "banneduntil": "2026/1/9",
         "BanReason": "RDM & Evasion"
+    },
+    "f14tomcat.k": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
