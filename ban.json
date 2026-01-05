@@ -2334,5 +2334,9 @@
     "Quixgta": {
         "banneduntil": "2026/1/7",
         "BanReason": "rdm"
+    },
+    "TheBoMingle": {
+        "banneduntil": "2099/12/12",
+        "BanReason": "alt"
     }
 }
