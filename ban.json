@@ -2350,5 +2350,9 @@
     "blackroach": {
         "banneduntil": "2026/1/8",
         "BanReason": "RDM + Evasion"
+    },
+    "SGT.Greg.VII": {
+        "banneduntil": "2098/1/1",
+        "BanReason": "HARD R"
     }
 }
