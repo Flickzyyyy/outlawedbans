@@ -2346,5 +2346,9 @@
     "xxgoalzzzz": {
         "banneduntil": "2026/1/8",
         "BanReason": "RDM + Evasion"
+    },
+    "blackroach": {
+        "banneduntil": "2026/1/8",
+        "BanReason": "RDM + Evasion"
     }
 }
