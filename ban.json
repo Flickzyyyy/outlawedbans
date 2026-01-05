@@ -2342,5 +2342,9 @@
     "FALCON.667": {
         "banneduntil": "2026/1/7",
         "BanReason": "RDM via clip"
+    },
+    "xxgoalzzzz": {
+        "banneduntil": "2026/1/8",
+        "BanReason": "RDM + Evasion"
     }
 }
