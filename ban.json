@@ -2318,5 +2318,9 @@
     "linoThebino123": {
         "banneduntil": "2026/1/6",
         "BanReason": "RDM via clip"
+    },
+    "pete_6": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "RDM & Evasion"
     }
 }
