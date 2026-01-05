@@ -2326,5 +2326,9 @@
     "f14tomcat.k": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "germanyisthebest": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alting"
     }
 }
