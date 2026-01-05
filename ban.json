@@ -2358,5 +2358,9 @@
     "faswa": {
         "banneduntil": "2026/1/5",
         "BanReason": "Abusing Suicide"
+    },
+    "dexter.69": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt (Lord jit)"
     }
 }
