@@ -2350,5 +2350,9 @@
     "kujogt1": {
         "banneduntil": "2027/1/1",
         "BanReason": "12 years old"
+    },
+    "DW64777": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "Rdm and evasion"
     }
 }
