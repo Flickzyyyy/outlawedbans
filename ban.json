@@ -2294,5 +2294,9 @@
     "Miami9009": {
         "banneduntil": "2026/1/9",
         "BanReason": "RDM and Evasion"
+    },
+    "finesse_mafia": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
