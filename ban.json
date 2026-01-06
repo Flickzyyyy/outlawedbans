@@ -2338,5 +2338,9 @@
     "TheBoMingle": {
         "banneduntil": "2099/12/12",
         "BanReason": "alt"
+    },
+    "johnny.sins.2025": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "rdm+Evasion"
     }
 }
