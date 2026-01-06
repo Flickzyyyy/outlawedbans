@@ -2346,5 +2346,9 @@
     "CJ1934": {
         "banneduntil": "2026/1/19",
         "BanReason": "Racism"
+    },
+    "kujogt1": {
+        "banneduntil": "2027/01/01",
+        "BanReason": "11 years old"
     }
 }
