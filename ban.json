@@ -2306,5 +2306,9 @@
     "IS009": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "whatjordan": {
+        "banneduntil": "2026/1/20",
+        "BanReason": "F Slur(reban-wrong year)"
     }
 }
