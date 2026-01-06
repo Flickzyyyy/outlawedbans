@@ -2298,5 +2298,9 @@
     "finesse_mafia": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "E55.567": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
