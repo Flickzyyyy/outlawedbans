@@ -2318,5 +2318,9 @@
     "SillyIndividual": {
         "banneduntil": "2026/1/11",
         "BanReason": "RDM plus Evasion"
+    },
+    "Hamper123": {
+        "banneduntil": "2028/11/3",
+        "BanReason": "Underaged (11)"
     }
 }
