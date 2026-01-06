@@ -2354,5 +2354,9 @@
     "DW64777": {
         "banneduntil": "2026/1/9",
         "BanReason": "Rdm and evasion"
+    },
+    "Skidmark1070 ": {
+        "banneduntil": "2026/1/23",
+        "BanReason": "Soft-A +Evasion"
     }
 }
