@@ -2290,5 +2290,9 @@
     "Alexifons2012": {
         "banneduntil": "2026/5/4",
         "BanReason": "Underage(12)"
+    },
+    "Miami9009": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "RDM and Evasion"
     }
 }
