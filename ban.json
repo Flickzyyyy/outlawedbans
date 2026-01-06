@@ -2274,5 +2274,9 @@
     "ZXBOY": {
         "banneduntil": "2031/1/1",
         "BanReason": "Underage(8)"
+    },
+    "okaybuddydoge": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
