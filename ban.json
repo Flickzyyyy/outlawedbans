@@ -2342,5 +2342,9 @@
     "johnny.sins.2025": {
         "banneduntil": "2026/1/9",
         "BanReason": "rdm+Evasion"
+    },
+    "CJ1934": {
+        "banneduntil": "2026/1/19",
+        "BanReason": "Racism"
     }
 }
