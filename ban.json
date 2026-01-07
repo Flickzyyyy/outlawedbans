@@ -2346,5 +2346,9 @@
     "german.hman": {
         "banneduntil": "2098/12/1",
         "BanReason": "alting"
+    },
+    "nitwit4.0": {
+        "banneduntil": "2026/1/27",
+        "BanReason": "Sexual Remarks + Evasion"
     }
 }
