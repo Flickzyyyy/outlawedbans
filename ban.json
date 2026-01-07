@@ -2382,5 +2382,9 @@
     "D13G0V5WR1D": {
         "banneduntil": "2026/1/11",
         "BanReason": "rdm+evasion"
+    },
+    "oililjk": {
+        "banneduntil": "2099/11/2",
+        "BanReason": "Alting"
     }
 }
