@@ -2342,5 +2342,9 @@
     "justbirdbird": {
         "banneduntil": "2026/1/9",
         "BanReason": "rdm plus evasion"
+    },
+    "german.hman": {
+        "banneduntil": "2098/12/1",
+        "BanReason": "alting"
     }
 }
