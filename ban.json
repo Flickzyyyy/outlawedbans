@@ -2350,5 +2350,9 @@
     "nitwit4.0": {
         "banneduntil": "2026/1/27",
         "BanReason": "Sexual Remarks + Evasion"
+    },
+    "SYNCZ": {
+        "banneduntil": "2026/1/14",
+        "BanReason": "Cop Targeting"
     }
 }
