@@ -2370,5 +2370,9 @@
     "DeimosBeChilling": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual harassment to a minor"
+    },
+    "46952167a": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alting"
     }
 }
