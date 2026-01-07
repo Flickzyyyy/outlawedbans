@@ -2374,5 +2374,9 @@
     "46952167a": {
         "banneduntil": "2099/1/1",
         "BanReason": "alting"
+    },
+    "BlixsIsAMeme": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "Rdm plus evasiob"
     }
 }
