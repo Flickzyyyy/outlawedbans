@@ -2386,5 +2386,9 @@
     "oiloiljk": {
         "banneduntil": "2099/11/2",
         "BanReason": "Alting"
+    },
+    "Izaak_Doggo": {
+        "banneduntil": "2026/1/14",
+        "BanReason": "Mass RDM"
     }
 }
