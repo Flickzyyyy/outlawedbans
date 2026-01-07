@@ -2386,5 +2386,9 @@
     "oililjk": {
         "banneduntil": "2099/11/2",
         "BanReason": "Alting"
+    },
+    "oiloiljk": {
+        "banneduntil": "2099/11/2",
+        "BanReason": "Alting"
     }
 }
