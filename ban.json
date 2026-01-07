@@ -2330,5 +2330,9 @@
     "bigguysponge": {
         "banneduntil": "2026/1/9",
         "BanReason": "Rdm plus evasion"
+    },
+    "ravenking13": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "RDM & Evasion"
     }
 }
