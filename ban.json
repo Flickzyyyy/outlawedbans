@@ -2354,5 +2354,9 @@
     "SYNCZ": {
         "banneduntil": "2026/1/14",
         "BanReason": "Cop Targeting"
+    },
+    "DDforlife": {
+        "banneduntil": "2026/1/21",
+        "BanReason": "Racial Remarks, RDM & Harassment (Reban)"
     }
 }
