@@ -2370,5 +2370,9 @@
     "46h": {
         "banneduntil": "2099/2/2",
         "BanReason": "alting"
+    },
+    "bigboyepic.678455": {
+        "banneduntil": "2026/1/14",
+        "BanReason": "mass rdm"
     }
 }
