@@ -2366,5 +2366,9 @@
     "EdgarAllenBruh": {
         "banneduntil": "2026/1/11",
         "BanReason": "Rdm and evasion"
+    },
+    "46h": {
+        "banneduntil": "2099/2/2",
+        "BanReason": "alting"
     }
 }
