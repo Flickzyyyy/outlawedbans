@@ -2402,5 +2402,9 @@
     "youtubetubetube": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Timidturtle5211": {
+        "banneduntil": "2099/11/12",
+        "BanReason": "Hard R"
     }
 }
