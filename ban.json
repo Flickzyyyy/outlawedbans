@@ -2410,5 +2410,9 @@
     "GingRDeadMan": {
         "banneduntil": "2026/1/10",
         "BanReason": "RDM Clip"
+    },
+    "DESK.seb": {
+        "banneduntil": "2099/12/11",
+        "BanReason": "Hard R"
     }
 }
