@@ -2414,5 +2414,9 @@
     "DESK.seb": {
         "banneduntil": "2099/12/11",
         "BanReason": "Hard R"
+    },
+    "nautica_lol": {
+        "banneduntil": "2026/2/7",
+        "BanReason": "Soft-A + Evasion"
     }
 }
