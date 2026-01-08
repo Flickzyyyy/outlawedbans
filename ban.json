@@ -2422,5 +2422,9 @@
     "sir.edge": {
         "banneduntil": "2026/1/9",
         "BanReason": "RDM"
+    },
+    "cap68376": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alting"
     }
 }
