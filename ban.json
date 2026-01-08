@@ -2418,5 +2418,9 @@
     "nautica_lol": {
         "banneduntil": "2026/2/7",
         "BanReason": "Soft-A + Evasion"
+    },
+    "sir.edge": {
+        "banneduntil": "2026/1/9",
+        "BanReason": "RDM"
     }
 }
