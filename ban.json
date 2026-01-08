@@ -2402,5 +2402,9 @@
     "Frosty902": {
         "banneduntil": "2088/1/1",
         "BanReason": "hard r"
+    },
+    "oiloilj": {
+        "banneduntil": "2099/11/12",
+        "BanReason": "Alt"
     }
 }
