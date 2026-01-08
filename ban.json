@@ -2398,5 +2398,9 @@
     "M312_650": {
         "banneduntil": "2099/11/21",
         "BanReason": "Hard R"
+    },
+    "Frosty902": {
+        "banneduntil": "2088/1/1",
+        "BanReason": "hard r"
     }
 }
