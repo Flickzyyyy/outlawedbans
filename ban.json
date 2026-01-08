@@ -2406,5 +2406,9 @@
     "oiloilj": {
         "banneduntil": "2099/11/12",
         "BanReason": "Alt"
+    },
+    "GingRDeadMan": {
+        "banneduntil": "2026/1/10",
+        "BanReason": "RDM Clip"
     }
 }
