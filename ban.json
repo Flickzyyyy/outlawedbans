@@ -2386,5 +2386,9 @@
     "VOODOO__VR": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R"
+    },
+    "friendlypainter": {
+        "banneduntil": "2026/1/13",
+        "BanReason": "rdm+evasion"
     }
 }
