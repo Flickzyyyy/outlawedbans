@@ -2418,5 +2418,9 @@
     "gkale_09": {
         "banneduntil": "2026/1/22",
         "BanReason": "F slur"
+    },
+    "MichaelCorvette": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "Rdm plus evasion"
     }
 }
