@@ -2414,5 +2414,9 @@
     "ThoseWhoSnow": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R Clip"
+    },
+    "gkale_09": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "F slur"
     }
 }
