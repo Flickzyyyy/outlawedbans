@@ -2378,5 +2378,9 @@
     "closeed": {
         "banneduntil": "2026/2/2",
         "BanReason": "Ban Extension (Soft A + RDM)"
+    },
+    "noschool123321": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Pedophilia/SA"
     }
 }
