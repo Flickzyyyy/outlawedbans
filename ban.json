@@ -2422,5 +2422,9 @@
     "MichaelCorvette": {
         "banneduntil": "2026/1/12",
         "BanReason": "Rdm plus evasion"
+    },
+    "OPPENHIGHMER": {
+        "banneduntil": "2027/5/9",
+        "BanReason": "Underaged"
     }
 }
