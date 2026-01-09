@@ -2394,5 +2394,9 @@
     "yuiop7829": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "sir.edge": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "rdm"
     }
 }
