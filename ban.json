@@ -2430,5 +2430,9 @@
     "boycraftable": {
         "banneduntil": "2026/1/12",
         "BanReason": "Rdm and evasiob"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "Rdm plus evasion"
     }
 }
