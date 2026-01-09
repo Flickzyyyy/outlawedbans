@@ -2390,5 +2390,9 @@
     "friendlypainter": {
         "banneduntil": "2026/1/13",
         "BanReason": "rdm+evasion"
+    },
+    "yuiop7829": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
