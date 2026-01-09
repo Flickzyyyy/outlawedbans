@@ -2434,5 +2434,9 @@
     "BoomBapGod": {
         "banneduntil": "2026/1/12",
         "BanReason": "Rdm plus evasion"
+    },
+    "Bluestonecreater": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "F slur"
     }
 }
