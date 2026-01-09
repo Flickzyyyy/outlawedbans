@@ -2438,5 +2438,9 @@
     "Bluestonecreater": {
         "banneduntil": "2026/1/22",
         "BanReason": "F slur"
+    },
+    "closeed": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "f slur"
     }
 }
