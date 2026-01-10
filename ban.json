@@ -2406,5 +2406,9 @@
     "satanic.666": {
         "banneduntil": "2070/1/1",
         "BanReason": "nazi shit"
+    },
+    "ULYSSES23": {
+        "banneduntil": "2026/1/23",
+        "BanReason": "Sexual harassment"
     }
 }
