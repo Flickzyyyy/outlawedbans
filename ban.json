@@ -2422,5 +2422,9 @@
     "FluffyLlama1072": {
         "banneduntil": "2026/1/12",
         "BanReason": "RDM Ticket"
+    },
+    "BuckTheWanderer": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "RDM Ticket"
     }
 }
