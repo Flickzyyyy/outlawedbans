@@ -2418,5 +2418,9 @@
     "not_tvin": {
         "banneduntil": "2026/1/10",
         "BanReason": "Rdm"
+    },
+    "killedbyafag": {
+        "banneduntil": "2026/1/23",
+        "BanReason": "odd name"
     }
 }
