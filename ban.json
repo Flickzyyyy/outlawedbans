@@ -2430,5 +2430,9 @@
     "iamtogood4444": {
         "banneduntil": "2026/1/23",
         "BanReason": "F Slur"
+    },
+    "Average_shooter": {
+        "banneduntil": "2026/2/10",
+        "BanReason": "soft a + evasion"
     }
 }
