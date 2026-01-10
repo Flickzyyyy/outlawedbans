@@ -2414,5 +2414,9 @@
     "madboi24": {
         "banneduntil": "2026/1/13",
         "BanReason": "rdm+Evasion"
+    },
+    "not_tvin": {
+        "banneduntil": "2026/1/10",
+        "BanReason": "Rdm"
     }
 }
