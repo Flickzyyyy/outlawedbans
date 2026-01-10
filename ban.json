@@ -2426,5 +2426,9 @@
     "Chipcollector3": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "satanic.666": {
+        "banneduntil": "2070/1/1",
+        "BanReason": "nazi shit"
     }
 }
