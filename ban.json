@@ -2398,5 +2398,9 @@
     "sir.edge": {
         "banneduntil": "2026/1/11",
         "BanReason": "rdm"
+    },
+    "Zachko0718": {
+        "banneduntil": "2026/1/13",
+        "BanReason": "rdm+evasion"
     }
 }
