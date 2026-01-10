@@ -2434,5 +2434,9 @@
     "Average_shooter": {
         "banneduntil": "2026/2/10",
         "BanReason": "soft a + evasion"
+    },
+    "B3n1908": {
+        "banneduntil": "2026/1/14",
+        "BanReason": "rdm+evasion"
     }
 }
