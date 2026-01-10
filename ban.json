@@ -2422,5 +2422,9 @@
     "killedbyafag": {
         "banneduntil": "2026/1/23",
         "BanReason": "odd name"
+    },
+    "Chipcollector3": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
