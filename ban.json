@@ -2446,5 +2446,9 @@
     "EnternalDemise": {
         "banneduntil": "2026/1/14",
         "BanReason": "RDM + Evasion"
+    },
+    "justbirdbird": {
+        "banneduntil": "2026/1/13",
+        "BanReason": "RDM Clip"
     }
 }
