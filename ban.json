@@ -2414,5 +2414,9 @@
     "MOYAAAAAA": {
         "banneduntil": "2026/1/11",
         "BanReason": "RDM Ticket"
+    },
+    "blackjack22.7": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "RDM Ticket"
     }
 }
