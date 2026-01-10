@@ -2442,5 +2442,9 @@
     "warwolf8866": {
         "banneduntil": "2026/1/14",
         "BanReason": "rdm+evasiion"
+    },
+    "EnternalDemise": {
+        "banneduntil": "2026/1/14",
+        "BanReason": "RDM + Evasion"
     }
 }
