@@ -2498,5 +2498,9 @@
     "soupmaestro": {
         "banneduntil": "2026/1/25",
         "BanReason": "Mass rdm plus evasiob"
+    },
+    "Revolver_Ricky": {
+        "banneduntil": "2026/1/18",
+        "BanReason": "Mass rdm"
     }
 }
