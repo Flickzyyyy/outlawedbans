@@ -2462,5 +2462,9 @@
     "200IQ": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "D13G0V5WR1D": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "RDM via clip"
     }
 }
