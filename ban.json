@@ -2490,5 +2490,9 @@
     "BenjiorDBD": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual stuff with a minor"
+    },
+    "Falangist": {
+        "banneduntil": "2026/1/24",
+        "BanReason": "Slur Baiting"
     }
 }
