@@ -2450,5 +2450,9 @@
     "JoseAntonioPrime": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r and alting"
+    },
+    "YellowBebber555": {
+        "banneduntil": "2026/1/11",
+        "BanReason": "RDM Clip/Ban Correction"
     }
 }
