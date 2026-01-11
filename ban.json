@@ -2514,5 +2514,9 @@
     "devilechicken": {
         "banneduntil": "2026/1/25",
         "BanReason": "Mass rdm plus evasion"
+    },
+    "rubelk60": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "Cop Targeting"
     }
 }
