@@ -2474,5 +2474,9 @@
     "Myst.Twice": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "i_heart_gooning": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "F Slur and Racism"
     }
 }
