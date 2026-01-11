@@ -2466,5 +2466,9 @@
     "D13G0V5WR1D": {
         "banneduntil": "2026/1/12",
         "BanReason": "RDM via clip"
+    },
+    "Nan_Fiddler": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R & Extreme Racism"
     }
 }
