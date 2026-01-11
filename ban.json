@@ -2526,5 +2526,9 @@
     "OckyMistyMoosy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "pots.292511": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
