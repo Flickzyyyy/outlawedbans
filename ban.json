@@ -2446,5 +2446,9 @@
     "szczyrbak": {
         "banneduntil": "2026/1/13",
         "BanReason": "RDM"
+    },
+    "JoseAntonioPrime": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r and alting"
     }
 }
