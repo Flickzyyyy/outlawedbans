@@ -2454,5 +2454,9 @@
     "YellowBebber555": {
         "banneduntil": "2026/1/12",
         "BanReason": "RDM Clip/Ban Correction"
+    },
+    "TheKing_AC": {
+        "banneduntil": "2099/1/2",
+        "BanReason": "Hard r"
     }
 }
