@@ -2518,5 +2518,9 @@
     "rubelk60": {
         "banneduntil": "2026/1/12",
         "BanReason": "Cop Targeting"
+    },
+    "IVIORT": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "RDM via clip"
     }
 }
