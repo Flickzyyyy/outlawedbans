@@ -2442,5 +2442,9 @@
     "NeoLibertarianFalangist": {
         "banneduntil": "2026/2/1",
         "BanReason": "Slur Baiting + Evasion"
+    },
+    "szczyrbak": {
+        "banneduntil": "2026/1/13",
+        "BanReason": "RDM"
     }
 }
