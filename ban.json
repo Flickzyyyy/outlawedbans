@@ -2510,5 +2510,9 @@
     "Zachtually": {
         "banneduntil": "2026/1/14",
         "BanReason": "Rdm"
+    },
+    "devilechicken": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "Mass rdm"
     }
 }
