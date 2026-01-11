@@ -2522,5 +2522,9 @@
     "IVIORT": {
         "banneduntil": "2026/1/12",
         "BanReason": "RDM via clip"
+    },
+    "OckyMistyMoosy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
