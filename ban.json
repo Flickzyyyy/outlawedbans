@@ -2494,5 +2494,9 @@
     "sir.edge": {
         "banneduntil": "2026/1/12",
         "BanReason": "Rdm"
+    },
+    "soupmaestro": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "Mass rdm plus evasiob"
     }
 }
