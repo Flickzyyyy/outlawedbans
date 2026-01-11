@@ -2502,5 +2502,9 @@
     "Revolver_Ricky": {
         "banneduntil": "2026/1/18",
         "BanReason": "Mass rdm"
+    },
+    "Rev_Mikey": {
+        "banneduntil": "2026/1/12",
+        "BanReason": "Rdm"
     }
 }
