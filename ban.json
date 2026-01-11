@@ -2506,5 +2506,9 @@
     "Rev_Mikey": {
         "banneduntil": "2026/1/12",
         "BanReason": "Rdm"
+    },
+    "Zachtually": {
+        "banneduntil": "2026/1/14",
+        "BanReason": "Rdm"
     }
 }
