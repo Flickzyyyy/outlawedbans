@@ -2458,5 +2458,9 @@
     "TheKing_AC": {
         "banneduntil": "2099/1/2",
         "BanReason": "Hard r"
+    },
+    "200IQ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
