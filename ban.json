@@ -2470,5 +2470,9 @@
     "Nan_Fiddler": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R & Extreme Racism"
+    },
+    "Myst.Twice": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
