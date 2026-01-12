@@ -2542,5 +2542,9 @@
     "aggintahttoohs": {
         "banneduntil": "2099/1/1",
         "BanReason": "slur name"
+    },
+    "67FALCON67": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt of aggintahttoohs"
     }
 }
