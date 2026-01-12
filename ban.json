@@ -2574,5 +2574,9 @@
     "playstation_gooner": {
         "banneduntil": "2026/2/8",
         "BanReason": "Ban time doubled for alting"
+    },
+    "devilechiken": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
