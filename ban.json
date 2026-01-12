@@ -2546,5 +2546,9 @@
     "67FALCON67": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt of aggintahttoohs"
+    },
+    "Toe_Massive": {
+        "banneduntil": "2026/1/15",
+        "BanReason": "Rdm and evasion"
     }
 }
