@@ -2514,5 +2514,9 @@
     "devilechiken": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "GongleDongle2": {
+        "banneduntil": "2026/1/18",
+        "BanReason": "Mass Rdm"
     }
 }
