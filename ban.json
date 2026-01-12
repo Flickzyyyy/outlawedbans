@@ -2566,5 +2566,9 @@
     "SwagPaps": {
         "banneduntil": "2026/1/25",
         "BanReason": "F slur"
+    },
+    "pro_gonner_sigma": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
