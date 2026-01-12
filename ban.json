@@ -2570,5 +2570,9 @@
     "pro_gonner_sigma": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "playstation_gooner": {
+        "banneduntil": "2026/2/8",
+        "BanReason": "Ban time doubled for alting"
     }
 }
