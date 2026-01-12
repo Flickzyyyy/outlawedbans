@@ -2538,5 +2538,9 @@
     "ImKashmir": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "aggintahttoohs": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "slur name"
     }
 }
