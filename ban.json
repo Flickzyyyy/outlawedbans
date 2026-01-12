@@ -2562,5 +2562,9 @@
     "maxImus_PrIme": {
         "banneduntil": "2026/1/15",
         "BanReason": "Rdm and evasion"
+    },
+    "SwagPaps": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "F slur"
     }
 }
