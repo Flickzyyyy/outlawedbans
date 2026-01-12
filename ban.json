@@ -2558,5 +2558,9 @@
     "Falangist1350": {
         "banneduntil": "2026/1/15",
         "BanReason": "Rdm and evasion"
+    },
+    "maxImus_PrIme": {
+        "banneduntil": "2026/1/15",
+        "BanReason": "Rdm and evasion"
     }
 }
