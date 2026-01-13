@@ -2518,5 +2518,9 @@
     "GongleDongle2": {
         "banneduntil": "2026/1/18",
         "BanReason": "Mass Rdm"
+    },
+    "youmalad": {
+        "banneduntil": "2026/1/15",
+        "BanReason": "RDM"
     }
 }
