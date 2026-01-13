@@ -2534,5 +2534,9 @@
     "OhMyGus": {
         "banneduntil": "2026/1/26",
         "BanReason": "Spawn Camping plus evasion"
+    },
+    "Dragonfruitsmoothi": {
+        "banneduntil": "2026/1/16",
+        "BanReason": "rdm+evasion"
     }
 }
