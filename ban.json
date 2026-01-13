@@ -2530,5 +2530,9 @@
     "Trex1133": {
         "banneduntil": "2026/1/14",
         "BanReason": "Rdm"
+    },
+    "OhMyGus": {
+        "banneduntil": "2026/1/26",
+        "BanReason": "Spawn Camping plus evasion"
     }
 }
