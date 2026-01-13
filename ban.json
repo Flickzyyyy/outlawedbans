@@ -2522,5 +2522,9 @@
     "youmalad": {
         "banneduntil": "2026/1/15",
         "BanReason": "RDM"
+    },
+    "yourmalad ": {
+        "banneduntil": "2026/1/15",
+        "BanReason": "RDM"
     }
 }
