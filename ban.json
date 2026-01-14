@@ -2534,5 +2534,9 @@
     "outlawedadminssuckzub": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt of yourmalad"
+    },
+    "yourmalad": {
+        "banneduntil": "2026/1/19",
+        "BanReason": "(Time doubled for alting) Rdm"
     }
 }
