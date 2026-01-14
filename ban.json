@@ -2522,5 +2522,9 @@
     "Soogybunges": {
         "banneduntil": "2026/1/17",
         "BanReason": "Rdm and evasion"
+    },
+    "Dcrye90": {
+        "banneduntil": "2026/1/15",
+        "BanReason": "Rdn"
     }
 }
