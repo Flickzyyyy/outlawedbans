@@ -2522,5 +2522,9 @@
     "colin13r": {
         "banneduntil": "2026/1/18",
         "BanReason": "rdm + evasion"
+    },
+    "JJVR308": {
+        "banneduntil": "2026/1/28",
+        "BanReason": "F Slur"
     }
 }
