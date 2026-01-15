@@ -2510,5 +2510,9 @@
     "bigshoota.2026": {
         "banneduntil": "2026/1/22",
         "BanReason": "mass Rdm"
+    },
+    "EvSOADrum26": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "Mass RDM & Cop Targeting"
     }
 }
