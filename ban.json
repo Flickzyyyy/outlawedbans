@@ -2528,7 +2528,7 @@
         "BanReason": "Spawn camping"
     },
     "sir.edge": {
-        "banneduntil": "2026/1/19",
-        "BanReason": "RDM"
+        "banneduntil": "2026/1/28",
+        "BanReason": "RDM (repeat offender so he is getting longer)"
     }
 }
