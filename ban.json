@@ -2514,5 +2514,9 @@
     "EvSOADrum26": {
         "banneduntil": "2026/1/22",
         "BanReason": "Mass RDM & Cop Targeting"
+    },
+    "Monjet": {
+        "banneduntil": "2026/1/16",
+        "BanReason": "RDM & Cop Targeting"
     }
 }
