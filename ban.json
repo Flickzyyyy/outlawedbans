@@ -2498,5 +2498,9 @@
     "Johnnyamerican": {
         "banneduntil": "2026/1/16",
         "BanReason": "RDM"
+    },
+    "Snow2xcomp": {
+        "banneduntil": "2026/1/28",
+        "BanReason": "soft a"
     }
 }
