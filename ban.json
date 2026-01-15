@@ -2506,5 +2506,9 @@
     "TheTrueKingBird": {
         "banneduntil": "2026/1/17",
         "BanReason": "Rdm and evasion"
+    },
+    "jimbobsurprem": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt(jimmybobjr)"
     }
 }
