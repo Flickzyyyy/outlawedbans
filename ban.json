@@ -2506,5 +2506,9 @@
     "Sacrifyce": {
         "banneduntil": "2026/1/18",
         "BanReason": "RDM + evasion"
+    },
+    "coke_bottle": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "Alt glitch"
     }
 }
