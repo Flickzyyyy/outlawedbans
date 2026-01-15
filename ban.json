@@ -2534,5 +2534,9 @@
     "capmorg": {
         "banneduntil": "2026/1/16",
         "BanReason": "RDM"
+    },
+    "Johnnyamerican": {
+        "banneduntil": "2026/1/16",
+        "BanReason": "RDM"
     }
 }
