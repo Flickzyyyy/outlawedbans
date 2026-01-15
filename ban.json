@@ -2506,5 +2506,9 @@
     "Sacrifyce": {
         "banneduntil": "2026/1/18",
         "BanReason": "RDM + evasion"
+    },
+    "bigshoota.2026": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "mass Rdm"
     }
 }
