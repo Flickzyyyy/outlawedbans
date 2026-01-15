@@ -2502,5 +2502,9 @@
     "Snow2xcomp": {
         "banneduntil": "2026/1/28",
         "BanReason": "soft a"
+    },
+    "Sacrifyce": {
+        "banneduntil": "2026/1/18",
+        "BanReason": "RDM + evasion"
     }
 }
