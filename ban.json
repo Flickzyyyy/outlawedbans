@@ -2530,5 +2530,9 @@
     "johnadamsthethird": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "capmorg": {
+        "banneduntil": "2026/1/16",
+        "BanReason": "RDM"
     }
 }
