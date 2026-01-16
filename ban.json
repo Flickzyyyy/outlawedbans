@@ -2554,5 +2554,9 @@
     "nerbybird": {
         "banneduntil": "2026/1/17",
         "BanReason": "Rdm"
+    },
+    "Callmepickless": {
+        "banneduntil": "2026/1/16",
+        "BanReason": "Rdm"
     }
 }
