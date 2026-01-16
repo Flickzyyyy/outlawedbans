@@ -2542,5 +2542,9 @@
     "DomDaDonDotta": {
         "banneduntil": "2026/1/22",
         "BanReason": "Mass Rdm"
+    },
+    "Surroundedbyballs03": {
+        "banneduntil": "2026/1/16",
+        "BanReason": "Abusing Suicide"
     }
 }
