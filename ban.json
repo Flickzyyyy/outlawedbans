@@ -2550,5 +2550,9 @@
     "Asmashing": {
         "banneduntil": "2029/1/15",
         "BanReason": "Underaged (10)"
+    },
+    "nerbybird": {
+        "banneduntil": "2026/1/17",
+        "BanReason": "Rdm"
     }
 }
