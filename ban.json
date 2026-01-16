@@ -2538,5 +2538,9 @@
     "knifeguyonpavlov": {
         "banneduntil": "2027/1/15",
         "BanReason": "Underaged (12)"
+    },
+    "knifeguyonpav": {
+        "banneduntil": "2027/1/15",
+        "BanReason": "Underaged (12)"
     }
 }
