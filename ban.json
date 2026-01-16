@@ -2546,5 +2546,9 @@
     "ragebaitsuccessful": {
         "banneduntil": "2099/1/1",
         "BanReason": "Rape and pedophelia"
+    },
+    "Asmashing": {
+        "banneduntil": "2029/1/15",
+        "BanReason": "Underaged (10)"
     }
 }
