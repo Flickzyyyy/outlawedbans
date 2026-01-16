@@ -2542,5 +2542,9 @@
     "knifeguyonpav": {
         "banneduntil": "2027/1/15",
         "BanReason": "Underaged (12)"
+    },
+    "ragebaitsuccessful": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Rape and pedophelia"
     }
 }
