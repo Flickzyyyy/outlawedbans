@@ -2534,5 +2534,9 @@
     "JOHNMUSTARD": {
         "banneduntil": "2026/1/16",
         "BanReason": "rdm clip"
+    },
+    "knifeguyonpavlov": {
+        "banneduntil": "2027/1/15",
+        "BanReason": "Underaged (12)"
     }
 }
