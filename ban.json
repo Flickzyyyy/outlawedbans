@@ -2566,5 +2566,9 @@
     "M3NL0_12": {
         "banneduntil": "2026/1/17",
         "BanReason": "Doubled ban for alting"
+    },
+    "DomDaDonDotta": {
+        "banneduntil": "2026/1/19",
+        "BanReason": "Rdm and evasion"
     }
 }
