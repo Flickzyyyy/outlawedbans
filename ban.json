@@ -2562,5 +2562,9 @@
     "Pineapple09888": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt of M3NL0_12"
+    },
+    "M3NL0_12": {
+        "banneduntil": "2026/1/17",
+        "BanReason": "Doubled ban for alting"
     }
 }
