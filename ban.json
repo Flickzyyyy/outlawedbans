@@ -2526,5 +2526,9 @@
     "Boundful": {
         "banneduntil": "2026/1/18",
         "BanReason": "RDM"
+    },
+    "Gentlemen_1945": {
+        "banneduntil": "2026/1/18",
+        "BanReason": "Rdm"
     }
 }
