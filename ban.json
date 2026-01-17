@@ -2554,5 +2554,9 @@
     "S0120173892917738493017": {
         "banneduntil": "2099/1/1",
         "BanReason": "alting"
+    },
+    "Ayan10": {
+        "banneduntil": "2026/2/1",
+        "BanReason": "F Slur"
     }
 }
