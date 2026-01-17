@@ -2530,5 +2530,9 @@
     "Gentlemen_1945": {
         "banneduntil": "2026/1/18",
         "BanReason": "Rdm"
+    },
+    "BOBTHETOETICKLER": {
+        "banneduntil": "2026/1/21",
+        "BanReason": "rdm + evasion"
     }
 }
