@@ -2562,5 +2562,9 @@
     "CaysenF": {
         "banneduntil": "2026/2/1",
         "BanReason": "F slur"
+    },
+    "the_shortdude": {
+        "banneduntil": "2026/1/21",
+        "BanReason": "Rdm and evasion"
     }
 }
