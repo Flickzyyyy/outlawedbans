@@ -2574,5 +2574,9 @@
     "circularsaw44": {
         "banneduntil": "2026/2/3",
         "BanReason": "F slur"
+    },
+    "Tactical_Tampon15": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard t"
     }
 }
