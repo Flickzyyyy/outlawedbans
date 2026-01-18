@@ -2558,5 +2558,9 @@
     "RCGOAT": {
         "banneduntil": "2026/1/22",
         "BanReason": "Rdm and evasion"
+    },
+    "sebb_a": {
+        "banneduntil": "2026/1/19",
+        "BanReason": "Rdm"
     }
 }
