@@ -2578,5 +2578,9 @@
     "Tactical_Tampon15": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "M3NL0_12": {
+        "banneduntil": "2026/1/18",
+        "BanReason": "RDM"
     }
 }
