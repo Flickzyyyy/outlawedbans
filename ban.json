@@ -2542,5 +2542,9 @@
     "Sacrifyce": {
         "banneduntil": "2026/1/22",
         "BanReason": "Rdm and evasion"
+    },
+    "Gentlemen_1945": {
+        "banneduntil": "2026/1/21",
+        "BanReason": "Rdm and evasion"
     }
 }
