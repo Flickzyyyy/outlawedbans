@@ -2582,5 +2582,9 @@
     "justbirdbird": {
         "banneduntil": "2026/1/21",
         "BanReason": "RD."
+    },
+    "BenBBF": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "Cop Targeting+ Evasion"
     }
 }
