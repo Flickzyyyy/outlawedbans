@@ -2562,5 +2562,9 @@
     "sebb_a": {
         "banneduntil": "2026/1/19",
         "BanReason": "Rdm"
+    },
+    "Pedo_Fiddler": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "ALT"
     }
 }
