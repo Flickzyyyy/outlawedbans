@@ -2570,5 +2570,9 @@
     "Xboxguy1": {
         "banneduntil": "2027/2/1",
         "BanReason": "underage"
+    },
+    "Col.kilgore1969": {
+        "banneduntil": "2000/11/22",
+        "BanReason": "no ban logs"
     }
 }
