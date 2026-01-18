@@ -2538,5 +2538,9 @@
     "joebeatsit": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Sacrifyce": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "Rdm and evasion"
     }
 }
