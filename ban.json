@@ -2614,5 +2614,9 @@
     "random.romanian.communist": {
         "banneduntil": "2026/1/22",
         "BanReason": "Cop Targeting"
+    },
+    "forest_gump6741": {
+        "banneduntil": "2026/1/26",
+        "BanReason": "Camping/rdm"
     }
 }
