@@ -2586,5 +2586,9 @@
     "BenBBF": {
         "banneduntil": "2026/1/22",
         "BanReason": "Cop Targeting+ Evasion"
+    },
+    "StephenHawkinOnATronBike": {
+        "banneduntil": "2026/2/2",
+        "BanReason": "Racial Remarks"
     }
 }
