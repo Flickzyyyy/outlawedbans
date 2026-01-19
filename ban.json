@@ -2598,5 +2598,9 @@
     "maxlMuS_Prlme": {
         "banneduntil": "2026/2/8",
         "BanReason": "Sexual Assault & Evasion"
+    },
+    "Masacase01": {
+        "banneduntil": "2029/4/12",
+        "BanReason": "Underage"
     }
 }
