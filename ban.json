@@ -2598,5 +2598,9 @@
     "rq3420": {
         "banneduntil": "2026/1/22",
         "BanReason": "Rdm and evasion"
+    },
+    "jackmonkkiller": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "Soft a and evasion"
     }
 }
