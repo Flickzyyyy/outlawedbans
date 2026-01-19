@@ -2594,5 +2594,9 @@
     "GeneralRiley61958": {
         "banneduntil": "2026/2/22",
         "BanReason": "RDM & Evasion"
+    },
+    "maxlMuS_Prlme": {
+        "banneduntil": "2026/2/8",
+        "BanReason": "Sexual Assault & Evasion"
     }
 }
