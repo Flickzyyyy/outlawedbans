@@ -2610,5 +2610,9 @@
     "ROOTBEEEEERMANN": {
         "banneduntil": "2026/1/23",
         "BanReason": "Rdm and evasion"
+    },
+    "random.romanian.communist": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "Cop Targeting"
     }
 }
