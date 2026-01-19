@@ -2590,5 +2590,9 @@
     "StephenHawkinOnATronBike": {
         "banneduntil": "2026/2/2",
         "BanReason": "Racial Remarks"
+    },
+    "GeneralRiley61958": {
+        "banneduntil": "2026/2/22",
+        "BanReason": "RDM & Evasion"
     }
 }
