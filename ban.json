@@ -2634,5 +2634,9 @@
     "G-lover": {
         "banneduntil": "2026/1/22",
         "BanReason": "RDM"
+    },
+    "it.Hubert": {
+        "banneduntil": "2026/2/11",
+        "BanReason": "Sexual Remarks + Evasion"
     }
 }
