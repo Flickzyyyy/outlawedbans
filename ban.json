@@ -2638,5 +2638,9 @@
     "GAME FOOL": {
         "banneduntil": "2026/2/19",
         "BanReason": "Soft a and evasion"
+    },
+    "Evil_M0rty": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "F slur and Evasion"
     }
 }
