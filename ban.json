@@ -2622,5 +2622,9 @@
     "GAMEFOOL": {
         "banneduntil": "2026/2/19",
         "BanReason": "Soft a and evasion"
+    },
+    "DeadGoblin": {
+        "banneduntil": "2026/1/23",
+        "BanReason": "RDM + Evasion"
     }
 }
