@@ -2630,5 +2630,9 @@
     "Simply_Unknown": {
         "banneduntil": "2026/1/21",
         "BanReason": "RDM"
+    },
+    "G-lover": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "RDM"
     }
 }
