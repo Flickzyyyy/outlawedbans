@@ -2626,5 +2626,9 @@
     "itx.hubert": {
         "banneduntil": "2026/1/23",
         "BanReason": "Rdm and evasion"
+    },
+    "Vybz": {
+        "banneduntil": "2026/1/23",
+        "BanReason": "Rdm and evasion"
     }
 }
