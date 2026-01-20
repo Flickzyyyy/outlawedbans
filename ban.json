@@ -2638,5 +2638,9 @@
     "it.Hubert": {
         "banneduntil": "2026/2/11",
         "BanReason": "Sexual Remarks + Evasion"
+    },
+    "nicklisn": {
+        "banneduntil": "2026/1/22",
+        "BanReason": "RDM Clip"
     }
 }
