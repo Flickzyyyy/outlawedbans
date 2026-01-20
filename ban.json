@@ -2626,5 +2626,9 @@
     "DeadGoblin": {
         "banneduntil": "2026/1/23",
         "BanReason": "RDM + Evasion"
+    },
+    "Simply_Unknown": {
+        "banneduntil": "2026/1/21",
+        "BanReason": "RDM"
     }
 }
