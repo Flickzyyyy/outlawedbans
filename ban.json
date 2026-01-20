@@ -2646,5 +2646,9 @@
     "voras_": {
         "banneduntil": "2026/1/23",
         "BanReason": "RDM"
+    },
+    "SillyIndividual": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting + Mass RDM + Evasion"
     }
 }
