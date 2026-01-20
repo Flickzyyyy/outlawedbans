@@ -2642,5 +2642,9 @@
     "nicklisn": {
         "banneduntil": "2026/1/22",
         "BanReason": "RDM Clip"
+    },
+    "voras_": {
+        "banneduntil": "2026/1/23",
+        "BanReason": "RDM"
     }
 }
