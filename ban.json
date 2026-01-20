@@ -2630,9 +2630,5 @@
     "Simply_Unknown": {
         "banneduntil": "2026/1/21",
         "BanReason": "RDM"
-    },
-    "lettland": {
-        "banneduntil": "2026/1/1",
-        "BanReason": "Unban"
     }
 }
