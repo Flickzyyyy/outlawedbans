@@ -2650,5 +2650,9 @@
     "RotundToenail": {
         "banneduntil": "2026/1/25",
         "BanReason": "RDM + evasion"
+    },
+    "Ihn1357": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "RDM + Evasion"
     }
 }
