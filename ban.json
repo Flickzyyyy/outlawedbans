@@ -2654,5 +2654,9 @@
     "mmjlc2": {
         "banneduntil": "2026/1/21",
         "BanReason": "Rdm"
+    },
+    "Lepoinee": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
