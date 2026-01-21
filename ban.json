@@ -2646,5 +2646,9 @@
     "YellowBebber555": {
         "banneduntil": "2026/1/22",
         "BanReason": "RDM"
+    },
+    "RotundToenail": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "RDM + evasion"
     }
 }
