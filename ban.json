@@ -2614,5 +2614,9 @@
     "Mrgnome74": {
         "banneduntil": "2026/1/23",
         "BanReason": "Abusing suicide"
+    },
+    "Boundful": {
+        "banneduntil": "2026/11/23",
+        "BanReason": "rdm"
     }
 }
