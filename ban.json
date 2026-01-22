@@ -2662,5 +2662,9 @@
     "CL1111": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage 12"
+    },
+    "adam22": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "Rdm and evasion"
     }
 }
