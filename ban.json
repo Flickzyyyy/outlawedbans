@@ -2606,5 +2606,9 @@
     "Carte.L": {
         "banneduntil": "2026/1/28",
         "BanReason": "Mass Rdm(Camping)"
+    },
+    "Beast3599": {
+        "banneduntil": "2026/1/23",
+        "BanReason": "Rdm via clip"
     }
 }
