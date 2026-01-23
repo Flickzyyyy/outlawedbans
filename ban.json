@@ -2586,5 +2586,9 @@
     "SiltyHurdle516": {
         "banneduntil": "2026/2/5",
         "BanReason": "F slur"
+    },
+    "2AM.CHIP": {
+        "banneduntil": "2026/2/5",
+        "BanReason": "Slur baiting"
     }
 }
