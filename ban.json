@@ -2582,5 +2582,9 @@
     "jack.775259": {
         "banneduntil": "2026/2/5",
         "BanReason": "Slur baiting"
+    },
+    "SiltyHurdle516": {
+        "banneduntil": "2026/2/5",
+        "BanReason": "F slur"
     }
 }
