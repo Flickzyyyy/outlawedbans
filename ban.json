@@ -2590,5 +2590,9 @@
     "2AM.CHIP": {
         "banneduntil": "2026/2/5",
         "BanReason": "Slur baiting"
+    },
+    "Mrgnome74": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "Rdm"
     }
 }
