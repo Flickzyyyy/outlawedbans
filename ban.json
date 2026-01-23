@@ -2618,5 +2618,9 @@
     "XPostal_DudeX ": {
         "banneduntil": "2026/1/26",
         "BanReason": "RDM + Evasion"
+    },
+    "Gentlemen_1945": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r and evasion"
     }
 }
