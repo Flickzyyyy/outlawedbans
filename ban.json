@@ -2630,5 +2630,9 @@
     "M3NLO_12": {
         "banneduntil": "2026/2/1",
         "BanReason": "Ban doubled, then doubled again for alting twice."
+    },
+    "xxddxx ": {
+        "banneduntil": "2032/1/1",
+        "BanReason": "underage"
     }
 }
