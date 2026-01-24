@@ -2686,5 +2686,9 @@
     "300BB.L.K": {
         "banneduntil": "2099/1/12",
         "BanReason": "Nazi PFP"
+    },
+    "random.romanian.communist": {
+        "banneduntil": "2026/1/27",
+        "BanReason": "rdm plus evasion."
     }
 }
