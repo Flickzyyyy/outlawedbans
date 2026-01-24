@@ -2614,5 +2614,9 @@
     "cia_bob": {
         "banneduntil": "1/25/2026",
         "BanReason": "RDM via clip"
+    },
+    "HITSTICC23": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt (M3NLO_12)"
     }
 }
