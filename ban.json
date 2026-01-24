@@ -2614,9 +2614,5 @@
     "cia_bob": {
         "banneduntil": "1/25/2026",
         "BanReason": "RDM via clip"
-    },
-    "jackndabox25": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "Unban? Alt bot caught due to name change, awaiting further info or investigation"
     }
 }
