@@ -2650,5 +2650,9 @@
     "Flickzyy": {
         "banneduntil": "2026/1/25",
         "BanReason": "L bozo"
+    },
+    "creeperpizzer": {
+        "banneduntil": "2026/1/28",
+        "BanReason": "RDM and evasion"
     }
 }
