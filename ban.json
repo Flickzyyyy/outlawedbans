@@ -2694,5 +2694,9 @@
     "DarthLordCalvin": {
         "banneduntil": "2026/1/27",
         "BanReason": "rdm plus evasion"
+    },
+    "sniperman64": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "Rdm"
     }
 }
