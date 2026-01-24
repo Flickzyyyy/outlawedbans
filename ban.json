@@ -2610,5 +2610,9 @@
     "N0ah_3l_dr34m3r": {
         "banneduntil": "2026/1/25",
         "BanReason": "Rdm"
+    },
+    "cia_bob": {
+        "banneduntil": "1/25/2026",
+        "BanReason": "RDM via clip"
     }
 }
