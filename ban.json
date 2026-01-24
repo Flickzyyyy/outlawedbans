@@ -2666,5 +2666,9 @@
     "Hinkle2001": {
         "banneduntil": "2026/1/28",
         "BanReason": "rdm and evasion"
+    },
+    "maxIMus_Prime": {
+        "banneduntil": "2026/1/28",
+        "BanReason": "Rdm and Evasion"
     }
 }
