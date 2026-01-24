@@ -1559,10 +1559,6 @@
         "banneduntil": "2027/12/25",
         "BanReason": "underaged"
     },
-    "Lokita_69": {
-        "banneduntil": "2026/1/24",
-        "BanReason": "Soft a+ evasion+rdm"
-    },
     "mrAtha2": {
         "banneduntil": "2099/1/1",
         "BanReason": "N-word Hard R"
@@ -1894,10 +1890,6 @@
     "Fllckzyyy": {
         "banneduntil": "2099/11/11",
         "BanReason": "Staff impersonation"
-    },
-    "devlinx.2026": {
-        "banneduntil": "2026/1/24",
-        "BanReason": "sexual harassment +Evasion"
     },
     "emansowea": {
         "banneduntil": "2099/1/1",
@@ -2515,10 +2507,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
     },
-    "masonmnn": {
-        "banneduntil": "2026/1/24",
-        "BanReason": "Rdm and evasion"
-    },
     "MrFancyG16": {
         "banneduntil": "2026/2/4",
         "BanReason": "Sexual harassment"
@@ -2571,14 +2559,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
     },
-    "kekepepe": {
-        "banneduntil": "2026/1/24",
-        "BanReason": "Rdm"
-    },
-    "ChicenFatBoii": {
-        "banneduntil": "2026/1/24",
-        "BanReason": "Rdm"
-    },
     "jack.775259": {
         "banneduntil": "2026/2/5",
         "BanReason": "Slur baiting"
@@ -2599,10 +2579,6 @@
         "banneduntil": "2026/2/6",
         "BanReason": "F slur"
     },
-    "shortKING21": {
-        "banneduntil": "2026/1/24",
-        "BanReason": "Rdm"
-    },
     "sword.256664": {
         "banneduntil": "2026/2/3",
         "BanReason": "F slur"
@@ -2610,9 +2586,5 @@
     "greggb": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
-    },
-    "OCYCOCKY": {
-        "banneduntil": "2000/1/1",
-        "BanReason": "Example/Test"
     }
 }
