@@ -2586,9 +2586,5 @@
     "greggb": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
-    },
-    "OCYCOCKY": {
-        "banneduntil": "2000/1/1",
-        "BanReason": "Test"
     }
 }
