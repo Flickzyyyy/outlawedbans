@@ -2690,5 +2690,9 @@
     "random.romanian.communist": {
         "banneduntil": "2026/1/27",
         "BanReason": "rdm plus evasion."
+    },
+    "DarthLordCalvin": {
+        "banneduntil": "2026/1/27",
+        "BanReason": "rdm plus evasion"
     }
 }
