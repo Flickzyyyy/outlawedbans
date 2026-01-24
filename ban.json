@@ -2598,5 +2598,9 @@
     "M3NL0_12": {
         "banneduntil": "2026/1/26",
         "BanReason": "rdm"
+    },
+    "rq3420": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
