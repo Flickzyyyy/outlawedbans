@@ -2678,5 +2678,9 @@
     "blosser.2023": {
         "banneduntil": "2026/3/7",
         "BanReason": "Mass Rdm(Excessive Logs)"
+    },
+    "shortKING21": {
+        "banneduntil": "2026/2/7",
+        "BanReason": "F Slur"
     }
 }
