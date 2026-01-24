@@ -2612,7 +2612,7 @@
         "BanReason": "hard r"
     },
     "OCYCOCKY": {
-        "banneduntil": "2099",
-        "BanReason": "Example"
+        "banneduntil": "2000/1/1",
+        "BanReason": "Example/Test"
     }
 }
