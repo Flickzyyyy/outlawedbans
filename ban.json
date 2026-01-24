@@ -2702,5 +2702,9 @@
     "HumanGuyyyyyyy": {
         "banneduntil": "2026/1/26",
         "BanReason": "rdm"
+    },
+    "random.romanian.communist ": {
+        "banneduntil": "2026/1/27",
+        "BanReason": "rdm plus evasion"
     }
 }
