@@ -2706,5 +2706,9 @@
     "GHOSTREAPERZ123": {
         "banneduntil": "2026/1/27",
         "BanReason": "rdm+evasion"
+    },
+    "MF.REYY": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard R"
     }
 }
