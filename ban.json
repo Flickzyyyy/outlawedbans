@@ -2656,7 +2656,7 @@
         "BanReason": "RDM and evasion"
     },
     "TheLastoneAlive247": {
-        "banneduntil": "2099",
+        "banneduntil": "2099/1/1",
         "BanReason": "Hard R twice"
     }
 }
