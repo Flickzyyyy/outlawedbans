@@ -2598,5 +2598,9 @@
     "ilikecats.16770": {
         "banneduntil": "2026/2/6",
         "BanReason": "F slur"
+    },
+    "shortKING21": {
+        "banneduntil": "2026/1/24",
+        "BanReason": "Rdm"
     }
 }
