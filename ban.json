@@ -2702,5 +2702,9 @@
     "random.romanian.communist ": {
         "banneduntil": "2026/1/27",
         "BanReason": "rdm plus evasion"
+    },
+    "GHOSTREAPERZ123": {
+        "banneduntil": "2026/1/27",
+        "BanReason": "rdm+evasion"
     }
 }
