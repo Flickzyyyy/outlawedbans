@@ -2606,5 +2606,9 @@
     "sword.256664": {
         "banneduntil": "2026/2/3",
         "BanReason": "F slur"
+    },
+    "greggb": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
