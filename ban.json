@@ -1704,8 +1704,8 @@
         "BanReason": "F slur and evasion"
     },
     "GeneralRose": {
-        "banneduntil": "2099/12/11",
-        "BanReason": "Hard R"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "CuteSubmisiveFemboy": {
         "banneduntil": "2099/1/1",
