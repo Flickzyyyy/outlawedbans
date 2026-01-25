@@ -340,8 +340,8 @@
         "BanReason": "2025/11/16"
     },
     "QTCosmickill": {
-        "banneduntil": "2099/11/27",
-        "BanReason": "Hard R and f slur"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "Goerge_Floyd": {
         "banneduntil": "2045/11/12",
