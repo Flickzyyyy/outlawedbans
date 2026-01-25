@@ -2786,5 +2786,9 @@
     "Gavyn_THEOUTLAW": {
         "banneduntil": "2026/1/26",
         "BanReason": "Rdm clip"
+    },
+    "Notedthat": {
+        "banneduntil": "2048/1/1",
+        "BanReason": "hard r"
     }
 }
