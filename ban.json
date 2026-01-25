@@ -264,8 +264,8 @@
         "BanReason": "Hard R (Reban)"
     },
     "Gamma_Jack_60": {
-        "banneduntil": "2099/6/7",
-        "BanReason": "Hard R"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "/": {
         "banneduntil": "s",
