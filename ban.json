@@ -2742,5 +2742,9 @@
     "ArthurMorgan_Afraid": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R (Reban)"
+    },
+    "xxddxx": {
+        "banneduntil": "2032/1/1",
+        "BanReason": "underage"
     }
 }
