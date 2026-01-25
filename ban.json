@@ -2738,5 +2738,9 @@
     "SmallMonkVR": {
         "banneduntil": "2029/1/1",
         "BanReason": "underage (10)"
+    },
+    "Ban": {
+        "banneduntil": "Night_Wolf190",
+        "BanReason": "Hard r"
     }
 }
