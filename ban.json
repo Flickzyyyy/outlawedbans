@@ -2790,5 +2790,9 @@
     "Notedthat": {
         "banneduntil": "2048/1/1",
         "BanReason": "hard r"
+    },
+    "Gober454545": {
+        "banneduntil": "2026/1/29",
+        "BanReason": "rdm/evasion"
     }
 }
