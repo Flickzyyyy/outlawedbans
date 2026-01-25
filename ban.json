@@ -2718,5 +2718,9 @@
     "flick1": {
         "banneduntil": "2099/1/1",
         "BanReason": "^ &"
+    },
+    "Butter_Life": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Randomly banned? No rcon ban or nothing."
     }
 }
