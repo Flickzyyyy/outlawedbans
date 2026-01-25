@@ -2714,5 +2714,9 @@
     "Coltanium": {
         "banneduntil": "2026/2/12",
         "BanReason": "underage (12)"
+    },
+    "MTGunslinger497": {
+        "banneduntil": "2026/1/25",
+        "BanReason": "Rdm clip"
     }
 }
