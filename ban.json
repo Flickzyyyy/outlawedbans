@@ -492,8 +492,8 @@
         "BanReason": "anti semitism"
     },
     "UTC_LastOne": {
-        "banneduntil": "2099/11/31",
-        "BanReason": "Hard R"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "irvsecretaffairzz": {
         "banneduntil": "2058/11/11",
