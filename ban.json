@@ -2730,5 +2730,9 @@
     "AIDEN_1616": {
         "banneduntil": "2026/2/7",
         "BanReason": "sexual harassment."
+    },
+    "StephanBandera": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     }
 }
