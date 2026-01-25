@@ -2706,5 +2706,9 @@
     "Surroundedbyballs03": {
         "banneduntil": "2026/1/28",
         "BanReason": "cop targeting/rdm"
+    },
+    "getlost.964733": {
+        "banneduntil": "2026/1/29",
+        "BanReason": "Rdm and Evasion"
     }
 }
