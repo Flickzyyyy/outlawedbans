@@ -2710,5 +2710,9 @@
     "MF.REYY": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard R"
+    },
+    "Coltanium": {
+        "banneduntil": "2026/2/12",
+        "BanReason": "underage (12)"
     }
 }
