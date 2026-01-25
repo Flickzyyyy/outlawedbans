@@ -2726,5 +2726,9 @@
     "Monkey_man0000": {
         "banneduntil": "2026/1/31",
         "BanReason": "mass rdm"
+    },
+    "bnm4321": {
+        "banneduntil": "2026/1/26",
+        "BanReason": "RDM"
     }
 }
