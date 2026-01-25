@@ -2782,5 +2782,9 @@
     "nnaybe": {
         "banneduntil": "2026/1/28",
         "BanReason": "rdm"
+    },
+    "Gavyn_THEOUTLAW": {
+        "banneduntil": "2026/1/26",
+        "BanReason": "Rdm clip"
     }
 }
