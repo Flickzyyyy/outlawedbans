@@ -2762,5 +2762,9 @@
     "alex123456788 ": {
         "banneduntil": "2026/1/26",
         "BanReason": "Rdm"
+    },
+    "DerekVinyard": {
+        "banneduntil": "2026/1/27",
+        "BanReason": "RDM"
     }
 }
