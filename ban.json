@@ -744,8 +744,8 @@
         "BanReason": "Underaged"
     },
     "chinesetoetag": {
-        "banneduntil": "2037/11/11",
-        "BanReason": "hard r"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "tw1xy3": {
         "banneduntil": "2099/1/1",
