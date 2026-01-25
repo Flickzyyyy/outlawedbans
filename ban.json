@@ -2774,5 +2774,9 @@
     "TSMChristian": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "shturman_I": {
+        "banneduntil": "2026/1/29",
+        "BanReason": "rdm plus evasion"
     }
 }
