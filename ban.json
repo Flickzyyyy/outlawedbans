@@ -612,8 +612,8 @@
         "BanReason": "Hard R (Reban)"
     },
     "JMONEY529": {
-        "banneduntil": "2099/11/23",
-        "BanReason": "Hard R"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "lvampireI": {
         "banneduntil": "2048/11/23",
