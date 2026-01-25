@@ -2730,5 +2730,9 @@
     "bnm4321": {
         "banneduntil": "2026/1/26",
         "BanReason": "RDM"
+    },
+    "CyberPsychoQc": {
+        "banneduntil": "2026/2/7",
+        "BanReason": "Soft A"
     }
 }
