@@ -2710,5 +2710,9 @@
     "getlost.964733": {
         "banneduntil": "2026/1/29",
         "BanReason": "Rdm and Evasion"
+    },
+    "kingarthur17": {
+        "banneduntil": "2026/1/29",
+        "BanReason": "Rdm and evasion"
     }
 }
