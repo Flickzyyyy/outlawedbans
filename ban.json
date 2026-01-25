@@ -2766,5 +2766,9 @@
     "DerekVinyard": {
         "banneduntil": "2026/1/27",
         "BanReason": "RDM"
+    },
+    "mmljc2": {
+        "banneduntil": "2026/1/26",
+        "BanReason": "RDM"
     }
 }
