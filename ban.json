@@ -472,8 +472,8 @@
         "BanReason": "ALT account"
     },
     "moisturizerjuice": {
-        "banneduntil": "2099/11/22",
-        "BanReason": "Hard R+Evasion"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "gman12466": {
         "banneduntil": "2026/6/7",
