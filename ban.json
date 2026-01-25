@@ -2718,5 +2718,9 @@
     "flick1": {
         "banneduntil": "2099/1/1",
         "BanReason": "^ &"
+    },
+    "MR.LEMOON": {
+        "banneduntil": "2026/1/26",
+        "BanReason": "Rdm"
     }
 }
