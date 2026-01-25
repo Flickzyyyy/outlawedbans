@@ -2734,5 +2734,9 @@
     "StephanBandera": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R (Reban)"
+    },
+    "Monskov": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     }
 }
