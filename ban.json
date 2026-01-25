@@ -2092,8 +2092,8 @@
         "BanReason": "Alt"
     },
     "DESK.seb": {
-        "banneduntil": "2099/12/11",
-        "BanReason": "Hard R"
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R (Reban)"
     },
     "nautica_lol": {
         "banneduntil": "2026/2/7",
