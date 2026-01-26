@@ -2850,5 +2850,9 @@
     "quexity8364929": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "nerbybird": {
+        "banneduntil": "2026/1/29",
+        "BanReason": "Rdm and evasion"
     }
 }
