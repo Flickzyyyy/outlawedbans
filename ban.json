@@ -2846,5 +2846,9 @@
     "BoomBapGod": {
         "banneduntil": "2026/1/29",
         "BanReason": "rdm-evasion"
+    },
+    "quexity8364929": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
