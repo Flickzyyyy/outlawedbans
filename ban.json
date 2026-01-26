@@ -2806,5 +2806,9 @@
     "netgds23": {
         "banneduntil": "2026/2/25",
         "BanReason": "soft a(not casually)plus evasion"
+    },
+    "evocableodin584": {
+        "banneduntil": "2026/1/29",
+        "BanReason": "Rdm and evasion"
     }
 }
