@@ -2834,5 +2834,9 @@
     "kingbrbear": {
         "banneduntil": "2026/1/28",
         "BanReason": "rdm"
+    },
+    "PinkDiamonds": {
+        "banneduntil": "2026/2/8",
+        "BanReason": "Soft a"
     }
 }
