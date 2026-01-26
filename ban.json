@@ -2826,5 +2826,9 @@
     "Wilson123fam": {
         "banneduntil": "2026/1/29",
         "BanReason": "rdm+evasion"
+    },
+    "VectorGood3r": {
+        "banneduntil": "2026/1/30",
+        "BanReason": "RDM"
     }
 }
