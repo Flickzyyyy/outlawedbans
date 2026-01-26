@@ -2790,5 +2790,9 @@
     "nerbybird": {
         "banneduntil": "2026/1/29",
         "BanReason": "Rdm and evasion"
+    },
+    "DeadGoblin": {
+        "banneduntil": "2026/1/27",
+        "BanReason": "RDM CLIP"
     }
 }
