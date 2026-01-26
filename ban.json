@@ -2830,5 +2830,9 @@
     "VectorGood3r": {
         "banneduntil": "2026/1/30",
         "BanReason": "RDM"
+    },
+    "kingbrbear": {
+        "banneduntil": "2026/1/28",
+        "BanReason": "rdm"
     }
 }
