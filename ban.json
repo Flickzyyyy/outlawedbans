@@ -2806,5 +2806,9 @@
     "Imasillysausage": {
         "banneduntil": "2026/1/30",
         "BanReason": "rdm and evasion"
+    },
+    "Sebsters_31": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
