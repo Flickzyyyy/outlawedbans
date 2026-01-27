@@ -2782,5 +2782,9 @@
     "Arthur_Morgan539": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "GanstaHitlar": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
