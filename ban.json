@@ -2806,5 +2806,9 @@
     "Imasillysausage": {
         "banneduntil": "2026/1/30",
         "BanReason": "rdm and evasion"
+    },
+    "RedPonch1792": {
+        "banneduntil": "2026/1/26",
+        "BanReason": "Rdm clip"
     }
 }
