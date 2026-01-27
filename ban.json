@@ -2806,5 +2806,9 @@
     "Imasillysausage": {
         "banneduntil": "2026/1/30",
         "BanReason": "rdm and evasion"
+    },
+    "DutchPeasant": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Alt unban"
     }
 }
