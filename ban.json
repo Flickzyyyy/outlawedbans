@@ -2778,5 +2778,9 @@
     "dillpickle1555": {
         "banneduntil": "2026/2/10",
         "BanReason": "F slur"
+    },
+    "Arthur_Morgan539": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
