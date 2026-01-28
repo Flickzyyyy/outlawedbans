@@ -2764,7 +2764,7 @@
         "BanReason": "rdm+evasion"
     },
     "bigclapy": {
-        "banneduntil": "2028/1/27",
-        "BanReason": "Underaged"
+        "banneduntil": "2030/1/27",
+        "BanReason": "Underaged (doubled time for alting)"
     }
 }
