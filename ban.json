@@ -2766,5 +2766,9 @@
     "bigclapy": {
         "banneduntil": "2030/1/27",
         "BanReason": "Underaged (doubled time for alting)"
+    },
+    "Huck.newman11": {
+        "banneduntil": "2026/1/29",
+        "BanReason": "Rdm clip"
     }
 }
