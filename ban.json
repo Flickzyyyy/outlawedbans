@@ -2762,5 +2762,9 @@
     "Analbarbarian334": {
         "banneduntil": "2026/2/1",
         "BanReason": "rdm+evasion"
+    },
+    "bigclapy": {
+        "banneduntil": "2028/1/27",
+        "BanReason": "Underaged"
     }
 }
