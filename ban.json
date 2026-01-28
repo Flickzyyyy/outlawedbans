@@ -2758,5 +2758,9 @@
     "Nesqikallnight": {
         "banneduntil": "2026/1/29",
         "BanReason": "RDM"
+    },
+    "Analbarbarian334": {
+        "banneduntil": "2026/2/1",
+        "BanReason": "rdm+evasion"
     }
 }
