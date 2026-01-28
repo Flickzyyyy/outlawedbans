@@ -2822,5 +2822,9 @@
     "Bad.To_The.Bone ": {
         "banneduntil": "2026/2/1",
         "BanReason": "Rdm and Evasion"
+    },
+    "otx.KD": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r spamming"
     }
 }
