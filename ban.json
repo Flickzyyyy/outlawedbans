@@ -2814,5 +2814,9 @@
     "Idio.264": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "kekepepe": {
+        "banneduntil": "2026/2/10",
+        "BanReason": "Racism"
     }
 }
