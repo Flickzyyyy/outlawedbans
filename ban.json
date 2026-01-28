@@ -2810,5 +2810,9 @@
     "peace942": {
         "banneduntil": "2026/1/28",
         "BanReason": "Rdm clip"
+    },
+    "Idio.264": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
