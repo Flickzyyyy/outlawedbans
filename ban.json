@@ -2774,5 +2774,9 @@
     "Eli.2554": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r multiple times on clip"
+    },
+    "realdutchypooh": {
+        "banneduntil": "200/11/11",
+        "BanReason": "unban"
     }
 }
