@@ -2742,5 +2742,9 @@
     "realdutchpooh": {
         "banneduntil": "200/11/11",
         "BanReason": "unban"
+    },
+    "MrNobody188": {
+        "banneduntil": "2026/1/30",
+        "BanReason": "Rdm"
     }
 }
