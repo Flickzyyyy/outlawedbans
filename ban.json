@@ -2774,5 +2774,9 @@
     "BBB_strw6berry24": {
         "banneduntil": "2026/2/3",
         "BanReason": "RDM & Evasion"
+    },
+    "jetted is.2022": {
+        "banneduntil": "2026/2/1",
+        "BanReason": "RDM"
     }
 }
