@@ -2770,5 +2770,9 @@
     "shelby62.2024": {
         "banneduntil": "2029/1/1",
         "BanReason": "underage (reban)"
+    },
+    "BLXCKDOT": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
