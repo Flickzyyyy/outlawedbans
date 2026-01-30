@@ -2758,5 +2758,9 @@
     "roachman1234": {
         "banneduntil": "2026/1/31",
         "BanReason": "Rdm clip"
+    },
+    "HighMfTripple9": {
+        "banneduntil": "2026/2/28",
+        "BanReason": "f slur+ evasion"
     }
 }
