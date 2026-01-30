@@ -2770,5 +2770,9 @@
     "savageking553.tg": {
         "banneduntil": "2026/2/2",
         "BanReason": "rdm + evasion"
+    },
+    "BBB_strw6berry24": {
+        "banneduntil": "2026/2/3",
+        "BanReason": "RDM & Evasion"
     }
 }
