@@ -2778,5 +2778,9 @@
     "jetted is.2022": {
         "banneduntil": "2026/2/1",
         "BanReason": "RDM"
+    },
+    "jettrocks.2022": {
+        "banneduntil": "2026/2/1",
+        "BanReason": "RDM"
     }
 }
