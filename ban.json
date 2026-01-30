@@ -2778,5 +2778,9 @@
     "Coopmane17 ": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "realdutchypooh": {
+        "banneduntil": "2026/1/31",
+        "BanReason": "RDM Clip"
     }
 }
