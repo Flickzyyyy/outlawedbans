@@ -2810,5 +2810,9 @@
     "lvampireI ": {
         "banneduntil": "2026/2/3",
         "BanReason": "Rdm and Evading"
+    },
+    "Sleepy_Racer": {
+        "banneduntil": "2026/2/1",
+        "BanReason": "abuse of suicide plus was warned today"
     }
 }
