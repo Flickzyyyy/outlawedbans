@@ -2810,5 +2810,9 @@
     "exiled420": {
         "banneduntil": "2026/1/31",
         "BanReason": "rdm"
+    },
+    "Dexter_morgan6.7": {
+        "banneduntil": "2026/2/2",
+        "BanReason": "RDM"
     }
 }
