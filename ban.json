@@ -2798,5 +2798,9 @@
     "Xeblaast": {
         "banneduntil": "2026/2/3",
         "BanReason": "Rdm and evasion"
+    },
+    "parker.912739": {
+        "banneduntil": "2026/2/2",
+        "BanReason": "Rdm"
     }
 }
