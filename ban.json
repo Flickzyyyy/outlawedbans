@@ -2798,5 +2798,9 @@
     "Funsword": {
         "banneduntil": "2029/1/1",
         "BanReason": "He 10"
+    },
+    "Excess81205": {
+        "banneduntil": "2026/2/13",
+        "BanReason": "F slur and soft a"
     }
 }
