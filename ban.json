@@ -2806,5 +2806,9 @@
     "elijah0503": {
         "banneduntil": "2026/2/3",
         "BanReason": "rdm + evasion"
+    },
+    "PickIeKing": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "My alt"
     }
 }
