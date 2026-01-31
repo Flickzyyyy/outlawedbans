@@ -2802,5 +2802,9 @@
     "parker.912739": {
         "banneduntil": "2026/2/2",
         "BanReason": "Rdm"
+    },
+    "elijah0503": {
+        "banneduntil": "2026/2/3",
+        "BanReason": "rdm + evasion"
     }
 }
