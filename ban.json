@@ -2806,5 +2806,9 @@
     "elijah0503": {
         "banneduntil": "2026/2/3",
         "BanReason": "rdm + evasion"
+    },
+    "exiled420": {
+        "banneduntil": "2026/1/31",
+        "BanReason": "rdm"
     }
 }
