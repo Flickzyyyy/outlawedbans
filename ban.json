@@ -2794,5 +2794,9 @@
     "Wybbzy": {
         "banneduntil": "2029/4/8",
         "BanReason": "Underage"
+    },
+    "PickIeKing": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "my alt account"
     }
 }
