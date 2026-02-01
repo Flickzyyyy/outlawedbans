@@ -2826,5 +2826,9 @@
     "SurroundedbyBalls03": {
         "banneduntil": "2026/2/3",
         "BanReason": "RDM"
+    },
+    "PeterButtPubes": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
