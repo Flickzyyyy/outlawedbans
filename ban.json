@@ -2790,5 +2790,9 @@
     "VectorGood3r": {
         "banneduntil": "2026/2/2",
         "BanReason": "rdm"
+    },
+    "master.932876": {
+        "banneduntil": "2026/2/7",
+        "BanReason": "Camping Clip"
     }
 }
