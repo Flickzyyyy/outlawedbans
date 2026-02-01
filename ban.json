@@ -2798,5 +2798,9 @@
     "wickedfeather22": {
         "banneduntil": "2026/2/5",
         "BanReason": "RDm and evasion"
+    },
+    "DukeNukem.1": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban"
     }
 }
