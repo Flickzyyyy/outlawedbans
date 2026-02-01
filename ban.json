@@ -2822,5 +2822,9 @@
     "McBane80": {
         "banneduntil": "2026/2/6",
         "BanReason": "Mass Rdm(Camping)"
+    },
+    "SurroundedbyBalls03": {
+        "banneduntil": "2026/2/3",
+        "BanReason": "RDM"
     }
 }
