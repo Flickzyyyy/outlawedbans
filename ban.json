@@ -2774,5 +2774,9 @@
     "hitman.95975": {
         "banneduntil": "2026/2/14",
         "BanReason": "Mass rdm"
+    },
+    "Colester1047": {
+        "banneduntil": "2026/1/7",
+        "BanReason": "Swamp Camping"
     }
 }
