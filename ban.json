@@ -2786,5 +2786,9 @@
     "Colester1047": {
         "banneduntil": "2026/2/7",
         "BanReason": "Swamp Camping (reban)"
+    },
+    "VectorGood3r": {
+        "banneduntil": "2026/2/2",
+        "BanReason": "rdm"
     }
 }
