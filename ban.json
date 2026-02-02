@@ -2802,5 +2802,9 @@
     "Dcrye90": {
         "banneduntil": "2026/2/3",
         "BanReason": "RDM"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2026/2/5",
+        "BanReason": "Rdm and evasion"
     }
 }
