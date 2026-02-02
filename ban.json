@@ -2806,5 +2806,9 @@
     "BoomBapGod": {
         "banneduntil": "2026/2/5",
         "BanReason": "Rdm and evasion"
+    },
+    "GlacialSurgeonfish9031 ": {
+        "banneduntil": "2026/2/8",
+        "BanReason": "Camping"
     }
 }
