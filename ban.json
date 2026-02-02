@@ -2838,5 +2838,9 @@
     "Kingbrbear": {
         "banneduntil": "2026/2/5",
         "BanReason": "Rdm and evasion"
+    },
+    "on1daily": {
+        "banneduntil": "2026/2/3",
+        "BanReason": "rdm clip"
     }
 }
