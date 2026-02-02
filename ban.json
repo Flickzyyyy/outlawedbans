@@ -2814,5 +2814,9 @@
     "FALCON.667": {
         "banneduntil": "2026/2/16",
         "BanReason": "Mass RDM (Excessive Warn History)"
+    },
+    "Vectorgood3r": {
+        "banneduntil": "2026/2/4",
+        "BanReason": "RDM Clip"
     }
 }
