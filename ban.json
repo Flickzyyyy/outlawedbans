@@ -2810,5 +2810,9 @@
     "on1daily": {
         "banneduntil": "2026/2/3",
         "BanReason": "rdm clip"
+    },
+    "FALCON.667": {
+        "banneduntil": "2026/2/16",
+        "BanReason": "Mass RDM (Excessive Warn History)"
     }
 }
