@@ -2846,5 +2846,9 @@
     "Typhoon27": {
         "banneduntil": "2026/2/16",
         "BanReason": "soft a not casually"
+    },
+    "SomberSilly": {
+        "banneduntil": "2026/3/2",
+        "BanReason": "Soft a and evasion"
     }
 }
