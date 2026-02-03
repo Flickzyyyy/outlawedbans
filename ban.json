@@ -2802,5 +2802,9 @@
     "FALCON.GOT": {
         "banneduntil": "2026/2/16",
         "BanReason": "Mass RDM - (Excessive warn history)"
+    },
+    "Mkemmis11": {
+        "banneduntil": "2026/2/7",
+        "BanReason": "Rdm and evasion"
     }
 }
