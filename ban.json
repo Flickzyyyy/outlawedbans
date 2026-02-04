@@ -2790,5 +2790,9 @@
     "Deo.hendrix66": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitted to alting"
+    },
+    "Games4LifeVR": {
+        "banneduntil": "2026/2/18",
+        "BanReason": "F Slur and Evasion"
     }
 }
