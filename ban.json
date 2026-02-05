@@ -2798,5 +2798,9 @@
     "jkuyo": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Beast3599": {
+        "banneduntil": "2026/2/18",
+        "BanReason": "Racial Remarks"
     }
 }
