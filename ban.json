@@ -2794,5 +2794,9 @@
     "Games4LifeVR": {
         "banneduntil": "2026/3/4",
         "BanReason": "F Slur and Evasion"
+    },
+    "jkuyo": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
