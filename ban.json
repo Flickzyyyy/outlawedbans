@@ -2802,5 +2802,9 @@
     "cheezit7.0": {
         "banneduntil": "2026/2/12",
         "BanReason": "Mass Rdm"
+    },
+    "manofhonor": {
+        "banneduntil": "2026/2/12",
+        "BanReason": "Mass rdm"
     }
 }
