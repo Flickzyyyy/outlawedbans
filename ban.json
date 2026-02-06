@@ -2794,5 +2794,9 @@
     "manofhonor": {
         "banneduntil": "2026/2/12",
         "BanReason": "Mass rdm"
+    },
+    "LocalD": {
+        "banneduntil": "2026/2/8",
+        "BanReason": "Rdm"
     }
 }
