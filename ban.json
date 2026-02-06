@@ -2786,5 +2786,9 @@
     "hitman.95875": {
         "banneduntil": "2026/2/9",
         "BanReason": "Cop target and evation"
+    },
+    "ManHunter77": {
+        "banneduntil": "2030/1/1",
+        "BanReason": "Underage"
     }
 }
