@@ -2798,5 +2798,9 @@
     "LocalD": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r (clip from a player)"
+    },
+    "Vorzek": {
+        "banneduntil": "2026/2/17",
+        "BanReason": "Underage"
     }
 }
