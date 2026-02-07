@@ -2770,5 +2770,9 @@
     "Mcbane80": {
         "banneduntil": "2026/2/9",
         "BanReason": "Rdm"
+    },
+    "roach_opp": {
+        "banneduntil": "2026/2/8",
+        "BanReason": "RDM CLIP"
     }
 }
