@@ -2806,5 +2806,9 @@
     "Dexter_morgan6.7": {
         "banneduntil": "2026/2/13",
         "BanReason": "Sexual Misconduct(ReducedBan)"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2026/2/8",
+        "BanReason": "Rdm"
     }
 }
