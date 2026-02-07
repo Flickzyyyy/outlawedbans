@@ -2043,10 +2043,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R (Reban)"
     },
-    "nautica_lol": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Soft-A + Evasion"
-    },
     "cap68376": {
         "banneduntil": "2099/1/1",
         "BanReason": "alting"
@@ -2403,10 +2399,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R (Reban)"
     },
-    "Lemonade_44": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "F Slur(Reban)"
-    },
     "cia_bob": {
         "banneduntil": "1/25/2026",
         "BanReason": "RDM via clip"
@@ -2447,10 +2439,6 @@
         "banneduntil": "2026/2/15",
         "BanReason": "Mass Rdm(Excessive Logs)(Reban)"
     },
-    "shortKING21": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "F Slur(Reban)"
-    },
     "300BB.L.K": {
         "banneduntil": "2099/1/12",
         "BanReason": "Nazi PFP"
@@ -2486,10 +2474,6 @@
     "kneecapkillamaG": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
-    },
-    "AIDEN_1616": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "sexual harassment."
     },
     "StephanBandera": {
         "banneduntil": "2099/1/1",
@@ -2671,26 +2655,6 @@
         "banneduntil": "2026/2/14",
         "BanReason": "Mass rdm"
     },
-    "DerekVinyard": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Hill shooting"
-    },
-    "Master.932876": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Swamp Camping (reban)"
-    },
-    "Armani1412": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Swamp Camping (reban)"
-    },
-    "Colester1047": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Swamp Camping (reban)"
-    },
-    "master.932876": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Camping Clip"
-    },
     "GlacialSurgeonfish9031 ": {
         "banneduntil": "2026/2/8",
         "BanReason": "Camping"
@@ -2738,10 +2702,6 @@
     "FALCON.GOT": {
         "banneduntil": "2026/2/16",
         "BanReason": "Mass RDM - (Excessive warn history)"
-    },
-    "Mkemmis11": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Rdm and evasion"
     },
     "nit3visonzM.T.B.K": {
         "banneduntil": "2099/1/1",
@@ -2806,9 +2766,5 @@
     "Dexter_morgan6.7": {
         "banneduntil": "2026/2/13",
         "BanReason": "Sexual Misconduct(ReducedBan)"
-    },
-    "itx.Hubert": {
-        "banneduntil": "2026/2/7",
-        "BanReason": "Rdm (left before I could give him a sit)"
     }
 }
