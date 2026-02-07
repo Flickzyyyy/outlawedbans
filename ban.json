@@ -2778,5 +2778,9 @@
     "axeman.tt": {
         "banneduntil": "2026/2/11",
         "BanReason": "Rdm and evasion"
+    },
+    "8COLDCHIMICHANGASFORBREAKFAST": {
+        "banneduntil": "2026/2/10",
+        "BanReason": "RDM/TARGETING Clip"
     }
 }
