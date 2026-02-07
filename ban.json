@@ -2774,5 +2774,9 @@
     "roach_opp": {
         "banneduntil": "2026/2/8",
         "BanReason": "RDM CLIP"
+    },
+    "axeman.tt": {
+        "banneduntil": "2026/2/11",
+        "BanReason": "Rdm and evasion"
     }
 }
