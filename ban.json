@@ -2778,5 +2778,9 @@
     "roach_opp": {
         "banneduntil": "2026/2/22",
         "BanReason": "Mass rdm+evation"
+    },
+    "MR_BABYDELETER": {
+        "banneduntil": "2026/2/13",
+        "BanReason": "RDM & Exploiting"
     }
 }
