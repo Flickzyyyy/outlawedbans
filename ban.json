@@ -2774,5 +2774,9 @@
     "Doorknob2": {
         "banneduntil": "2026/2/15",
         "BanReason": "Harassment and sexual jokes"
+    },
+    "roach_opp": {
+        "banneduntil": "2026/2/22",
+        "BanReason": "Mass rdm+evation"
     }
 }
