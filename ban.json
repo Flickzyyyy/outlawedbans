@@ -2770,5 +2770,9 @@
     "TreviMajor": {
         "banneduntil": "2026/2/10",
         "BanReason": "multiple RDMS"
+    },
+    "Doorknob2": {
+        "banneduntil": "2026/2/15",
+        "BanReason": "Harassment and sexual jokes"
     }
 }
