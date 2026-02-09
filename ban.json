@@ -2782,5 +2782,9 @@
     "MR_BABYDELETER": {
         "banneduntil": "2026/2/13",
         "BanReason": "RDM & Exploiting"
+    },
+    "Excessive276 ": {
+        "banneduntil": "2026/2/15",
+        "BanReason": "Mass RDM"
     }
 }
