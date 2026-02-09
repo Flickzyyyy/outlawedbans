@@ -2794,5 +2794,9 @@
     "Smellycheese": {
         "banneduntil": "2026/2/12",
         "BanReason": "RDM"
+    },
+    "Usys": {
+        "banneduntil": "2028/2/8",
+        "BanReason": "Underaged (11)"
     }
 }
