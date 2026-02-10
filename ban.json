@@ -2826,5 +2826,9 @@
     "beeeeber123": {
         "banneduntil": "2026/2/14",
         "BanReason": "rdm + evasion"
+    },
+    "14dayrun": {
+        "banneduntil": "2026/2/11",
+        "BanReason": "Rdm clip"
     }
 }
