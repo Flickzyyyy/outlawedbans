@@ -2822,5 +2822,9 @@
     "Aj42445555": {
         "banneduntil": "2026/2/23",
         "BanReason": "Racial remarks"
+    },
+    "hitman.95875": {
+        "banneduntil": "2026/2/13",
+        "BanReason": "rdm + evasion"
     }
 }
