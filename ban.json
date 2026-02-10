@@ -2802,5 +2802,9 @@
     "lemonade_44": {
         "banneduntil": "2026/2/11",
         "BanReason": "RDM"
+    },
+    "wiseman2021": {
+        "banneduntil": "2026/2/16",
+        "BanReason": "AntiSemitism(Evasion)"
     }
 }
