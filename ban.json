@@ -2814,5 +2814,9 @@
     "Coltanium": {
         "banneduntil": "2026/2/12",
         "BanReason": "RDM (Clip)"
+    },
+    "DerekVinyard": {
+        "banneduntil": "2026/2/13",
+        "BanReason": "rdm"
     }
 }
