@@ -2798,5 +2798,9 @@
     "Usys": {
         "banneduntil": "2028/2/8",
         "BanReason": "Underaged (11)"
+    },
+    "lemonade_44": {
+        "banneduntil": "2026/2/11",
+        "BanReason": "RDM"
     }
 }
