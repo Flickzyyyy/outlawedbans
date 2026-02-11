@@ -2822,5 +2822,9 @@
     "DangerMax": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "AudieA17": {
+        "banneduntil": "2032/5/20",
+        "BanReason": "Underaged"
     }
 }
