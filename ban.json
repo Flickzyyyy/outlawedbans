@@ -2830,5 +2830,9 @@
     "14dayrun": {
         "banneduntil": "2026/2/11",
         "BanReason": "Rdm clip"
+    },
+    "tr.st.n2023": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
