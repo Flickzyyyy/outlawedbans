@@ -2838,5 +2838,9 @@
     "cheelsome": {
         "banneduntil": "2026/2/17",
         "BanReason": "Spawn Camping"
+    },
+    "DangerMax": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
