@@ -2830,5 +2830,9 @@
     "BigBeefy6767": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "J_BOY1001": {
+        "banneduntil": "2026/2/26",
+        "BanReason": "RDM and F slur"
     }
 }
