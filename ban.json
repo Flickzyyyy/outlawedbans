@@ -2826,5 +2826,9 @@
     "AudieA17": {
         "banneduntil": "2032/5/20",
         "BanReason": "Underaged"
+    },
+    "BigBeefy6767": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
