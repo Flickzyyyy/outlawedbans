@@ -2822,5 +2822,9 @@
     "Saltglaze84": {
         "banneduntil": "2026/2/13",
         "BanReason": "Rdm"
+    },
+    "Coltanium": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Admitted to being 12 in the Discord"
     }
 }
