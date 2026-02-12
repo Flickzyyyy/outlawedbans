@@ -2838,5 +2838,9 @@
     "femboypawjobs": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "JBuster15": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "admitted to being 10"
     }
 }
