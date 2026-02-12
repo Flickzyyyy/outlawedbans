@@ -2834,9 +2834,5 @@
     "J_BOY1001": {
         "banneduntil": "2026/2/26",
         "BanReason": "RDM and F slur"
-    },
-    "x.pepsi": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "name change"
     }
 }
