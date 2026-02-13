@@ -2834,5 +2834,9 @@
     "bloom363": {
         "banneduntil": "2026/2/26",
         "BanReason": "F Slur"
+    },
+    "komodo.well": {
+        "banneduntil": "2026/2/15",
+        "BanReason": "rdm"
     }
 }
