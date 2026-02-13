@@ -2838,5 +2838,9 @@
     "komodo.well": {
         "banneduntil": "2026/2/15",
         "BanReason": "rdm"
+    },
+    "SiltyHurdle516": {
+        "banneduntil": "2026/2/13",
+        "BanReason": "Rdm"
     }
 }
