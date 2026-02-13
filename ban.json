@@ -2862,5 +2862,9 @@
     "Hammer309": {
         "banneduntil": "2026/2/26",
         "BanReason": "soft a"
+    },
+    "Hammer3309": {
+        "banneduntil": "2026/2/26",
+        "BanReason": "soft a"
     }
 }
