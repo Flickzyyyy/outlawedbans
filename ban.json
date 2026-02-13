@@ -2842,5 +2842,9 @@
     "SiltyHurdle516": {
         "banneduntil": "2026/2/13",
         "BanReason": "Rdm"
+    },
+    "hofRose": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
