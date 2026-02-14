@@ -2830,5 +2830,9 @@
     "zerxxyyy": {
         "banneduntil": "2026/2/15",
         "BanReason": "RDM via clip"
+    },
+    "dumb69.2025": {
+        "banneduntil": "3000/6/9",
+        "BanReason": "Hard R and RDM"
     }
 }
