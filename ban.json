@@ -2822,5 +2822,9 @@
     "Lemonade_44": {
         "banneduntil": "2026/2/16",
         "BanReason": "RDM via clips"
+    },
+    "monjet": {
+        "banneduntil": "2026/2/15",
+        "BanReason": "RDM via clips"
     }
 }
