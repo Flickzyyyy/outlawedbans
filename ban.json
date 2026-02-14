@@ -2830,5 +2830,9 @@
     "Shadowloz": {
         "banneduntil": "2026/2/14",
         "BanReason": "Rdm+ left the game"
+    },
+    "Outlaw.2414": {
+        "banneduntil": "2026/2/27",
+        "BanReason": "Racial remark to a native"
     }
 }
