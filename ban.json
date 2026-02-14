@@ -2806,5 +2806,9 @@
     "Outlaw.2414": {
         "banneduntil": "2026/2/27",
         "BanReason": "Racial remark to a native"
+    },
+    "KingNetenyahu": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
