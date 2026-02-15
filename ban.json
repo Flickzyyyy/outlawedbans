@@ -2838,5 +2838,9 @@
     "300B.L.K": {
         "banneduntil": "2026/2/29",
         "BanReason": "F slur"
+    },
+    "Carty500": {
+        "banneduntil": "2026/2/16",
+        "BanReason": "RDM Clip"
     }
 }
