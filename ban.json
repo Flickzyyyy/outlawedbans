@@ -2806,5 +2806,9 @@
     "SeriousSteve": {
         "banneduntil": "2026/2/16",
         "BanReason": "RDM Clip"
+    },
+    "gingie.002": {
+        "banneduntil": "2026/2/22",
+        "BanReason": "Camping Clip"
     }
 }
