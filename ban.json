@@ -2830,5 +2830,9 @@
     "Ink.demon.2022": {
         "banneduntil": "2026/2/19",
         "BanReason": "rdm+evaison"
+    },
+    "redhunter1939": {
+        "banneduntil": "2026/2/17",
+        "BanReason": "Cop Targeting Clip"
     }
 }
