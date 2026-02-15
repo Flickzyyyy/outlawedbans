@@ -2814,5 +2814,9 @@
     "komodo.well": {
         "banneduntil": "2026/2/22",
         "BanReason": "Camping Clip"
+    },
+    "CobraVR22": {
+        "banneduntil": "2025/2/16",
+        "BanReason": "RDM via clip"
     }
 }
