@@ -2810,5 +2810,9 @@
     "gingie.002": {
         "banneduntil": "2026/2/22",
         "BanReason": "Camping Clip"
+    },
+    "komodo.well": {
+        "banneduntil": "2026/2/22",
+        "BanReason": "Camping Clip"
     }
 }
