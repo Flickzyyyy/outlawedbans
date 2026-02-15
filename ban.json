@@ -2842,5 +2842,9 @@
     "Caedes": {
         "banneduntil": "3000/7/7",
         "BanReason": "sexual harassment towards a minor"
+    },
+    "SeriousSteve": {
+        "banneduntil": "2026/2/16",
+        "BanReason": "RDM Clip"
     }
 }
