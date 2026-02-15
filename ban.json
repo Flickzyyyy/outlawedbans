@@ -2834,5 +2834,9 @@
     "redhunter1939": {
         "banneduntil": "2026/2/17",
         "BanReason": "Cop Targeting Clip"
+    },
+    "300B.L.K": {
+        "banneduntil": "2026/2/29",
+        "BanReason": "F slur"
     }
 }
