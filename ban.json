@@ -2834,5 +2834,9 @@
     "blucat.67.2026": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Llama_troy": {
+        "banneduntil": "2026/2/17",
+        "BanReason": "Rdm clip"
     }
 }
