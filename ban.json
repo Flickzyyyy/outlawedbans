@@ -2846,5 +2846,9 @@
     "Johnbo098": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Void0064": {
+        "banneduntil": "2026/3/3",
+        "BanReason": "Mass rdm + evasion"
     }
 }
