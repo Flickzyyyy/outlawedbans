@@ -2838,5 +2838,9 @@
     "Llama_troy": {
         "banneduntil": "2026/2/17",
         "BanReason": "Rdm clip"
+    },
+    "NOTsmilingscav": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
