@@ -2830,5 +2830,9 @@
     "garfingtonthegarf": {
         "banneduntil": "2026/2/17",
         "BanReason": "Abusing Suicide"
+    },
+    "blucat.67.2026": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
