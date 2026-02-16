@@ -2846,5 +2846,9 @@
     "Coco102908": {
         "banneduntil": "2099/6/7",
         "BanReason": "Hard R"
+    },
+    "bradley-4": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "RTM plus evasion"
     }
 }
