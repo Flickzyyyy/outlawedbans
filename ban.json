@@ -2834,5 +2834,9 @@
     "blucat.67.2026": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Lemonade_44": {
+        "banneduntil": "2026/1/1",
+        "BanReason": "Freedom(try again)"
     }
 }
