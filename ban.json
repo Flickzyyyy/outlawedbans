@@ -2862,5 +2862,9 @@
     "mrjobnanana": {
         "banneduntil": "2026/2/20",
         "BanReason": "Mass RDM and evasion"
+    },
+    "YoyoIG": {
+        "banneduntil": "2026/2/20",
+        "BanReason": "RDM + evasion"
     }
 }
