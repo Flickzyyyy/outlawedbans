@@ -2866,5 +2866,9 @@
     "YoyoIG": {
         "banneduntil": "2026/2/20",
         "BanReason": "RDM + evasion"
+    },
+    "Duckpoop1": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "RDM and Evasion"
     }
 }
