@@ -2906,5 +2906,9 @@
     "DontFuccnKnowMe": {
         "banneduntil": "2026/2/19",
         "BanReason": "RDM"
+    },
+    "The-deal": {
+        "banneduntil": "2026/2/18",
+        "BanReason": "Rdm plus has been warmed"
     }
 }
