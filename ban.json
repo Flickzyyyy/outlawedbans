@@ -2870,5 +2870,9 @@
     "Duckpoop1": {
         "banneduntil": "2026/2/19",
         "BanReason": "RDM and Evasion"
+    },
+    "C.O.M.E.T": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
