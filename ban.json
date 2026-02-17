@@ -2902,5 +2902,9 @@
     "BigMenace": {
         "banneduntil": "2026/2/18",
         "BanReason": "Rdm clip"
+    },
+    "DontFuccnKnowMe": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "RDM"
     }
 }
