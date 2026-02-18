@@ -2890,5 +2890,9 @@
     "adam22": {
         "banneduntil": "2026/2/19",
         "BanReason": "A lil timeout"
+    },
+    "DerekVinyard": {
+        "banneduntil": "2026/2/20",
+        "BanReason": "Mass RDM"
     }
 }
