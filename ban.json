@@ -2906,5 +2906,9 @@
     "Rev_Mikey": {
         "banneduntil": "2026/2/19",
         "BanReason": "Cop Targeting"
+    },
+    "adam22": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "A lil timeout"
     }
 }
