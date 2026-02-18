@@ -2902,5 +2902,9 @@
     "CERWY": {
         "banneduntil": "2026/2/24",
         "BanReason": "RDM Evasion"
+    },
+    "Rev_Mikey": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "Cop Targeting"
     }
 }
