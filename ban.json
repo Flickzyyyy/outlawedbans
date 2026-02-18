@@ -2902,5 +2902,9 @@
     "Masecase01": {
         "banneduntil": "2026/6/5",
         "BanReason": "Underaged"
+    },
+    "Teo2": {
+        "banneduntil": "2067/6/7",
+        "BanReason": "Hard r"
     }
 }
