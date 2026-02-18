@@ -2898,5 +2898,9 @@
     "brutal.23": {
         "banneduntil": "2026/3/4",
         "BanReason": "Soft a"
+    },
+    "Masecase01": {
+        "banneduntil": "2026/6/5",
+        "BanReason": "Underaged"
     }
 }
