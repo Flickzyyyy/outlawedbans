@@ -2898,5 +2898,9 @@
     "Blackout9044": {
         "banneduntil": "2026/2/19",
         "BanReason": "rdm"
+    },
+    "CERWY": {
+        "banneduntil": "2026/2/24",
+        "BanReason": "RDM Evasion"
     }
 }
