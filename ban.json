@@ -2914,5 +2914,9 @@
     "Yay4ew": {
         "banneduntil": "2026/2/19",
         "BanReason": "Rdm clip"
+    },
+    "hoxton.paydayproperty": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
