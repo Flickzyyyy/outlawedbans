@@ -2866,5 +2866,9 @@
     "Billybuttcrack": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r clip"
+    },
+    "Smellycheese": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r clip"
     }
 }
