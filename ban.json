@@ -2858,5 +2858,9 @@
     "actinium": {
         "banneduntil": "2026/2/20",
         "BanReason": "RDM Clip"
+    },
+    "lemonade_44": {
+        "banneduntil": "2026/2/21",
+        "BanReason": "RDM Clip"
     }
 }
