@@ -2854,5 +2854,9 @@
     "hoxton.paydayproperty": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "actinium": {
+        "banneduntil": "2026/2/20",
+        "BanReason": "RDM Clip"
     }
 }
