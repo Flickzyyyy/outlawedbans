@@ -2906,5 +2906,9 @@
     "Teo2": {
         "banneduntil": "2067/6/7",
         "BanReason": "Hard r"
+    },
+    "Forestgump0": {
+        "banneduntil": "2026/2/22",
+        "BanReason": "rdm + evasion"
     }
 }
