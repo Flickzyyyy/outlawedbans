@@ -2862,5 +2862,9 @@
     "P99security99D": {
         "banneduntil": "2026/2/23",
         "BanReason": "Rdm+Evasion"
+    },
+    "Billybuttcrack": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r clip"
     }
 }
