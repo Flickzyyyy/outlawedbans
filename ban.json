@@ -2851,10 +2851,6 @@
         "banneduntil": "2026/2/22",
         "BanReason": "rdm + evasion"
     },
-    "hoxton.paydayproperty": {
-        "banneduntil": "2000/1/1",
-        "BanReason": "Freedom"
-    },
     "actinium": {
         "banneduntil": "2026/2/20",
         "BanReason": "RDM Clip"
