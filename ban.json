@@ -2910,5 +2910,9 @@
     "Forestgump0": {
         "banneduntil": "2026/2/22",
         "BanReason": "rdm + evasion"
+    },
+    "Redhunter": {
+        "banneduntil": "2026/2/19",
+        "BanReason": "Rdm clip"
     }
 }
