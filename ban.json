@@ -2878,5 +2878,9 @@
     "netsaer": {
         "banneduntil": "Rdm + evasion",
         "BanReason": "2026/2/23"
+    },
+    "Orange_vr34": {
+        "banneduntil": "Racism",
+        "BanReason": "2026/3/5"
     }
 }
