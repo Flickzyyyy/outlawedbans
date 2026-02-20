@@ -2860,7 +2860,7 @@
         "BanReason": "Rdm + evasion"
     },
     "Orange_vr34": {
-        "banneduntil": "Racism",
-        "BanReason": "2026/3/5"
+        "banneduntil": "2026/3/5",
+        "BanReason": "Racial Remarks"
     }
 }
