@@ -2856,8 +2856,8 @@
         "BanReason": "Rdm clip"
     },
     "netsaer": {
-        "banneduntil": "Rdm + evasion",
-        "BanReason": "2026/2/23"
+        "banneduntil": "2026/2/23",
+        "BanReason": "Rdm + evasion"
     },
     "Orange_vr34": {
         "banneduntil": "Racism",
