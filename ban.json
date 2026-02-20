@@ -2866,5 +2866,9 @@
     "lididvr": {
         "banneduntil": "2026/3/3",
         "BanReason": "Mass RDM"
+    },
+    "lididvc": {
+        "banneduntil": "2026/3/4",
+        "BanReason": "Mass RDM and Discrimination"
     }
 }
