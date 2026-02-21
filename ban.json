@@ -2938,5 +2938,9 @@
     "Daaaang": {
         "banneduntil": "2026/2/25",
         "BanReason": "RDM and evasion"
+    },
+    "TrashPanda701": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "Slur baiting"
     }
 }
