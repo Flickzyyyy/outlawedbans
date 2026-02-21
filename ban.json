@@ -2898,5 +2898,9 @@
     "Andrew.11": {
         "banneduntil": "2026/2/25",
         "BanReason": "Rdm and evasion"
+    },
+    "bob_marston.goofygoob": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
