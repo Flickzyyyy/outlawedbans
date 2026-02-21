@@ -2898,5 +2898,9 @@
     "thetorresfamily": {
         "banneduntil": "2026/3/5",
         "BanReason": "Mass Rdm And Evasion"
+    },
+    "thetextnowfamily": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "Mass Rdm And Evasion"
     }
 }
