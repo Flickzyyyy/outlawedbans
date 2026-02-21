@@ -2910,5 +2910,9 @@
     "BIBBOY": {
         "banneduntil": "3000/6/9",
         "BanReason": "HARD R"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2026/2/23",
+        "BanReason": "Rdm Clip"
     }
 }
