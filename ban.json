@@ -2918,5 +2918,9 @@
     "wds_leader": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Ayan10": {
+        "banneduntil": "2026/2/23",
+        "BanReason": "Rdm Clip"
     }
 }
