@@ -2914,5 +2914,9 @@
     "Battle.Droid": {
         "banneduntil": "2026/2/23",
         "BanReason": "Rdm Clip"
+    },
+    "wds_leader": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
