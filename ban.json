@@ -2934,5 +2934,9 @@
     "LazerrShark": {
         "banneduntil": "2029/5/1",
         "BanReason": "underage"
+    },
+    "Daaaang": {
+        "banneduntil": "2026/3/2",
+        "BanReason": "Mass RDM and Evasion"
     }
 }
