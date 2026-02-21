@@ -2934,5 +2934,9 @@
     "Typhoon27": {
         "banneduntil": "2026/3/7",
         "BanReason": "F slur"
+    },
+    "LazerrShark": {
+        "banneduntil": "2029/5/1",
+        "BanReason": "underage"
     }
 }
