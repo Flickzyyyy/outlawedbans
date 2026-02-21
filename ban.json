@@ -2911,10 +2911,6 @@
         "banneduntil": "3000/6/9",
         "BanReason": "HARD R"
     },
-    "Battle.Droid": {
-        "banneduntil": "2025/8/6",
-        "BanReason": "unban request accepted"
-    },
     "wds_leader": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
