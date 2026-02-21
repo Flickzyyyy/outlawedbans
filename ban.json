@@ -2906,5 +2906,9 @@
     "ommmmaw": {
         "banneduntil": "2026/3/4",
         "BanReason": "Mass RDM and evasion"
+    },
+    "BIBBOY": {
+        "banneduntil": "3000/6/9",
+        "BanReason": "HARD R"
     }
 }
