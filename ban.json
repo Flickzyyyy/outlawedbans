@@ -2938,5 +2938,9 @@
     "Daaaang": {
         "banneduntil": "2026/3/2",
         "BanReason": "Mass RDM and Evasion"
+    },
+    "Battle.Droid": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban(KOS for natives for today)"
     }
 }
