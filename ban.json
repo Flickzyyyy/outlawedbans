@@ -2882,5 +2882,9 @@
     "thetextnowfamily": {
         "banneduntil": "2026/3/5",
         "BanReason": "Mass Rdm And Evasion"
+    },
+    "Coolbeans4305": {
+        "banneduntil": "2026/2/25",
+        "BanReason": "rdm and evasion"
     }
 }
