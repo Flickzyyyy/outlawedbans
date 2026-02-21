@@ -2890,5 +2890,9 @@
     "Cooper.2323": {
         "banneduntil": "2027/6/1",
         "BanReason": "Underage(11)"
+    },
+    "2k.noname": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
