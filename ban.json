@@ -2890,5 +2890,9 @@
     "alcoholic_gaming22": {
         "banneduntil": "2026/2/28",
         "BanReason": "Mass rdm"
+    },
+    "Louemn": {
+        "banneduntil": "2026/2/25",
+        "BanReason": "RDM + Evasion"
     }
 }
