@@ -2894,5 +2894,9 @@
     "2k.noname": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "thetorresfamily": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "Mass Rdm And Evasion"
     }
 }
