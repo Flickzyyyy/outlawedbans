@@ -2994,5 +2994,9 @@
     "RotundToenail": {
         "banneduntil": "2026/3/8",
         "BanReason": "Mass Rdm and Evasion"
+    },
+    "ecoroket2711": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
