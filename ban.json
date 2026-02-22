@@ -2970,5 +2970,9 @@
     "ficklenu": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R clip"
+    },
+    "UlsterPatriot": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r clip"
     }
 }
