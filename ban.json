@@ -3010,5 +3010,9 @@
     "idk553": {
         "banneduntil": "2026/2/26",
         "BanReason": "Cop Targeting And Evasion"
+    },
+    "Historybuff26": {
+        "banneduntil": "2030/1/1",
+        "BanReason": "underage"
     }
 }
