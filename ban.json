@@ -2974,5 +2974,9 @@
     "UlsterPatriot": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r clip"
+    },
+    "Ashashaleigh": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r clip"
     }
 }
