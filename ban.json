@@ -2958,5 +2958,9 @@
     "pepejake": {
         "banneduntil": "2047/1/1",
         "BanReason": "hard r"
+    },
+    "they_hate_tamarius": {
+        "banneduntil": "2026/2/26",
+        "BanReason": "rdm/evasion"
     }
 }
