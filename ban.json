@@ -2986,5 +2986,9 @@
     "Lebo420": {
         "banneduntil": "2026/2/24",
         "BanReason": "RDM and Evasion"
+    },
+    "ecoroket271": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
