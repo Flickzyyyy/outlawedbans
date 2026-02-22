@@ -2962,5 +2962,9 @@
     "they_hate_tamarius": {
         "banneduntil": "2026/2/26",
         "BanReason": "rdm/evasion"
+    },
+    "Xverse17": {
+        "banneduntil": "2026/3/3",
+        "BanReason": "mass rdm spawn camping"
     }
 }
