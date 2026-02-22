@@ -2950,5 +2950,9 @@
     "Zeroedin_vr": {
         "banneduntil": "2026/3/5",
         "BanReason": "Slur bait"
+    },
+    "xicancun": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
