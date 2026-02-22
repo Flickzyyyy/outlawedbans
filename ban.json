@@ -2958,5 +2958,9 @@
     "Shaqdude ": {
         "banneduntil": "2026/3/7",
         "BanReason": "Mass rdm + evasion"
+    },
+    "warherojames": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "underage"
     }
 }
