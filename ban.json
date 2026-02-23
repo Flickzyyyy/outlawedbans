@@ -3026,5 +3026,9 @@
     "janky.jimmy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "farid.zeynalov.822": {
+        "banneduntil": "2026/2/26",
+        "BanReason": "rdm + evasion"
     }
 }
