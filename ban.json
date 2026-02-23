@@ -3030,5 +3030,9 @@
     "farid.zeynalov.822": {
         "banneduntil": "2026/2/26",
         "BanReason": "rdm + evasion"
+    },
+    "the1green": {
+        "banneduntil": "2026/2/25",
+        "BanReason": "Rdm clip"
     }
 }
