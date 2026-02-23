@@ -3022,5 +3022,9 @@
     "fish.336125": {
         "banneduntil": "2026/2/26",
         "BanReason": "Rdm and Evasion"
+    },
+    "janky.jimmy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
