@@ -3042,5 +3042,9 @@
     "MrCampALot": {
         "banneduntil": "2026/2/24",
         "BanReason": "abusing suicide"
+    },
+    "idk55343256": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
