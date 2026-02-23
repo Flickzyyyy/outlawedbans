@@ -3030,5 +3030,9 @@
     "red7580": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "BillyWrightLVF": {
+        "banneduntil": "2026/3/8",
+        "BanReason": "f slur"
     }
 }
