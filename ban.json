@@ -3038,5 +3038,9 @@
     "BigMenace": {
         "banneduntil": "2026/3/8",
         "BanReason": "sexual misconduct"
+    },
+    "MrCampALot": {
+        "banneduntil": "2026/2/24",
+        "BanReason": "abusing suicide"
     }
 }
