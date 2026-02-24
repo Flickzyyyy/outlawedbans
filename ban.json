@@ -3062,5 +3062,9 @@
     "vigrantholday73": {
         "banneduntil": "2099/1/1",
         "BanReason": "Neonwren alt"
+    },
+    "greg_TA_342": {
+        "banneduntil": "2026/2/5",
+        "BanReason": "RDM Via Clip"
     }
 }
