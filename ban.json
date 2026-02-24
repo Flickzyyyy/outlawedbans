@@ -3082,5 +3082,9 @@
     "The-deal": {
         "banneduntil": "2026/2/25",
         "BanReason": "Rdm"
+    },
+    "MrNobody188": {
+        "banneduntil": "2026/3/10",
+        "BanReason": "Racism(Slur)"
     }
 }
