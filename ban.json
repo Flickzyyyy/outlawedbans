@@ -3070,5 +3070,9 @@
     "Bandosause24": {
         "banneduntil": "Rdm+evaision",
         "BanReason": "2026/2/27"
+    },
+    "CornEater": {
+        "banneduntil": "Rdm+evaison",
+        "BanReason": "2026/2/27"
     }
 }
