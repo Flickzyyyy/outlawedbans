@@ -3074,5 +3074,9 @@
     "CornEater": {
         "banneduntil": "Rdm+evaison",
         "BanReason": "2026/2/27"
+    },
+    "Donld.J.Trump": {
+        "banneduntil": "2026/2/24",
+        "BanReason": "rdm"
     }
 }
