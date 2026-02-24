@@ -3050,5 +3050,9 @@
     "fickIen_uh": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "NoahTacRaw": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
