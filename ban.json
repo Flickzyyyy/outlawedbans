@@ -3046,5 +3046,9 @@
     "ficklen_uh": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "fickIen_uh": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
