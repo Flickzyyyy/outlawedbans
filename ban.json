@@ -3038,5 +3038,9 @@
     "ficklenuh": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard R"
+    },
+    "AnneTank": {
+        "banneduntil": "2026/2/27",
+        "BanReason": "rdm + evasion"
     }
 }
