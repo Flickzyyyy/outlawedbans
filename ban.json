@@ -3078,5 +3078,9 @@
     "Donld.J.Trump": {
         "banneduntil": "2026/2/24",
         "BanReason": "rdm"
+    },
+    "The-deal": {
+        "banneduntil": "2026/2/25",
+        "BanReason": "Rdm"
     }
 }
