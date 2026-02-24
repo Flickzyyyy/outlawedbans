@@ -3034,5 +3034,9 @@
     "the1green": {
         "banneduntil": "2026/2/25",
         "BanReason": "Rdm clip"
+    },
+    "ficklenuh": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard R"
     }
 }
