@@ -3050,5 +3050,9 @@
     "autism.swag.2024": {
         "banneduntil": "2026/2/28",
         "BanReason": "rdm + evasion"
+    },
+    "EarpoftheWest": {
+        "banneduntil": "2026/2/26",
+        "BanReason": "Rdm Via Clip"
     }
 }
