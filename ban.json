@@ -3070,5 +3070,9 @@
     "Mister1Burger": {
         "banneduntil": "2026/3/17",
         "BanReason": "racial remark and evasion"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2026/2/26",
+        "BanReason": "killed three people and then left the game"
     }
 }
