@@ -3086,5 +3086,9 @@
     "thememermanvr": {
         "banneduntil": "2026/2/25",
         "BanReason": "rdm"
+    },
+    "autism.swag.2024": {
+        "banneduntil": "2026/2/28",
+        "BanReason": "rdm + evasion"
     }
 }
