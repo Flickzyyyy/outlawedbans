@@ -3082,5 +3082,9 @@
     "vigrantholday7374": {
         "banneduntil": "2099/1/1",
         "BanReason": "Neonwren alt(reban)"
+    },
+    "thememermanvr": {
+        "banneduntil": "2026/2/25",
+        "BanReason": "rdm"
     }
 }
