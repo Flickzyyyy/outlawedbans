@@ -3078,5 +3078,9 @@
     "Dherr.13": {
         "banneduntil": "Abusing suicide + evasion",
         "BanReason": "2026/2/27"
+    },
+    "allquietontheratfront": {
+        "banneduntil": "rdm + evasion",
+        "BanReason": "2026/2/29"
     }
 }
