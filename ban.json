@@ -307,10 +307,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R (Reban)"
     },
-    "jaykayfos": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "Soft A Clip"
-    },
     "im.bad420": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R (Reban)"
@@ -2603,10 +2599,6 @@
         "banneduntil": "2030/1/1",
         "BanReason": "Underage"
     },
-    "BBB_ Strawberry": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "Sexual misconduct and evation"
-    },
     "adolfsponglah1": {
         "banneduntil": "2067/1/1",
         "BanReason": "Alt(likely menlo)"
@@ -2647,10 +2639,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
     },
-    "J_BOY1001": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "RDM and F slur"
-    },
     "femboypawjobs": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
@@ -2663,29 +2651,9 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R clip"
     },
-    "bloom363": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "F Slur"
-    },
     "hofRose": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
-    },
-    "henrysunzz": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "f slur"
-    },
-    "Hammer309": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "soft a"
-    },
-    "Hammer3309": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "soft a"
-    },
-    "cheese1290": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "soft a"
     },
     "ThatOneGuy1856": {
         "banneduntil": "2027/2/17",
@@ -2899,10 +2867,6 @@
         "banneduntil": "2047/1/1",
         "BanReason": "hard r"
     },
-    "they_hate_tamarius": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "rdm/evasion"
-    },
     "Xverse17": {
         "banneduntil": "2026/3/3",
         "BanReason": "mass rdm spawn camping"
@@ -2971,17 +2935,9 @@
         "banneduntil": "2067/6/7",
         "BanReason": "Idk ault"
     },
-    "fish.336125": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "Rdm and Evasion"
-    },
     "janky.jimmy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
-    },
-    "farid.zeynalov.822": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "rdm + evasion"
     },
     "ficklenuh": {
         "banneduntil": "2099/1/1",
@@ -3035,10 +2991,6 @@
         "banneduntil": "2026/3/17",
         "BanReason": "racial remark and evasion"
     },
-    "itx.Hubert": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "killed three people and then left the game"
-    },
     "Avenger44": {
         "banneduntil": "2026/3/3",
         "BanReason": "Spawn camping clip"
@@ -3050,10 +3002,6 @@
     "autism.swag.2024": {
         "banneduntil": "2026/2/28",
         "BanReason": "rdm + evasion"
-    },
-    "EarpoftheWest": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "Rdm Via Clip"
     },
     "Peanutbutterpie1": {
         "banneduntil": "2026/3/11",
@@ -3071,10 +3019,6 @@
         "banneduntil": "2026/3/11",
         "BanReason": "F SLUR"
     },
-    "skeeter_boy ": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "rdm"
-    },
     "Dherr.13": {
         "banneduntil": "Abusing suicide + evasion",
         "BanReason": "2026/2/27"
@@ -3086,9 +3030,5 @@
     "JebStuartFan": {
         "banneduntil": "2026/2/27",
         "BanReason": "Rdm"
-    },
-    "cregtask": {
-        "banneduntil": "2026/2/26",
-        "BanReason": "rdm"
     }
 }
