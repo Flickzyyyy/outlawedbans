@@ -3082,5 +3082,9 @@
     "allquietontheratfront": {
         "banneduntil": "rdm + evasion",
         "BanReason": "2026/2/29"
+    },
+    "JebStuartFan": {
+        "banneduntil": "2026/2/27",
+        "BanReason": "Rdm"
     }
 }
