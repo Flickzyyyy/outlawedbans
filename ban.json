@@ -3030,5 +3030,9 @@
     "JebStuartFan": {
         "banneduntil": "2026/2/27",
         "BanReason": "Rdm"
+    },
+    "FreddyMcReady": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
