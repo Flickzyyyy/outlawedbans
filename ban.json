@@ -3074,5 +3074,9 @@
     "skeeter_boy ": {
         "banneduntil": "2026/2/26",
         "BanReason": "rdm"
+    },
+    "Dherr.13": {
+        "banneduntil": "Abusing suicide + evasion",
+        "BanReason": "2026/2/27"
     }
 }
