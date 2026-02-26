@@ -3086,5 +3086,9 @@
     "JebStuartFan": {
         "banneduntil": "2026/2/27",
         "BanReason": "Rdm"
+    },
+    "cregtask": {
+        "banneduntil": "2026/2/26",
+        "BanReason": "rdm"
     }
 }
