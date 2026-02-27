@@ -3070,5 +3070,9 @@
     "riptide0x": {
         "banneduntil": "2026/2/30",
         "BanReason": "RDM + evasion"
+    },
+    "Maestruk206": {
+        "banneduntil": "2026/3/12",
+        "BanReason": "Camping and evasion"
     }
 }
