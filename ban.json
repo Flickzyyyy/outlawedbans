@@ -3062,5 +3062,9 @@
     "iloveviktor": {
         "banneduntil": "2026/3/2",
         "BanReason": "RDM + evasion"
+    },
+    "GHOSTTOGOOD": {
+        "banneduntil": "2026/3/3",
+        "BanReason": "RDM + Evasion"
     }
 }
