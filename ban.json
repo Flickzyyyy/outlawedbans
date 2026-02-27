@@ -3066,5 +3066,9 @@
     "GHOSTTOGOOD": {
         "banneduntil": "2026/3/3",
         "BanReason": "RDM + Evasion"
+    },
+    "cool_dude1045": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "PFP"
     }
 }
