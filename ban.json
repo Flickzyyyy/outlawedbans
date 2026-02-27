@@ -3066,5 +3066,9 @@
     "ianthecool": {
         "banneduntil": "2026/2/28",
         "BanReason": "Rdm clip"
+    },
+    "riptide0x": {
+        "banneduntil": "2026/2/30",
+        "BanReason": "RDM + evasion"
     }
 }
