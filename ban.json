@@ -3070,5 +3070,9 @@
     "cool_dude1045": {
         "banneduntil": "2099/1/1",
         "BanReason": "PFP"
+    },
+    "itx.Hubert": {
+        "banneduntil": "2026/3/6",
+        "BanReason": "Camping clip"
     }
 }
