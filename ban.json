@@ -3078,5 +3078,9 @@
     "Rainwater436": {
         "banneduntil": "2028/2/1",
         "BanReason": "Underage (11)"
+    },
+    "DefinetlyNotRome": {
+        "banneduntil": "2026/3/4",
+        "BanReason": "Rdm And Evasion"
     }
 }
