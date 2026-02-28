@@ -3082,5 +3082,9 @@
     "SGT.ROOSTER": {
         "banneduntil": "2026/3/1",
         "BanReason": "RDM CLIP"
+    },
+    "wayler4167": {
+        "banneduntil": "2030/1/1",
+        "BanReason": "Underage (9)"
     }
 }
