@@ -3102,5 +3102,9 @@
     "dickbutt6.2026": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "MadLAD.0": {
+        "banneduntil": "2026/3/2",
+        "BanReason": "RDM Clip"
     }
 }
