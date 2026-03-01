@@ -3114,5 +3114,9 @@
     "bokbok11": {
         "banneduntil": "2026/3/14",
         "BanReason": "Slur baiting/racist remark"
+    },
+    "jeremy.fullbright": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "Underage(10)"
     }
 }
