@@ -3106,5 +3106,9 @@
     "hwetballsag": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "justbirdbird": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "Soft A Spam"
     }
 }
