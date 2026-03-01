@@ -3090,5 +3090,9 @@
     "sifddhadi": {
         "banneduntil": "2026/3/28",
         "BanReason": "f slur repeatedly"
+    },
+    "Fredstick01": {
+        "banneduntil": "2026/3/8",
+        "BanReason": "rdm and evasion"
     }
 }
