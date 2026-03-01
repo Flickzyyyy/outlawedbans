@@ -3106,5 +3106,9 @@
     "adam22": {
         "banneduntil": "2026/3/15",
         "BanReason": "Rdm + F slur"
+    },
+    "FartinatorOfDoom": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "rdm + evasion"
     }
 }
