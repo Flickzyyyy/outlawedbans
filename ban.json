@@ -3086,5 +3086,9 @@
     "justbirdbird": {
         "banneduntil": "2026/3/14",
         "BanReason": "Soft A Spam"
+    },
+    "sifddhadi": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "f slur repeatedly"
     }
 }
