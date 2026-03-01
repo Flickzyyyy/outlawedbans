@@ -3094,5 +3094,9 @@
     "MOE_BRO": {
         "banneduntil": "2026/3/7",
         "BanReason": "Mass Cop Targeting"
+    },
+    "Hammer3309": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "Racism(yes again)"
     }
 }
