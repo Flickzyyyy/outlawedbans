@@ -3110,5 +3110,9 @@
     "FartinatorOfDoom": {
         "banneduntil": "2026/3/5",
         "BanReason": "rdm + evasion"
+    },
+    "bokbok11": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "Slur baiting/racist remark"
     }
 }
