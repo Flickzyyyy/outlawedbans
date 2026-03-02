@@ -3150,5 +3150,9 @@
     "Old_SodacanIII": {
         "banneduntil": "2026/3/15",
         "BanReason": "Mass rdm and evasion"
+    },
+    "XYZCorruption": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "RDM + evasion"
     }
 }
