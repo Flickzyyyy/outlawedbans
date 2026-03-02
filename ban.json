@@ -3154,5 +3154,9 @@
     "XYZCorruption": {
         "banneduntil": "2026/3/5",
         "BanReason": "RDM + evasion"
+    },
+    "Bob_ross.the.3": {
+        "banneduntil": "2026/3/2",
+        "BanReason": "rdm"
     }
 }
