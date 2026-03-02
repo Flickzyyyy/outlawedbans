@@ -3122,5 +3122,9 @@
     "MetaIHead": {
         "banneduntil": "2026/3/5",
         "BanReason": "rdm and evasion"
+    },
+    "walldark783": {
+        "banneduntil": "2026/3/8",
+        "BanReason": "Spawn camping clip"
     }
 }
