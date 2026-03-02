@@ -3118,5 +3118,9 @@
     "jeremy.fullbright": {
         "banneduntil": "2029/1/1",
         "BanReason": "Underage(10)"
+    },
+    "MetaIHead": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "rdm and evasion"
     }
 }
