@@ -3162,5 +3162,9 @@
     "icantpoop": {
         "banneduntil": "2026/3/5",
         "BanReason": "rdm + evasion"
+    },
+    "flyingmayoman": {
+        "banneduntil": "2026/3/3",
+        "BanReason": "Rdm"
     }
 }
