@@ -3174,5 +3174,9 @@
     "sadjack123": {
         "banneduntil": "2026/3/3",
         "BanReason": "Rdm"
+    },
+    "Bman789": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "F Slur"
     }
 }
