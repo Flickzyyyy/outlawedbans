@@ -3146,5 +3146,9 @@
     "Scotland09.2022": {
         "banneduntil": "2026/3/5",
         "BanReason": "RDM via clip"
+    },
+    "scotland09.2022": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "RDM via clip"
     }
 }
