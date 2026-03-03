@@ -3158,5 +3158,9 @@
     "dwright932": {
         "banneduntil": "2026/3/17",
         "BanReason": "mass rdm + evasion"
+    },
+    "buster_scruggs.803214": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
