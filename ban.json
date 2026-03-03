@@ -3150,5 +3150,9 @@
     "PepsiTheOutlaw": {
         "banneduntil": "2026/3/9",
         "BanReason": "Lost the bet"
+    },
+    "greg_TA_343": {
+        "banneduntil": "2026/3/6",
+        "BanReason": "Rdm and evasion"
     }
 }
