@@ -3158,5 +3158,9 @@
     "henery23": {
         "banneduntil": "2026/3/9",
         "BanReason": "Mass RDM"
+    },
+    "blosser.2023": {
+        "banneduntil": "2026/3/6",
+        "BanReason": "Rdm (has excess logs so no warning and added 1 day)"
     }
 }
