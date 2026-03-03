@@ -3142,5 +3142,9 @@
     "aymz.s.20": {
         "banneduntil": "2027/3/2",
         "BanReason": "underage + evasion"
+    },
+    "Scotland09.2022": {
+        "banneduntil": "2026/3/5",
+        "BanReason": "RDM via clip"
     }
 }
