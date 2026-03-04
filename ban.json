@@ -3162,5 +3162,9 @@
     "buster_scruggs.803214": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "hadley398": {
+        "banneduntil": "2026/3/17",
+        "BanReason": "F Slur"
     }
 }
