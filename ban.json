@@ -3190,5 +3190,9 @@
     "kelly32": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "Docter.yellow": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD R"
     }
 }
