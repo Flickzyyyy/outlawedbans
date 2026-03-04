@@ -3182,5 +3182,9 @@
     "goofyguy1467": {
         "banneduntil": "2026/3/11",
         "BanReason": "Mass RDM"
+    },
+    "jacksayhi": {
+        "banneduntil": "2026/3/10",
+        "BanReason": "Camping + RDM + Evasion"
     }
 }
