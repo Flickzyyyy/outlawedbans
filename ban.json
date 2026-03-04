@@ -3174,5 +3174,9 @@
     "Roseboom": {
         "banneduntil": "2026/3/17",
         "BanReason": "F slur"
+    },
+    "Doctor.yellow": {
+        "banneduntil": "2026/3/4",
+        "BanReason": "rdm"
     }
 }
