@@ -3170,5 +3170,9 @@
     "Muskies73": {
         "banneduntil": "2026/3/8",
         "BanReason": "RDM + Evading and Alting"
+    },
+    "Ironaiden21": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt of Muskies"
     }
 }
