@@ -3170,5 +3170,9 @@
     "T0cino": {
         "banneduntil": "2026/3/10",
         "BanReason": "Mass rdm"
+    },
+    "Roseboom": {
+        "banneduntil": "2026/3/17",
+        "BanReason": "F slur"
     }
 }
