@@ -3186,5 +3186,9 @@
     "jacksayhi": {
         "banneduntil": "2026/3/10",
         "BanReason": "Camping + RDM + Evasion"
+    },
+    "hunter902100": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R alt"
     }
 }
