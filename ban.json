@@ -3198,5 +3198,9 @@
     "cheese_man3535": {
         "banneduntil": "2028/1/1",
         "BanReason": "underaged"
+    },
+    "coolbeans04345": {
+        "banneduntil": "2026/4/4",
+        "BanReason": "Soft A and Evasion"
     }
 }
