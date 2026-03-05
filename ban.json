@@ -3170,5 +3170,9 @@
     "Wildfritz99": {
         "banneduntil": "2031/1/1",
         "BanReason": "Underage"
+    },
+    "PuRe_Picasso": {
+        "banneduntil": "2026/3/8",
+        "BanReason": "rdm clip"
     }
 }
