@@ -3222,5 +3222,9 @@
     "Wanted_Rosina": {
         "banneduntil": "2026/3/5",
         "BanReason": "rdm"
+    },
+    "Wildfritz99": {
+        "banneduntil": "2031/1/1",
+        "BanReason": "Underage"
     }
 }
