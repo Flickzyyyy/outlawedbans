@@ -3206,5 +3206,9 @@
     "Gamble242": {
         "banneduntil": "2099/1/1",
         "BanReason": "Slur baiting / hard r"
+    },
+    "MAYAAAAAA": {
+        "banneduntil": "2026/3/7",
+        "BanReason": "rdm"
     }
 }
