@@ -3166,5 +3166,9 @@
     "XGH05TY2011": {
         "banneduntil": "2026/3/7",
         "BanReason": "Rdm Via Clip"
+    },
+    "DerekVinyard": {
+        "banneduntil": "2026/3/7",
+        "BanReason": "rdm"
     }
 }
