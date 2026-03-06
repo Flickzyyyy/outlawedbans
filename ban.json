@@ -3154,5 +3154,9 @@
     "PuRe_Picasso": {
         "banneduntil": "2026/3/8",
         "BanReason": "rdm clip"
+    },
+    "AdamBurnsFR": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
