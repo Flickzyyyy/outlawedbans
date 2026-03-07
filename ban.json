@@ -3172,7 +3172,7 @@
         "BanReason": "rdm"
     },
     "Gorilla_Gangster": {
-        "banneduntil": "2029/1/1",
+        "banneduntil": "2027/1/1",
         "BanReason": "underage"
     }
 }
