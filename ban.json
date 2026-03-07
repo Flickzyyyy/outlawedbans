@@ -3174,5 +3174,9 @@
     "scotland09.2022": {
         "banneduntil": "2099/1/1",
         "BanReason": "Ault"
+    },
+    "Adam22": {
+        "banneduntil": "2026/4/29",
+        "BanReason": "Aultrd"
     }
 }
