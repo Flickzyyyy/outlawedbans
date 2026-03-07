@@ -3166,5 +3166,9 @@
     "Kylorayray": {
         "banneduntil": "2026/3/11",
         "BanReason": "rdm and evasion"
+    },
+    "DerekVinyard": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "continuously camped bank with a shotgun"
     }
 }
