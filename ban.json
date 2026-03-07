@@ -3170,5 +3170,9 @@
     "DerekVinyard": {
         "banneduntil": "2026/4/14",
         "BanReason": "continuously camped bank with a shotgun"
+    },
+    "scotland09.2022": {
+        "banneduntil": "2026/4/8",
+        "BanReason": "Rdm"
     }
 }
