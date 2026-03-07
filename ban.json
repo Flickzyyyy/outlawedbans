@@ -3174,5 +3174,9 @@
     "Gorilla_Gangster": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "Hellscalla": {
+        "banneduntil": "2026/3/10",
+        "BanReason": "rdm + evasion"
     }
 }
