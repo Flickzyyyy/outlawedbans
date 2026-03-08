@@ -3174,5 +3174,9 @@
     "Tytpig": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "Ixightlok": {
+        "banneduntil": "2026/3/22",
+        "BanReason": "f slur"
     }
 }
