@@ -3198,5 +3198,9 @@
     "markismessil": {
         "banneduntil": "2026/3/11",
         "BanReason": "Rdm + evasion"
+    },
+    "milk.101.2023": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "Mass Rdm"
     }
 }
