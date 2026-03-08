@@ -3190,5 +3190,9 @@
     "D187202": {
         "banneduntil": "2026/3/12",
         "BanReason": "rdm + evasion"
+    },
+    "Jasper22132": {
+        "banneduntil": "2026/3/9",
+        "BanReason": "rdm"
     }
 }
