@@ -3198,5 +3198,9 @@
     "beanthedream": {
         "banneduntil": "2026/3/9",
         "BanReason": "rdm"
+    },
+    "sunthebeast24": {
+        "banneduntil": "2026/3/12",
+        "BanReason": "rdm + evasion"
     }
 }
