@@ -3174,5 +3174,9 @@
     "Tytpig": {
         "banneduntil": "2028/1/1",
         "BanReason": "underage"
+    },
+    "SnugglySniper": {
+        "banneduntil": "2026/3/9",
+        "BanReason": "rdm"
     }
 }
