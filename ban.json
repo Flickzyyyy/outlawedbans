@@ -3186,5 +3186,9 @@
     "FartinatorOfDoom": {
         "banneduntil": "2026/3/9",
         "BanReason": "Rdm Clip"
+    },
+    "D187202": {
+        "banneduntil": "2026/3/12",
+        "BanReason": "rdm + evasion"
     }
 }
