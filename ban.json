@@ -3206,5 +3206,9 @@
     "Benzo.Dawokk": {
         "banneduntil": "2026/3/22",
         "BanReason": "Soft a/ f slur"
+    },
+    "NOTFLIXZY": {
+        "banneduntil": "2026/6/30",
+        "BanReason": "underage"
     }
 }
