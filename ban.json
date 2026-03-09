@@ -3218,5 +3218,9 @@
     "Holosight1": {
         "banneduntil": "2026/3/10",
         "BanReason": "Rdm clip"
+    },
+    "Gbabe38": {
+        "banneduntil": "2026/3/13",
+        "BanReason": "RDM Evasion"
     }
 }
