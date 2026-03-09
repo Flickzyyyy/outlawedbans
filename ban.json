@@ -3202,5 +3202,9 @@
     "sunthebeast24": {
         "banneduntil": "2026/3/12",
         "BanReason": "rdm + evasion"
+    },
+    "BR8AST": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
