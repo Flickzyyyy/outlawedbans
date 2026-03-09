@@ -3214,5 +3214,9 @@
     "xlilx4k111": {
         "banneduntil": "2026/3/12",
         "BanReason": "rdm + evasion"
+    },
+    "Holosight1": {
+        "banneduntil": "2026/3/10",
+        "BanReason": "Rdm clip"
     }
 }
