@@ -3206,5 +3206,9 @@
     "BR8AST": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "The.Ice.Truck.Killer.24": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
