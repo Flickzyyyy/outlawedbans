@@ -3210,5 +3210,9 @@
     "NOTFLIXZY": {
         "banneduntil": "2026/6/30",
         "BanReason": "underage"
+    },
+    "Pab1oEscobear": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "mass rdm"
     }
 }
