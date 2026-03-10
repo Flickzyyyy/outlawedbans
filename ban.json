@@ -3214,5 +3214,9 @@
     "Pab1oEscobear": {
         "banneduntil": "2026/3/16",
         "BanReason": "mass rdm"
+    },
+    "deedeedidit": {
+        "banneduntil": "2026/3/10",
+        "BanReason": "rdm"
     }
 }
