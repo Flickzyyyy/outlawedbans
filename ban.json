@@ -3206,5 +3206,9 @@
     "dexter.324193": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Ineatbiggers": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
