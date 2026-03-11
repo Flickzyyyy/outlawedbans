@@ -3214,5 +3214,9 @@
     "unc0": {
         "banneduntil": "2026/3/25",
         "BanReason": "F Slur"
+    },
+    "MAS0N.is.here": {
+        "banneduntil": "2026/3/12",
+        "BanReason": "RDM"
     }
 }
