@@ -3210,5 +3210,9 @@
     "Shinji_the_Ikari": {
         "banneduntil": "2026/3/11",
         "BanReason": "abusing suicide"
+    },
+    "killerdef666": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "Rdm and evasion"
     }
 }
