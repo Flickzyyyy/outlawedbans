@@ -3234,5 +3234,9 @@
     "Circularsaw44": {
         "banneduntil": "2026/3/14",
         "BanReason": "rdm"
+    },
+    "coolboy123abc": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
