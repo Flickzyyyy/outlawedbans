@@ -3218,5 +3218,9 @@
     "croakgod": {
         "banneduntil": "2026/3/14",
         "BanReason": "rdm + evasion"
+    },
+    "matthew_richards": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "rdm evasion"
     }
 }
