@@ -3222,5 +3222,9 @@
     "matthew_richards": {
         "banneduntil": "2026/3/14",
         "BanReason": "rdm evasion"
+    },
+    "NetanyahuBombsKids": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
