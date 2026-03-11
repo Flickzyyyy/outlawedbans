@@ -3230,5 +3230,9 @@
     "ALLST4Rc": {
         "banneduntil": "2026/3/24",
         "BanReason": "soft a"
+    },
+    "Keenpompano": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "rdm + evasion"
     }
 }
