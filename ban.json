@@ -3214,5 +3214,9 @@
     "killerdef666": {
         "banneduntil": "2026/3/14",
         "BanReason": "Rdm and evasion"
+    },
+    "croakgod": {
+        "banneduntil": "2026/3/14",
+        "BanReason": "rdm + evasion"
     }
 }
