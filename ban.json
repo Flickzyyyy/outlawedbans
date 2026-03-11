@@ -3218,5 +3218,9 @@
     "MAS0N.is.here": {
         "banneduntil": "2026/3/12",
         "BanReason": "RDM"
+    },
+    "justgreyson1": {
+        "banneduntil": "2026/3/15",
+        "BanReason": "Rdm + Evasion"
     }
 }
