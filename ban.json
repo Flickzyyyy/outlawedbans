@@ -3234,5 +3234,9 @@
     "Circularsaw44": {
         "banneduntil": "2026/3/14",
         "BanReason": "rdm"
+    },
+    "Skeeter_boy": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban"
     }
 }
