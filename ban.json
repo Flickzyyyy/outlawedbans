@@ -3210,5 +3210,9 @@
     "Ineatbiggers": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "unc0": {
+        "banneduntil": "2026/3/25",
+        "BanReason": "F Slur"
     }
 }
