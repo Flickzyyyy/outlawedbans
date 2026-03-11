@@ -3226,5 +3226,9 @@
     "NetanyahuBombsKids": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "ALLST4Rc": {
+        "banneduntil": "2026/3/24",
+        "BanReason": "soft a"
     }
 }
