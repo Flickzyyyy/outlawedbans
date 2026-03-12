@@ -3266,5 +3266,9 @@
     "Coopmonkey": {
         "banneduntil": "2029/3/11",
         "BanReason": "Underage (10 yr old)"
+    },
+    "belso": {
+        "banneduntil": "2026/3/15",
+        "BanReason": "RDM"
     }
 }
