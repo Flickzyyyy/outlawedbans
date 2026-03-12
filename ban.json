@@ -3258,5 +3258,9 @@
     "Con_man": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "pavlovot": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "RDM + Evading"
     }
 }
