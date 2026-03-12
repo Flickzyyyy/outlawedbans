@@ -3274,5 +3274,9 @@
     "w234op": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Brownie1345": {
+        "banneduntil": "2026/3/26",
+        "BanReason": "Soft a"
     }
 }
