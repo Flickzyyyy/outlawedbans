@@ -3262,5 +3262,9 @@
     "pavlovot": {
         "banneduntil": "2026/3/16",
         "BanReason": "RDM + Evading"
+    },
+    "Coopmonkey": {
+        "banneduntil": "2029/3/11",
+        "BanReason": "Underage (10 yr old)"
     }
 }
