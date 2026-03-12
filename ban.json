@@ -3246,5 +3246,9 @@
     "thebayharbourbutcher69.420": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Bluzombi": {
+        "banneduntil": "2026/3/15",
+        "BanReason": "rdm + evasion"
     }
 }
