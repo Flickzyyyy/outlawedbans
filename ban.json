@@ -3290,5 +3290,9 @@
     "Typhoon27": {
         "banneduntil": "2026/3/16",
         "BanReason": "Rdm"
+    },
+    "king.dauris12": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
