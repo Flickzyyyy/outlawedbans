@@ -3286,5 +3286,9 @@
     "OGKRAMPUS": {
         "banneduntil": "2026/3/26",
         "BanReason": "Soft a clip"
+    },
+    "Typhoon27": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "Rdm"
     }
 }
