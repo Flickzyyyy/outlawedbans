@@ -3298,5 +3298,9 @@
     "julian2offical": {
         "banneduntil": "2026/3/27",
         "BanReason": "f slur"
+    },
+    "dextroisbest5217": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
