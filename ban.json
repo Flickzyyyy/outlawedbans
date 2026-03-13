@@ -3306,5 +3306,9 @@
     "Abs_lincoln": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "ben.quadinraros656": {
+        "banneduntil": "2026/3/17",
+        "BanReason": "Rdm evasion"
     }
 }
