@@ -3346,5 +3346,9 @@
     "nobodyv.2025": {
         "banneduntil": "2026/3/28",
         "BanReason": "F Slur via clip"
+    },
+    "Aegon_1st_Targaryen": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R via clip"
     }
 }
