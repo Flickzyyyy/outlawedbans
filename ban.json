@@ -3314,5 +3314,9 @@
     "Callmepickless": {
         "banneduntil": "2026/3/18",
         "BanReason": "Rdm evasion"
+    },
+    "DORVEE14": {
+        "banneduntil": "2026/3/17",
+        "BanReason": "rdm + evasions"
     }
 }
