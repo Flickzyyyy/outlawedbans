@@ -3334,5 +3334,9 @@
     "bob.492238": {
         "banneduntil": "2027/3/14",
         "BanReason": "Underage (No Bday)"
+    },
+    "bingus342": {
+        "banneduntil": "2026/3/15",
+        "BanReason": "RDM via clip"
     }
 }
