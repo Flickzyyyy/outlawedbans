@@ -3350,5 +3350,9 @@
     "Aegon_1st_Targaryen": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R via clip"
+    },
+    "DCspacepanda": {
+        "banneduntil": "2026/3/15",
+        "BanReason": "RDM via clip"
     }
 }
