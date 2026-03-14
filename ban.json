@@ -3358,5 +3358,9 @@
     "ChuggaKinz": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "battel.droid": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R-NeonWren Alt"
     }
 }
