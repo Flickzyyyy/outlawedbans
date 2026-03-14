@@ -3354,5 +3354,9 @@
     "BaldAmerican": {
         "banneduntil": "2026/3/15",
         "BanReason": "RDM via clip"
+    },
+    "Thefatburg004": {
+        "banneduntil": "2026/3/15",
+        "BanReason": "Rdm clip"
     }
 }
