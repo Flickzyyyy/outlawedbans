@@ -3318,5 +3318,9 @@
     "DORVEE14": {
         "banneduntil": "2026/3/17",
         "BanReason": "rdm + evasions"
+    },
+    "LocalTweaker": {
+        "banneduntil": "2026/3/27",
+        "BanReason": "Sexual harassment"
     }
 }
