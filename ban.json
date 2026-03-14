@@ -3330,5 +3330,9 @@
     "BRICH32 ": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "bob.492238": {
+        "banneduntil": "2027/3/14",
+        "BanReason": "Underage (No Bday)"
     }
 }
