@@ -3358,5 +3358,9 @@
     "Thefatburg004": {
         "banneduntil": "2026/3/15",
         "BanReason": "Rdm clip"
+    },
+    "Xorph1": {
+        "banneduntil": "2026/3/18",
+        "BanReason": "rdm + evasion"
     }
 }
