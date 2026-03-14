@@ -3354,5 +3354,9 @@
     "DCspacepanda": {
         "banneduntil": "2026/3/15",
         "BanReason": "RDM via clip"
+    },
+    "BaldAmerican": {
+        "banneduntil": "2026/3/15",
+        "BanReason": "RDM via clip"
     }
 }
