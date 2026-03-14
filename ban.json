@@ -3306,5 +3306,9 @@
     "battel.droid": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R-NeonWren Alt"
+    },
+    "BlueGamer24": {
+        "banneduntil": "2026/3/18",
+        "BanReason": "Rdm evasion"
     }
 }
