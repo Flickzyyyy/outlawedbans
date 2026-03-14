@@ -3322,5 +3322,9 @@
     "LocalTweaker": {
         "banneduntil": "2026/3/27",
         "BanReason": "Sexual harassment"
+    },
+    "Peenur_Weenur": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
