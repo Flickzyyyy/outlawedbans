@@ -3342,5 +3342,9 @@
     "Butter_Life": {
         "banneduntil": "2026/3/15",
         "BanReason": "RDM via clip"
+    },
+    "nobodyv.2025": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "F Slur via clip"
     }
 }
