@@ -3362,5 +3362,9 @@
     "Xorph1": {
         "banneduntil": "2026/3/18",
         "BanReason": "rdm + evasion"
+    },
+    "Xerixx": {
+        "banneduntil": "2026/3/18",
+        "BanReason": "rdm + evasion"
     }
 }
