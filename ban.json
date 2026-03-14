@@ -3342,5 +3342,9 @@
     "Lemonade_44": {
         "banneduntil": "2026/3/15",
         "BanReason": "Rdm clip"
+    },
+    "thedev1147": {
+        "banneduntil": "2026/3/17",
+        "BanReason": "rdm evasion"
     }
 }
