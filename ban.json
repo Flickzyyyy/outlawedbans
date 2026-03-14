@@ -3346,5 +3346,9 @@
     "thedev1147": {
         "banneduntil": "2026/3/17",
         "BanReason": "rdm evasion"
+    },
+    "Osamabinladengotdih": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "rdm"
     }
 }
