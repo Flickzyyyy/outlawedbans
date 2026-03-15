@@ -3378,5 +3378,9 @@
     "FINGEREDCARROTTOP": {
         "banneduntil": "2026/3/18",
         "BanReason": "rdm + evasion"
+    },
+    "Brodawg09": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "Racism"
     }
 }
