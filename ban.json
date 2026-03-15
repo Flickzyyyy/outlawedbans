@@ -3402,5 +3402,9 @@
     "Boundful": {
         "banneduntil": "2026/3/20",
         "BanReason": "Cop Targeting/RDM Clip-Ban Increased"
+    },
+    "Lemonade_44": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "Rdm clip"
     }
 }
