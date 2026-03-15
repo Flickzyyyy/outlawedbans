@@ -3370,5 +3370,9 @@
     "Joe_Swanson456": {
         "banneduntil": "2026/3/21",
         "BanReason": "Mass rdm clip"
+    },
+    "OhMyGus": {
+        "banneduntil": "2026/3/17",
+        "BanReason": "rdm"
     }
 }
