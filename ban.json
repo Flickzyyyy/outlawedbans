@@ -3370,5 +3370,9 @@
     "da_gangsta": {
         "banneduntil": "2031/10/5",
         "BanReason": "Underage (8)"
+    },
+    "kim.jong.un51": {
+        "banneduntil": "2026/3/19",
+        "BanReason": "rdm + evasion"
     }
 }
