@@ -3398,5 +3398,9 @@
     "raefe": {
         "banneduntil": "2026/3/19",
         "BanReason": "rdm + evasion"
+    },
+    "Boundful": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "Cop Targeting/RDM Clip"
     }
 }
