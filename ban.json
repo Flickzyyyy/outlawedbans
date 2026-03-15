@@ -3362,5 +3362,9 @@
     "Mike_morgan": {
         "banneduntil": "2026/3/18",
         "BanReason": "rdm clip"
+    },
+    "White.roach": {
+        "banneduntil": "2026/3/19",
+        "BanReason": "rdm + evasion"
     }
 }
