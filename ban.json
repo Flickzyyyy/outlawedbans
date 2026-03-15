@@ -3374,5 +3374,9 @@
     "OhMyGus": {
         "banneduntil": "2026/3/17",
         "BanReason": "rdm"
+    },
+    "FINGEREDCARROTTOP": {
+        "banneduntil": "2026/3/18",
+        "BanReason": "rdm + evasion"
     }
 }
