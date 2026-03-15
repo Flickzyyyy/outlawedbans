@@ -3382,5 +3382,9 @@
     "barnyard4785": {
         "banneduntil": "2026/3/19",
         "BanReason": "rdm + evasion"
+    },
+    "Ambroinon": {
+        "banneduntil": "2026/3/16",
+        "BanReason": "Rdm"
     }
 }
