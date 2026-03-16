@@ -3410,5 +3410,9 @@
     "qwerty1081": {
         "banneduntil": "2027/1/1",
         "BanReason": "underage"
+    },
+    "jacky.the2DSM": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
