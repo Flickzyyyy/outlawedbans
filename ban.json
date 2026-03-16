@@ -3390,5 +3390,9 @@
     "2027/1/1": {
         "banneduntil": "dpdpboko",
         "BanReason": "underage"
+    },
+    "dpdpboko": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "underage"
     }
 }
