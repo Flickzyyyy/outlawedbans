@@ -3422,5 +3422,9 @@
     "Charlie_Kirk41": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R Tickey"
+    },
+    "luckmex": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
