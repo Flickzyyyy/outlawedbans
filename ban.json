@@ -3410,5 +3410,9 @@
     "squash1978": {
         "banneduntil": "2026/3/21",
         "BanReason": "rdm + evasion"
+    },
+    "zupelli": {
+        "banneduntil": "2026/3/31",
+        "BanReason": "f slur"
     }
 }
