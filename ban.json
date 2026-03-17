@@ -3414,5 +3414,9 @@
     "zupelli": {
         "banneduntil": "2026/3/31",
         "BanReason": "f slur"
+    },
+    "Ashmashing": {
+        "banneduntil": "2028/3/17",
+        "BanReason": "11 Years old"
     }
 }
