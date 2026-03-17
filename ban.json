@@ -3426,5 +3426,9 @@
     "luckmex": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "vandenbossm": {
+        "banneduntil": "2026/3/20",
+        "BanReason": "rdm clip"
     }
 }
