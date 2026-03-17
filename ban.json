@@ -3402,5 +3402,9 @@
     "roachman1234": {
         "banneduntil": "2026/3/18",
         "BanReason": "RDM"
+    },
+    "johnfoodeat34": {
+        "banneduntil": "2026/3/18",
+        "BanReason": "RDM"
     }
 }
