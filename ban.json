@@ -3454,5 +3454,9 @@
     "AColonist": {
         "banneduntil": "2026/5/1",
         "BanReason": "Mass RDM + Evasion"
+    },
+    "big.pog.man": {
+        "banneduntil": "2026/5/0",
+        "BanReason": "cop targeting RDM AND evasion"
     }
 }
