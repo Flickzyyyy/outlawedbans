@@ -3458,5 +3458,9 @@
     "SpongeBob_liker": {
         "banneduntil": "2026/3/31",
         "BanReason": "rdm + evasion"
+    },
+    "MJAT": {
+        "banneduntil": "2026/3/21",
+        "BanReason": "rdm + evasion"
     }
 }
