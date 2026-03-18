@@ -3454,5 +3454,9 @@
     "Tylermetcalf1614": {
         "banneduntil": "2099/3/3",
         "BanReason": "hard r"
+    },
+    "SpongeBob_liker": {
+        "banneduntil": "2026/3/31",
+        "BanReason": "rdm + evasion"
     }
 }
