@@ -3462,5 +3462,9 @@
     "MJAT": {
         "banneduntil": "2026/3/21",
         "BanReason": "rdm + evasion"
+    },
+    "501Bryze": {
+        "banneduntil": "2026/3/20",
+        "BanReason": "rdm"
     }
 }
