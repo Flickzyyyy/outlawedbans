@@ -3458,5 +3458,9 @@
     "big.pog.man": {
         "banneduntil": "2026/5/0",
         "BanReason": "cop targeting RDM AND evasion"
+    },
+    "C.j.ficklenut": {
+        "banneduntil": "2026/4/1",
+        "BanReason": "F slur"
     }
 }
