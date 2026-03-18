@@ -3442,5 +3442,9 @@
     "Hector.Salamanca": {
         "banneduntil": "2026/4/1",
         "BanReason": "Mass RDM & Evasion"
+    },
+    "Theguy5341": {
+        "banneduntil": "2026/3/20",
+        "BanReason": "rdm"
     }
 }
