@@ -3478,5 +3478,9 @@
     "ROOTBEEEERMANN": {
         "banneduntil": "2099/1/1",
         "BanReason": "Rape?/Alting"
+    },
+    "ROOTBEEEEERMANN ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Rape/Alting"
     }
 }
