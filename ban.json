@@ -3450,5 +3450,9 @@
     "Lucianiscool112023": {
         "banneduntil": "2026/4/1",
         "BanReason": "slur baiting, RDM + evasion"
+    },
+    "AColonist": {
+        "banneduntil": "2026/5/1",
+        "BanReason": "Mass RDM + Evasion"
     }
 }
