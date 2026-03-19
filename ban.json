@@ -3498,5 +3498,9 @@
     "drybonesgwap": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt-drybonesdaytona"
+    },
+    "Simply_Unknown": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
