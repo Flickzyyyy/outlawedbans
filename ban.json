@@ -3478,5 +3478,9 @@
     "circularsaw44": {
         "banneduntil": "2026/3/21",
         "BanReason": "RDM"
+    },
+    "YTRoyalred": {
+        "banneduntil": "2026/3/21",
+        "BanReason": "RDM"
     }
 }
