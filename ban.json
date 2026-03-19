@@ -3466,5 +3466,9 @@
     "Autismkid": {
         "banneduntil": "2999/9/9",
         "BanReason": "Hard R"
+    },
+    "Badoonski": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "Hard r"
     }
 }
