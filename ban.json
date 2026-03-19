@@ -3462,5 +3462,9 @@
     "Mcbane80": {
         "banneduntil": "2026/3/22",
         "BanReason": "Rdm + evasion"
+    },
+    "Autismkid": {
+        "banneduntil": "2999/9/9",
+        "BanReason": "Hard R"
     }
 }
