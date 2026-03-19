@@ -3466,5 +3466,9 @@
     "Arcroso2.0": {
         "banneduntil": "2026/3/22",
         "BanReason": "RDM Evading"
+    },
+    "Moose": {
+        "banneduntil": "2000/1/1",
+        "BanReason": "Test(RDM)"
     }
 }
