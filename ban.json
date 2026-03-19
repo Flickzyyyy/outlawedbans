@@ -3470,5 +3470,9 @@
     "justingreyson1": {
         "banneduntil": "2026/3/23",
         "BanReason": "RDM & Evasion"
+    },
+    "VirginiaPatriot": {
+        "banneduntil": "2026/3/22",
+        "BanReason": "rdm + evasion"
     }
 }
