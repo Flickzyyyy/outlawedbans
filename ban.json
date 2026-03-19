@@ -3478,5 +3478,9 @@
     "YTRoyalred": {
         "banneduntil": "2026/3/21",
         "BanReason": "RDM"
+    },
+    "aclapper79": {
+        "banneduntil": "2026/3/26",
+        "BanReason": "Camping"
     }
 }
