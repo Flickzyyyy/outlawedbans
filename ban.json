@@ -3486,5 +3486,9 @@
     "lino_xiv": {
         "banneduntil": "2026/3/21",
         "BanReason": "RDM"
+    },
+    "drybonesdaytona": {
+        "banneduntil": "2026/4/1",
+        "BanReason": "F slur"
     }
 }
