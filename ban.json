@@ -3498,5 +3498,9 @@
     "SrIsmaa": {
         "banneduntil": "2026/3/23",
         "BanReason": "Rdm evasion"
+    },
+    "Mister1Burger": {
+        "banneduntil": "2026/3/22",
+        "BanReason": "Rdm"
     }
 }
