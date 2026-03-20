@@ -3510,5 +3510,9 @@
     "FearBobTuah": {
         "banneduntil": "2026/3/20",
         "BanReason": "Rdm"
+    },
+    "Ill_Show_U_That_It_Do_Go_Down": {
+        "banneduntil": "2026/3/23",
+        "BanReason": "rdm and evasion"
     }
 }
