@@ -3486,5 +3486,9 @@
     "coralp.341913": {
         "banneduntil": "2099/1/1",
         "BanReason": "Admitting hard r after pretending to be mute"
+    },
+    "764xxp": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
