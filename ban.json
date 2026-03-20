@@ -3494,5 +3494,9 @@
     "RIGG.um.BORBY": {
         "banneduntil": "2026/4/9",
         "BanReason": "Sexual Misconduct and Evasion"
+    },
+    "Uboatlogan": {
+        "banneduntil": "2026/3/21",
+        "BanReason": "RDM"
     }
 }
