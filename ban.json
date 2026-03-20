@@ -3506,5 +3506,9 @@
     "Jabs121 ": {
         "banneduntil": "2026/3/20",
         "BanReason": "Rdm evasion"
+    },
+    "FearBobTuah": {
+        "banneduntil": "2026/3/20",
+        "BanReason": "Rdm"
     }
 }
