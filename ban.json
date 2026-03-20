@@ -3498,5 +3498,9 @@
     "Uboatlogan": {
         "banneduntil": "2026/3/21",
         "BanReason": "RDM"
+    },
+    "gongaHawking": {
+        "banneduntil": "2026/3/27",
+        "BanReason": "mass rdm"
     }
 }
