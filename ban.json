@@ -3494,5 +3494,9 @@
     "rubelk60": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r (admitted and in clip)"
+    },
+    "SrIsmaa": {
+        "banneduntil": "2026/3/23",
+        "BanReason": "Rdm evasion"
     }
 }
