@@ -3482,5 +3482,9 @@
     "PasteMaster": {
         "banneduntil": "2026/3/23",
         "BanReason": "rdm and evasion"
+    },
+    "coralp.341913": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Admitting hard r after pretending to be mute"
     }
 }
