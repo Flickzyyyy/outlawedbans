@@ -3550,5 +3550,9 @@
     "2pite": {
         "banneduntil": "2026/4/3",
         "BanReason": "mass rdm and evasion"
+    },
+    "Thefatburg006": {
+        "banneduntil": "2026/3/23",
+        "BanReason": "rdm"
     }
 }
