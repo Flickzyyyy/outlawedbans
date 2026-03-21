@@ -3538,5 +3538,9 @@
     "Klassified115a": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "klassified115a": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
