@@ -3498,5 +3498,9 @@
     "Thefatburg006": {
         "banneduntil": "2026/3/23",
         "BanReason": "rdm"
+    },
+    "boycraftable": {
+        "banneduntil": "2026/3/24",
+        "BanReason": "Rdm And Evasion"
     }
 }
