@@ -3558,5 +3558,9 @@
     "Wyatt.Earp.1881": {
         "banneduntil": "2026/3/21",
         "BanReason": "rdm"
+    },
+    "Wyatt_Earp.1881": {
+        "banneduntil": "2026/3/21",
+        "BanReason": "rdm"
     }
 }
