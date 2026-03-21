@@ -3510,5 +3510,9 @@
     "ikey.232975": {
         "banneduntil": "2028/3/21",
         "BanReason": "underage"
+    },
+    "Abeldom": {
+        "banneduntil": "2029/2/21",
+        "BanReason": "said he was 10"
     }
 }
