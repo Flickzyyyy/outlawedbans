@@ -191,10 +191,6 @@
         "banneduntil": "2028/1/1",
         "BanReason": "Underage (10)"
     },
-    "dimin": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "Mass rdm + camping + evasion"
-    },
     "StephanBandera ": {
         "banneduntil": "2999/11/30",
         "BanReason": "Nword"
@@ -3035,10 +3031,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "HARD R clip"
     },
-    "SwagPaps": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "Sexual harassment"
-    },
     "Ghosstvr546": {
         "banneduntil": "2027/3/7",
         "BanReason": "Underaged"
@@ -3211,10 +3203,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R via clip"
     },
-    "Joe_Swanson456": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "Mass rdm clip"
-    },
     "Brodawg09": {
         "banneduntil": "2026/3/28",
         "BanReason": "Racism"
@@ -3230,14 +3218,6 @@
     "matthew_richards": {
         "banneduntil": "2026/4/14",
         "BanReason": "Racism And Evasion"
-    },
-    "themonsterfinder77": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "mass rdm"
-    },
-    "themonsterfinder777": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "mass rdm"
     },
     "StacyPussyStank": {
         "banneduntil": "2099/1/1",
@@ -3319,10 +3299,6 @@
         "banneduntil": "2026/3/24",
         "BanReason": "Mass RDM"
     },
-    "squash1978": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "rdm + evasion"
-    },
     "zupelli": {
         "banneduntil": "2026/3/31",
         "BanReason": "f slur"
@@ -3354,14 +3330,6 @@
     "SpongeBob_liker": {
         "banneduntil": "2026/3/31",
         "BanReason": "rdm + evasion"
-    },
-    "MJAT": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "rdm + evasion"
-    },
-    "Hondo391": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "Rdm and Evasion"
     },
     "ROOTBEEEERMAN": {
         "banneduntil": "2099/1/1",
@@ -3411,10 +3379,6 @@
         "banneduntil": "2026/4/1",
         "BanReason": "F slur"
     },
-    "lino_xiv": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "RDM"
-    },
     "drybonesdaytona": {
         "banneduntil": "2026/4/18",
         "BanReason": "Alt increase"
@@ -3443,25 +3407,9 @@
         "banneduntil": "2099/9/9",
         "BanReason": "Hard r"
     },
-    "crazyeight88i": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "RDM"
-    },
-    "circularsaw44": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "RDM"
-    },
-    "YTRoyalred": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "RDM"
-    },
     "aclapper79": {
         "banneduntil": "2026/3/26",
         "BanReason": "Camping"
-    },
-    "Doomguy29.2022": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "Rdm clip"
     },
     "rubelk60": {
         "banneduntil": "2099/1/1",
@@ -3494,10 +3442,6 @@
     "RIGG.um.BORBY": {
         "banneduntil": "2026/4/9",
         "BanReason": "Sexual Misconduct and Evasion"
-    },
-    "Uboatlogan": {
-        "banneduntil": "2026/3/21",
-        "BanReason": "RDM"
     },
     "gongaHawking": {
         "banneduntil": "2026/3/27",
@@ -3553,10 +3497,6 @@
     },
     "Thefatburg006": {
         "banneduntil": "2026/3/23",
-        "BanReason": "rdm"
-    },
-    "Wyatt_Earp.1881": {
-        "banneduntil": "2026/3/21",
         "BanReason": "rdm"
     }
 }
