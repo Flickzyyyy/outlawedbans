@@ -3506,5 +3506,9 @@
     "lordfartbutt": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "ikey.232975": {
+        "banneduntil": "2028/3/21",
+        "BanReason": "underage"
     }
 }
