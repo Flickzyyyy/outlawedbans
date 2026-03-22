@@ -3522,5 +3522,9 @@
     "Andrew.11": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Mister1Burger": {
+        "banneduntil": "2026/3/25",
+        "BanReason": "rdm + evasion"
     }
 }
