@@ -3566,5 +3566,9 @@
     "M3NLO23": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "M3NL0": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
