@@ -3546,5 +3546,9 @@
     "battle.droid": {
         "banneduntil": "2026/3/24",
         "BanReason": "Multiple rdm clips"
+    },
+    "Mrnobody188": {
+        "banneduntil": "2026/3/22",
+        "BanReason": "Rdm clip"
     }
 }
