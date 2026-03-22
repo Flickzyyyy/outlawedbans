@@ -3550,5 +3550,9 @@
     "Pab1oEscobear": {
         "banneduntil": "2026/3/26",
         "BanReason": "RDM"
+    },
+    "Slimjim80": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "Mass RDM + evasion"
     }
 }
