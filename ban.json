@@ -3550,5 +3550,9 @@
     "Mrnobody188": {
         "banneduntil": "2026/3/22",
         "BanReason": "Rdm clip"
+    },
+    "M3NL0_23 ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "evading"
     }
 }
