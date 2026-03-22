@@ -3552,7 +3552,7 @@
         "BanReason": "Rdm clip"
     },
     "John.Raiden": {
-        "banneduntil": "2026/3/23",
-        "BanReason": "RDM"
+        "banneduntil": "2000/1/1",
+        "BanReason": "Appealed - Warn was given"
     }
 }
