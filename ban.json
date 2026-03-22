@@ -3530,5 +3530,9 @@
     "trust.perkzz": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Ronnietheballa": {
+        "banneduntil": "2026/3/25",
+        "BanReason": "Rdm evasion"
     }
 }
