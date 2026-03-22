@@ -3530,5 +3530,9 @@
     "Link365": {
         "banneduntil": "2026/3/23",
         "BanReason": "RDM x3"
+    },
+    "Dr.Oculus41": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
