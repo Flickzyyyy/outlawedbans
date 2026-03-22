@@ -3562,5 +3562,9 @@
     "Joe_Swanson456": {
         "banneduntil": "2026/3/26",
         "BanReason": "rdm + evasion"
+    },
+    "M3NLO23": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
