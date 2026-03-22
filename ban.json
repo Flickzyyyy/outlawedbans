@@ -3542,5 +3542,9 @@
     "Typhoon27": {
         "banneduntil": "2026/3/24",
         "BanReason": "Rdm + evasion"
+    },
+    "Peterfulford": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "Mass RDM + Evasion"
     }
 }
