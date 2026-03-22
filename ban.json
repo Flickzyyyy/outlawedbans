@@ -3582,5 +3582,9 @@
     "mrcarman12": {
         "banneduntil": "2026/3/26",
         "BanReason": "rdm + evasion"
+    },
+    "GoldenToast5634": {
+        "banneduntil": "2026/3/25",
+        "BanReason": "rdm"
     }
 }
