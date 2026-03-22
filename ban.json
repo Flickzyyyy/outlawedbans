@@ -3542,5 +3542,9 @@
     "adave2king": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "battle.droid": {
+        "banneduntil": "2026/3/23",
+        "BanReason": "Rdm clip"
     }
 }
