@@ -3558,5 +3558,9 @@
     "Dreamie.F": {
         "banneduntil": "2026/3/23",
         "BanReason": "RDM via clip"
+    },
+    "Joe_Swanson456": {
+        "banneduntil": "2026/3/26",
+        "BanReason": "rdm + evasion"
     }
 }
