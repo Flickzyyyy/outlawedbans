@@ -3538,5 +3538,9 @@
     "fent.addict27": {
         "banneduntil": "2026/4/4",
         "BanReason": "Racial term (j-slur)"
+    },
+    "Typhoon27": {
+        "banneduntil": "2026/3/24",
+        "BanReason": "Rdm + evasion"
     }
 }
