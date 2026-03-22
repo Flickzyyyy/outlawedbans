@@ -3518,5 +3518,9 @@
     "M3NL0_23 ": {
         "banneduntil": "2099/1/1",
         "BanReason": "evading"
+    },
+    "Andrew.11": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
