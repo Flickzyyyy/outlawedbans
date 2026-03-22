@@ -3554,5 +3554,9 @@
     "Slimjim80": {
         "banneduntil": "2026/4/5",
         "BanReason": "Mass RDM + evasion"
+    },
+    "Dreamie.F": {
+        "banneduntil": "2026/3/23",
+        "BanReason": "RDM via clip"
     }
 }
