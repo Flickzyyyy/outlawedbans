@@ -3574,5 +3574,9 @@
     "M3NL023": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt"
+    },
+    "netgds23": {
+        "banneduntil": "2026/3/24",
+        "BanReason": "Rdm+evation"
     }
 }
