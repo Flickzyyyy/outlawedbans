@@ -3610,9 +3610,5 @@
     "BBB_strw6berry24": {
         "banneduntil": "2026/3/27",
         "BanReason": "rdm + evasion"
-    },
-    "Battle.Droid": {
-        "banneduntil": "2020/1/1",
-        "BanReason": "Freedom"
     }
 }
