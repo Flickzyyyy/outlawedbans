@@ -3606,5 +3606,9 @@
     "echo.echo.10 ": {
         "banneduntil": "2026/3/23",
         "BanReason": "Rdm + evasion"
+    },
+    "mistermustache": {
+        "banneduntil": "2026/3/23",
+        "BanReason": "Rdm + evasion"
     }
 }
