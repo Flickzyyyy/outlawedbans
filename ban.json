@@ -3594,5 +3594,9 @@
     "Odeman1234567": {
         "banneduntil": "2026/3/25",
         "BanReason": "RDM"
+    },
+    "DSMjacky.the2tu": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting & Hard R"
     }
 }
