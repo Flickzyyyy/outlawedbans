@@ -3590,5 +3590,9 @@
     "OSNjacky.the2tu": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting+Hard R Clip"
+    },
+    "OSNjackey.the2tu": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting+Hard R Clip"
     }
 }
