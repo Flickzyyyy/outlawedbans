@@ -3598,5 +3598,9 @@
     "OSMjacky.the2tu": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt+Hard R Clip"
+    },
+    "Holosight1": {
+        "banneduntil": "2026/3/24",
+        "BanReason": "Rdm"
     }
 }
