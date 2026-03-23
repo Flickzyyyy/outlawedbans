@@ -3598,5 +3598,9 @@
     "DSMjacky.the2tu": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting & Hard R"
+    },
+    "Louis_Bergmann": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
