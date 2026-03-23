@@ -3602,5 +3602,9 @@
     "Holosight1": {
         "banneduntil": "2026/3/24",
         "BanReason": "Rdm"
+    },
+    "MrJoe345": {
+        "banneduntil": "2026/3/27",
+        "BanReason": "Rdm + evasion"
     }
 }
