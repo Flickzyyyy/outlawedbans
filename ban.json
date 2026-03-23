@@ -3610,5 +3610,9 @@
     "mistermustache": {
         "banneduntil": "2026/3/23",
         "BanReason": "Rdm + evasion"
+    },
+    "lance.fr": {
+        "banneduntil": "2026/3/26",
+        "BanReason": "Rdm + sit evasion"
     }
 }
