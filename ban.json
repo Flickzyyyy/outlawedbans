@@ -3612,7 +3612,7 @@
         "BanReason": "Rdm + sit evasion"
     },
     "sorrow_ry": {
-        "banneduntil": "2026/3/29",
-        "BanReason": "mass rdm"
+        "banneduntil": "2026/4/5",
+        "BanReason": "mass rdm + evasion"
     }
 }
