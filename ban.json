@@ -3588,7 +3588,7 @@
         "BanReason": "Hard R + evasion"
     },
     "geeble.1": {
-        "banneduntil": "2026/31/3",
-        "BanReason": "Mass rdm"
+        "banneduntil": "2026/3/31",
+        "BanReason": "mass rdm"
     }
 }
