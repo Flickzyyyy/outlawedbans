@@ -3582,5 +3582,9 @@
     "Gost.og.pack": {
         "banneduntil": "2026/3/27",
         "BanReason": "rdm + evasion"
+    },
+    "Jasejamal": {
+        "banneduntil": "2099/9/9",
+        "BanReason": "Hard R + evasion"
     }
 }
