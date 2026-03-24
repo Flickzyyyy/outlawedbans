@@ -3622,5 +3622,9 @@
     "Private_chapis": {
         "banneduntil": "2099/3/23",
         "BanReason": "hard r admission"
+    },
+    "Gost.og.pack": {
+        "banneduntil": "2026/3/27",
+        "BanReason": "rdm + evasion"
     }
 }
