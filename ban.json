@@ -3602,5 +3602,9 @@
     "hitthatace": {
         "banneduntil": "2099/9/9",
         "BanReason": "Hard r + Rdm"
+    },
+    "merkysock": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "rdm + evasion"
     }
 }
