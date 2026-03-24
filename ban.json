@@ -3586,5 +3586,9 @@
     "Jasejamal": {
         "banneduntil": "2099/9/9",
         "BanReason": "Hard R + evasion"
+    },
+    "geeble.1": {
+        "banneduntil": "2026/31/3",
+        "BanReason": "Mass rdm"
     }
 }
