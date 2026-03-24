@@ -3610,5 +3610,9 @@
     "BBB_strw6berry24": {
         "banneduntil": "2026/3/27",
         "BanReason": "rdm + evasion"
+    },
+    "Chief_BulbousNutsack": {
+        "banneduntil": "2026/3/27",
+        "BanReason": "rdm + evasion"
     }
 }
