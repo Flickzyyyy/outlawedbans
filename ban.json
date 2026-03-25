@@ -3614,5 +3614,9 @@
     "panlothefirzt": {
         "banneduntil": "2026/4/8",
         "BanReason": "f slur"
+    },
+    "mrmuhaman": {
+        "banneduntil": "2099/4/3",
+        "BanReason": "hard r spam"
     }
 }
