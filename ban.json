@@ -3622,5 +3622,9 @@
     "Mrmuhaman": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "slix_the_monkey": {
+        "banneduntil": "2026/3/26",
+        "BanReason": "Rdm"
     }
 }
