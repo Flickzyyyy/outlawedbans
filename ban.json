@@ -3642,5 +3642,9 @@
     "isaac.gallegos.7186": {
         "banneduntil": "2026/3/29",
         "BanReason": "rdm and evasion"
+    },
+    "mracaman.2026": {
+        "banneduntil": "2056/01/01",
+        "BanReason": "hard r and evasion"
     }
 }
