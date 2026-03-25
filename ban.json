@@ -3610,5 +3610,9 @@
     "DeadGoblin": {
         "banneduntil": "2026/3/28",
         "BanReason": "rdm + evasion"
+    },
+    "panlothefirzt": {
+        "banneduntil": "2026/4/8",
+        "BanReason": "f slur"
     }
 }
