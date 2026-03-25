@@ -3606,5 +3606,9 @@
     "merkysock": {
         "banneduntil": "2026/3/28",
         "BanReason": "rdm + evasion"
+    },
+    "DeadGoblin": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "rdm + evasion"
     }
 }
