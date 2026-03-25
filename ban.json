@@ -3638,5 +3638,9 @@
     "Mxnxt2": {
         "banneduntil": "2027/4/20",
         "BanReason": "underage"
+    },
+    "Dexter.morgan111": {
+        "banneduntil": "2026/3/29",
+        "BanReason": "rdm + evasion"
     }
 }
