@@ -3650,5 +3650,9 @@
     "dtbvinn": {
         "banneduntil": "2026/4/7",
         "BanReason": "Soft a"
+    },
+    "batman_0573": {
+        "banneduntil": "2026/4/7",
+        "BanReason": "F slur"
     }
 }
