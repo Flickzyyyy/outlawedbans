@@ -3646,5 +3646,9 @@
     "mracaman.2026": {
         "banneduntil": "2056/01/01",
         "BanReason": "hard r and evasion"
+    },
+    "dtbvinn": {
+        "banneduntil": "2026/4/7",
+        "BanReason": "Soft a"
     }
 }
