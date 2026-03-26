@@ -3622,5 +3622,9 @@
     "Games4LifeVR": {
         "banneduntil": "2026/3/30",
         "BanReason": "RDM + Evasion"
+    },
+    "adolf.tittlerdiddyepstein": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name"
     }
 }
