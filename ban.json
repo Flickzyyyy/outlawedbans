@@ -3618,5 +3618,9 @@
     "KDOG1309": {
         "banneduntil": "2026/4/8",
         "BanReason": "Sexual harassment"
+    },
+    "Games4LifeVR": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "RDM + Evasion"
     }
 }
