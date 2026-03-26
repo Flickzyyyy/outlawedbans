@@ -3650,5 +3650,9 @@
     "Kingnugget": {
         "banneduntil": "2026/3/28",
         "BanReason": "rdm 2nd offense"
+    },
+    "Kingnugget9": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "rdm"
     }
 }
