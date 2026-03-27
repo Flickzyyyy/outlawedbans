@@ -3642,5 +3642,9 @@
     "Ichigoi7i ": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage(11)"
+    },
+    "DSMpuley": {
+        "banneduntil": "2047/01/01",
+        "BanReason": "hard r"
     }
 }
