@@ -3614,5 +3614,9 @@
     "vrsxy.oxcz": {
         "banneduntil": "2026/3/30",
         "BanReason": "rdm + evasion"
+    },
+    "idkhiwigothere56": {
+        "banneduntil": "2027/7/14",
+        "BanReason": "underage"
     }
 }
