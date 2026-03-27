@@ -3626,5 +3626,9 @@
     "SciHell": {
         "banneduntil": "2026/3/29",
         "BanReason": "rdm"
+    },
+    "blosser.2023": {
+        "banneduntil": "2026/4/2",
+        "BanReason": "Mass RDM"
     }
 }
