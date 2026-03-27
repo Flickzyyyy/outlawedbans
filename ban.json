@@ -3630,5 +3630,9 @@
     "Deathdoesthings": {
         "banneduntil": "2026/3/30",
         "BanReason": "RDM + Evasion"
+    },
+    "gooney.1": {
+        "banneduntil": "2026/3/29",
+        "BanReason": "cop target"
     }
 }
