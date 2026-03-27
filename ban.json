@@ -3630,5 +3630,9 @@
     "blosser.2023": {
         "banneduntil": "2026/4/2",
         "BanReason": "Mass RDM"
+    },
+    "ap3x1899": {
+        "banneduntil": "2026/8/30",
+        "BanReason": "Underaged"
     }
 }
