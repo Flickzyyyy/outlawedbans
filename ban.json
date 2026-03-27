@@ -3622,5 +3622,9 @@
     "vredowl605": {
         "banneduntil": "2026/3/31",
         "BanReason": "rdm + evasion"
+    },
+    "SciHell": {
+        "banneduntil": "2026/3/29",
+        "BanReason": "rdm"
     }
 }
