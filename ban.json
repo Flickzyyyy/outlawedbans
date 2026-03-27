@@ -3626,5 +3626,9 @@
     "adolf.tittlerdiddyepstein": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "Deathdoesthings": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "RDM + Evasion"
     }
 }
