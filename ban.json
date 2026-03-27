@@ -3638,5 +3638,9 @@
     "Thefatburg008": {
         "banneduntil": "2026/3/30",
         "BanReason": "RDM + Evasion"
+    },
+    "Chief1012": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "Abusing Suicide"
     }
 }
