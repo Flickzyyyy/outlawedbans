@@ -3634,5 +3634,9 @@
     "ap3x1899": {
         "banneduntil": "2026/8/30",
         "BanReason": "Underaged"
+    },
+    "Thefatburg008": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "RDM + Evasion"
     }
 }
