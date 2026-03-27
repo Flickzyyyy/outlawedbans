@@ -3610,5 +3610,9 @@
     "Authorthedeadeye": {
         "banneduntil": "2027/03/26",
         "BanReason": "underage"
+    },
+    "vrsxy.oxcz": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "rdm + evasion"
     }
 }
