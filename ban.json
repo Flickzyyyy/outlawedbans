@@ -3638,5 +3638,9 @@
     "M4RS97": {
         "banneduntil": "2026/4/3",
         "BanReason": "Mass Rdm"
+    },
+    "M4RS897": {
+        "banneduntil": "2026/4/3",
+        "BanReason": "Mass Rdm"
     }
 }
