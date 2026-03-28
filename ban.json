@@ -3658,5 +3658,9 @@
     "thefatburg006": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "Accccee": {
+        "banneduntil": "2026/3/29",
+        "BanReason": "RDM Clip"
     }
 }
