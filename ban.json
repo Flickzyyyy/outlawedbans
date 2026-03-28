@@ -3638,5 +3638,9 @@
     "M4RS897": {
         "banneduntil": "2026/4/3",
         "BanReason": "Mass Rdm"
+    },
+    "Xollow.334": {
+        "banneduntil": "2026/3/31",
+        "BanReason": "Rdm evasion"
     }
 }
