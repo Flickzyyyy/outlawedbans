@@ -3638,5 +3638,9 @@
     "Thefatburg008": {
         "banneduntil": "2026/3/30",
         "BanReason": "RDM + Evasion"
+    },
+    "RotundTownail": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Soft a"
     }
 }
