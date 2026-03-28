@@ -3635,10 +3635,6 @@
         "banneduntil": "2026/4/10",
         "BanReason": "F slur"
     },
-    "M4RS97": {
-        "banneduntil": "2026/1/1",
-        "BanReason": "mispelled user"
-    },
     "M4RS897": {
         "banneduntil": "2026/4/3",
         "BanReason": "Mass Rdm"
