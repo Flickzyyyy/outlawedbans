@@ -3642,5 +3642,9 @@
     "Xollow.334": {
         "banneduntil": "2026/3/31",
         "BanReason": "Rdm evasion"
+    },
+    "MAGNUMMETA": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Sexual misconduct"
     }
 }
