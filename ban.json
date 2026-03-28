@@ -3626,5 +3626,9 @@
     "Accccee": {
         "banneduntil": "2026/3/29",
         "BanReason": "RDM Clip"
+    },
+    "Chief1012": {
+        "banneduntil": "2026/3/31",
+        "BanReason": "RDM"
     }
 }
