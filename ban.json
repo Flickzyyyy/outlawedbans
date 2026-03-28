@@ -3654,5 +3654,9 @@
     "AURAMANCER_123": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "mrace2006": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "RDM CLIP"
     }
 }
