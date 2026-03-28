@@ -3630,5 +3630,9 @@
     "Chief1012": {
         "banneduntil": "2026/3/31",
         "BanReason": "RDM"
+    },
+    "ErwinRommelpanzerdivison": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "F slur"
     }
 }
