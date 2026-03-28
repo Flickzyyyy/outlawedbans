@@ -3654,5 +3654,9 @@
     "thefatburg008": {
         "banneduntil": "2099/1/1",
         "BanReason": "alt"
+    },
+    "thefatburg006": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
