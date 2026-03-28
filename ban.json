@@ -3674,5 +3674,9 @@
     "NutterButter808": {
         "banneduntil": "2026/4/4",
         "BanReason": "mass Rdm + in spawn"
+    },
+    "swoopman16": {
+        "banneduntil": "2026/4/2",
+        "BanReason": "Rdm and Evasion"
     }
 }
