@@ -3678,5 +3678,9 @@
     "swoopman16": {
         "banneduntil": "2026/4/2",
         "BanReason": "Rdm and Evasion"
+    },
+    "Thefatburg011": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting"
     }
 }
