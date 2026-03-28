@@ -3650,5 +3650,9 @@
     "FutureSneeze806": {
         "banneduntil": "2026/4/25",
         "BanReason": "F slur evasion"
+    },
+    "AURAMANCER_123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
