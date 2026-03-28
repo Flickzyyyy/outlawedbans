@@ -3646,5 +3646,9 @@
     "MAGNUMMETA": {
         "banneduntil": "2026/4/10",
         "BanReason": "Sexual misconduct"
+    },
+    "FutureSneeze806": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "F slur evasion"
     }
 }
