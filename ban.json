@@ -3642,5 +3642,9 @@
     "RotundTownail": {
         "banneduntil": "2026/4/10",
         "BanReason": "Soft a"
+    },
+    "Monjet": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "rdm"
     }
 }
