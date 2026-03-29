@@ -3694,5 +3694,9 @@
     "skeeter_boy": {
         "banneduntil": "2026/4/2",
         "BanReason": "rdm + evasion"
+    },
+    "Fresh_sprite0": {
+        "banneduntil": "2026/3/31",
+        "BanReason": "rdm"
     }
 }
