@@ -3698,5 +3698,9 @@
     "BB_VR15": {
         "banneduntil": "2026/4/14",
         "BanReason": "f slur"
+    },
+    "Mcbane80": {
+        "banneduntil": "2026/3/28",
+        "BanReason": "Rdm clip"
     }
 }
