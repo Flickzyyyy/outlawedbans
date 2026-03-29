@@ -3706,5 +3706,9 @@
     "omnimansboytoy": {
         "banneduntil": "2026/4/12",
         "BanReason": "mass Rdm + evasion"
+    },
+    "charliekirk2025": {
+        "banneduntil": "2026/4/2",
+        "BanReason": "rdm + evasion"
     }
 }
