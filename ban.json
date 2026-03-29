@@ -3702,5 +3702,9 @@
     "Monjett": {
         "banneduntil": "2099/3/6",
         "BanReason": "alting"
+    },
+    "omnimansboytoy": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "mass Rdm + evasion"
     }
 }
