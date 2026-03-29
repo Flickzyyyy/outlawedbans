@@ -3714,5 +3714,9 @@
     "murphy.408260 ": {
         "banneduntil": "2026/4/2",
         "BanReason": "rdm+evasion"
+    },
+    "gdt.mafia": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Sexual Misconduct"
     }
 }
