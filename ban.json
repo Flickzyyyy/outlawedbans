@@ -3698,5 +3698,9 @@
     "Fresh_sprite0": {
         "banneduntil": "2026/3/31",
         "BanReason": "rdm"
+    },
+    "Monjett": {
+        "banneduntil": "2099/3/6",
+        "BanReason": "alting"
     }
 }
