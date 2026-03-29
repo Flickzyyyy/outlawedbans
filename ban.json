@@ -3666,5 +3666,9 @@
     "GoldenToast5634": {
         "banneduntil": "2099/1/1",
         "BanReason": "He no wanna play outlawed no more"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2026/4/1",
+        "BanReason": "rdm + evasion"
     }
 }
