@@ -3738,5 +3738,9 @@
     "Lemonade_44": {
         "banneduntil": "2026/4/1",
         "BanReason": "rdm"
+    },
+    "Orange_vr34": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "Rdm clip"
     }
 }
