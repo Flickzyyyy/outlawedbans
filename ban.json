@@ -3734,5 +3734,9 @@
     "unclestevejr ": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Lemonade_44": {
+        "banneduntil": "2026/4/1",
+        "BanReason": "rdm"
     }
 }
