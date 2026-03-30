@@ -3738,5 +3738,9 @@
     "yourfavoriteleg": {
         "banneduntil": "2026/4/2",
         "BanReason": "Rdm evasion"
+    },
+    "frostbitesomething": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "Sexual harassment"
     }
 }
