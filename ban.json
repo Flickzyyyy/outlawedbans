@@ -3754,5 +3754,9 @@
     "bbwtortaPounder": {
         "banneduntil": "2026/4/12",
         "BanReason": "Sexual Harrasment Clip"
+    },
+    "HobbyNobby": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
