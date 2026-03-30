@@ -3770,5 +3770,9 @@
     "AmericanWASP": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Holosight1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alt"
     }
 }
