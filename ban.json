@@ -3766,5 +3766,9 @@
     "Twinzmakemotion": {
         "banneduntil": "2026/4/13",
         "BanReason": "Spawn camping and evasion"
+    },
+    "AmericanWASP": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
