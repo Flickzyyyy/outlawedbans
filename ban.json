@@ -3734,5 +3734,9 @@
     "Damien.380377": {
         "banneduntil": "2026/4/2",
         "BanReason": "Rdm evasion"
+    },
+    "yourfavoriteleg": {
+        "banneduntil": "2026/4/2",
+        "BanReason": "Rdm evasion"
     }
 }
