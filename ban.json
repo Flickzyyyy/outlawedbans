@@ -3754,5 +3754,9 @@
     "WickedFeather22": {
         "banneduntil": "2026/3/31",
         "BanReason": "rdm clip"
+    },
+    "Holosight": {
+        "banneduntil": "2026/4/1",
+        "BanReason": "rdm clip"
     }
 }
