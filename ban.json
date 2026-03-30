@@ -3726,5 +3726,9 @@
     "R4aK.1000": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "Ghostline75": {
+        "banneduntil": "2026/3/30",
+        "BanReason": "rdm"
     }
 }
