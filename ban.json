@@ -3746,5 +3746,9 @@
     "developerkaden": {
         "banneduntil": "2026/4/7",
         "BanReason": "mass rdm"
+    },
+    "bootybandit5ho": {
+        "banneduntil": "2026/4/8",
+        "BanReason": "F-slur"
     }
 }
