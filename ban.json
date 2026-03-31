@@ -3734,5 +3734,9 @@
     "isqis": {
         "banneduntil": "2026/4/3",
         "BanReason": "RDM+Evasion"
+    },
+    "gamblinglordvonmoney": {
+        "banneduntil": "2026/4/1",
+        "BanReason": "Rdm clip"
     }
 }
