@@ -3750,5 +3750,9 @@
     "bootybandit5ho": {
         "banneduntil": "2026/4/8",
         "BanReason": "F-slur"
+    },
+    "vrsxy.oxcz": {
+        "banneduntil": "2026/4/4",
+        "BanReason": "rdm + evasion"
     }
 }
