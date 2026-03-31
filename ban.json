@@ -3770,5 +3770,9 @@
     "Holosight1": {
         "banneduntil": "2026/4/1",
         "BanReason": "Rdm Clip"
+    },
+    "isqis": {
+        "banneduntil": "2026/4/3",
+        "BanReason": "RDM+Evasion"
     }
 }
