@@ -3742,5 +3742,9 @@
     "Greysolnnn.2026": {
         "banneduntil": "2026/4/1",
         "BanReason": "Rdm clip"
+    },
+    "developerkaden": {
+        "banneduntil": "2026/4/7",
+        "BanReason": "mass rdm"
     }
 }
