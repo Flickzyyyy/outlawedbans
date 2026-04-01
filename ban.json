@@ -3750,5 +3750,9 @@
     "cocunutballthunderyyrtx": {
         "banneduntil": "2026/4/14",
         "BanReason": "Slur baiting"
+    },
+    "Holosight1": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Appeal"
     }
 }
