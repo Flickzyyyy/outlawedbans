@@ -3754,5 +3754,9 @@
     "vrsxy.oxcz": {
         "banneduntil": "2026/4/4",
         "BanReason": "rdm + evasion"
+    },
+    "youcantbanmepapi": {
+        "banneduntil": "2026/4/4",
+        "BanReason": "rdm + evasion"
     }
 }
