@@ -3762,5 +3762,9 @@
     "idontwipee": {
         "banneduntil": "2026/4/3",
         "BanReason": "RDM"
+    },
+    "FroggyNymph.xoxo": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
