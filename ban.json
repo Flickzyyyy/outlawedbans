@@ -3754,5 +3754,9 @@
     "cutie.with.a.booty": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt(GoldenToast)"
+    },
+    "kiwi_the_Laginator": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "Rdm evasion"
     }
 }
