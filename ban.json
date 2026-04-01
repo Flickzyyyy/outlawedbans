@@ -3762,5 +3762,9 @@
     "spasticjew": {
         "banneduntil": "2099/3/1",
         "BanReason": "alting"
+    },
+    "adam22cuckmaster": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "alting"
     }
 }
