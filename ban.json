@@ -3746,5 +3746,9 @@
     "EugenePavlov": {
         "banneduntil": "2026/4/3",
         "BanReason": "Rdm evasion"
+    },
+    "cocunutballthunderyyrtx": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "Slur baiting"
     }
 }
