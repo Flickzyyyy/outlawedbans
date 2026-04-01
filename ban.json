@@ -3782,5 +3782,9 @@
     "apollo.X250": {
         "banneduntil": "2026/4/4",
         "BanReason": "rdm and evasion"
+    },
+    "i.have.been.banned.5.times": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alt"
     }
 }
