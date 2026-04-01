@@ -3778,5 +3778,9 @@
     "adam22cuckking": {
         "banneduntil": "2099/1/1",
         "BanReason": "Ban evaing 3 accounts"
+    },
+    "apollo.X250": {
+        "banneduntil": "2026/4/4",
+        "BanReason": "rdm and evasion"
     }
 }
