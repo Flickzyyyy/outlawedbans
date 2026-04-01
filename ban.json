@@ -3790,5 +3790,9 @@
     "DbSMkatje_deck": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alt+Hard R"
+    },
+    "EugenePavlov": {
+        "banneduntil": "2026/4/3",
+        "BanReason": "Rdm evasion"
     }
 }
