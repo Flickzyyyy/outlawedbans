@@ -3766,5 +3766,9 @@
     "FroggyNymph.xoxo": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Swampdonkey99": {
+        "banneduntil": "1099/1/1",
+        "BanReason": "April fools"
     }
 }
