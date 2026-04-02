@@ -3742,5 +3742,9 @@
     "Nigatron420": {
         "banneduntil": "2099/1/1",
         "BanReason": "Name"
+    },
+    "Seerbyee": {
+        "banneduntil": "2026/4/6",
+        "BanReason": "rdm and evasion"
     }
 }
