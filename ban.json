@@ -3766,5 +3766,9 @@
     "Native.Chubb": {
         "banneduntil": "2099/1/1",
         "BanReason": "kingdarius.12 alt"
+    },
+    "picklestopg_vr": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r clip"
     }
 }
