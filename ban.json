@@ -3750,5 +3750,9 @@
     "George.Washington9 ": {
         "banneduntil": "2026/4/16",
         "BanReason": "Mass Rdm+Evasion"
+    },
+    "blosser.2023": {
+        "banneduntil": "2026/4/4",
+        "BanReason": "rdm"
     }
 }
