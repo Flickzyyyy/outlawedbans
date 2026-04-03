@@ -3738,5 +3738,9 @@
     "Celes.tine": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "trev_son": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
