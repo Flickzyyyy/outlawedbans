@@ -3758,5 +3758,9 @@
     "JubejKibagami": {
         "banneduntil": "2026/4/8",
         "BanReason": "RDM + Evasion"
+    },
+    "testicle_twister3": {
+        "banneduntil": "2999/9/9",
+        "BanReason": "Hard R"
     }
 }
