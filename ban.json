@@ -3750,5 +3750,9 @@
     "SGT.Pickles7274": {
         "banneduntil": "2026/4/3",
         "BanReason": "rdm"
+    },
+    "shmurtada": {
+        "banneduntil": "2026/4/4",
+        "BanReason": "rdm"
     }
 }
