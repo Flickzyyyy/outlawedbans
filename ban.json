@@ -3742,5 +3742,9 @@
     "trev_son": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "Sir_Swaggington": {
+        "banneduntil": "2026/4/4",
+        "BanReason": "Abusing Suicide+Evasion"
     }
 }
