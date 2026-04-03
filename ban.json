@@ -3750,9 +3750,5 @@
     "George.Washington9 ": {
         "banneduntil": "2026/4/16",
         "BanReason": "Mass Rdm+Evasion"
-    },
-    "Dishwashfood": {
-        "banneduntil": "2026/4/3",
-        "BanReason": "rdm"
     }
 }
