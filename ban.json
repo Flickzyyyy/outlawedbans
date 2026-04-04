@@ -3738,5 +3738,9 @@
     "Deathdoesthings": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard R"
+    },
+    "2bl33d1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
