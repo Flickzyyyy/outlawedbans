@@ -3726,5 +3726,9 @@
     "peanutbuttershitter": {
         "banneduntil": "2026/4/11",
         "BanReason": "spawn camp clip"
+    },
+    "9mmSWITCH": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r clip"
     }
 }
