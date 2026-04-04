@@ -3722,5 +3722,9 @@
     "undetectedVoid46": {
         "banneduntil": "2026/4/17",
         "BanReason": "mass rdm"
+    },
+    "peanutbuttershitter": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "spawn camp clip"
     }
 }
