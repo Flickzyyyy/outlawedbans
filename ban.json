@@ -3718,5 +3718,9 @@
     "testicle_twister3": {
         "banneduntil": "2999/9/9",
         "BanReason": "Hard R"
+    },
+    "undetectedVoid46": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "mass rdm"
     }
 }
