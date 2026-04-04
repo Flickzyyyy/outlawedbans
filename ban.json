@@ -3734,5 +3734,9 @@
     "Fortune.lul": {
         "banneduntil": "2026/4/11",
         "BanReason": "Rdm clip"
+    },
+    "Deathdoesthings": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard R"
     }
 }
