@@ -3730,5 +3730,9 @@
     "9mmSWITCH": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r clip"
+    },
+    "Fortune.lul": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "Rdm clip"
     }
 }
