@@ -3754,5 +3754,9 @@
     "EFT_lover": {
         "banneduntil": "2026/4/9",
         "BanReason": "RDM+EVASION"
+    },
+    "Panzerlakeswisdom": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
