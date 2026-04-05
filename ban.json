@@ -3307,10 +3307,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
     },
-    "M3NL0_23 ": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "RDM clip (appealed)"
-    },
     "Andrew.11": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
@@ -3318,14 +3314,6 @@
     "trust.perkzz": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
-    },
-    "Peterfulford": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "Mass RDM + Evasion"
-    },
-    "Slimjim80": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "Mass RDM + evasion"
     },
     "M3NLO23": {
         "banneduntil": "2099/1/1",
@@ -3347,17 +3335,9 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
     },
-    "sorrow_ry": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "mass rdm + evasion"
-    },
     "1n0nly_trigger911 ": {
         "banneduntil": "2099/3/22",
         "BanReason": "pedophilia + evasion"
-    },
-    "scott.yearwood.1": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "Mass rdm + evasion"
     },
     "OSNjacky.the2tu": {
         "banneduntil": "2099/1/1",
@@ -3655,10 +3635,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Alt(GoldenToast)"
     },
-    "kiwi_the_Laginator": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "Rdm evasion"
-    },
     "FroggyNymph.xoxo": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
@@ -3666,10 +3642,6 @@
     "friedchickin34": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage(12)"
-    },
-    "FluffyChipmunk4504": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "rdm and evasion"
     },
     "friedchickin3434": {
         "banneduntil": "2099/1/1",
@@ -3746,17 +3718,5 @@
     "zerxxyyy": {
         "banneduntil": "2026/4/15",
         "BanReason": "Repeated Mass RDM"
-    },
-    "Santipanda": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "Rdm clip"
-    },
-    "dee8768": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "rdm clip"
-    },
-    "Bone_Daddy_718": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "RDM Clip"
     }
 }
