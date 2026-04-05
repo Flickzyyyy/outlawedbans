@@ -3726,5 +3726,9 @@
     "manofhonor": {
         "banneduntil": "2026/4/6",
         "BanReason": "RDM"
+    },
+    "TheSkipjack": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "Sexual Harassment"
     }
 }
