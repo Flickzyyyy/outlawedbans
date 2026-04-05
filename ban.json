@@ -3746,5 +3746,9 @@
     "Donald_J_Trump43": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "blosser.2023": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
