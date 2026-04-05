@@ -3722,9 +3722,5 @@
     "PreuBenkrieg": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
-    },
-    "IGLOO_NINJA": {
-        "banneduntil": "2026/4/5",
-        "BanReason": "rdm"
     }
 }
