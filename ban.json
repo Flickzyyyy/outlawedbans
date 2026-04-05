@@ -3746,5 +3746,9 @@
     "zerxxyyy": {
         "banneduntil": "2026/4/15",
         "BanReason": "Repeated Mass RDM"
+    },
+    "Santipanda": {
+        "banneduntil": "2026/4/5",
+        "BanReason": "Rdm clip"
     }
 }
