@@ -3750,5 +3750,9 @@
     "blosser.2023": {
         "banneduntil": "2026/4/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "EFT_lover": {
+        "banneduntil": "2026/4/9",
+        "BanReason": "RDM+EVASION"
     }
 }
