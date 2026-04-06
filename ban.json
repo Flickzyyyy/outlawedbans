@@ -3806,5 +3806,9 @@
     "CaseDJ": {
         "banneduntil": "2026/4/10",
         "BanReason": "RDM + Evasion"
+    },
+    "manofhonor": {
+        "banneduntil": "2026/4/7",
+        "BanReason": "rdm clip"
     }
 }
