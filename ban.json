@@ -3794,5 +3794,9 @@
     "mizuxo": {
         "banneduntil": "2026/4/19",
         "BanReason": "Racism/Slur Baiting"
+    },
+    "sigger_nex": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "name"
     }
 }
