@@ -3798,5 +3798,9 @@
     "Lugnut0925": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "Ocasio2430": {
+        "banneduntil": "2026/4/20",
+        "BanReason": "RDM Evasion"
     }
 }
