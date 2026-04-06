@@ -3802,5 +3802,9 @@
     "Ocasio2430": {
         "banneduntil": "2026/4/20",
         "BanReason": "RDM + Evasion + F slur"
+    },
+    "CaseDJ": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM + Evasion"
     }
 }
