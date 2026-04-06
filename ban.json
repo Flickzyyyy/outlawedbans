@@ -3790,5 +3790,9 @@
     "sigger_nex": {
         "banneduntil": "2099/1/1",
         "BanReason": "name"
+    },
+    "MrNobody188": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM"
     }
 }
