@@ -3818,5 +3818,9 @@
     "Mllooney72": {
         "banneduntil": "2026/4/10",
         "BanReason": "Rdm evasion"
+    },
+    "roostermanAIC": {
+        "banneduntil": "2026/4/9",
+        "BanReason": "RDM\u2026"
     }
 }
