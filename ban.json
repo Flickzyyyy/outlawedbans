@@ -3814,5 +3814,9 @@
     "pricedog_1": {
         "banneduntil": "2099/1/1",
         "BanReason": "underage"
+    },
+    "Jadielleft": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "rdm + evasion"
     }
 }
