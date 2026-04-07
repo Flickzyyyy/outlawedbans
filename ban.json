@@ -3810,5 +3810,9 @@
     "Glass_Bass": {
         "banneduntil": "2026/4/10",
         "BanReason": "rdm + evasion"
+    },
+    "deathdealer123451": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm evasion"
     }
 }
