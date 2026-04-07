@@ -3826,5 +3826,9 @@
     "k00I6": {
         "banneduntil": "2026/4/9",
         "BanReason": "Rdm + evasion"
+    },
+    "PickleKing": {
+        "banneduntil": "2026/4/9",
+        "BanReason": "rdm in sheriff skin"
     }
 }
