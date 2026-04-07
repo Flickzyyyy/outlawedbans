@@ -3838,5 +3838,9 @@
     "Hannibal_Cannibal": {
         "banneduntil": "2027/01/01",
         "BanReason": "ynderage"
+    },
+    "boycraftable": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "Rdm and Evasion"
     }
 }
