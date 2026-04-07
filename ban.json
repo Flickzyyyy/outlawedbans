@@ -3810,5 +3810,9 @@
     "manofhonor": {
         "banneduntil": "2026/4/7",
         "BanReason": "rdm clip"
+    },
+    "pricedog_1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "underage"
     }
 }
