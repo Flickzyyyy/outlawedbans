@@ -3806,5 +3806,9 @@
     "boycraftable": {
         "banneduntil": "2026/4/11",
         "BanReason": "Rdm and Evasion"
+    },
+    "Glass_Bass": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "rdm + evasion"
     }
 }
