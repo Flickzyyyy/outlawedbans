@@ -3894,5 +3894,9 @@
     "Damien.380377": {
         "banneduntil": "2026/4/10",
         "BanReason": "RDM"
+    },
+    "Asura": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM + Breaking NLR"
     }
 }
