@@ -3882,5 +3882,9 @@
     "KrytekGaming": {
         "banneduntil": "2026/4/10",
         "BanReason": "RDM"
+    },
+    "MixQR": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM"
     }
 }
