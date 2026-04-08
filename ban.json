@@ -3902,5 +3902,9 @@
     "Jesse.James.1882": {
         "banneduntil": "2026/4/10",
         "BanReason": "RDM + breaking nlr Clip."
+    },
+    "AutisticKid": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
