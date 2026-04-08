@@ -3842,5 +3842,9 @@
     "Protogencoffee": {
         "banneduntil": "2026/4/10",
         "BanReason": "Rdm"
+    },
+    "NATEHIGGER2008": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Name...."
     }
 }
