@@ -3878,5 +3878,9 @@
     "BozoEmpire": {
         "banneduntil": "2026/4/10",
         "BanReason": "Rdm"
+    },
+    "KrytekGaming": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM"
     }
 }
