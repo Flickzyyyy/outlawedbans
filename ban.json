@@ -3854,5 +3854,9 @@
     "chara_dreemur": {
         "banneduntil": "2026/4/9",
         "BanReason": "Evading kick"
+    },
+    "Rake734": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm"
     }
 }
