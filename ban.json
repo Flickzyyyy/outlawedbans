@@ -3838,5 +3838,9 @@
     "M3NL0_23": {
         "banneduntil": "2026/4/12",
         "BanReason": "Rdm evasion"
+    },
+    "TrickSpark": {
+        "banneduntil": "2026/4/8",
+        "BanReason": "rdm"
     }
 }
