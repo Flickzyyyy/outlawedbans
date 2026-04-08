@@ -3862,5 +3862,9 @@
     "Jondrop0_0": {
         "banneduntil": "2026/4/12",
         "BanReason": "Rdm evasion"
+    },
+    "lililwaters.2024": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm"
     }
 }
