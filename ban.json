@@ -3930,5 +3930,9 @@
     "fritz123": {
         "banneduntil": "2026/5/8",
         "BanReason": "F Slur"
+    },
+    "Holosight1": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "Bitching Too Much"
     }
 }
