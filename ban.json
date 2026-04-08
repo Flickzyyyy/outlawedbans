@@ -3874,5 +3874,9 @@
     "slix_the_monkey": {
         "banneduntil": "2026/4/10",
         "BanReason": "Rdm"
+    },
+    "BozoEmpire": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm"
     }
 }
