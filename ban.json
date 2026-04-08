@@ -3918,5 +3918,9 @@
     "GMT.G4e5o": {
         "banneduntil": "2026/4/10",
         "BanReason": "Targeting"
+    },
+    "supahtrupah": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM"
     }
 }
