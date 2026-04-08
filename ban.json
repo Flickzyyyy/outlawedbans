@@ -3886,5 +3886,9 @@
     "MixQR": {
         "banneduntil": "2026/4/10",
         "BanReason": "RDM"
+    },
+    "lemonade_44": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM"
     }
 }
