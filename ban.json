@@ -3850,5 +3850,9 @@
     "vrsxy.oxcz": {
         "banneduntil": "2026/4/9",
         "BanReason": "Rdm"
+    },
+    "chara_dreemur": {
+        "banneduntil": "2026/4/9",
+        "BanReason": "Evading kick"
     }
 }
