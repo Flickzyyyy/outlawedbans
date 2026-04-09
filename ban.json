@@ -3962,5 +3962,9 @@
     "TheMailman456": {
         "banneduntil": "2026/4/11",
         "BanReason": "Rdm"
+    },
+    "PickleKing": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM"
     }
 }
