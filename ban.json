@@ -3998,5 +3998,9 @@
     "EnzoFaveria": {
         "banneduntil": "2026/4/11",
         "BanReason": "RDM"
+    },
+    "DutchPeasant": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "RDM"
     }
 }
