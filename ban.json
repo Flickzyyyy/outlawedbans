@@ -3970,5 +3970,9 @@
     "Blackmesa2": {
         "banneduntil": "2026/4/10",
         "BanReason": "RDM"
+    },
+    "mistermustache": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm clip"
     }
 }
