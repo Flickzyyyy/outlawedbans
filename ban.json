@@ -3966,5 +3966,9 @@
     "PickleKing": {
         "banneduntil": "2026/4/10",
         "BanReason": "RDM"
+    },
+    "Blackmesa2": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "RDM"
     }
 }
