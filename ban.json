@@ -4002,5 +4002,9 @@
     "DutchPeasant": {
         "banneduntil": "2026/4/11",
         "BanReason": "RDM"
+    },
+    "Nguni.2026": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "rdm"
     }
 }
