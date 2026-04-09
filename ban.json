@@ -3950,5 +3950,9 @@
     "CARTOONZ0078989": {
         "banneduntil": "2026/4/9",
         "BanReason": "RDM(attempted)"
+    },
+    "LILCHEZBALL": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "hard r"
     }
 }
