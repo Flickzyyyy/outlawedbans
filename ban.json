@@ -3950,5 +3950,9 @@
     "Bananamon": {
         "banneduntil": "2026/4/10",
         "BanReason": "Rdm"
+    },
+    "Brownie1345": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "rdm + evasion"
     }
 }
