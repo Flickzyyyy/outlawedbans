@@ -4022,5 +4022,9 @@
     "TalkingReds": {
         "banneduntil": "2026/4/25",
         "BanReason": "Sexual Harassment"
+    },
+    "Euphoric.E": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm, but left right after"
     }
 }
