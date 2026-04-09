@@ -3994,5 +3994,9 @@
     "SwiftBoogie14": {
         "banneduntil": "2026/4/13",
         "BanReason": "Camping"
+    },
+    "All.F4ther": {
+        "banneduntil": "2026/5/7",
+        "BanReason": "F slur"
     }
 }
