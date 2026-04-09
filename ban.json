@@ -3990,5 +3990,9 @@
     "Vonallen": {
         "banneduntil": "2026/4/10",
         "BanReason": "rdm"
+    },
+    "SwiftBoogie14": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "Camping"
     }
 }
