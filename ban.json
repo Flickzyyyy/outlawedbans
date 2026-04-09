@@ -3986,5 +3986,9 @@
     "Kyler1702": {
         "banneduntil": "2026/4/11",
         "BanReason": "rdm"
+    },
+    "PercThirtyShordy": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
