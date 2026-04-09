@@ -3998,5 +3998,9 @@
     "All.F4ther": {
         "banneduntil": "2026/5/7",
         "BanReason": "F slur"
+    },
+    "SillyIndividual": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm"
     }
 }
