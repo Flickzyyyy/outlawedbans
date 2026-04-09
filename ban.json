@@ -3942,5 +3942,9 @@
     "lI.llIllIllIll.Il ": {
         "banneduntil": "2026/4/10",
         "BanReason": "Targeting"
+    },
+    "Sirpeterdouglas": {
+        "banneduntil": "2026/4/9",
+        "BanReason": "rdm"
     }
 }
