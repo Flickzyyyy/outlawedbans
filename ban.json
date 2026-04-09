@@ -4002,5 +4002,9 @@
     "SillyIndividual": {
         "banneduntil": "2026/4/10",
         "BanReason": "Rdm"
+    },
+    "Bananamon": {
+        "banneduntil": "2026/4/10",
+        "BanReason": "Rdm"
     }
 }
