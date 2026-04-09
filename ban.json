@@ -3966,5 +3966,9 @@
     "SGTGhost2 ": {
         "banneduntil": "2027/4/8",
         "BanReason": "underage"
+    },
+    "YoWikiStar": {
+        "banneduntil": "2099/4/8",
+        "BanReason": "rape"
     }
 }
