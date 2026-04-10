@@ -3914,5 +3914,9 @@
     "Andy745": {
         "banneduntil": "2026/4/23",
         "BanReason": "sexual harassment"
+    },
+    "radio123": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "RDM"
     }
 }
