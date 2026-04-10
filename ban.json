@@ -3938,5 +3938,9 @@
     "SUGITOMATO ": {
         "banneduntil": "2026/4/12",
         "BanReason": "RDM"
+    },
+    "Spiderman86": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "FRP + evasion"
     }
 }
