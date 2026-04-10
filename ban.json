@@ -4026,5 +4026,9 @@
     "Euphoric.E": {
         "banneduntil": "2026/4/10",
         "BanReason": "Rdm, but left right after"
+    },
+    "camotheog2": {
+        "banneduntil": "2026/5/9",
+        "BanReason": "F slur"
     }
 }
