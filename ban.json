@@ -4054,5 +4054,9 @@
     "the.dark.knight.of.crusades": {
         "banneduntil": "2026/4/11",
         "BanReason": "rdm"
+    },
+    "the.dark.knight.of.cursades": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "rdm"
     }
 }
