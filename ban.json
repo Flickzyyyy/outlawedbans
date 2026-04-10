@@ -3958,5 +3958,9 @@
     "GuyFwen ": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM + evasion"
+    },
+    "jaredthekilla": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "Rdm"
     }
 }
