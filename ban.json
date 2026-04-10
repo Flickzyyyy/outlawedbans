@@ -3954,5 +3954,9 @@
     "Montykruemel02 ": {
         "banneduntil": "2026/4/22",
         "BanReason": "Racial remarks"
+    },
+    "GuyFwen ": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM + evasion"
     }
 }
