@@ -3982,5 +3982,9 @@
     "DontFuccKnowMe": {
         "banneduntil": "2026/4/12",
         "BanReason": "RDM"
+    },
+    "DontFuccnKnowMe": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "RDM"
     }
 }
