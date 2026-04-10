@@ -4050,5 +4050,9 @@
     "dwright932": {
         "banneduntil": "2026/4/11",
         "BanReason": "RDM"
+    },
+    "the.dark.knight.of.crusades": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "rdm"
     }
 }
