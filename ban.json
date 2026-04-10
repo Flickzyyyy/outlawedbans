@@ -4030,5 +4030,9 @@
     "camotheog2": {
         "banneduntil": "2026/5/9",
         "BanReason": "F slur"
+    },
+    "manofhonor": {
+        "banneduntil": "2026/4/11",
+        "BanReason": "RDM"
     }
 }
