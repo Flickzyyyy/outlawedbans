@@ -3922,5 +3922,9 @@
     "timmy123.cool ": {
         "banneduntil": "2027/4/10",
         "BanReason": "Underage"
+    },
+    "Sentinel5000": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "RDM"
     }
 }
