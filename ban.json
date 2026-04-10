@@ -3922,5 +3922,9 @@
     "Sentinel5000": {
         "banneduntil": "2026/4/12",
         "BanReason": "RDM"
+    },
+    "ddaniel09minz": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "Racial remarks"
     }
 }
