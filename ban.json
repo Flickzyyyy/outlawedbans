@@ -4002,5 +4002,9 @@
     "Jabs121": {
         "banneduntil": "2026/4/15",
         "BanReason": "rdm evasion"
+    },
+    "Texas_kid": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "Rdm"
     }
 }
