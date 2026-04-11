@@ -4038,5 +4038,9 @@
     "Tdog_T.C.R": {
         "banneduntil": "2026/5/11",
         "BanReason": "F Slur"
+    },
+    "TacticalWalker": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "Mass RDM + Evading"
     }
 }
