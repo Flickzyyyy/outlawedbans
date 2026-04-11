@@ -4066,5 +4066,9 @@
     "Grand.Regent.Thragg.207 ": {
         "banneduntil": "2026/4/13",
         "BanReason": "RDM"
+    },
+    "mistermustache": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "RDM"
     }
 }
