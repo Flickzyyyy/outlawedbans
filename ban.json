@@ -4022,5 +4022,9 @@
     "maddux4321": {
         "banneduntil": "2099/1/1",
         "BanReason": "hard r"
+    },
+    "DontFuccnKnowMe ": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "RDM"
     }
 }
