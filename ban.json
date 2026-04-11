@@ -4062,5 +4062,9 @@
     "horseowner ": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD-R"
+    },
+    "Grand.Regent.Thragg.207 ": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "RDM"
     }
 }
