@@ -4030,5 +4030,9 @@
     "M3NL0_23": {
         "banneduntil": "2026/4/15",
         "BanReason": "RDM"
+    },
+    "Bibbyribby03": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
