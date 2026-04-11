@@ -4110,5 +4110,9 @@
     "shmeke": {
         "banneduntil": "2026/4/25",
         "BanReason": "Rasist remarks"
+    },
+    "randomguyonline": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "RDM + evasion"
     }
 }
