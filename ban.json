@@ -4058,5 +4058,9 @@
     "Smallbogdan": {
         "banneduntil": "2026/4/13",
         "BanReason": "RDM"
+    },
+    "horseowner ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD-R"
     }
 }
