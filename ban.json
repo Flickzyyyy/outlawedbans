@@ -4046,5 +4046,9 @@
     "King_Hades1107 ": {
         "banneduntil": "2026/4/12",
         "BanReason": "RDM"
+    },
+    "MrNobody188": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM + evasion"
     }
 }
