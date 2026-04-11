@@ -4042,5 +4042,9 @@
     "TacticalWalker": {
         "banneduntil": "2026/4/25",
         "BanReason": "Mass RDM + Evading"
+    },
+    "Jayden.Kira": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "Rdm and evasion"
     }
 }
