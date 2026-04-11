@@ -3990,5 +3990,9 @@
     "The.Ice.Truck.Killer.24": {
         "banneduntil": "2026/4/24",
         "BanReason": "Sexual Harassment"
+    },
+    "TWD_Isak": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "rdm"
     }
 }
