@@ -4018,5 +4018,9 @@
     "zachtually": {
         "banneduntil": "2026/4/15",
         "BanReason": "rdm and evasion"
+    },
+    "Dontfuccnknowme": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban"
     }
 }
