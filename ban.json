@@ -3978,5 +3978,9 @@
     "lumpymilk64": {
         "banneduntil": "2026/4/12",
         "BanReason": "rdm"
+    },
+    "RotundToenail ": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "RDM"
     }
 }
