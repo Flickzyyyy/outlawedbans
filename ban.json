@@ -4002,5 +4002,9 @@
     "WYX35": {
         "banneduntil": "2026/4/12",
         "BanReason": "Rdm"
+    },
+    "0Chezz": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "FRP evasion"
     }
 }
