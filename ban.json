@@ -4114,5 +4114,9 @@
     "randomguyonline": {
         "banneduntil": "2026/4/15",
         "BanReason": "RDM + evasion"
+    },
+    "Reiguy01": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "Rdm clip"
     }
 }
