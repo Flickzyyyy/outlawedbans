@@ -3998,5 +3998,9 @@
     "ruhtragoated6168": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM + Evasion"
+    },
+    "Jabs121": {
+        "banneduntil": "2026/4/12",
+        "BanReason": "rdm"
     }
 }
