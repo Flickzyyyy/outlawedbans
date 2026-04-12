@@ -4206,5 +4206,9 @@
     "Jstdly ": {
         "banneduntil": "2026/4/15",
         "BanReason": "RDM"
+    },
+    "blosser.2023": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "RDM"
     }
 }
