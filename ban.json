@@ -4082,5 +4082,9 @@
     "f9yg0": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "i.hate.everyone": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM"
     }
 }
