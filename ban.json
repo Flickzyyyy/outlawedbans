@@ -4138,5 +4138,9 @@
     "air202": {
         "banneduntil": "2026/4/13",
         "BanReason": "rdm clip"
+    },
+    "BoomBapGod ": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "RDM"
     }
 }
