@@ -4122,5 +4122,9 @@
     "serjoseph ": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM/Evasion"
+    },
+    "DoctorHouse_official": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM"
     }
 }
