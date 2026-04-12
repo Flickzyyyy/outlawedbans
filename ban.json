@@ -3978,5 +3978,9 @@
     "BoomBapGod ": {
         "banneduntil": "2026/4/13",
         "BanReason": "RDM"
+    },
+    "Storymode69 ": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM + evasion"
     }
 }
