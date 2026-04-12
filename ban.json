@@ -4126,5 +4126,9 @@
     "DoctorHouse_official": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "Legionsquash_78": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM"
     }
 }
