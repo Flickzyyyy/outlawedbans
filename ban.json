@@ -4110,5 +4110,9 @@
     "SurroundedbyBalls03": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM"
+    },
+    "dwright932": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM/Evasion"
     }
 }
