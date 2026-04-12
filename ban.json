@@ -4174,5 +4174,9 @@
     "Kumula_Savesta": {
         "banneduntil": "2026/4/14",
         "BanReason": "rdm"
+    },
+    "Kumala_Savesta": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "rdm"
     }
 }
