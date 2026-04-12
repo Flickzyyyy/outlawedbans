@@ -4150,5 +4150,9 @@
     "CoffeeC4": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "Bababooey81": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "rdm"
     }
 }
