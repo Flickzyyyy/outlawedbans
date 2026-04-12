@@ -3982,5 +3982,9 @@
     "Storymode69 ": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM + evasion"
+    },
+    "Jabs121 ": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM"
     }
 }
