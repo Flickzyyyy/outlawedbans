@@ -4162,5 +4162,9 @@
     "dianaaaaaaaaaa ": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "Kafkaisque01": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "mass Rdm"
     }
 }
