@@ -4086,5 +4086,9 @@
     "i.hate.everyone": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "fear.polarquin ": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM"
     }
 }
