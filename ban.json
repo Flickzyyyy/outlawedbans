@@ -4194,5 +4194,9 @@
     "vandenbossm": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "44Cool": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "Underage"
     }
 }
