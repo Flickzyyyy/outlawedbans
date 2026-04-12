@@ -4198,5 +4198,9 @@
     "44Cool": {
         "banneduntil": "2029/1/1",
         "BanReason": "Underage"
+    },
+    "Brotkk": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "rdm + evasion"
     }
 }
