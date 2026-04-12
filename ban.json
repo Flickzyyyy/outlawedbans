@@ -4106,5 +4106,9 @@
     "SUGITOMATO": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "SurroundedbyBalls03": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM"
     }
 }
