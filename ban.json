@@ -4214,5 +4214,9 @@
     "warmonkyvr": {
         "banneduntil": "2026/4/15",
         "BanReason": "RDM"
+    },
+    "Retrotoilet": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "rdm + evasion"
     }
 }
