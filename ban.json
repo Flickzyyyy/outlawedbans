@@ -4202,5 +4202,9 @@
     "Brotkk": {
         "banneduntil": "2026/4/17",
         "BanReason": "rdm + evasion"
+    },
+    "Jstdly ": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "RDM"
     }
 }
