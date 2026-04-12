@@ -4026,5 +4026,9 @@
     "Fortune101": {
         "banneduntil": "2026/4/13",
         "BanReason": "rdm"
+    },
+    "Fortune.101": {
+        "banneduntil": "2026/4/13",
+        "BanReason": "rdm"
     }
 }
