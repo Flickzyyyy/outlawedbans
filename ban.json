@@ -4090,5 +4090,9 @@
     "fear.polarquin ": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "TruthBeToldz ": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "MASS RDM + Evasion"
     }
 }
