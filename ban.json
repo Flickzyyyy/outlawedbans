@@ -4266,5 +4266,9 @@
     "TheSolverFox": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM evasion not drum"
+    },
+    "gigglepube": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard r"
     }
 }
