@@ -4230,5 +4230,9 @@
     "Solofire4242": {
         "banneduntil": "2026/4/14",
         "BanReason": "rdm"
+    },
+    "chatterbaitspecial5 ": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM + Evasion"
     }
 }
