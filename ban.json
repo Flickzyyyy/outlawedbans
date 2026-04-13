@@ -4134,5 +4134,9 @@
     "gigglepube": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "bbq.kingston ": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "HARD-R"
     }
 }
