@@ -4266,5 +4266,9 @@
     "supahtrupah ": {
         "banneduntil": "2026/4/14",
         "BanReason": "RDM"
+    },
+    "nobodyv.2025": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "RDM(Reinstated+1Day)"
     }
 }
