@@ -4222,5 +4222,9 @@
     "kareem.963782 ": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM + Evasion"
+    },
+    "CrazyBirdie360": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "RDM"
     }
 }
