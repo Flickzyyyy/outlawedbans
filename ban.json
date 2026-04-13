@@ -4150,5 +4150,9 @@
     "KingBoyz0910": {
         "banneduntil": "2026/4/17",
         "BanReason": "rdn + evasion"
+    },
+    "JOEBART.JR": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "rdm"
     }
 }
