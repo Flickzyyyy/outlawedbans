@@ -4138,5 +4138,9 @@
     "bbq.kingston ": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD-R"
+    },
+    "Mllooney72": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "rdm"
     }
 }
