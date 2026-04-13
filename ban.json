@@ -4146,5 +4146,9 @@
     "lib0101": {
         "banneduntil": "2026/4/15",
         "BanReason": "rdm"
+    },
+    "KingBoyz0910": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "rdn + evasion"
     }
 }
