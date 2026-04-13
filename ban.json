@@ -4250,5 +4250,9 @@
     "neonapple.2024": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM + Evasion"
+    },
+    "TacoTruckMan2": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM + Evasion"
     }
 }
