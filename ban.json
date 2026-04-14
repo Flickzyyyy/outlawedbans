@@ -4022,5 +4022,9 @@
     "BAUBERq ": {
         "banneduntil": "2099/1/1",
         "BanReason": "HARD-R"
+    },
+    "Razettttt": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "RDM"
     }
 }
