@@ -4038,5 +4038,9 @@
     "greengalaxy ": {
         "banneduntil": "2026/4/15",
         "BanReason": "RDM"
+    },
+    "Typhoon27": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "F slur evasion"
     }
 }
