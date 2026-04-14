@@ -4095,10 +4095,6 @@
         "banneduntil": "2026/4/16",
         "BanReason": "RDM AND EVASION"
     },
-    "roostermanAIC": {
-        "banneduntil": "2000/1/1",
-        "BanReason": "Unban"
-    },
     "neonapple.2024": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM + Evasion"
