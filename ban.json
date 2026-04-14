@@ -4090,5 +4090,9 @@
     "EnzoFaveria": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM"
+    },
+    "adam22": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM"
     }
 }
