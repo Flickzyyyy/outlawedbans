@@ -4042,5 +4042,9 @@
     "Typhoon27": {
         "banneduntil": "2026/5/12",
         "BanReason": "F slur evasion"
+    },
+    "Da.Big.Netanyahu": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "frp evasion"
     }
 }
