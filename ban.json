@@ -4046,5 +4046,9 @@
     "Da.Big.Netanyahu": {
         "banneduntil": "2026/4/16",
         "BanReason": "frp evasion"
+    },
+    "grumpykitten69.GG": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "frp"
     }
 }
