@@ -4070,5 +4070,9 @@
     "dogsnof": {
         "banneduntil": "2026/5/17",
         "BanReason": "Racial remarks"
+    },
+    "PepsiTheOutlaw ": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM"
     }
 }
