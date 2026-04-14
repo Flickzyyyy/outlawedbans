@@ -4034,5 +4034,9 @@
     "Flickzyyy_ ": {
         "banneduntil": "2026/4/28",
         "BanReason": "Mass RDM + Evasion"
+    },
+    "greengalaxy ": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "RDM"
     }
 }
