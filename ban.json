@@ -4166,5 +4166,9 @@
     "mistermustache": {
         "banneduntil": "2026/4/15",
         "BanReason": "RDM"
+    },
+    "belso": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "rdm"
     }
 }
