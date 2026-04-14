@@ -4190,5 +4190,9 @@
     "Smallbogdan": {
         "banneduntil": "2026/4/14",
         "BanReason": "frp"
+    },
+    "Adler58": {
+        "banneduntil": "2026/4/15",
+        "BanReason": "frp + evasion"
     }
 }
