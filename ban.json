@@ -4186,5 +4186,9 @@
     "TheHelper11": {
         "banneduntil": "2026/4/27",
         "BanReason": "mass Rdm + evasion"
+    },
+    "Smallbogdan": {
+        "banneduntil": "2026/4/14",
+        "BanReason": "frp"
     }
 }
