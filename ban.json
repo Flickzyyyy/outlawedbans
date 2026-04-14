@@ -4066,5 +4066,9 @@
     "Rev_Mikey": {
         "banneduntil": "2026/4/17",
         "BanReason": "RDM"
+    },
+    "dogsnof": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "Racial remarks"
     }
 }
