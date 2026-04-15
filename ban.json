@@ -4074,5 +4074,9 @@
     "Jesse.James.1882": {
         "banneduntil": "2026/4/17",
         "BanReason": "RDM"
+    },
+    "JohnMarston00": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "RDM/Evasion"
     }
 }
