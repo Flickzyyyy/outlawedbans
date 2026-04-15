@@ -4066,5 +4066,9 @@
     "Flynnerbeast ": {
         "banneduntil": "2026/4/17",
         "BanReason": "RDM"
+    },
+    "HiFam": {
+        "banneduntil": "2026/4/16",
+        "BanReason": "RDM ban shortened"
     }
 }
