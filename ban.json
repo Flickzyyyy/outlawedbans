@@ -4070,5 +4070,9 @@
     "HiFam": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM ban shortened"
+    },
+    "Jesse.James.1882": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "RDM"
     }
 }
