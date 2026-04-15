@@ -4026,5 +4026,9 @@
     "Ill_Show_U_That_It_Do_Go_Down ": {
         "banneduntil": "2026/4/16",
         "BanReason": "RDM"
+    },
+    "EBKPERC ": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "RDM + evasion"
     }
 }
