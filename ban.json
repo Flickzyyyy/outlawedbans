@@ -4046,5 +4046,9 @@
     "cuda434 ": {
         "banneduntil": "2026/4/19",
         "BanReason": "RDM + evasion"
+    },
+    "Turdmaster13 ": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "RDM"
     }
 }
