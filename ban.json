@@ -4118,5 +4118,9 @@
     "Boundful": {
         "banneduntil": "2026/4/15",
         "BanReason": "RDM"
+    },
+    "THEMFRICH": {
+        "banneduntil": "2026/6/15",
+        "BanReason": "F Slur And Evasion"
     }
 }
