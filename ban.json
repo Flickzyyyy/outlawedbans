@@ -4126,5 +4126,9 @@
     "Monkegamer18": {
         "banneduntil": "2026/4/18",
         "BanReason": "RDM + Evasion"
+    },
+    "9n9mobben": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "RDM"
     }
 }
