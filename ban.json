@@ -4042,5 +4042,9 @@
     "The_Rak3 ": {
         "banneduntil": "2026/4/22",
         "BanReason": "MASS RDM"
+    },
+    "cuda434 ": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "FRP + evasion"
     }
 }
