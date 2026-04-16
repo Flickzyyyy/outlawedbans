@@ -3998,5 +3998,9 @@
     "NotNotBobRoss": {
         "banneduntil": "2026/4/17",
         "BanReason": "RDM"
+    },
+    "Benz879": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "Cop Target"
     }
 }
