@@ -4042,5 +4042,9 @@
     "Jadielleft": {
         "banneduntil": "2026/4/20",
         "BanReason": "RDM + Evasion"
+    },
+    "just_logan": {
+        "banneduntil": "2026/4/20",
+        "BanReason": "RDM + Evasion"
     }
 }
