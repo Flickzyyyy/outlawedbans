@@ -3994,5 +3994,9 @@
     "MagicTTR": {
         "banneduntil": "2026/4/19",
         "BanReason": "rdm + evasion"
+    },
+    "NotNotBobRoss": {
+        "banneduntil": "2026/4/17",
+        "BanReason": "RDM"
     }
 }
