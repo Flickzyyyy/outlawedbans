@@ -4090,5 +4090,9 @@
     "Rev_Mikey": {
         "banneduntil": "2026/4/18",
         "BanReason": "Abusing Suicide"
+    },
+    "DerekVinyard": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "RDM"
     }
 }
