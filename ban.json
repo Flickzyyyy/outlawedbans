@@ -4094,5 +4094,9 @@
     "DerekVinyard": {
         "banneduntil": "2026/4/24",
         "BanReason": "RDM-Extended due to Excessive Logs"
+    },
+    "lemonade_44": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "RDM"
     }
 }
