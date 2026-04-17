@@ -4122,5 +4122,9 @@
     "Da.Big.Netanyahu": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard r"
+    },
+    "GoldenToast5634": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "Spawn camping plus evasion"
     }
 }
