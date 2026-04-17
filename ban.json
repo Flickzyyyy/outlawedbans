@@ -4098,5 +4098,9 @@
     "FB.BANANAMAN2296 ": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage(12)"
+    },
+    "GOLDENMONKEE ": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "Soft -A"
     }
 }
