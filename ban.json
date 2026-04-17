@@ -4094,5 +4094,9 @@
     "mort_123": {
         "banneduntil": "2026/4/19",
         "BanReason": "RDM"
+    },
+    "FB.BANANAMAN2296 ": {
+        "banneduntil": "2027/1/1",
+        "BanReason": "Underage(12)"
     }
 }
