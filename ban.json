@@ -4074,5 +4074,9 @@
     "idontwipe": {
         "banneduntil": "2026/4/20",
         "BanReason": "rdm + evasion"
+    },
+    "idontwipee": {
+        "banneduntil": "2026/4/20",
+        "BanReason": "rdm + evasion"
     }
 }
