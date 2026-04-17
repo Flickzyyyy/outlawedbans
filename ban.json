@@ -4062,5 +4062,9 @@
     "lib0101 ": {
         "banneduntil": "2026/4/19",
         "BanReason": "RDM"
+    },
+    "DunkTrunk": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "RDM Clip"
     }
 }
