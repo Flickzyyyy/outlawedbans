@@ -4082,5 +4082,9 @@
     "W_wins": {
         "banneduntil": "2026/5/18",
         "BanReason": "Racial Remarks + Evasion"
+    },
+    "Joe_Swanson456": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "Camping Clip"
     }
 }
