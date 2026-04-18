@@ -4070,5 +4070,9 @@
     "AmericanDADDY": {
         "banneduntil": "2026/4/20",
         "BanReason": "RDM"
+    },
+    "imtrashyoy": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "mass rdm"
     }
 }
