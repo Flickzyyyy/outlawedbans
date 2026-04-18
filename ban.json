@@ -4122,5 +4122,9 @@
     "gongaHawking": {
         "banneduntil": "2026/4/19",
         "BanReason": "rdm"
+    },
+    "GoodMan567": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "rdm + evasion"
     }
 }
