@@ -4146,5 +4146,9 @@
     "C00KI3M0NST3R46290 ": {
         "banneduntil": "2026/4/22",
         "BanReason": "RDM + EVASION"
+    },
+    "X7B2Q": {
+        "banneduntil": "2026/4/20",
+        "BanReason": "rdm"
     }
 }
