@@ -4066,5 +4066,9 @@
     "jackjackattack.2022": {
         "banneduntil": "2026/4/21",
         "BanReason": "rdm + evasion"
+    },
+    "AmericanDADDY": {
+        "banneduntil": "2026/4/20",
+        "BanReason": "RDM"
     }
 }
