@@ -4118,5 +4118,9 @@
     "EvitTeGret": {
         "banneduntil": "2026/4/19",
         "BanReason": "rdm"
+    },
+    "gongaHawking": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "rdm"
     }
 }
