@@ -4138,5 +4138,9 @@
     "MrNobody188": {
         "banneduntil": "2026/4/20",
         "BanReason": "RDM CLIP"
+    },
+    "Espn10": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "RDM"
     }
 }
