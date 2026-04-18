@@ -4050,5 +4050,9 @@
     "Hexxr2643 ": {
         "banneduntil": "2026/4/19",
         "BanReason": "RDM"
+    },
+    "Ftmrw": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "frp + evasion"
     }
 }
