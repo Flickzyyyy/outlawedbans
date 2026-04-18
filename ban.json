@@ -4142,5 +4142,9 @@
     "Espn10": {
         "banneduntil": "2026/4/19",
         "BanReason": "RDM"
+    },
+    "kammie.kam.kam": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "MASS RDM"
     }
 }
