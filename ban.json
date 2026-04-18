@@ -4086,5 +4086,9 @@
     "Joe_Swanson456": {
         "banneduntil": "2026/4/25",
         "BanReason": "Camping Clip"
+    },
+    "Canned_Mystery": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "RDM CLIP"
     }
 }
