@@ -4054,5 +4054,9 @@
     "Ftmrw": {
         "banneduntil": "2026/4/19",
         "BanReason": "frp + evasion"
+    },
+    "AceX530": {
+        "banneduntil": "2026/4/19",
+        "BanReason": "rdm"
     }
 }
