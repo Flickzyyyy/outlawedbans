@@ -4110,5 +4110,9 @@
     "Benz879 ": {
         "banneduntil": "2026/4/22",
         "BanReason": "rdm + evasion"
+    },
+    "EvilUserName0003": {
+        "banneduntil": "2099/8/9",
+        "BanReason": "Hard R"
     }
 }
