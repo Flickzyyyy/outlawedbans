@@ -4134,5 +4134,9 @@
     "deadtrigger399 ": {
         "banneduntil": "2026/4/22",
         "BanReason": "rdm + evasion"
+    },
+    "skeeter_boy ": {
+        "banneduntil": "2026/4/20",
+        "BanReason": "RDM"
     }
 }
