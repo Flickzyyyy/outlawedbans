@@ -4078,5 +4078,9 @@
     "XFILLZONE.TIMMY": {
         "banneduntil": "2026/4/20",
         "BanReason": "RDM"
+    },
+    "W_wins": {
+        "banneduntil": "2026/5/18",
+        "BanReason": "Racial Remarks + Evasion"
     }
 }
