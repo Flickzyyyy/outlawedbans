@@ -4106,5 +4106,9 @@
     "NotNotBobRoss ": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM"
+    },
+    "Benz879 ": {
+        "banneduntil": "2026/4/22",
+        "BanReason": "rdm + evasion"
     }
 }
