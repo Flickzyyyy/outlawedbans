@@ -4038,5 +4038,9 @@
     "Jabs121": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM"
+    },
+    "willtsnt": {
+        "banneduntil": "2020/1/1",
+        "BanReason": "Unban?"
     }
 }
