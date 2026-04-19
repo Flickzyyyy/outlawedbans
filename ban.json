@@ -4070,5 +4070,9 @@
     "Tabuuuu": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM"
+    },
+    "SirBiggleThe3rd": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard R"
     }
 }
