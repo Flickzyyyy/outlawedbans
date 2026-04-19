@@ -4190,5 +4190,9 @@
     "sup27": {
         "banneduntil": "2026/4/20",
         "BanReason": "RDM"
+    },
+    "AndoCarrot": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "ERP"
     }
 }
