@@ -4118,5 +4118,9 @@
     "WitherstormXL": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "BeerMorgan": {
+        "banneduntil": "2026/4/23",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
