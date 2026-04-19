@@ -4142,5 +4142,9 @@
     "america.2025": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "IGLOO_NINJA": {
+        "banneduntil": "2026/4/22",
+        "BanReason": "Manual"
     }
 }
