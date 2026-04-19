@@ -4094,5 +4094,9 @@
     "killerboogers": {
         "banneduntil": "2026/4/23",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "x_moose_x": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "Manual"
     }
 }
