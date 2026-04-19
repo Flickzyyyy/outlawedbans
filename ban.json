@@ -4162,5 +4162,9 @@
     "MrMest": {
         "banneduntil": "2026/4/20",
         "BanReason": "RDM"
+    },
+    "DMGMr.A_Savage": {
+        "banneduntil": "2026/4/20",
+        "BanReason": "RDM"
     }
 }
