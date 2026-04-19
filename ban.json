@@ -4058,5 +4058,9 @@
     "PepsiTheOutlaw": {
         "banneduntil": "2026/4/23",
         "BanReason": "RDM (Extended Becuz previous bans)"
+    },
+    "A_mushroom": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "Mass RDM"
     }
 }
