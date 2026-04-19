@@ -4082,5 +4082,9 @@
     "Stormy.27 ": {
         "banneduntil": "2026/4/23",
         "BanReason": "RDM + Evasion"
+    },
+    "maceace22.2022 ": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM"
     }
 }
