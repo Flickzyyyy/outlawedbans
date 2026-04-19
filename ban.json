@@ -4102,5 +4102,9 @@
     "roostermanAIC": {
         "banneduntil": "2026/4/21",
         "BanReason": "Manual"
+    },
+    "nobodyv.2025": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
