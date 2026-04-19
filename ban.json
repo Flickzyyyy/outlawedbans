@@ -4134,5 +4134,9 @@
     "Levi951": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "CpG10": {
+        "banneduntil": "2028/1/19",
+        "BanReason": "Manual"
     }
 }
