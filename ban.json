@@ -4150,5 +4150,9 @@
     "shortKING21": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "whatisthat.0000": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
