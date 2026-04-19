@@ -4122,5 +4122,9 @@
     "BeerMorgan": {
         "banneduntil": "2026/4/23",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Cancer": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "Mass RDM"
     }
 }
