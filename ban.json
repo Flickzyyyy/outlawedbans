@@ -4098,5 +4098,9 @@
     "x_moose_x": {
         "banneduntil": "2026/4/21",
         "BanReason": "Manual"
+    },
+    "roostermanAIC": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "Manual"
     }
 }
