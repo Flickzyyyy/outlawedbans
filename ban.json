@@ -4138,5 +4138,9 @@
     "Plasma69": {
         "banneduntil": "2026/4/23",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "america.2025": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
