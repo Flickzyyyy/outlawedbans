@@ -4114,5 +4114,9 @@
     "SouthernMonkey": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "WitherstormXL": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
