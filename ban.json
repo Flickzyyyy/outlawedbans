@@ -4134,5 +4134,9 @@
     "CpG10": {
         "banneduntil": "2028/1/19",
         "BanReason": "Manual"
+    },
+    "Plasma69": {
+        "banneduntil": "2026/4/23",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
