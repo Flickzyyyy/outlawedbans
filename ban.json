@@ -4074,5 +4074,9 @@
     "SirBiggleThe3rd": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
+    },
+    "nicolas_marques": {
+        "banneduntil": "2026/5/19",
+        "BanReason": "F Slur"
     }
 }
