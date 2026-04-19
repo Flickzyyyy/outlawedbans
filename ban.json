@@ -4060,8 +4060,8 @@
         "BanReason": "RDM (Extended Becuz previous bans)"
     },
     "A_mushroom": {
-        "banneduntil": "2026/4/26",
-        "BanReason": "Mass RDM"
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     },
     "RexSloan": {
         "banneduntil": "2026/4/21",
@@ -4155,7 +4155,7 @@
         "banneduntil": "2026/4/21",
         "BanReason": "RDM/Cop Targeting"
     },
-    "fritz_123": {
+    "Curly_boy7": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM/Cop Targeting"
     }
