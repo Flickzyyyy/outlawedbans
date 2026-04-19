@@ -4110,5 +4110,9 @@
     "VS08": {
         "banneduntil": "2026/4/26",
         "BanReason": "Mass RDM"
+    },
+    "Butter_Life": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
