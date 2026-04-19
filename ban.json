@@ -4103,10 +4103,6 @@
         "banneduntil": "2026/4/21",
         "BanReason": "Manual"
     },
-    "nobodyv.2025": {
-        "banneduntil": "2026/4/21",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "VS08": {
         "banneduntil": "2026/4/26",
         "BanReason": "Mass RDM"
@@ -4138,9 +4134,5 @@
     "CpG10": {
         "banneduntil": "2028/1/19",
         "BanReason": "Manual"
-    },
-    "BIBBOY": {
-        "banneduntil": "2026/4/23",
-        "BanReason": "RDM/Cop Targeting"
     }
 }
