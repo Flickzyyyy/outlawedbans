@@ -4086,5 +4086,9 @@
     "maceace22.2022 ": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM"
+    },
+    "maceace22.2022": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
