@@ -4146,5 +4146,9 @@
     "IGLOO_NINJA": {
         "banneduntil": "2026/4/22",
         "BanReason": "Manual"
+    },
+    "shortKING21": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
