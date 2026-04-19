@@ -4034,5 +4034,9 @@
     "AndoCarrot": {
         "banneduntil": "2026/4/25",
         "BanReason": "ERP"
+    },
+    "Jabs121": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM"
     }
 }
