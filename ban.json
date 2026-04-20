@@ -4142,5 +4142,9 @@
     "StillLiquor": {
         "banneduntil": "2026/4/22",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "marshmellow518": {
+        "banneduntil": "2026/4/22",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
