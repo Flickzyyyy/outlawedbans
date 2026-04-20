@@ -4182,5 +4182,9 @@
     "Jakkalthenot": {
         "banneduntil": "2026/5/31",
         "BanReason": "F-slur"
+    },
+    "CCM2021": {
+        "banneduntil": "2026/4/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
