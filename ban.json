@@ -4150,5 +4150,9 @@
     "Snack_Pack369": {
         "banneduntil": "2026/4/24",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "the.dark.knight.of.cursades": {
+        "banneduntil": "2026/4/22",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
