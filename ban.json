@@ -4138,5 +4138,9 @@
     "AWM.v3.67": {
         "banneduntil": "2026/4/24",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "StillLiquor": {
+        "banneduntil": "2026/4/22",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
