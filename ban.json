@@ -4106,5 +4106,9 @@
     "Xlimagration": {
         "banneduntil": "2026/4/21",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Quesadillapart3": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
