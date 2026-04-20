@@ -4134,5 +4134,9 @@
     "BBG.King.1941": {
         "banneduntil": "2026/5/20",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
+    },
+    "AWM.v3.67": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
