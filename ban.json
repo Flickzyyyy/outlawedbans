@@ -4130,5 +4130,9 @@
     "gongaHawking": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "BBG.King.1941": {
+        "banneduntil": "2026/5/20",
+        "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
     }
 }
