@@ -4110,5 +4110,9 @@
     "Quesadillapart3": {
         "banneduntil": "2026/4/24",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Special_Op_gaming": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "Manual"
     }
 }
