@@ -4102,5 +4102,9 @@
     "Mr.Money48": {
         "banneduntil": "2026/4/23",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "TACisgoated": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
