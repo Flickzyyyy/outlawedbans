@@ -4186,5 +4186,9 @@
     "Holosight1": {
         "banneduntil": "2026/4/22",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "OZZzy.DA.PATRIOT": {
+        "banneduntil": "2026/4/22",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
