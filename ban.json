@@ -4110,5 +4110,9 @@
     "Bababooey81": {
         "banneduntil": "2026/4/25",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "CoffeeC4": {
+        "banneduntil": "2026/4/23",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
