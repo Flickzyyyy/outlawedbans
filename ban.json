@@ -4134,5 +4134,9 @@
     "maceace22.2022": {
         "banneduntil": "2026/4/22",
         "BanReason": "FRP | Kick First"
+    },
+    "FlickAGooner": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
