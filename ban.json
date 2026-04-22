@@ -4062,5 +4062,9 @@
     "Whyit1224": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "M3NL0_23": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
