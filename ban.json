@@ -4070,5 +4070,9 @@
     "Holosight1": {
         "banneduntil": "2026/4/24",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "nobodyv.202(": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
