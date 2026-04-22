@@ -4126,5 +4126,9 @@
     "Asura": {
         "banneduntil": "2026/4/23",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Austin.D": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
