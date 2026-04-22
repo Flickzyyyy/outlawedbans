@@ -4054,5 +4054,9 @@
     "test flickagooner": {
         "banneduntil": "2026/4/28",
         "BanReason": "Mass RDM"
+    },
+    "Krypt696769": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "Manual"
     }
 }
