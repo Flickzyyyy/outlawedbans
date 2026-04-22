@@ -4118,5 +4118,9 @@
     "ITZASTROID": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual Harassment to Minor"
+    },
+    "BB_VR15": {
+        "banneduntil": "2026/4/23",
+        "BanReason": "Manual"
     }
 }
