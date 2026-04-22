@@ -4074,5 +4074,9 @@
     "nobodyv.2025": {
         "banneduntil": "2026/4/24",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Fakepie2": {
+        "banneduntil": "2026/4/24",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
