@@ -4058,5 +4058,9 @@
     "Krypt696769": {
         "banneduntil": "2026/4/24",
         "BanReason": "Manual"
+    },
+    "Whyit1224": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
