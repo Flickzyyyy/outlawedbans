@@ -4082,5 +4082,9 @@
     "Yourecordinme": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "ace.of.spade": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
