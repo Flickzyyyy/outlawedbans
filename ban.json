@@ -4130,5 +4130,9 @@
     "Austin.D": {
         "banneduntil": "2026/4/25",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "maceace22.2022": {
+        "banneduntil": "2026/4/23",
+        "BanReason": "FRP | Kick First"
     }
 }
