@@ -4046,5 +4046,9 @@
     "StillLiquor": {
         "banneduntil": "2026/4/27",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Jadielleft": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
