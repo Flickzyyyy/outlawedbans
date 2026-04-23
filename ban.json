@@ -4086,5 +4086,9 @@
     "XCID4700": {
         "banneduntil": "2026/5/22",
         "BanReason": "F-slur"
+    },
+    "yoboitriple": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
