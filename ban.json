@@ -4038,5 +4038,9 @@
     "StangArmy": {
         "banneduntil": "2026/4/27",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "deadtrigger399": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
