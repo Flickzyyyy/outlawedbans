@@ -4042,5 +4042,9 @@
     "deadtrigger399": {
         "banneduntil": "2026/4/25",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "StillLiquor": {
+        "banneduntil": "2026/4/27",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
