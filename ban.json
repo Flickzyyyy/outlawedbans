@@ -4054,5 +4054,9 @@
     "AnglerAce75": {
         "banneduntil": "2026/4/25",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "setendas": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
