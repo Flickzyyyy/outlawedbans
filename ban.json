@@ -4058,5 +4058,9 @@
     "setendas": {
         "banneduntil": "2026/4/25",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "christin.curry.2025": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
