@@ -4038,5 +4038,9 @@
     "DerekVinyard": {
         "banneduntil": "2026/5/4",
         "BanReason": "Manual"
+    },
+    "inc0mu": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
