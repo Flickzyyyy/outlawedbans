@@ -4026,5 +4026,9 @@
     "SCOOBY_JEW1940": {
         "banneduntil": "2026/5/24",
         "BanReason": "F-slur"
+    },
+    "CRACKED_ARAB": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
