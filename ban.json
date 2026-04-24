@@ -4070,5 +4070,9 @@
     "Asriel_Dreemurr20XX": {
         "banneduntil": "2026/5/23",
         "BanReason": "F-slur"
+    },
+    "Glass_Bass": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "ERP"
     }
 }
