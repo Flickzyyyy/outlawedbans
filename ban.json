@@ -4018,5 +4018,9 @@
     "warwolf8866": {
         "banneduntil": "2026/4/27",
         "BanReason": "Manual"
+    },
+    "Ftmrw": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
