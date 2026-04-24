@@ -4022,5 +4022,9 @@
     "Ftmrw": {
         "banneduntil": "2026/4/26",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "SCOOBY_JEW1940": {
+        "banneduntil": "2026/5/24",
+        "BanReason": "F-slur"
     }
 }
