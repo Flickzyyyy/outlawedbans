@@ -4030,5 +4030,9 @@
     "CRACKED_ARAB": {
         "banneduntil": "2026/4/28",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Raylan_thy_king": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
