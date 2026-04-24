@@ -4074,5 +4074,9 @@
     "Glass_Bass": {
         "banneduntil": "2026/4/30",
         "BanReason": "ERP"
+    },
+    "GoofyFlamingo7166": {
+        "banneduntil": "2026/4/25",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
