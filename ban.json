@@ -4034,5 +4034,9 @@
     "funnyman3534": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Stress.level.zero": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
