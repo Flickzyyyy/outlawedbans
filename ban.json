@@ -4062,5 +4062,9 @@
     "murphy.408260": {
         "banneduntil": "2026/4/26",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "LaBarkingSharks": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
