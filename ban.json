@@ -4046,5 +4046,9 @@
     "CARTOONZ0078989": {
         "banneduntil": "2026/5/2",
         "BanReason": "Camping"
+    },
+    "Rev_Mikey": {
+        "banneduntil": "2026/4/27",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
