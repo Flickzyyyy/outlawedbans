@@ -4038,5 +4038,9 @@
     "Stress.level.zero": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "cheeseman236": {
+        "banneduntil": "2026/5/25",
+        "BanReason": "F-slur"
     }
 }
