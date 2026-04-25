@@ -4014,5 +4014,9 @@
     "ChicenFatBoii": {
         "banneduntil": "2026/4/27",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "netgds23": {
+        "banneduntil": "2026/4/29",
+        "BanReason": "Manual"
     }
 }
