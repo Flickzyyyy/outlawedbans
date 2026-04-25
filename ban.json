@@ -4070,5 +4070,9 @@
     "Chopp.er": {
         "banneduntil": "2028/10/30",
         "BanReason": "Manual"
+    },
+    "lemonade_44": {
+        "banneduntil": "2026/4/26",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
