@@ -4050,5 +4050,9 @@
     "alex956_a": {
         "banneduntil": "2026/4/26",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "ak_diditt": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
