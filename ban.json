@@ -4114,5 +4114,9 @@
     "mooooooooooo000000000000000000": {
         "banneduntil": "2026/4/27",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "shroboat": {
+        "banneduntil": "2026/5/9",
+        "BanReason": "Mass RDM"
     }
 }
