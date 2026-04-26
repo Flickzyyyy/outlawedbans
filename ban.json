@@ -4090,5 +4090,9 @@
     "BlipBlopperson": {
         "banneduntil": "2026/4/28",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "sir.edge": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "FRP | Kick First"
     }
 }
