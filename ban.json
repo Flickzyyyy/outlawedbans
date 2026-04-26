@@ -4074,5 +4074,9 @@
     "N0R0X": {
         "banneduntil": "2026/4/27",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "DLPerk": {
+        "banneduntil": "2026/4/27",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
