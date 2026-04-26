@@ -4122,5 +4122,9 @@
     "purps1015": {
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Plasma69": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
