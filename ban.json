@@ -4114,5 +4114,9 @@
     "August12345678": {
         "banneduntil": "2026/4/28",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Bartoli7": {
+        "banneduntil": "2027/8/1",
+        "BanReason": "Manual"
     }
 }
