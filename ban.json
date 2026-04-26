@@ -4098,5 +4098,9 @@
     "fghtui": {
         "banneduntil": "2026/4/28",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "L8v1.G": {
+        "banneduntil": "2026/5/26",
+        "BanReason": "F-slur"
     }
 }
