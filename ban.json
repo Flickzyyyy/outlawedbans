@@ -4134,5 +4134,9 @@
     "M3NL0_23": {
         "banneduntil": "2026/4/28",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "hudson.109975": {
+        "banneduntil": "2026/4/29",
+        "BanReason": "Manual"
     }
 }
