@@ -4118,5 +4118,9 @@
     "shroboat": {
         "banneduntil": "2026/5/9",
         "BanReason": "Mass RDM"
+    },
+    "thatrandomwhiteguy": {
+        "banneduntil": "2026/4/27",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
