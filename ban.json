@@ -4094,5 +4094,9 @@
     "sir.edge": {
         "banneduntil": "2026/4/28",
         "BanReason": "FRP | Kick First"
+    },
+    "fghtui": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
