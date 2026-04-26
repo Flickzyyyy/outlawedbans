@@ -4058,5 +4058,9 @@
     "Omni_Sapien": {
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "THammer714": {
+        "banneduntil": "2026/4/28",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
