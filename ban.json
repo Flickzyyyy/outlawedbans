@@ -4066,5 +4066,9 @@
     "MobileOculus": {
         "banneduntil": "2026/4/28",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "RayWarde": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
     }
 }
