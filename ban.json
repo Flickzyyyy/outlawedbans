@@ -4142,5 +4142,9 @@
     "baby_trump45": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "GoBraves007": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
