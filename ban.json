@@ -4166,5 +4166,9 @@
     "The10GOAT": {
         "banneduntil": "2026/5/3",
         "BanReason": "ERP"
+    },
+    "TyueGamer": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
