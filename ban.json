@@ -4078,5 +4078,9 @@
     "timbletope": {
         "banneduntil": "2026/4/29",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Holosight1": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "ERP"
     }
 }
