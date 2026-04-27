@@ -4082,5 +4082,9 @@
     "Holosight1": {
         "banneduntil": "2026/5/4",
         "BanReason": "ERP"
+    },
+    "The.Ice.Truck.Killer.24": {
+        "banneduntil": "2026/4/29",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
