@@ -4042,5 +4042,9 @@
     "Brisco4k": {
         "banneduntil": "2026/5/12",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
+    },
+    "M3NL0_23": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
