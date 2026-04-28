@@ -4122,5 +4122,9 @@
     "cheespuffs": {
         "banneduntil": "2026/4/29",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "SharpWar": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "Manual"
     }
 }
