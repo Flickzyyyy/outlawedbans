@@ -4054,5 +4054,9 @@
     "OfficerMcJones": {
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "John.Raiden": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
