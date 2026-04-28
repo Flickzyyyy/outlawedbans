@@ -4110,5 +4110,9 @@
     "CoffeeC4": {
         "banneduntil": "2026/5/1",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "murphy.408260": {
+        "banneduntil": "2026/5/1",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
