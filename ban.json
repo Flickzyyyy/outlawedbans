@@ -4130,5 +4130,9 @@
     "Gegebeast": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Weston8182": {
+        "banneduntil": "2026/4/29",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
