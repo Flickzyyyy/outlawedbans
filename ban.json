@@ -4038,5 +4038,9 @@
     "Gegebeast": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Brisco4k": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
     }
 }
