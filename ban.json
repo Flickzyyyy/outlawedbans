@@ -4050,5 +4050,9 @@
     "whatisthat.0000": {
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "OfficerMcJones": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
