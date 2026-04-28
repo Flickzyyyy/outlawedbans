@@ -3707,10 +3707,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "HARD-R"
     },
-    "Flickzyyy_ ": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "Mass RDM + Evasion"
-    },
     "Typhoon27": {
         "banneduntil": "2026/5/12",
         "BanReason": "F slur evasion"
@@ -3815,10 +3811,6 @@
         "banneduntil": "2026/5/31",
         "BanReason": "F-slur"
     },
-    "Special_Op_gaming": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "Manual"
-    },
     "gongaHawking": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
@@ -3846,10 +3838,6 @@
     "ITZASTROID": {
         "banneduntil": "2099/1/1",
         "BanReason": "Sexual Harassment to Minor"
-    },
-    "test flickagooner": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "Mass RDM"
     },
     "Whyit1224": {
         "banneduntil": "2099/1/1",
@@ -3879,10 +3867,6 @@
         "banneduntil": "2026/5/24",
         "BanReason": "F-slur"
     },
-    "CRACKED_ARAB": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "DerekVinyard": {
         "banneduntil": "2026/5/4",
         "BanReason": "Manual"
@@ -3890,14 +3874,6 @@
     "inc0mu": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
-    },
-    "ak_diditt": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "LaBarkingSharks": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
     },
     "Chopp.er": {
         "banneduntil": "2028/10/30",
@@ -3943,57 +3919,13 @@
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
     },
-    "THammer714": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "MobileOculus": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "RayWarde": {
         "banneduntil": "2026/5/10",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
     },
-    "polish_cig": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "AwesomeMick19": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "Jabs121": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "BlipBlopperson": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "sir.edge": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "FRP | Kick First"
-    },
-    "fghtui": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "L8v1.G": {
         "banneduntil": "2026/5/26",
         "BanReason": "F-slur"
-    },
-    "danoman5453": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "Jakey_27": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "August12345678": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
     },
     "Bartoli7": {
         "banneduntil": "2027/8/1",
@@ -4001,18 +3933,6 @@
     },
     "purps1015": {
         "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "Plasma69": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "LandonSzyme": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "M3NL0_23": {
-        "banneduntil": "2026/4/28",
         "BanReason": "RDM/Cop Targeting"
     },
     "hudson.109975": {
@@ -4030,18 +3950,6 @@
     "zyrian45": {
         "banneduntil": "2026/5/3",
         "BanReason": "Mass RDM"
-    },
-    "ThatCoolGuy07": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "Cluxxy": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "auggie.sanchez7": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "RDM/Cop Targeting"
     },
     "The10GOAT": {
         "banneduntil": "2026/5/3",
@@ -4130,9 +4038,5 @@
     "Gegebeast": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
-    },
-    "Weston8182": {
-        "banneduntil": "2026/4/28",
-        "BanReason": "Manual"
     }
 }
