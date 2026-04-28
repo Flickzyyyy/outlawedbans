@@ -4126,5 +4126,9 @@
     "SharpWar": {
         "banneduntil": "2029/4/26",
         "BanReason": "Manual"
+    },
+    "Gegebeast": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
