@@ -4118,5 +4118,9 @@
     "Asura": {
         "banneduntil": "2026/5/1",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "cheespuffs": {
+        "banneduntil": "2026/4/29",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
