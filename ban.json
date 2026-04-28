@@ -4058,5 +4058,9 @@
     "John.Raiden": {
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "VRvillian00": {
+        "banneduntil": "2026/5/28",
+        "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
     }
 }
