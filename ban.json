@@ -4058,5 +4058,9 @@
     "aclapper79": {
         "banneduntil": "2026/5/1",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "AColonist": {
+        "banneduntil": "2026/5/1",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
