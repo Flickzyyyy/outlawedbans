@@ -4086,5 +4086,9 @@
     "rjcanzz": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Stabv5": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
