@@ -4090,5 +4090,9 @@
     "Mr_blueskeye": {
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "VeilMaster": {
+        "banneduntil": "2026/5/2",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
