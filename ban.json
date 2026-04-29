@@ -4094,5 +4094,9 @@
     "VeilMaster": {
         "banneduntil": "2026/5/2",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Cheerio911": {
+        "banneduntil": "2026/4/30",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
