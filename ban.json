@@ -4062,5 +4062,9 @@
     "AColonist": {
         "banneduntil": "2026/5/1",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2026/5/3",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
