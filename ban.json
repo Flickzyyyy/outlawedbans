@@ -4082,5 +4082,9 @@
     "Sparetime59": {
         "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "rjcanzz": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
