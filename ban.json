@@ -4078,5 +4078,9 @@
     "Kilerpiickle": {
         "banneduntil": "2026/5/1",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Zachtually": {
+        "banneduntil": "2026/5/29",
+        "BanReason": "Manual"
     }
 }
