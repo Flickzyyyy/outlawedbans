@@ -4090,5 +4090,9 @@
     "ytAustin": {
         "banneduntil": "2026/5/1",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "deadtrigger399": {
+        "banneduntil": "2026/5/6",
+        "BanReason": "Mass RDM"
     }
 }
