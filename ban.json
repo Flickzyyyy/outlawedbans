@@ -4070,5 +4070,9 @@
     "trueyjeans": {
         "banneduntil": "2026/5/2",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Rev_Mikey": {
+        "banneduntil": "2026/5/2",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
