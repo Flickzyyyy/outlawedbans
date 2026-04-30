@@ -4082,5 +4082,9 @@
     "Zachtually": {
         "banneduntil": "2026/5/29",
         "BanReason": "Manual"
+    },
+    "Hellobrother51": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
