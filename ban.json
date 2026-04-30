@@ -4066,5 +4066,9 @@
     "Patty_cake41812": {
         "banneduntil": "2026/5/7",
         "BanReason": "ERP"
+    },
+    "trueyjeans": {
+        "banneduntil": "2026/5/2",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
