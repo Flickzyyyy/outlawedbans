@@ -3639,10 +3639,6 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard R"
     },
-    "Lucster123": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "sexual harassment (evasion)"
-    },
     "camotheog2": {
         "banneduntil": "2026/5/9",
         "BanReason": "F slur"
@@ -3746,10 +3742,6 @@
     "FB.BANANAMAN2296 ": {
         "banneduntil": "2027/1/1",
         "BanReason": "Underage(12)"
-    },
-    "GOLDENMONKEE ": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "Soft -A"
     },
     "JuniorE3": {
         "banneduntil": "2099/1/1",
@@ -3855,10 +3847,6 @@
         "banneduntil": "2026/5/23",
         "BanReason": "F-slur"
     },
-    "Glass_Bass": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "ERP"
-    },
     "SCOOBY_JEW1940": {
         "banneduntil": "2026/5/24",
         "BanReason": "F-slur"
@@ -3903,10 +3891,6 @@
         "banneduntil": "2026/5/9",
         "BanReason": "Mass RDM"
     },
-    "Omni_Sapien": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "RayWarde": {
         "banneduntil": "2026/5/10",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
@@ -3919,17 +3903,9 @@
         "banneduntil": "2027/8/1",
         "BanReason": "Manual"
     },
-    "purps1015": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "baby_trump45": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
-    },
-    "GoBraves007": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
     },
     "zyrian45": {
         "banneduntil": "2026/5/3",
@@ -3938,10 +3914,6 @@
     "The10GOAT": {
         "banneduntil": "2026/5/3",
         "BanReason": "ERP"
-    },
-    "TyueGamer": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
     },
     "Colester1047": {
         "banneduntil": "2026/5/26",
@@ -3991,60 +3963,24 @@
         "banneduntil": "2026/5/12",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
     },
-    "whatisthat.0000": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "John.Raiden": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "VRvillian00": {
         "banneduntil": "2026/5/28",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
-    },
-    "fgr21332": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
     },
     "CurlyDom404": {
         "banneduntil": "2026/5/19",
         "BanReason": "Sexual Harassment | Kick First"
     },
-    "Weston8182": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "MrNobody188": {
         "banneduntil": "2026/5/28",
         "BanReason": "Manual"
-    },
-    "Austyman1123": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "Sparetime59": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
     },
     "rjcanzz": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
     },
-    "Stabv5": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "Mr_blueskeye": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "RDM/Cop Targeting"
-    },
     "VeilMaster": {
         "banneduntil": "2026/5/2",
-        "BanReason": "RDM/Cop Targeting"
-    },
-    "Cheerio911": {
-        "banneduntil": "2026/4/30",
         "BanReason": "RDM/Cop Targeting"
     },
     "justin827898": {
@@ -4094,9 +4030,5 @@
     "Jadielleft": {
         "banneduntil": "2026/5/3",
         "BanReason": "RDM/Cop Targeting"
-    },
-    "Bigslapnuts88": {
-        "banneduntil": "2026/4/30",
-        "BanReason": "FRP | Kick First"
     }
 }
