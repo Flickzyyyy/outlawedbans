@@ -4034,5 +4034,9 @@
     "Giorgi500": {
         "banneduntil": "2026/5/2",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "JacobHappyman": {
+        "banneduntil": "2026/5/3",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
