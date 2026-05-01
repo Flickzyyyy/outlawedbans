@@ -4038,5 +4038,9 @@
     "M3NL0_23": {
         "banneduntil": "2026/5/5",
         "BanReason": "Manual"
+    },
+    "Cartier763": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
