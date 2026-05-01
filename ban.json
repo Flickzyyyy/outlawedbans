@@ -4070,5 +4070,9 @@
     "1O0": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "pekegorrin": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
