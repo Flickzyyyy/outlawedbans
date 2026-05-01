@@ -4042,5 +4042,9 @@
     "Cartier763": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Cartier762": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
