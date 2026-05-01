@@ -4038,5 +4038,9 @@
     "JacobHappyman": {
         "banneduntil": "2026/5/3",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "M3NL0_23": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "Manual"
     }
 }
