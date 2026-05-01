@@ -4048,10 +4048,14 @@
         "BanReason": "Hard-R"
     },
     "greysolllnnn.2026": {
-        "banneduntil": "2099/1/1",
-        "BanReason": "Alting | Permanent alt ban, then double the main account ban."
+        "banneduntil": "2026/5/3",
+        "BanReason": "RDM/Cop Targeting"
     },
     "Aubrey_girl": {
+        "banneduntil": "2026/5/3",
+        "BanReason": "RDM/Cop Targeting"
+    },
+    "AwesomeMick19": {
         "banneduntil": "2026/5/3",
         "BanReason": "RDM/Cop Targeting"
     }
