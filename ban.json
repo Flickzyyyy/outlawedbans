@@ -4066,5 +4066,9 @@
     "corp.GhostGunner1125": {
         "banneduntil": "2026/5/3",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "1O0": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
