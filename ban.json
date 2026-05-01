@@ -4046,5 +4046,9 @@
     "Cartier762": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "greysolllnnn.2026": {
+        "banneduntil": "2026/5/3",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
