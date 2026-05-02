@@ -4082,5 +4082,9 @@
     "Ronin5245": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "neuroticism": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
