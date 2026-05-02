@@ -4082,5 +4082,9 @@
     "PricklyFalcon4263": {
         "banneduntil": "2026/5/4",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "NeygarCena": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
