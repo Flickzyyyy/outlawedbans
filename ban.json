@@ -4090,5 +4090,9 @@
     "Thorben16": {
         "banneduntil": "2026/5/16",
         "BanReason": "Mass RDM"
+    },
+    "ExpiredCheese67": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
