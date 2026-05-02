@@ -4086,5 +4086,9 @@
     "neuroticism": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "ilkefood": {
+        "banneduntil": "2028/4/30",
+        "BanReason": "Manual"
     }
 }
