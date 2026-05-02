@@ -4102,5 +4102,9 @@
     "Lemonade_44": {
         "banneduntil": "2026/5/4",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Remywater": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
