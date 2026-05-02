@@ -4094,5 +4094,9 @@
     "ExpiredCheese67": {
         "banneduntil": "2026/5/4",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Sare0307": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
