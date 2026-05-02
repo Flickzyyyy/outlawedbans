@@ -4070,5 +4070,9 @@
     "Jimbobolee": {
         "banneduntil": "2026/5/4",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "bacon-time": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
