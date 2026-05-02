@@ -4090,5 +4090,9 @@
     "ilkefood": {
         "banneduntil": "2028/4/30",
         "BanReason": "Manual"
+    },
+    "Sodapan54": {
+        "banneduntil": "2026/5/3",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
