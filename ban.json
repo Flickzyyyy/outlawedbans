@@ -4098,5 +4098,9 @@
     "ytAustin": {
         "banneduntil": "2026/5/3",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "netgds23": {
+        "banneduntil": "2026/5/3",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
