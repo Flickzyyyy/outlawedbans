@@ -4078,5 +4078,9 @@
     "zazaman206": {
         "banneduntil": "2026/5/9",
         "BanReason": "ERP"
+    },
+    "PricklyFalcon4263": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
