@@ -4110,5 +4110,9 @@
     "JCSmith102": {
         "banneduntil": "2026/5/4",
         "BanReason": "Manual"
+    },
+    "baylin2010": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "ERP"
     }
 }
