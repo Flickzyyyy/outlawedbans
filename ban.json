@@ -4138,5 +4138,9 @@
     "MasterCoye": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "puckfuppet": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "Mass RDM"
     }
 }
