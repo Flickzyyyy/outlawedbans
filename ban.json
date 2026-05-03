@@ -4134,5 +4134,9 @@
     "CSA.THE.SCYTHE": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "MasterCoye": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
