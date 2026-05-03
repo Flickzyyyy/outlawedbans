@@ -4106,5 +4106,9 @@
     "DontFuccnKnowMe": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "JCSmith102": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "Manual"
     }
 }
