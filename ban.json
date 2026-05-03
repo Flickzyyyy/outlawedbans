@@ -4154,5 +4154,9 @@
     "burstdabitty": {
         "banneduntil": "2026/5/10",
         "BanReason": "ERP"
+    },
+    "nuggetwisdom.2022": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
