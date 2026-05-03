@@ -4138,5 +4138,9 @@
     "V1ltrum1te_MARK": {
         "banneduntil": "2026/5/4",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "johnporkston": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "Manual"
     }
 }
