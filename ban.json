@@ -4118,5 +4118,9 @@
     "Izonic1254": {
         "banneduntil": "2026/5/10",
         "BanReason": "ERP"
+    },
+    "Krashman365": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
