@@ -4146,5 +4146,9 @@
     "RyzanLLC": {
         "banneduntil": "2026/6/14",
         "BanReason": "F-slur"
+    },
+    "BIBBOY": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
