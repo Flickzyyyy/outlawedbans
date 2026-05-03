@@ -4114,5 +4114,9 @@
     "baylin2010": {
         "banneduntil": "2026/5/10",
         "BanReason": "ERP"
+    },
+    "Izonic1254": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "ERP"
     }
 }
