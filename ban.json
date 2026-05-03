@@ -4142,5 +4142,9 @@
     "Fuhboi5.0": {
         "banneduntil": "2026/5/10",
         "BanReason": "Mass RDM"
+    },
+    "RyzanLLC": {
+        "banneduntil": "2026/6/14",
+        "BanReason": "F-slur"
     }
 }
