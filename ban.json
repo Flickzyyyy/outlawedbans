@@ -4134,5 +4134,9 @@
     "murphy.408260": {
         "banneduntil": "2026/6/1",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
+    },
+    "V1ltrum1te_MARK": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
