@@ -4142,5 +4142,9 @@
     "johnporkston": {
         "banneduntil": "2026/5/5",
         "BanReason": "Manual"
+    },
+    "unavailable3237": {
+        "banneduntil": "2026/5/4",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
