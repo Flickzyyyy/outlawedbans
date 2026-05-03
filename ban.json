@@ -4150,5 +4150,9 @@
     "BIBBOY": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "burstdabitty": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "ERP"
     }
 }
