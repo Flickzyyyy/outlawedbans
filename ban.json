@@ -4139,7 +4139,11 @@
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
     },
-    "komodo.well": {
+    "puckfuppet": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "Mass RDM"
+    },
+    "Fuhboi5.0": {
         "banneduntil": "2026/5/10",
         "BanReason": "Mass RDM"
     }
