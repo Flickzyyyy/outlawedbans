@@ -4130,5 +4130,9 @@
     "DeltaForce9": {
         "banneduntil": "2026/5/10",
         "BanReason": "ERP"
+    },
+    "CSA.THE.SCYTHE": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
