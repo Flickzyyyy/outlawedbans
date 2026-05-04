@@ -4226,5 +4226,9 @@
     "milkmyyitsdaddy has": {
         "banneduntil": "2034/5/30",
         "BanReason": "Manual"
+    },
+    "milkmyyitsdaddy": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "ERP"
     }
 }
