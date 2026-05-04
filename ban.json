@@ -4178,5 +4178,9 @@
     "oakleyplays2": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "MMrwhaleE": {
+        "banneduntil": "2026/5/7",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
