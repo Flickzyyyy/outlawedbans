@@ -4206,5 +4206,9 @@
     "HEAVY__GUNNER": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "ytAustin": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
