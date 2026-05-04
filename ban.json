@@ -4178,5 +4178,9 @@
     "sir.edge": {
         "banneduntil": "2026/5/8",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "IRA__Noob__Master": {
+        "banneduntil": "2026/5/18",
+        "BanReason": "ERP"
     }
 }
