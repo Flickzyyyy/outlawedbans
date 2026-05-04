@@ -4182,5 +4182,9 @@
     "IRA__Noob__Master": {
         "banneduntil": "2026/5/18",
         "BanReason": "ERP"
+    },
+    "fgr21332": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
