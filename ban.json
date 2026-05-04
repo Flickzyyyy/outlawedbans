@@ -4166,5 +4166,9 @@
     "lowestspissxxx2431": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Sharpshootingkid": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
