@@ -4190,5 +4190,9 @@
     "youngblud_on3": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "justbirdbird": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
