@@ -4202,5 +4202,9 @@
     "OTTER1124": {
         "banneduntil": "2026/5/5",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "HEAVY__GUNNER": {
+        "banneduntil": "2026/5/5",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
