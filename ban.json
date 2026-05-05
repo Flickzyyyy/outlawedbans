@@ -4178,5 +4178,9 @@
     "Apollo11_22": {
         "banneduntil": "2026/5/7",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "tung.tung.tung.tung.sahur": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
