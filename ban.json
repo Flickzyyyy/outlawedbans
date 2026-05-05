@@ -4146,5 +4146,9 @@
     "Petplush93": {
         "banneduntil": "2026/5/7",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "timbletope": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "ERP"
     }
 }
