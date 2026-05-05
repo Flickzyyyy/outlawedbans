@@ -4150,5 +4150,9 @@
     "timbletope": {
         "banneduntil": "2026/5/12",
         "BanReason": "ERP"
+    },
+    "jimmyhitx.2022": {
+        "banneduntil": "2026/5/7",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
