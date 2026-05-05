@@ -4214,5 +4214,9 @@
     "rt1.2022": {
         "banneduntil": "2026/5/6",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "shtankydoodoo": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
