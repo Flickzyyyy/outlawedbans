@@ -4202,5 +4202,9 @@
     "niger.3": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Jadielleft": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
