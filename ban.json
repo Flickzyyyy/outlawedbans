@@ -4206,5 +4206,9 @@
     "Jadielleft": {
         "banneduntil": "2026/5/8",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "rtl.2022": {
+        "banneduntil": "2026/5/6",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
