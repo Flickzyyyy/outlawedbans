@@ -4138,5 +4138,9 @@
     "Asn_8ntmtr": {
         "banneduntil": "2026/5/19",
         "BanReason": "ERP"
+    },
+    "Ash_8ntmtr": {
+        "banneduntil": "2026/5/19",
+        "BanReason": "ERP"
     }
 }
