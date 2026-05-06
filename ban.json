@@ -4226,5 +4226,9 @@
     "Lemonade_44": {
         "banneduntil": "2026/5/13",
         "BanReason": "Manual"
+    },
+    "Ghost_343": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
