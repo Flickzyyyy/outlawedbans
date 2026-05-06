@@ -4170,5 +4170,9 @@
     "komodo.well": {
         "banneduntil": "2026/5/8",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "nobodyv.2025": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
