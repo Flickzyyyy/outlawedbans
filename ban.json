@@ -4234,5 +4234,9 @@
     "farid.zeynalov.822": {
         "banneduntil": "2026/5/8",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "uncle_bob.1": {
+        "banneduntil": "2026/5/9",
+        "BanReason": "Manual"
     }
 }
