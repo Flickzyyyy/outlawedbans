@@ -4198,5 +4198,9 @@
     "ExpiredCheese67": {
         "banneduntil": "2026/6/5",
         "BanReason": "Soft-A/Racial Remarks | Kick First | Only if said casually"
+    },
+    "Ford_Real": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
