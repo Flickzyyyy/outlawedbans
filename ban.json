@@ -4214,5 +4214,9 @@
     "Shaggy_Fox": {
         "banneduntil": "2026/5/8",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "V1ltrum1te_MARK": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
