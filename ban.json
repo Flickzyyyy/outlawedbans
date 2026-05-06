@@ -4166,5 +4166,9 @@
     "nino.carrots": {
         "banneduntil": "2026/5/7",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "komodo.well": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
