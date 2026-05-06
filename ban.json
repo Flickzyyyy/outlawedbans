@@ -4206,5 +4206,9 @@
     "CO2CarbonDioxide": {
         "banneduntil": "2026/5/8",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Sammy1745": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "FRP | Kick First"
     }
 }
