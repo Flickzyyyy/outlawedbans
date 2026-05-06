@@ -4182,5 +4182,9 @@
     "terror.tek.1": {
         "banneduntil": "2026/5/13",
         "BanReason": "ERP"
+    },
+    "Teddy3799": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
