@@ -4206,5 +4206,9 @@
     "EIGATOGRANDE12": {
         "banneduntil": "2026/5/7",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "nino.carrots": {
+        "banneduntil": "2026/5/7",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
