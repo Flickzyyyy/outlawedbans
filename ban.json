@@ -4194,5 +4194,9 @@
     "fghtui": {
         "banneduntil": "2026/5/7",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "TAMMY.TICKLEDIH": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "Camping"
     }
 }
