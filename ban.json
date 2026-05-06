@@ -4238,5 +4238,9 @@
     "uncle_bob.1": {
         "banneduntil": "2026/5/9",
         "BanReason": "Manual"
+    },
+    "netgds23": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
