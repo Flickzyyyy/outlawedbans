@@ -4250,5 +4250,9 @@
     "justchillmyguy": {
         "banneduntil": "2026/5/10",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "CHEESE_LIFE": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
