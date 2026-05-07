@@ -4262,5 +4262,9 @@
     "counterfeit97": {
         "banneduntil": "2026/5/13",
         "BanReason": "ERP"
+    },
+    "wickedfeather22": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
