@@ -4258,5 +4258,9 @@
     "christin.curry.2025": {
         "banneduntil": "2027/5/6",
         "BanReason": "Manual"
+    },
+    "counterfeit97": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "ERP"
     }
 }
