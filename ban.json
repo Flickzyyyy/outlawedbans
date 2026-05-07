@@ -4250,5 +4250,9 @@
     "bobwidabluntz": {
         "banneduntil": "2026/5/9",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "chillwithZ33": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
