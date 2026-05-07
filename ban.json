@@ -4254,5 +4254,9 @@
     "CHEESE_LIFE": {
         "banneduntil": "2026/5/10",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "christin.curry.2025": {
+        "banneduntil": "2027/5/6",
+        "BanReason": "Manual"
     }
 }
