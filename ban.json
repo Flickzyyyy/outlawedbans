@@ -4218,5 +4218,9 @@
     "sir.edge": {
         "banneduntil": "2026/6/7",
         "BanReason": "F-slur"
+    },
+    "josh.249914": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "FRP | Kick First"
     }
 }
