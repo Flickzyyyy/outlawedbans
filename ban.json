@@ -4274,5 +4274,9 @@
     "John.Raiden": {
         "banneduntil": "2026/5/14",
         "BanReason": "ERP"
+    },
+    "Zachtually": {
+        "banneduntil": "2026/5/8",
+        "BanReason": "Manual"
     }
 }
