@@ -4270,5 +4270,9 @@
     "aclapper79": {
         "banneduntil": "2026/5/9",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "John.Raiden": {
+        "banneduntil": "2026/5/14",
+        "BanReason": "ERP"
     }
 }
