@@ -4234,5 +4234,9 @@
     "Cursingsmile148": {
         "banneduntil": "2026/5/15",
         "BanReason": "ERP"
+    },
+    "ytAustin": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
