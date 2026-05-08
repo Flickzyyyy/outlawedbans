@@ -4214,5 +4214,9 @@
     "9ein2u": {
         "banneduntil": "2026/5/10",
         "BanReason": "FRP | Kick First"
+    },
+    "sir.edge": {
+        "banneduntil": "2026/6/7",
+        "BanReason": "F-slur"
     }
 }
