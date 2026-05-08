@@ -4266,5 +4266,9 @@
     "VIKTOR_REZNOV_BO1": {
         "banneduntil": "2026/5/9",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "aclapper79": {
+        "banneduntil": "2026/5/9",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
