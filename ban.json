@@ -4210,5 +4210,9 @@
     "M3NL0_23": {
         "banneduntil": "2026/5/10",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "9ein2u": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "FRP | Kick First"
     }
 }
