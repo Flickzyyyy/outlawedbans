@@ -4226,5 +4226,9 @@
     "Eno36": {
         "banneduntil": "2026/5/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Emooo36": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Alting | Permanent alt ban, then double the main account ban."
     }
 }
