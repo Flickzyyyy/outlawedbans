@@ -4254,5 +4254,9 @@
     "M3NL0_23": {
         "banneduntil": "2026/5/10",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "ElOSO.559": {
+        "banneduntil": "2028/5/7",
+        "BanReason": "Manual"
     }
 }
