@@ -4238,5 +4238,9 @@
     "IRA__Noob": {
         "banneduntil": "2026/5/10",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "BadGuyHayes": {
+        "banneduntil": "2026/5/10",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
