@@ -4246,5 +4246,9 @@
     "blacklung23": {
         "banneduntil": "2026/5/10",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Whyclowns": {
+        "banneduntil": "2026/5/15",
+        "BanReason": "Mass RDM"
     }
 }
