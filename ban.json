@@ -4226,5 +4226,9 @@
     "Crumpy56": {
         "banneduntil": "2026/5/11",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Deathbanana2009": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
