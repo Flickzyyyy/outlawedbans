@@ -4222,5 +4222,9 @@
     "IRA__NOOB": {
         "banneduntil": "2026/5/13",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Crumpy56": {
+        "banneduntil": "2026/5/11",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
