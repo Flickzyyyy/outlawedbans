@@ -4202,5 +4202,9 @@
     "ElOSO.559": {
         "banneduntil": "2028/5/7",
         "BanReason": "Manual"
+    },
+    "notltsk8": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
