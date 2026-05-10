@@ -4258,5 +4258,9 @@
     "smdeac": {
         "banneduntil": "2026/5/17",
         "BanReason": "Mass RDM"
+    },
+    "Apollo11_22": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
