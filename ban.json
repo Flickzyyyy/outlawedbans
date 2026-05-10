@@ -4186,5 +4186,9 @@
     "M3NL0_23": {
         "banneduntil": "2026/6/9",
         "BanReason": "F-slur"
+    },
+    "Zachtually": {
+        "banneduntil": "2026/5/15",
+        "BanReason": "Manual"
     }
 }
