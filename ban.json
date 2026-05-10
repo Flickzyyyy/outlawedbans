@@ -4210,5 +4210,9 @@
     "certifiedOrange": {
         "banneduntil": "2026/5/17",
         "BanReason": "ERP"
+    },
+    "TechSupport1": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
