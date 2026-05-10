@@ -4250,5 +4250,9 @@
     "coolniceguy": {
         "banneduntil": "2026/5/14",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Turtle_07": {
+        "banneduntil": "2026/5/14",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
