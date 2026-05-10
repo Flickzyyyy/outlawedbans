@@ -4262,5 +4262,9 @@
     "Apollo11_22": {
         "banneduntil": "2026/5/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "brisco4c": {
+        "banneduntil": "2026/5/24",
+        "BanReason": "Generic Homophobia | Kick First"
     }
 }
