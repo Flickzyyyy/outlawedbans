@@ -4214,5 +4214,9 @@
     "TechSupport1": {
         "banneduntil": "2026/5/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Foidraper69": {
+        "banneduntil": "2053/9/24",
+        "BanReason": "Manual"
     }
 }
