@@ -4250,5 +4250,9 @@
     "Saint180": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "TheBoys0915Rrr": {
+        "banneduntil": "2028/5/8",
+        "BanReason": "Manual"
     }
 }
