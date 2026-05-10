@@ -4246,5 +4246,9 @@
     "YABOIP2": {
         "banneduntil": "2026/5/14",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "coolniceguy": {
+        "banneduntil": "2026/5/14",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
