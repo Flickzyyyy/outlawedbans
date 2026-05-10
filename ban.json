@@ -4206,5 +4206,9 @@
     "SlicTy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "certifiedOrange": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "ERP"
     }
 }
