@@ -4254,5 +4254,9 @@
     "Turtle_07": {
         "banneduntil": "2026/5/24",
         "BanReason": "Camping"
+    },
+    "smdeac": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "Mass RDM"
     }
 }
