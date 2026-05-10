@@ -4242,5 +4242,9 @@
     "DelayedHarpy": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "YABOIP2": {
+        "banneduntil": "2026/5/14",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
