@@ -4226,5 +4226,9 @@
     "9ein2u": {
         "banneduntil": "2026/5/24",
         "BanReason": "Camping"
+    },
+    "CHEESE_LIFE": {
+        "banneduntil": "2026/5/14",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
