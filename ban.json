@@ -4250,5 +4250,9 @@
     "RaMessu_2": {
         "banneduntil": "2026/5/11",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Saint180": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
