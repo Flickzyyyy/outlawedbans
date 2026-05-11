@@ -4270,5 +4270,9 @@
     "wickedfeather22": {
         "banneduntil": "2026/5/25",
         "BanReason": "Mass RDM"
+    },
+    "NeonGen9140": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
