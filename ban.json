@@ -4290,5 +4290,9 @@
     "corp.GhostGunner1125": {
         "banneduntil": "2026/5/13",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Colm_O_Driscoll": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
