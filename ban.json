@@ -4274,5 +4274,9 @@
     "jimmy.atz": {
         "banneduntil": "2026/5/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Fortune.lul": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "Mass RDM"
     }
 }
