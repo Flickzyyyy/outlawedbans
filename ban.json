@@ -4266,5 +4266,9 @@
     "SpongeBob_liker": {
         "banneduntil": "2026/5/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "wickedfeather22": {
+        "banneduntil": "2026/5/25",
+        "BanReason": "Mass RDM"
     }
 }
