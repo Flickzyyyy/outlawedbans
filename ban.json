@@ -4282,5 +4282,9 @@
     "PricklyGoose5447": {
         "banneduntil": "2026/5/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "EzioAudltore": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "Manual"
     }
 }
