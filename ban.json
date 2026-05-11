@@ -4278,5 +4278,9 @@
     "toxiccwasste": {
         "banneduntil": "2026/5/13",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "hottdogger11915": {
+        "banneduntil": "2028/5/10",
+        "BanReason": "Manual"
     }
 }
