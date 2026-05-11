@@ -4278,5 +4278,9 @@
     "Fortune.lul": {
         "banneduntil": "2026/5/17",
         "BanReason": "Mass RDM"
+    },
+    "PricklyGoose5447": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
