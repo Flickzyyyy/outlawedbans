@@ -4274,5 +4274,9 @@
     "AaronGstar": {
         "banneduntil": "2028/5/10",
         "BanReason": "Manual"
+    },
+    "toxiccwasste": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
