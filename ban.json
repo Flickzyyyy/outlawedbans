@@ -4298,5 +4298,9 @@
     "nobodyv.2025": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Jimbobolee": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
