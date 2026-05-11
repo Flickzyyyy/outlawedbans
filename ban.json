@@ -4270,5 +4270,9 @@
     "NeonGen9140": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "AaronGstar": {
+        "banneduntil": "2028/5/10",
+        "BanReason": "Manual"
     }
 }
