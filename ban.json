@@ -4318,5 +4318,9 @@
     "Jabs121": {
         "banneduntil": "2026/5/12",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "ChildPorn.Seller": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Rape or Pedophilia Scenes"
     }
 }
