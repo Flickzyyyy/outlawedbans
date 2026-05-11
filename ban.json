@@ -4290,5 +4290,9 @@
     "Huck.newman11": {
         "banneduntil": "2026/5/17",
         "BanReason": "Mass RDM"
+    },
+    "bobyRee": {
+        "banneduntil": "2026/5/12",
+        "BanReason": "FRP | Kick First"
     }
 }
