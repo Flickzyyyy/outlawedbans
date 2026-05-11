@@ -4302,5 +4302,9 @@
     "belso": {
         "banneduntil": "2026/5/14",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "AceJace117": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
