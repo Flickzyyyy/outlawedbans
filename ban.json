@@ -4286,5 +4286,9 @@
     "Ms.Geisha": {
         "banneduntil": "2026/5/18",
         "BanReason": "Mass RDM"
+    },
+    "corp.GhostGunner1125": {
+        "banneduntil": "2026/5/13",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
