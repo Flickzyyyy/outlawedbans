@@ -4290,5 +4290,9 @@
     "netsgd23": {
         "banneduntil": "2026/5/20",
         "BanReason": "Manual"
+    },
+    "TheRoyalKnight": {
+        "banneduntil": "2026/5/19",
+        "BanReason": "Camping"
     }
 }
