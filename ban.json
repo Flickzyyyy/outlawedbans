@@ -4278,5 +4278,9 @@
     "mrcarman12": {
         "banneduntil": "2026/5/15",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Jitzcat7": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
