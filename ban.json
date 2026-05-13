@@ -4262,5 +4262,9 @@
     "Jesuslovesyoutwin": {
         "banneduntil": "2026/5/16",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "tacticaltoilet32": {
+        "banneduntil": "2026/5/15",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
