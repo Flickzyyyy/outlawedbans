@@ -4266,5 +4266,9 @@
     "tacticaltoilet32": {
         "banneduntil": "2026/5/15",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "aclapper79": {
+        "banneduntil": "2026/5/15",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
