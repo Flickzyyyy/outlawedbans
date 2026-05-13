@@ -4330,5 +4330,9 @@
     "komodo.well": {
         "banneduntil": "2026/5/14",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Bandboo2008": {
+        "banneduntil": "2026/5/14",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
