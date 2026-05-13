@@ -4302,5 +4302,9 @@
     "jayyzox": {
         "banneduntil": "2026/5/14",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "RotundToenail": {
+        "banneduntil": "2026/5/19",
+        "BanReason": "Mass RDM"
     }
 }
