@@ -4282,5 +4282,9 @@
     "Jitzcat7": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "KeenPompano": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
