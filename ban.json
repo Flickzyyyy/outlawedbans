@@ -4286,5 +4286,9 @@
     "KeenPompano": {
         "banneduntil": "2026/5/17",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Keenpompano": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
