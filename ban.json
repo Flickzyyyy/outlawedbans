@@ -4294,5 +4294,9 @@
     "iloverocky33I": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting | Permanent alt ban, then double the main account ban."
+    },
+    "roadwarriorORIG": {
+        "banneduntil": "2026/5/15",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
