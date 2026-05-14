@@ -4258,5 +4258,9 @@
     "Tear.Gas": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "ChickenMagnet": {
+        "banneduntil": "2026/5/28",
+        "BanReason": "ERP"
     }
 }
