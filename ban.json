@@ -4262,5 +4262,9 @@
     "ChickenMagnet": {
         "banneduntil": "2026/5/28",
         "BanReason": "ERP"
+    },
+    "ilovelawmen": {
+        "banneduntil": "2026/5/16",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
