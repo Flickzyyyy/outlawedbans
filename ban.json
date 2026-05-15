@@ -4242,5 +4242,9 @@
     "SpongeBob_liker": {
         "banneduntil": "2026/5/17",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "odo_610": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "Manual"
     }
 }
