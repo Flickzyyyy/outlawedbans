@@ -4266,5 +4266,9 @@
     "SpikyAlpaca8233": {
         "banneduntil": "2029/5/14",
         "BanReason": "Manual"
+    },
+    "Killtotemlov": {
+        "banneduntil": "2026/5/18",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
