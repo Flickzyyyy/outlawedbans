@@ -4270,5 +4270,9 @@
     "GeneralGamingVR": {
         "banneduntil": "2026/6/14",
         "BanReason": "F-slur"
+    },
+    "Machii007": {
+        "banneduntil": "2026/5/17",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
