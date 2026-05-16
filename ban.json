@@ -4266,5 +4266,9 @@
     "TheKid1850": {
         "banneduntil": "2099/1/1",
         "BanReason": "Alting | Permanent alt ban, then double the main account ban."
+    },
+    "GeneralGamingVR": {
+        "banneduntil": "2026/6/14",
+        "BanReason": "F-slur"
     }
 }
