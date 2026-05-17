@@ -4230,5 +4230,9 @@
     "Worcestershire_sauce2214": {
         "banneduntil": "2026/5/18",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "rob.31743": {
+        "banneduntil": "2026/5/19",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
