@@ -4262,5 +4262,9 @@
     "Weston8182": {
         "banneduntil": "2026/5/19",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "G00BER420": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
