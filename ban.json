@@ -4266,5 +4266,9 @@
     "G00BER420": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Fatbluntss": {
+        "banneduntil": "2026/5/20",
+        "BanReason": "Manual"
     }
 }
