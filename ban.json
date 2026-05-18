@@ -4258,5 +4258,9 @@
     "emitnuggets": {
         "banneduntil": "2026/5/20",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "aclapper79": {
+        "banneduntil": "2026/5/20",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
