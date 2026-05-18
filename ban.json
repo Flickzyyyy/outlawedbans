@@ -4250,5 +4250,9 @@
     "Hitmonky269": {
         "banneduntil": "2026/5/19",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Doom5000": {
+        "banneduntil": "2029/1/1",
+        "BanReason": "Manual"
     }
 }
