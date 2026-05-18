@@ -4254,5 +4254,9 @@
     "Doom5000": {
         "banneduntil": "2029/1/1",
         "BanReason": "Manual"
+    },
+    "BoomBapGod": {
+        "banneduntil": "2026/5/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
