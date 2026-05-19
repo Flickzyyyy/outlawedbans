@@ -4234,5 +4234,9 @@
     "D.Brochacho4761": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "DerekVinyard": {
+        "banneduntil": "2026/6/9",
+        "BanReason": "Manual"
     }
 }
