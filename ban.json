@@ -4266,5 +4266,9 @@
     "123suckp": {
         "banneduntil": "2026/6/29",
         "BanReason": "F-slur"
+    },
+    "DR_DlH": {
+        "banneduntil": "2026/5/22",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
