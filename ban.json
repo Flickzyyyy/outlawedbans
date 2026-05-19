@@ -4238,5 +4238,9 @@
     "DerekVinyard": {
         "banneduntil": "2026/6/9",
         "BanReason": "Manual"
+    },
+    "johnporkston": {
+        "banneduntil": "2026/5/21",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
