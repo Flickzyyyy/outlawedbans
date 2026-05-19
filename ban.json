@@ -4274,5 +4274,9 @@
     "Jackplay123": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "FernandoLegend": {
+        "banneduntil": "2026/6/17",
+        "BanReason": "F-slur"
     }
 }
