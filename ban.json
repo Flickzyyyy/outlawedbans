@@ -4282,5 +4282,9 @@
     "CrimsonSalmon5119": {
         "banneduntil": "2026/5/20",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "cold_hard_chaching": {
+        "banneduntil": "2026/5/22",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
