@@ -4270,5 +4270,9 @@
     "DR_DlH": {
         "banneduntil": "2026/5/22",
         "BanReason": "RDM/Cop Targeting"
+    },
+    "Jackplay123": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
