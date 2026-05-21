@@ -4218,5 +4218,9 @@
     "mrguy12346": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Apollo11_22": {
+        "banneduntil": "2026/5/22",
+        "BanReason": "RDM/Cop Targeting"
     }
 }
