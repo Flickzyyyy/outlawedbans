@@ -4130,5 +4130,9 @@
     "WitherstormXL": {
         "banneduntil": "2108/7/15",
         "BanReason": "Manual"
+    },
+    "impaps": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Hard-R"
     }
 }
