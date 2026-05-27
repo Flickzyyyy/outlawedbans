@@ -4134,5 +4134,9 @@
     "impaps": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Goldflamingo2661": {
+        "banneduntil": "2026/8/2",
+        "BanReason": "Manual"
     }
 }
