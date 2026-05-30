@@ -4122,5 +4122,9 @@
     "Wafflezaregud": {
         "banneduntil": "2099/1/1",
         "BanReason": "Hard-R"
+    },
+    "Rev_Mikey": {
+        "banneduntil": "2026/6/12",
+        "BanReason": "Mass RDM"
     }
 }
